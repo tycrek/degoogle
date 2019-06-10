@@ -70,16 +70,18 @@ These Firefox extensions can help prevent connections to Google domains and also
 
 - Search (web, images)
   - [DuckDuckGo](https://duckduckgo.com/) - **5-eyes** -  One of the best privacy-focused search engines. Domain is hosted in USA which could potentially be problematic for some. *Editor note: I've used this for the past ~5 months and haven't had any major issues. Instant Answers are incredibly helpful for programming).*
-  - [Startpage](https://www.startpage.com/) - Another privacy search engine, also seemingly hosted on a USA domain.
+  - [Startpage](https://www.startpage.com/) - **9-eyes** - Another privacy search engine that claims to not track any of your data. They operate servers in both USA and Europe.
   - [searx.me](https://searx.me/) - Open-source (need clarification) privacy search engine. Domain hosted in Germany.
   - [Qwant](https://www.qwant.com/) - Major improvements since 2018's guide.
+  - [Swisscows](https://swisscows.ch/) - A Swiss search engine that offers a unique search experience for the web, images, videos, music, and more. They are currently funding a mail service. Read through their [datacenter](https://swisscows.ch/en/datacenter) about page, it's really interesting.
 - Images
   - *See above. All provide some form of image search.*
 - YouTube
   - [PeerTube](https://joinpeertube.org/en/) - Decentralized video hosting network. Still quite small, but is growing and has a dedicated community.
   - [BitChute](https://www.bitchute.com/) - Also decentralized/P2P. Powered by WebTorrent.
   - [DTube](https://d.tube/) - Looks very similar to YouTube. Advertised as "first crypt-decentralized video-platform". Built on Steemit and IPFS.
-  - [Hooktube](https://hooktube.com/) - A slightly better way to use actual YouTube.
+  - [Invidious](https://invidio.us/) - An [open-source](https://github.com/omarroth/invidious) front-end alternative to YouTube. Seems to work pretty well from my experience so far, and it hasn't triggered *anything* on my adblocker/privacy extensions. Also offers downloads in many formats for videos (including `.vtt` subtitles).
+  - [Hooktube](https://hooktube.com/) - A slightly better way to use actual YouTube. (Use as a "last resort")
 - News
   - r/news - Includes both USA and International.
   - r/worldnews - International news. Typically excludes new specific to the USA.
@@ -88,6 +90,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 - Groups
   - *Use other forum sites relating to specific topics. This is a very broad service.*
 - Translate
+  - [Swisscows Translate](https://swisscows.ch/translate) - A powerful translation service with many languages available.
   - [DeepL](https://deepl.com/) - **14-eyes** - DeepL is an artifical intelligence translation service. *Editor note: The site server seems to be hosted in Finland, yet the company lists itself as [a company based in germany](https://www.deepl.com/pro-faq.html) in the Data Protection section.*
   - *Help requested!*
 - Google Ads/AdMob/AdSense
@@ -97,6 +100,8 @@ These Firefox extensions can help prevent connections to Google domains and also
 - Blogger
   - [Joomla](https://www.joomla.org/) - Self-hosted and open-source content management system (CMS).
   - [Write.as](https://write.as/) - Self-advertised as privacy-focused.
+  - [WordPress](https://wordpress.org/) self-hosted - The open-source version of WordPress. A very popular tool and a recognized name.
+  - [Noblogs](https://noblogs.org/) - **9-eyes** - A privacy/security focused blogging platform.
 - Photos
   - [Piwigo](https://piwigo.org/) - **9-eyes** (self-hosted) - Self-hosted and open-source cloud photo manager. You can also sign up for an ["as a service" account](https://piwigo.com).
   - *Help requested!*
@@ -107,6 +112,7 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [Zoho](https://www.zoho.com/) - I mentioned Zoho above for G Suite, so here they are again.
   - [CryptPad](https://cryptpad.fr/) - **9-eyes** - Open-source "zero knowledge" collaborative cloud editor. They offer Rich Text, Code, Presentation, Sheet (beta), Poll, Kanban, Whiteboard, and CryptDrive. 100% Client side encryption. Tons of useful features.
   - [Etherpad](https://etherpad.org/) - Self-hosted collaborative editor. Does not use the browser. Not the greatest interface, but it's open-source and you have full control over who can see your data.
+  - [Cryptee](https://crypt.ee/) - Open-source and privacy focused photo and document storage/editing. Based in Estonia, so your files are outside the reach of any 14-eyes country. They don't even require an email address to sign up.
 - Docs/Sheets/Slides (offline)
   - [LibreOffice](https://www.libreoffice.org/) and [Apache OpenOffice](https://www.openoffice.org/) - Both are open-source offline document suites.
 - Domains
@@ -122,10 +128,11 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [Signal](https://signal.org/) - Whistleblower and privacy advocate Edward Snowden recommends Signal.
   - [Tox](https://tox.chat/) - Tox is unique as it uses P2P technology to ensure the network *never* goes down, as long as there are users to keep it alive. They specifically say on the website "Tox has no central servers that can be raided, shut down, or forced to turn over data".
   - [Wire](https://wire.com/en/) - **14-eyes** - Uses end-to-end encryption. Looks to be more of a corporate service with tiered plans.
+  - [Riot](https://about.riot.im/) - Open-source privacy-focused chat service with end-to-end encryption. They offer webapps, desktop apps, iOS, and Android (Play Store and F-Droid). Uses the "Matrix" protocol for decentralized communication. It is 100% free and open-source with no paid plans.
   - *Editor note: See [this article](https://outline.com/BK8f7h) for why I didn't include WhatsApp and why you should NOT use it (if someone has a better Outline link, that would be much appreciated).*
 - Gmail
   - [Protonmail](https://protonmail.com/) - One of the top privacy-focused email providers. Servers are in Switzerland in an underground guarded bunker that they claim can "survive a nuclear attack". I've used this frequently and it's pretty good.
-  - [Tutanota](https://tutanota.com/) - **14-eyes** - Also one of the top privacy-focused email providers. Located in Germany.
+  - [Tutanota](https://tutanota.com/) - **14-eyes** - Open-source. Also one of the top privacy-focused email providers. Located in Germany.
   - [Zoho Mail](https://www.zoho.com/mail/) - Zoho comes back yet again with a mail solution.
   - [Posteo](https://posteo.de/en) - **14-eyes** - Completely anonymous mail provider located in Germany.
   - [mailbox.org](https://mailbox.org/en/) - **14-eyes** - Paid email provider, also located in Germany.
@@ -133,6 +140,7 @@ These Firefox extensions can help prevent connections to Google domains and also
   - *This is just for the Gmail service, not a client*
 - Keep
   - [Joplin](https://joplinapp.org/) - Open-source notes/todo app. Available for Windows, macOS, Linux, Android, and iOS. Also offers a terminal version. It can import Evernote `.enex` files if you use that. It can also sync with Nextcloud (mentioned above).
+  - [Standard Notes](https://standardnotes.org/) - Encrypted note storage with loads of features. Offers a web app as well as downloads for most operating systems. Has a paid plan, but the free tier has many useful features as well.
 - Play Music
   - [Emby](https://emby.media/)
 - Play Movies and TV
@@ -185,12 +193,12 @@ These Firefox extensions can help prevent connections to Google domains and also
 ## Desktop applications
 
 - Chrome
+  - [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium) - Chromium (which Chrome and countless other browsers are built on top of) is one of the cleanest and light-weight browsers available. This version cuts out all the Google crap. *Editor note: I've used it for a work project and it's ridiculously fast.*
   - [Firefox](https://firefox.com/) - Built by Mozilla. Huge extension library; great for privacy.
     - [Waterfox](https://www.waterfox.net/) - Based on Firefox, but specifically 64-bit *only* with an emphasis on speed and privacy. Has a "classic" version built off older Firefox for legacy extension support and also an "alpha" version built off Quantum. It doesn't collect any telemetry and also removes Pocket from the alpha release. Project is run by [Alex Kontos](https://github.com/MrAlex94/) and is constantly in active development.. Looks very clean and fast. Android versions are in the works too. *Editor note: This is the browser I primarily use*
   - [Vivaldi](https://vivaldi.com/) - Privacy-focused browser. Appears to be very customizable and feature-rich.
   - [Brave](https://brave.com/) - Another very popular privacy-focused browser. Boasts "up to 8x faster than Chrome and Safari". Automatically blocks ads and trackers so you don't have to.
   - [Tor Browser](https://www.torproject.org/download/) - Firefox-based browser routed through the onion network. Automatically has a few privacy extensions installed (such as HTTPS Everywhere). Be careful using it in public though, as it *can* look like a pretty suspicious piece of software. Available for Windows, Linux, macOS, and Android.
-  - [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium) - Chromium (which Chrome and countless other browsers are built on top of) is one of the cleanest and light-weight browsers available. This version cuts out all the Google crap. *Editor note: I've used it for a work project and it's ridiculously fast.*
 - Earth
   - Different from Maps Satellite in the sense that Earth has tons of complex features that require desktop software to be installed.
   - *Help requested!*
@@ -246,6 +254,7 @@ When searching for replacements, check the alternative stores (such as F-Droid) 
 - Keep
   - [Notepad](https://github.com/farmerbb/Notepad) - Open-source and available from F-Droid. Supports Markdown and HTML. Very clean and feature-rich. *Offline only*.
   - [Joplin](https://github.com/laurent22/joplin) for Android - Scroll down on the GitHub page until you reach the Android download links. No F-Droid repo, but you can download the APK directly instead of using the Play Store.
+  - [Standard Notes](https://standardnotes.org/) - Encrypted note storage with loads of features.
 - Maps/Waze
   - Don't use Waze. It's owned by Google.
   - [Maps](https://f-droid.org/en/packages/com.github.axet.maps/) - Available from F-Droid. Open-source navigation app based on MAPS.ME. Searching for addresses doesn't always work and finding businesses can be a slight hassle, but overall one of the better apps I've used.
@@ -264,7 +273,8 @@ When searching for replacements, check the alternative stores (such as F-Droid) 
 - Play Movies and TV
   - *Help requested!*
 - Hangouts
-  - *Help requested!*
+  - [Conversations](https://conversations.im/) - **14-eyes** - An open-source Android Jabber/XMPP client. It's a paid app on Google Play, but you can also [build it from source](https://github.com/siacs/Conversations) for free if you want to.
+  - [Riot](https://github.com/vector-im/riot-android) Android app - The open-source Android client for Riot.
 - Assistant
   - *Help requested!*
 
@@ -322,6 +332,7 @@ All that reading got you tired out? Or super interested in nerdy stuff? Awesome,
 - Podcasts:
   - [Darknet Diaries](https://darknetdiaries.com/) (by Jack Rhysider) - Beautifully crafted, bone-chilling episodes highlighting real-life hackers and their stories. Covers privacy topics a fair bit.
   - The WAN Show (Linus Tech Tips) - Not specifically privacy, but they cover all sorts of tech news.
+  - [The Privacy, Security, & OSINT Show](https://inteltechniques.com/podcast.html) - "This weekly podcast presents ideas to help you become digitally invisible, stay secure from cyber threats, and make you a better online investigator."
 - Other:
   - [xkcd](https://xkcd.com/) - They have comics for *everything*.
   - System32 Comics [Instagram](https://www.instagram.com/system32comics/) and [Reddit](https://www.reddit.com/r/System32Comics/) - Comedic computer comics.
