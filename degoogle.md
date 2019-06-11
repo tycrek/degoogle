@@ -329,6 +329,7 @@ Android launchers:
   - [Microsoft Wireless HDMI adapter](https://www.microsoft.com/accessories/en-us/products/adapters/wireless-display-adapter-2/p3q-00001) - The **only** reason I'm recommending this Microsoft product is because there is no possible way for it to extract any data and ship it off to Microsoft. I use it and it works great.
 - Google Home
   - [Mycroft](https://mycroft.ai/) - Open-source virtual personal assistant. Can be run on a Raspberry Pi. (thanks u/Kentto7)
+  - [Home Assistant](https://www.home-assistant.io/) - Open-source home automation. (thanks u/bilange)
 
 # Useful links, tools, and advice
 
