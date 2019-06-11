@@ -50,6 +50,20 @@ These Firefox extensions can help prevent connections to Google domains and also
 - [DDG Privacy Essentials](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/)
 - [I don't care about cookies](https://addons.mozilla.org/en-US/firefox/addon/i-dont-care-about-cookies/)
 - [minerBlock](https://addons.mozilla.org/en-US/firefox/addon/minerblock-origin/)
+- An expanded list from u/R0B0LUT10N:
+  - [ClearURLS](https://addons.mozilla.org/en-US/firefox/addon/clearurls/)
+  - [Cloud Firewall](https://addons.mozilla.org/en-US/firefox/addon/cloud-firewall/)
+  - [CSS Exfil Protection](https://addons.mozilla.org/en-US/firefox/addon/css-exfil-protection/)
+  - [Disconnect](https://addons.mozilla.org/en-US/firefox/addon/disconnect/)
+  - [Don't touch my tabs! (rel=noopener)](https://addons.mozilla.org/en-US/firefox/addon/dont-touch-my-tabs/)
+  - [Firefox Multi-Account Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/)
+  - [Google search link fix (also Yandex)](https://addons.mozilla.org/en-US/firefox/addon/google-search-link-fix/)
+  - [HTTPZ](https://addons.mozilla.org/en-US/firefox/addon/httpz/)
+  - [Link Cleaner](https://addons.mozilla.org/en-US/firefox/addon/link-cleaner/)
+  - [Neat URL](https://addons.mozilla.org/en-US/firefox/addon/neat-url/)
+  - [Privacy-Oriented Origin Policy](https://addons.mozilla.org/en-US/firefox/addon/privacy-oriented-origin-policy/)
+  - [Skip Redirect](https://addons.mozilla.org/en-US/firefox/addon/skip-redirect/)
+  - [Temporary Containers](https://addons.mozilla.org/en-US/firefox/addon/temporary-containers/)
 
 # Replacements/alternatives
 
@@ -79,11 +93,12 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [Qwant](https://www.qwant.com/) - Major improvements since 2018's guide.
   - [Swisscows](https://swisscows.ch/) - A Swiss search engine that offers a unique search experience for the web, images, videos, music, and more. They are currently funding a mail service. Read through their [datacenter](https://swisscows.ch/en/datacenter) about page, it's really interesting.
   - [Ecosia](https://www.ecosia.org/) - **14-eyes** - Search engine that plants trees.
+  - [Mojeek](https://www.mojeek.com/) - **5-eyes** - Unlike other privacy search engines which act as a "middle man" between you and Google/Bing/Yahoo, Mojeek has their own crawler and index. The results aren't as complete as some of the others, but it is still impressive and they are actively building their index to include more results with better accuracy.
 - Images
   - *See above. All provide some form of image search.*
 - YouTube
   - [PeerTube](https://joinpeertube.org/en/) - Decentralized video hosting network. Still quite small, but is growing and has a dedicated community.
-  - [BitChute](https://www.bitchute.com/) - Also decentralized/P2P. Powered by WebTorrent.
+  - [BitChute](https://www.bitchute.com/) - Also P2P, but not decentralized. Due to it being proprietary, if BitChute goes down then the whole thing goes down (unlike PeerTube). (thanks u/up-sky-7)
   - [DTube](https://d.tube/) - Looks very similar to YouTube. Advertised as "first crypt-decentralized video-platform". Built on Steemit and IPFS.
   - [Invidious](https://invidio.us/) - An [open-source](https://github.com/omarroth/invidious) front-end alternative to YouTube. Seems to work pretty well from my experience so far, and it hasn't triggered *anything* on my adblocker/privacy extensions. Also offers downloads in many formats for videos (including `.vtt` subtitles).
   - [Hooktube](https://hooktube.com/) - A slightly better way to use actual YouTube. (Use as a "last resort")
@@ -122,15 +137,14 @@ These Firefox extensions can help prevent connections to Google domains and also
 - Docs/Sheets/Slides (offline)
   - [LibreOffice](https://www.libreoffice.org/) and [Apache OpenOffice](https://www.openoffice.org/) - Both are open-source offline document suites.
 - Domains
-  - *Help requested!*
-  - *Editor note: Domains is difficult because nearly all of them require lots of information for legal reasons*
+  - [Njalla](https://njal.la/) - **14-eyes** - Privacy-focused domain registration. Competitive pricing and a large list of available domain extensions. They also offer VPS hosting. Built by people who built The Pirate Bay among others. (thanks u/brais33 and u/HumbleBasis6)
 - Drive
   - [ownCloud](https://owncloud.org/) - **14-eyes** - Open-source and self-hosted. Provide your own storage.
   - [Nextcloud](https://nextcloud.com/) - **14-eyes** - Also self-hosted. Spin-off of ownCloud.
   - [Syncthing](https://syncthing.net/) - **9-eyes** - An interesting take on cloud storage: decentralized. Peer-to-peer between only your devices. Software is open-source and available on GitHub.
   - *Editor note: I'm not including MEGA. I do not recommend MEGA. It's far too controversial and far too difficult to figure out who actually owns the service. Also, it's a 5-eyes.*
 - Hangouts
-  - [Telegram](https://telegram.org/) - **5-eyes** - Telegram is one of the biggest names out there for secure communication.
+  - [Telegram](https://telegram.org/) - Telegram is one of the biggest names out there for secure communication. Previously based in Russia, the company has since moved to Dubai.
   - [Signal](https://signal.org/) - Whistleblower and privacy advocate Edward Snowden recommends Signal.
   - [Tox](https://tox.chat/) - Tox is unique as it uses P2P technology to ensure the network *never* goes down, as long as there are users to keep it alive. They specifically say on the website "Tox has no central servers that can be raided, shut down, or forced to turn over data".
   - [Wire](https://wire.com/en/) - **14-eyes** - Uses end-to-end encryption. Looks to be more of a corporate service with tiered plans.
@@ -143,10 +157,12 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [Posteo](https://posteo.de/en) - **14-eyes** - Completely anonymous mail provider located in Germany.
   - [mailbox.org](https://mailbox.org/en/) - **14-eyes** - Paid email provider, also located in Germany.
   - [Disroot](https://disroot.org/) - **9-eyes** - Decentralized email service.
+  - [StartMail](https://www.startmail.com/en/) - **9-eyes** - Operated by the same people who run StartPage.
   - *This is just for the Gmail service, not a client*
 - Keep
   - [Joplin](https://joplinapp.org/) - Open-source notes/todo app. Available for Windows, macOS, Linux, Android, and iOS. Also offers a terminal version. It can import Evernote `.enex` files if you use that. It can also sync with Nextcloud (mentioned above).
   - [Standard Notes](https://standardnotes.org/) - Encrypted note storage with loads of features. Offers a web app as well as downloads for most operating systems. Has a paid plan, but the free tier has many useful features as well.
+  - [Zoho Notebook](https://www.zoho.com/notebook/) - A notebook from Zoho. Also available on Android.
 - Play Music & Play Movies and TV
   - [Jellyfin](https://jellyfin.github.io/) - Open-source alternative to the Play media services. You do need to provide your own content, however. In active development with frequent updates (to the source, that is).
   - [Airsonic](https://airsonic.github.io/) - **Music only** - Self-hosted open-source media streamer. Has features for transcoding audio on-the-fly for "virtually any audio format". You can also set bandwidth limits if you need to. Looks very powerful.
@@ -176,6 +192,7 @@ These Firefox extensions can help prevent connections to Google domains and also
     - u/poto-tomato pointed out that CopperheadOS is [no longer active](https://old.reddit.com/r/CopperheadOS/comments/8qdnn3/goodbye/). It has now evolved into a [new project](https://old.reddit.com/r/CopperheadOS/comments/b6muvh/androidhardening_project_renamed_to_grapheneos/) under the name [GrapheneOS](https://github.com/GrapheneOS).
   - [Plasma Mobile](https://www.plasma-mobile.org/) - **5-eyes** - Looks a bit like older versions of Android (before 7.0). Open-source and runs Linux. Very dedicated team, definitely worth trying out.
   - [Replicant](https://replicant.us/) - **5-eyes** - Free Android distribution. Puts the emphasis on "freedom and privacy/security".
+  - [/e/](https://e.foundation/) - **9-eyes** - A new open-source, privacy-focused operating system for Android devices. Looks very promising. (thanks u/itsec_ho)
 - Chrome OS
   - [Qubes OS](https://www.qubes-os.org/) - "A reasonably secure operating system", at least according to their website. Edward Snowden recommends it.
   - [Tails](https://tails.boum.org/) - For the uber-paranoid. Runs live and the entire OS is routed through Tor right from boot. Built on Debian.
@@ -226,6 +243,7 @@ When searching for replacements, check the alternative stores (such as F-Droid) 
   - [Fossdroid](https://fossdroid.com/) - Uses the same library as F-Droid, but with a modern UI similar to that of the Play Store and the ability to view apps by popularity.
   - [G-Droid](https://gitlab.com/gdroid/gdroidclient/) - Also uses the F-Droid repo but with a different UI.
   - [APKGrabber](https://github.com/hemker/apkgrabber) - Fork of [APKUpdater](https://github.com/rumboalla/apkupdater). Both are great tools for avoiding app stores (on Android).
+  - [Aurora Droid](https://forum.xda-developers.com/android/apps-games/app-aurora-droid-fdroid-client-t3932663) - Yet another F-Droid client, potentially has a few bugs (thanks u/OfficialJohnGL4)
 - Calculator
   - [Simple Calculator](https://github.com/SimpleMobileTools/Simple-Calculator) - Also part of the SMT project. Available on F-Droid.
   - [Calculator N+](https://github.com/tranleduy2000/ncalc) (or NCalc+) - Open-source feature-rich calculator. App itself is no longer in development, but the developer does [encourage pull requests](https://github.com/tranleduy2000/ncalc#calculator-n---powerful-calculator-for-android). I've used it frequently and it works great. Not on F-Droid, but a 3rd party play store can probably find it; or the APK's are available as releases on GitHub. You can also compile from source.
@@ -278,6 +296,7 @@ When searching for replacements, check the alternative stores (such as F-Droid) 
 - Pay
 - YouTube
   - [NewPipe](https://newpipe.schabi.org/) - Powerful open-source YouTube alternative available from F-Droid. Supports audio only; background playback; picture-in-picture; no ads.
+  - [FreeTube](https://github.com/FreeTubeApp/FreeTube) - Open-source YouTube client that uses the Invidio.us API to serve content. Not on F-Droid, but you can download the APK from GitHub. (thanks u/wesaphzt)
   - [YouTube Vanced](https://forum.xda-developers.com/android/apps-games/app-youtube-vanced-edition-t3758757) (if you are desperate) - Please read the XDA post before deciding to use this.
 - Authenticator
   - [andOTP](https://github.com/andOTP/andOTP) - Open-source 2FA app available from F-Droid. *Editor note: I use this one*
@@ -296,6 +315,7 @@ Android launchers:
 
 - [Shade Launcher](https://github.com/amirzaidi/Shade) - Open-source Android launcher styled after the Google Pixel launcher. No F-Droid, but you can download the APK from GitHub.
 - [ZimLX](https://github.com/otakuhqz/ZimLX) - Open-source launcher. Active development with lots of nice features. Available from F-Droid.
+- [Lawnchair](https://lawnchair.app/) - Another open-source launcher, also built to look similar to Google's launcher (it is built off AOSP Launcher3). Available from F-Droid and also APKMirror. (thanks u/droidonomy)
 
 ## Hardware
 
@@ -303,11 +323,12 @@ Android launchers:
   - [This list](https://www.oneclickroot.com/rootable/) shows compatibility for rooting Android devices.
 - Chromebook
   - Literally any other laptop with some form of Linux, *or*
+  - [TUXEDO](https://www.tuxedocomputers.com/) - **14-eyes** - Privacy-focused laptop maker out of Germany. Tech specs are very competent and can easily compete with other modern systems. Fully Linux compatible. They also offer desktops. (thanks u/itsec_ho)
   - [Purism Laptops](https://puri.sm/) - Privacy-focused laptop running PureOS. Good designs and decent hardware.
 - Chromecast
   - [Microsoft Wireless HDMI adapter](https://www.microsoft.com/accessories/en-us/products/adapters/wireless-display-adapter-2/p3q-00001) - The **only** reason I'm recommending this Microsoft product is because there is no possible way for it to extract any data and ship it off to Microsoft. I use it and it works great.
 - Google Home
-  - *Help requested!*
+  - [Mycroft](https://mycroft.ai/) - Open-source virtual personal assistant. Can be run on a Raspberry Pi. (thanks u/Kentto7)
 
 # Useful links, tools, and advice
 
@@ -334,6 +355,12 @@ Everything you need to become Privacy Wizard.
 - [What is DNS and why should I change it?](https://outline.com/8jsWXw) I think it's common sense to not use Google Public DNS; I use and recommend [Cloudflare's 1.1.1.1](https://1.1.1.1/). Use [DNSPerf](https://www.dnsperf.com/#!dns-resolvers) to see which one is fastest for you (Google ranks 4th and Cloudflare ranks 1st at time of writing this).
 - What is GDPR? [TechRadar](https://outline.com/6sjd76) and [The Guardian](https://outline.com/exmSpf)
 - [Here](https://github.com/lfit/itpol/blob/master/linux-workstation-security.md) is a really good guide for configuring a super secure Linux workstation (thanks u/aoeudhtns)
+- [A website to raise awareness of online privacy](https://theytrackyou.com/). Lot's of good tips in here (thanks u/brais33)
+- [Android Privacy Guide](https://gitlab.com/Attedz/AndroidPrivacyGuide) (thanks u/rightknobhead)
+- [Windows 10 Privacy Guide](https://fdossena.com/?p=w10debotnet/index_1903.frag) (thanks again u/rightknobhead)
+- Check out [Prism Break](https://prism-break.org/en/) (thanks u/FrontierPsycho)
+- [Guide for Linux users](https://github.com/wesaphzt/block-all-google) on blocking everything Google at the network level. This can and probably will break other alternatives that rely on Google to serve content. Thanks u/wesaphzt
+- u/wesaphzt also provided [this](https://github.com/pyllyukko/user.js), [this](https://ffprofile.com/), and [this](https://www.privacytools.io/browsers/#about_config) for hardening Firefox.
 - Did you read the [wiki](https://old.reddit.com/r/privacy/wiki/index) yet? Go do that.
 
 # The lighter side
@@ -349,6 +376,7 @@ All that reading got you tired out? Or super interested in nerdy stuff? Awesome,
   - [Darknet Diaries](https://darknetdiaries.com/) (by Jack Rhysider) - Beautifully crafted, bone-chilling episodes highlighting real-life hackers and their stories. Covers privacy topics a fair bit.
   - The WAN Show (Linus Tech Tips) - Not specifically privacy, but they cover all sorts of tech news.
   - [The Privacy, Security, & OSINT Show](https://inteltechniques.com/podcast.html) - "This weekly podcast presents ideas to help you become digitally invisible, stay secure from cyber threats, and make you a better online investigator."
+  - [Security Now!](https://www.grc.com/SecurityNow.htm) - "TechTV's Leo Laporte and I spend somewhat shy of two hours each week to discuss important issues of personal computer security." (Thanks u/Abaddon182)
 - Other:
   - [xkcd](https://xkcd.com/) - They have comics for *everything*.
   - System32 Comics [Instagram](https://www.instagram.com/system32comics/) and [Reddit](https://www.reddit.com/r/System32Comics/) - Comedic computer comics.
