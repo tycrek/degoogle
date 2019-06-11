@@ -65,6 +65,7 @@ These Firefox extensions can help prevent connections to Google domains and also
     - 5: Australia, Canada, New Zealand, UK, USA
     - 9: Denmark, France, Netherlands, Norway
     - 14: Germany, Belgium, Italy, Sweden, Spain
+    - [What are 5-eyes, 9-eyes, and 14-eyes?](https://restoreprivacy.com/5-eyes-9-eyes-14-eyes/)
 6. I will still be adding personal notes if I want to.
 7. Google offers a ridiculous amount of small services. I'm only focusing on the important ones for now.
 9. If you see *Help requested!*, it means I couldn't find any privacy-focused services and am asking for suggestions.
