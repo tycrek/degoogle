@@ -88,7 +88,7 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [Hooktube](https://hooktube.com/) - A slightly better way to use actual YouTube. (Use as a "last resort")
 - News
   - r/news - Includes both USA and International.
-  - r/worldnews - International news. Typically excludes new specific to the USA.
+  - r/worldnews - International news. Typically excludes news specific to the USA.
   - *Most country/state/provine subreddit's act as local news hubs as well.*
   - *Help requested!*
 - Groups
