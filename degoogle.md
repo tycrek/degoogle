@@ -8,10 +8,13 @@
 
 *Huge* thanks to [AlternativeTo](https://alternativeto.net/). Without them and their users, this project would be significantly more difficult, if not impossible.
 
+Before reading this guide, I highly recommend reading through [Privacy Tools](https://www.privacytools.io/) and [ethical.net](https://ethical.net/) (thanks u/yieldingTemporarily).
+
 # Contributing
 
 If you want to help out with the project, here are some ideas:
 
+- **iOS app alternatives!** I don't have an iOS device to find alternatives with. I would highly appreciate any help with this.
 - Clean up and improve the Markdown
 - Provide more information on services with little info
 - Suggest new services
@@ -71,9 +74,10 @@ These Firefox extensions can help prevent connections to Google domains and also
 - Search (web, images)
   - [DuckDuckGo](https://duckduckgo.com/) - **5-eyes** -  One of the best privacy-focused search engines. Domain is hosted in USA which could potentially be problematic for some. *Editor note: I've used this for the past ~5 months and haven't had any major issues. Instant Answers are incredibly helpful for programming).*
   - [Startpage](https://www.startpage.com/) - **9-eyes** - Another privacy search engine that claims to not track any of your data. They operate servers in both USA and Europe.
-  - [searx.me](https://searx.me/) - Open-source (need clarification) privacy search engine. Domain hosted in Germany.
+  - [searx.me](https://searx.me/) - [Open-source](https://github.com/asciimoo/searx) (thanks for clarification u/Sheezdudeln) privacy search engine. Domain hosted in Germany.
   - [Qwant](https://www.qwant.com/) - Major improvements since 2018's guide.
   - [Swisscows](https://swisscows.ch/) - A Swiss search engine that offers a unique search experience for the web, images, videos, music, and more. They are currently funding a mail service. Read through their [datacenter](https://swisscows.ch/en/datacenter) about page, it's really interesting.
+  - [Ecosia](https://www.ecosia.org/) - **14-eyes** - Search engine that plants trees.
 - Images
   - *See above. All provide some form of image search.*
 - YouTube
@@ -97,10 +101,11 @@ These Firefox extensions can help prevent connections to Google domains and also
   - *Help requested!*
 - G Suite
   - [Zoho](https://www.zoho.com/) - Zoho was included in 2018's thread as well, and they've only improved since then. They offer a full enterprise business suite that can easily rival G Suite or MS Office 365.
-- Blogger
+- Blogger/Sites
   - [Joomla](https://www.joomla.org/) - Self-hosted and open-source content management system (CMS).
   - [Write.as](https://write.as/) - Self-advertised as privacy-focused.
   - [WordPress](https://wordpress.org/) self-hosted - The open-source version of WordPress. A very popular tool and a recognized name.
+  - [concrete5](https://www.concrete5.org/about) - **5-eyes** - Open-source CMS.
   - [Noblogs](https://noblogs.org/) - **9-eyes** - A privacy/security focused blogging platform.
 - Photos
   - [Piwigo](https://piwigo.org/) - **9-eyes** (self-hosted) - Self-hosted and open-source cloud photo manager. You can also sign up for an ["as a service" account](https://piwigo.com).
@@ -141,13 +146,12 @@ These Firefox extensions can help prevent connections to Google domains and also
 - Keep
   - [Joplin](https://joplinapp.org/) - Open-source notes/todo app. Available for Windows, macOS, Linux, Android, and iOS. Also offers a terminal version. It can import Evernote `.enex` files if you use that. It can also sync with Nextcloud (mentioned above).
   - [Standard Notes](https://standardnotes.org/) - Encrypted note storage with loads of features. Offers a web app as well as downloads for most operating systems. Has a paid plan, but the free tier has many useful features as well.
-- Play Music
-  - [Emby](https://emby.media/)
-- Play Movies and TV
-  - [Emby](https://emby.media/)
-- Sites
-  - *Help requested!*
-  - Depending on your usecase, some of the suggestions from Blogger may work as well.
+- Play Music & Play Movies and TV
+  - [Jellyfin](https://jellyfin.github.io/) - Open-source alternative to the Play media services. You do need to provide your own content, however. In active development with frequent updates (to the source, that is).
+  - [Airsonic](https://airsonic.github.io/) - **Music only** - Self-hosted open-source media streamer. Has features for transcoding audio on-the-fly for "virtually any audio format". You can also set bandwidth limits if you need to. Looks very powerful.
+  - [Music Player Daemon](https://www.musicpd.org/) - A "flexible, powerful, server-side application for playing music".
+  - *Editor note: I can no longer recommend [Emby](https://emby.media/) as they are [no longer open-source](https://www.linuxuprising.com/2018/12/jellyfin-free-software-emby-media.html).*
+  - Thanks to u/eA8KESARaW6iqCpHsbE4 for suggesting Jellyfin and pointing out that Emby isn't open-source.
 - Fonts
   - [Open Font Library](https://fontlibrary.org/) - **5-eyes** - Lots of Serif and Sans-Serif fonts that can be directly embedded into a website.
 - Classroom
@@ -167,7 +171,8 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [Ubuntu Touch](https://ubuntu-touch.io/) - Ubuntu, but for phones.
   - [LineageOS](https://www.lineageos.org/) **5-eyes** - Open-source and based on Android, but without the crap.
   - [SailfishOS](https://sailfishos.org/) - *Help requested!*
-  - [CopperheadOS](https://copperhead.co/android/) - **5-eyes** - A "secure" version of Android from Canada.
+  - ~~[CopperheadOS](https://copperhead.co/android/) - **5-eyes** - A "secure" version of Android from Canada.~~
+    - u/poto-tomato pointed out that CopperheadOS is [no longer active](https://old.reddit.com/r/CopperheadOS/comments/8qdnn3/goodbye/). It has now evolved into a [new project](https://old.reddit.com/r/CopperheadOS/comments/b6muvh/androidhardening_project_renamed_to_grapheneos/) under the name [GrapheneOS](https://github.com/GrapheneOS).
   - [Plasma Mobile](https://www.plasma-mobile.org/) - **5-eyes** - Looks a bit like older versions of Android (before 7.0). Open-source and runs Linux. Very dedicated team, definitely worth trying out.
   - [Replicant](https://replicant.us/) - **5-eyes** - Free Android distribution. Puts the emphasis on "freedom and privacy/security".
 - Chrome OS
@@ -181,6 +186,7 @@ These Firefox extensions can help prevent connections to Google domains and also
     - [Mint](https://linuxmint.com/)
     - [Fedora](https://getfedora.org/)
     - [Arch](https://www.archlinux.org/) or [Manjaro](https://manjaro.org/) *Editor note: I use Manjaro and it's my favourite OS*
+    - [Trisquel](https://trisquel.info/), [Gentoo](https://www.gentoo.org/), and [Alpine](https://www.alpinelinux.org/) (thanks u/privacyfreak555)
     - [etc etc etc](https://en.wikipedia.org/wiki/List_of_Linux_distributions)
 - Wear OS
   - [AsteroidOS](https://asteroidos.org/) - **14-eyes** - The cleanest (and only) open-source alternative for Wear OS. Make sure you buy a watch that supports it!
@@ -218,8 +224,10 @@ When searching for replacements, check the alternative stores (such as F-Droid) 
   - [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore) - Aurora Store is simply a fork of the Yalp Store, but with an updated, cleaner UI. It can also utilize [microG](https://microg.org/) if you wish to use *very minimal* Google Play services.
   - [Fossdroid](https://fossdroid.com/) - Uses the same library as F-Droid, but with a modern UI similar to that of the Play Store and the ability to view apps by popularity.
   - [G-Droid](https://gitlab.com/gdroid/gdroidclient/) - Also uses the F-Droid repo but with a different UI.
+  - [APKGrabber](https://github.com/hemker/apkgrabber) - Fork of [APKUpdater](https://github.com/rumboalla/apkupdater). Both are great tools for avoiding app stores (on Android).
 - Calculator
   - [Simple Calculator](https://github.com/SimpleMobileTools/Simple-Calculator) - Also part of the SMT project. Available on F-Droid.
+  - [Calculator N+](https://github.com/tranleduy2000/ncalc) (or NCalc+) - Open-source feature-rich calculator. App itself is no longer in development, but the developer does [encourage pull requests](https://github.com/tranleduy2000/ncalc#calculator-n---powerful-calculator-for-android). I've used it frequently and it works great. Not on F-Droid, but a 3rd party play store can probably find it; or the APK's are available as releases on GitHub. You can also compile from source.
 - Calendar
   - [Fruux (mobile app)](https://fruux.com/) - Same service from above provides an Android app.
   - [Etar](https://github.com/xsoh/Etar-Calendar) - Open-source material design Calendar that integrates with the Android Calendar API. If you have a CalDAV/CardDAV server, I recommend using [DAVx5](https://www.davx5.com/) to sync with it. Available from F-Droid. *Editor note: this is the one I am using*
@@ -235,10 +243,11 @@ When searching for replacements, check the alternative stores (such as F-Droid) 
   - [Silence.im](https://silence.im/) - Open-source and utilizes Signal's encryption protocol. Seamlessly works with SMS. End-to-end encryption with other Silence users.
   - *Both Messages replacements are available on F-Droid*
 - Gboard
-  - [AnySoftKeyboard](https://anysoftkeyboard.github.io/) - Open-source keyboard.
+  - [AnySoftKeyboard](https://anysoftkeyboard.github.io/) - Open-source keyboard. Available on F-Droid.
   - [Hacker's Keyboard](https://github.com/klausw/hackerskeyboard) - Also open-source. Very useful for developers or sysadmins on the go.
   - [kboard](https://github.com/adgad/kboard) - Open-source. Has features for phrases, "lenny faces", macros and more.
-  - *AnySoftKeyboard is available on F-Droid*
+  - [Simple Keyboard](https://github.com/rkkr/simple-keyboard) - Open-source, available from F-Droid.
+  - [Indic Keyboard](https://gitlab.com/indicproject/indic-keyboard) - Open-source keyboard that supports many languages that other keyboards sometimes don't support. Not on F-Droid, but can be built from source or possibly through a Play Store alternative.
 - Drive
   - [ownCloud Android](https://github.com/owncloud/android) - ownCloud Android client.
   - [Nextcloud Android](https://github.com/nextcloud/android) - Nextcloud Android client.
@@ -251,14 +260,18 @@ When searching for replacements, check the alternative stores (such as F-Droid) 
   - Posteo - Any open-source mail client. I use [FairEmail](https://email.faircode.eu/) from F-Droid.
   - Mailbox.org - *Help requested*
   - [Disroot](https://f-droid.org/en/packages/org.disroot.disrootapp/) - Available from F-Droid.
-- Keep
+- Keep (or any stock note-taking app)
   - [Notepad](https://github.com/farmerbb/Notepad) - Open-source and available from F-Droid. Supports Markdown and HTML. Very clean and feature-rich. *Offline only*.
   - [Joplin](https://github.com/laurent22/joplin) for Android - Scroll down on the GitHub page until you reach the Android download links. No F-Droid repo, but you can download the APK directly instead of using the Play Store.
   - [Standard Notes](https://standardnotes.org/) - Encrypted note storage with loads of features.
+  - [Omni Notes](https://omninotes.app/) - Very feature rich, open-source, material design notes app. Very active development. Available on F-Droid.
+  - [Carnet](https://github.com/PhieF/CarnetDocumentation) - I had some trouble finding info on this one. Looks like it has pretty seamless/painless ownCloud and NextCloud integration. Also available on F-Droid.
+  - [Markor](https://gsantner.net/project/markor.html) - Open-source notes/to-do app for Android. Supports Markdown editing. Available on F-Droid. App is 100% offline, as stated on the [GitHub README](https://github.com/gsantner/markor#privacy).
 - Maps/Waze
   - Don't use Waze. It's owned by Google.
   - [Maps](https://f-droid.org/en/packages/com.github.axet.maps/) - Available from F-Droid. Open-source navigation app based on MAPS.ME. Searching for addresses doesn't always work and finding businesses can be a slight hassle, but overall one of the better apps I've used.
 - News
+  - [Flym](https://github.com/FredJul/Flym) - Open-source materian design RSS reader. Available from F-Droid.
 - Photos
   - [Piwigo Android](https://github.com/Piwigo/Piwigo-Android) - You need to have Piwigo set up first.
 - Pay
@@ -267,11 +280,11 @@ When searching for replacements, check the alternative stores (such as F-Droid) 
   - [YouTube Vanced](https://forum.xda-developers.com/android/apps-games/app-youtube-vanced-edition-t3758757) (if you are desperate) - Please read the XDA post before deciding to use this.
 - Authenticator
   - [andOTP](https://github.com/andOTP/andOTP) - Open-source 2FA app available from F-Droid. *Editor note: I use this one*
-  - [FreeOTP](https://freeotp.github.io/) - Available from F-Droid (or GitHub for an iOS version). Last update was in December 2017 so it's unclear whether or not the project is still active.
-- Play Music
-  - *Help requested!*
-- Play Movies and TV
-  - *Help requested!*
+  - [FreeOTP+](https://github.com/helloworld1/FreeOTPPlus) - FreeOTP is no longer in development so this fork should be used instead as it is currently in development. Available from F-Droid.
+  - [Aegis](https://github.com/beemdevelopment/Aegis) - Open-source 2FA for Android. Available on F-Droid.
+- Play Music/Play Movies & TV
+  - [Audinaut](https://github.com/nvllsvm/Audinaut) - An open-source Airsonic client for Android. Available from F-Droid.
+  - [MALP](https://gitlab.com/gateship-one/malp) - An open-source Android client for MPD. Available on F-Droid.
 - Hangouts
   - [Conversations](https://conversations.im/) - **14-eyes** - An open-source Android Jabber/XMPP client. It's a paid app on Google Play, but you can also [build it from source](https://github.com/siacs/Conversations) for free if you want to.
   - [Riot](https://github.com/vector-im/riot-android) Android app - The open-source Android client for Riot.
@@ -281,6 +294,7 @@ When searching for replacements, check the alternative stores (such as F-Droid) 
 Android launchers:
 
 - [Shade Launcher](https://github.com/amirzaidi/Shade) - Open-source Android launcher styled after the Google Pixel launcher. No F-Droid, but you can download the APK from GitHub.
+- [ZimLX](https://github.com/otakuhqz/ZimLX) - Open-source launcher. Active development with lots of nice features. Available from F-Droid.
 
 ## Hardware
 
@@ -318,6 +332,7 @@ Everything you need to become Privacy Wizard.
 - [Why you should put tape over your webcam](https://outline.com/fYCu98)
 - [What is DNS and why should I change it?](https://outline.com/8jsWXw) I think it's common sense to not use Google Public DNS; I use and recommend [Cloudflare's 1.1.1.1](https://1.1.1.1/). Use [DNSPerf](https://www.dnsperf.com/#!dns-resolvers) to see which one is fastest for you (Google ranks 4th and Cloudflare ranks 1st at time of writing this).
 - What is GDPR? [TechRadar](https://outline.com/6sjd76) and [The Guardian](https://outline.com/exmSpf)
+- [Here](https://github.com/lfit/itpol/blob/master/linux-workstation-security.md) is a really good guide for configuring a super secure Linux workstation (thanks u/aoeudhtns)
 - Did you read the [wiki](https://old.reddit.com/r/privacy/wiki/index) yet? Go do that.
 
 # The lighter side
