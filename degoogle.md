@@ -50,6 +50,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 - [DDG Privacy Essentials](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/)
 - [I don't care about cookies](https://addons.mozilla.org/en-US/firefox/addon/i-dont-care-about-cookies/)
 - [minerBlock](https://addons.mozilla.org/en-US/firefox/addon/minerblock-origin/)
+- [Terms of Service; Didn't Read](https://addons.mozilla.org/en-US/firefox/addon/terms-of-service-didnt-read/)
 - An expanded list from u/R0B0LUT10N:
   - [ClearURLS](https://addons.mozilla.org/en-US/firefox/addon/clearurls/)
   - [Cloud Firewall](https://addons.mozilla.org/en-US/firefox/addon/cloud-firewall/)
@@ -123,6 +124,8 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [WordPress](https://wordpress.org/) self-hosted - The open-source version of WordPress. A very popular tool and a recognized name.
   - [concrete5](https://www.concrete5.org/about) - **5-eyes** - Open-source CMS.
   - [Noblogs](https://noblogs.org/) - **9-eyes** - A privacy/security focused blogging platform.
+- Analytics
+  - [Matomo](https://matomo.org/) - **9/14-eyes** (Matomo/parent company) - Open-source analytics platform. (thanks u/Newblik)
 - Photos
   - [Piwigo](https://piwigo.org/) - **9-eyes** (self-hosted) - Self-hosted and open-source cloud photo manager. You can also sign up for an ["as a service" account](https://piwigo.com).
   - *Help requested!*
@@ -302,6 +305,7 @@ When searching for replacements, check the alternative stores (such as F-Droid) 
   - [andOTP](https://github.com/andOTP/andOTP) - Open-source 2FA app available from F-Droid. *Editor note: I use this one*
   - [FreeOTP+](https://github.com/helloworld1/FreeOTPPlus) - FreeOTP is no longer in development so this fork should be used instead as it is currently in development. Available from F-Droid.
   - [Aegis](https://github.com/beemdevelopment/Aegis) - Open-source 2FA for Android. Available on F-Droid.
+  - [Authenticator](https://mattrubin.me/authenticator/) - **iOS** - Open-source 2FA for iOS. (thanks u/SomeoneWannaBe)
 - Play Music/Play Movies & TV
   - [Audinaut](https://github.com/nvllsvm/Audinaut) - An open-source Airsonic client for Android. Available from F-Droid.
   - [MALP](https://gitlab.com/gateship-one/malp) - An open-source Android client for MPD. Available on F-Droid.
