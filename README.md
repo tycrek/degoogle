@@ -1,9 +1,6 @@
 # Cutting Google out of your life (2019)
-
 ### *I don't have anything to hide, but I don't have anything to show you either.*
-
 # Introduction
-
 **Hello all!** Last year, I posted a "de-google" [megathread](https://old.reddit.com/r/privacy/comments/8l3vjy/can_we_get_a_megathread_on_breaking_away_from/) on [cutting Google out of your life](https://old.reddit.com/r/privacy/comments/8m2u8e/megathread_cutting_google_out_of_your_life/). It can be found [on this sub's Wiki](https://old.reddit.com/r/privacy/wiki/de-google). However, much can change in a year, so I thought I'd come back and do it again.
 
 *Huge* thanks to [AlternativeTo](https://alternativeto.net/). Without them and their users, this project would be significantly more difficult, if not impossible.
@@ -11,9 +8,7 @@
 Before reading this guide, I highly recommend reading through [Privacy Tools](https://www.privacytools.io/) and [ethical.net](https://ethical.net/) (thanks u/yieldingTemporarily).
 
 # Contributing
-
 If you want to help out with the project, here are some ideas:
-
 - **iOS app alternatives!** I don't have an iOS device to find alternatives with. I would highly appreciate any help with this.
 - Clean up and improve the Markdown
 - Provide more information on services with little info
@@ -22,7 +17,6 @@ If you want to help out with the project, here are some ideas:
 - Literally anything relating to any part of this guide, whether it's Google related or not
 
 You can do these by:
-
 - Submitting Issues/Pull Requests on the [GitHub page](https://github.com/tycrek/degoogle)
 - Sending me (u/supamonkey2000) a PM
 - Email (both are me):
@@ -34,14 +28,11 @@ Please specifiy if you wish to remain anonymous or if you want your Reddit usern
 If you host a mirror, let me know and I can add it to a mirrors list on GitHub or Pastebin.
 
 **Want to help out in another way?**
-
 - **Share** this guide with your friends, family, and coworkers. Let them know *why* privacy matters and *why* they should care about it. Don't force it on them, but carefully ease them into it and don't scare them away from staying secure.
 - **Donate** to non-profit organizations that support online privacy and security (see the r/privacy sidebar)
 
 # Browser extensions
-
 These Firefox extensions can help prevent connections to Google domains and also improve your privacy/security online.
-
 - [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
 - [Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/)
 - [Decentraleyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/)
@@ -67,11 +58,8 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [Temporary Containers](https://addons.mozilla.org/en-US/firefox/addon/temporary-containers/)
 
 # Replacements/alternatives
-
 ## Notes, disclaimers, and rules
-
 **Please read:** Instead of last year where any replacement I found was included, I will specifically focus on *privacy-focused* replacements this year.
-
 1. Once again, replacements are based off [this Wikipedia article](https://en.wikipedia.org/wiki/List_of_Google_products)
 2. Currencies in USD unless otherwise stated
 3. This year I've decided ***not*** to include products from companies such as Microsoft, Apple, Yahoo, Amazon, etc. This includes companies/apps/services they own.
@@ -86,7 +74,6 @@ These Firefox extensions can help prevent connections to Google domains and also
 9. If you see *Help requested!*, it means I couldn't find any privacy-focused services and am asking for suggestions.
 
 ## Web-based products
-
 - Search (web, images)
   - [DuckDuckGo](https://duckduckgo.com/) - **5-eyes** -  One of the best privacy-focused search engines. Domain is hosted in USA which could potentially be problematic for some. *Editor note: I've used this for the past ~5 months and haven't had any major issues. Instant Answers are incredibly helpful for programming).*
   - [Startpage](https://www.startpage.com/) - **9-eyes** - Another privacy search engine that claims to not track any of your data. They operate servers in both USA and Europe.
@@ -145,6 +132,7 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [ownCloud](https://owncloud.org/) - **14-eyes** - Open-source and self-hosted. Provide your own storage.
   - [Nextcloud](https://nextcloud.com/) - **14-eyes** - Also self-hosted. Spin-off of ownCloud.
   - [Syncthing](https://syncthing.net/) - **9-eyes** - An interesting take on cloud storage: decentralized. Peer-to-peer between only your devices. Software is open-source and available on GitHub.
+  - [Sia](https://sia.tech/) - Fully decentralized cloud storage.
   - *Editor note: I'm not including MEGA. I do not recommend MEGA. It's far too controversial and far too difficult to figure out who actually owns the service. Also, it's a 5-eyes.*
 - Hangouts
   - [Telegram](https://telegram.org/) - Telegram is one of the biggest names out there for secure communication. Previously based in Russia, the company has since moved to Dubai.
@@ -185,7 +173,6 @@ These Firefox extensions can help prevent connections to Google domains and also
   - *Help requested!*
 
 ## Operating systems
-
 - Android/Fuchsia
   - *Note: You'll either need a rooted device with an unlocked bootloader, or a specific device depending on which OS you like.*
   - [Ubuntu Touch](https://ubuntu-touch.io/) - Ubuntu, but for phones.
@@ -200,6 +187,7 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [Qubes OS](https://www.qubes-os.org/) - "A reasonably secure operating system", at least according to their website. Edward Snowden recommends it.
   - [Tails](https://tails.boum.org/) - For the uber-paranoid. Runs live and the entire OS is routed through Tor right from boot. Built on Debian.
   - [Knoppix](http://www.knopper.net/knoppix/index-en.html) - Another Live OS, runs from CD/DVD/USB. Can also be installed if desired.
+  - [Parrot OS](https://parrotsec.org/) - Debian-based and privacy focused. Fully sandboxed. (thanks u/Safe_Airport)
   - [PureOS](https://pureos.net/) - The OS of Purism Laptops (mentioned in the Hardware section). Very clean UI. *Editor note: I could not get this working on a UEFI Dell laptop. The group behind PureOS does not provide any UEFI support.*
   - Any other form of Linux should work fine too.
     - [Ubuntu](https://www.ubuntu.com/)
@@ -218,7 +206,6 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [OSMC](https://osmc.tv/) - Free, open source media center. Strongest competitor to Kodi.
 
 ## Desktop applications
-
 - Chrome
   - [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium) - Chromium (which Chrome and countless other browsers are built on top of) is one of the cleanest and light-weight browsers available. This version cuts out all the Google crap. *Editor note: I've used it for a work project and it's ridiculously fast.*
   - [Firefox](https://firefox.com/) - Built by Mozilla. Huge extension library; great for privacy.
@@ -229,14 +216,12 @@ These Firefox extensions can help prevent connections to Google domains and also
 - Earth
   - Different from Maps Satellite in the sense that Earth has tons of complex features that require desktop software to be installed.
   - *Help requested!*
-- Android Studio
-  - [Visual Studio Code (from source)](https://github.com/Microsoft/vscode) - VSCode is a spectacular light-weight IDE.
+- Android Studio (not specifically for Android development, just in general)
+  - [VSCodium](https://github.com/VSCodium/vscodium) - VSCodium is VSCode but without all the Microsoft telemetry and branding.
   - *Help requested!*
 
 ## Mobile applications (mobile apps installable from stores)
-
 When searching for replacements, check the alternative stores (such as F-Droid) before checking the Play Store.
-
 - Play Store
   - [F-Droid](https://f-droid.org/) - Catalogue of FOSS apps for Android. Easy to install and keeps track of updates. Also has a browser version if you don't want to install the app.
   - [Aptoide](https://www.aptoide.com/) - Marketplace for Android apps. Publishers/developers manage their own stores rather than a centralized market such as Google Play Store.
@@ -247,6 +232,9 @@ When searching for replacements, check the alternative stores (such as F-Droid) 
   - [G-Droid](https://gitlab.com/gdroid/gdroidclient/) - Also uses the F-Droid repo but with a different UI.
   - [APKGrabber](https://github.com/hemker/apkgrabber) - Fork of [APKUpdater](https://github.com/rumboalla/apkupdater). Both are great tools for avoiding app stores (on Android).
   - [Aurora Droid](https://forum.xda-developers.com/android/apps-games/app-aurora-droid-fdroid-client-t3932663) - Yet another F-Droid client, potentially has a few bugs (thanks u/OfficialJohnGL4)
+- Chrome (Android)
+  - [Fennec F-Droid](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/) - A privacy-focused version of Firefox Android available on F-Droid. It's focused on removing any proprietary bits found in official Mozilla's builds. (thanks u/SupremeLisper)
+  - [Bromite](https://www.bromite.org/) - Privacy-focused/open-source build of Chromium with built-in ad blocking. (thanks u/SupremeLisper)
 - Calculator
   - [Simple Calculator](https://github.com/SimpleMobileTools/Simple-Calculator) - Also part of the SMT project. Available on F-Droid.
   - [Calculator N+](https://github.com/tranleduy2000/ncalc) (or NCalc+) - Open-source feature-rich calculator. App itself is no longer in development, but the developer does [encourage pull requests](https://github.com/tranleduy2000/ncalc#calculator-n---powerful-calculator-for-android). I've used it frequently and it works great. Not on F-Droid, but a 3rd party play store can probably find it; or the APK's are available as releases on GitHub. You can also compile from source.
@@ -316,13 +304,11 @@ When searching for replacements, check the alternative stores (such as F-Droid) 
   - *Help requested!*
 
 Android launchers:
-
 - [Shade Launcher](https://github.com/amirzaidi/Shade) - Open-source Android launcher styled after the Google Pixel launcher. No F-Droid, but you can download the APK from GitHub.
 - [ZimLX](https://github.com/otakuhqz/ZimLX) - Open-source launcher. Active development with lots of nice features. Available from F-Droid.
 - [Lawnchair](https://lawnchair.app/) - Another open-source launcher, also built to look similar to Google's launcher (it is built off AOSP Launcher3). Available from F-Droid and also APKMirror. (thanks u/droidonomy)
 
 ## Hardware
-
 - Nexus/Pixel
   - [This list](https://www.oneclickroot.com/rootable/) shows compatibility for rooting Android devices.
 - Chromebook
@@ -336,9 +322,7 @@ Android launchers:
   - [Home Assistant](https://www.home-assistant.io/) - Open-source home automation. (thanks u/bilange)
 
 # Useful links, tools, and advice
-
 Everything you need to become Privacy Wizard.
-
 - The [r/Privacy wiki](https://old.reddit.com/r/privacy/wiki/index) has a lot of helpful information; I highly recommend reading through it! Seriously, do it now, then come back here.
 - Read the [r/VPN](https://old.reddit.com/r/VPN/) sidebar and [wiki](https://old.reddit.com/r/VPN/wiki/index) to learn more about why you should consider using a VPN. I personally use PIA.
 - Click [here](https://outline.com/XuMTFA) and [here](https://outline.com/dqfuqL) for some great tips on creating strong passwords.
@@ -369,9 +353,7 @@ Everything you need to become Privacy Wizard.
 - Did you read the [wiki](https://old.reddit.com/r/privacy/wiki/index) yet? Go do that.
 
 # The lighter side
-
-All that reading got you tired out? Or super interested in nerdy stuff? Awesome, now go watch/listen/look at these.
-
+All that reading got you tired out? Or super interested in nerdy stuff? Awesome, now go check out these.
 - Movies and TV I recommend:
   - *Snowden (2016)* - Based on the true story of Edward Snowden, the CIA/NSA/etc whistleblower. I've seen it about 30 times. Directed by Oliver Stone.
   - *Deep Web (2015)* - Documentary (narrated by Keanu Reeves) about Ross Ulbricht aka. Dread Pirate Roberts and the infamous "Silk Road" dark market. Directed by Alex Winter.
@@ -387,7 +369,6 @@ All that reading got you tired out? Or super interested in nerdy stuff? Awesome,
   - System32 Comics [Instagram](https://www.instagram.com/system32comics/) and [Reddit](https://www.reddit.com/r/System32Comics/) - Comedic computer comics.
 
 # Closing remarks
-
 It's a shame that Google, with their immense resources, power, and influence, don't see the benefits of helping people secure themselves online. Instead, they force people like us to scour the web for alternatives and convince our friends and family to do the same, while they sell off our data to the highest bidder.
 
 Hopefully this guide can serve as a starting point for those new to privacy, or be a good refresher for the experts.
