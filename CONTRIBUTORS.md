@@ -1,0 +1,34 @@
+Thanks to everyone here for contributing in some way! (usernames are in no particular order).
+
+GitHub:
+
+- [Fabian Cook](https://github.com/fabiancook)
+
+Reddit:
+
+- u/SheepKid12
+- u/yieldingTemporarily
+- u/R0B0LUT10N
+- u/rudolf323
+- u/Sheezdudeln
+- u/up-sky-7
+- u/Newblik
+- u/brais33
+- u/HumbleBasis6
+- u/eA8KESARaW6iqCpHsbE4
+- u/poto-tomato
+- u/itsec_ho
+- u/steamport
+- u/Safe_Airport
+- u/privacyfreak555
+- u/OfficialJohnGL4
+- u/SupremeLisper
+- u/wesaphzt
+- u/SomeoneWannaBe
+- u/droidonomy
+- u/Kentto7
+- u/bilange
+- u/aoeudhtns
+- u/rightknobhead
+- u/FrontierPsycho
+- u/Abaddon182
