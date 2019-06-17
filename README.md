@@ -9,6 +9,7 @@ Before reading this guide, I highly recommend reading through [Privacy Tools](ht
 
 # Contributing
 If you want to help out with the project, here are some ideas:
+
 - **iOS app alternatives!** I don't have an iOS device to find alternatives with. I would highly appreciate any help with this.
 - Clean up and improve the Markdown
 - Provide more information on services with little info
@@ -17,6 +18,7 @@ If you want to help out with the project, here are some ideas:
 - Literally anything relating to any part of this guide, whether it's Google related or not
 
 You can do these by:
+
 - Submitting Issues/Pull Requests on the [GitHub page](https://github.com/tycrek/degoogle)
 - Sending me (u/supamonkey2000) a PM
 - Email (both are me):
@@ -33,6 +35,7 @@ If you host a mirror, let me know and I can add it to a mirrors list on GitHub o
 
 # Browser extensions
 These Firefox extensions can help prevent connections to Google domains and also improve your privacy/security online.
+
 - [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
 - [Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/)
 - [Decentraleyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/)
@@ -56,10 +59,12 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [Privacy-Oriented Origin Policy](https://addons.mozilla.org/en-US/firefox/addon/privacy-oriented-origin-policy/)
   - [Skip Redirect](https://addons.mozilla.org/en-US/firefox/addon/skip-redirect/)
   - [Temporary Containers](https://addons.mozilla.org/en-US/firefox/addon/temporary-containers/)
+- [uMatrix](https://addons.mozilla.org/en-US/firefox/addon/umatrix/) (thanks u/rudolf323)
 
 # Replacements/alternatives
 ## Notes, disclaimers, and rules
 **Please read:** Instead of last year where any replacement I found was included, I will specifically focus on *privacy-focused* replacements this year.
+
 1. Once again, replacements are based off [this Wikipedia article](https://en.wikipedia.org/wiki/List_of_Google_products)
 2. Currencies in USD unless otherwise stated
 3. This year I've decided ***not*** to include products from companies such as Microsoft, Apple, Yahoo, Amazon, etc. This includes companies/apps/services they own.
@@ -74,6 +79,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 9. If you see *Help requested!*, it means I couldn't find any privacy-focused services and am asking for suggestions.
 
 ## Web-based products
+
 - Search (web, images)
   - [DuckDuckGo](https://duckduckgo.com/) - **5-eyes** -  One of the best privacy-focused search engines. Domain is hosted in USA which could potentially be problematic for some. *Editor note: I've used this for the past ~5 months and haven't had any major issues. Instant Answers are incredibly helpful for programming).*
   - [Startpage](https://www.startpage.com/) - **9-eyes** - Another privacy search engine that claims to not track any of your data. They operate servers in both USA and Europe.
@@ -88,6 +94,7 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [PeerTube](https://joinpeertube.org/en/) - Decentralized video hosting network. Still quite small, but is growing and has a dedicated community.
   - [BitChute](https://www.bitchute.com/) - Also P2P, but not decentralized. Due to it being proprietary, if BitChute goes down then the whole thing goes down (unlike PeerTube). (thanks u/up-sky-7)
   - [DTube](https://d.tube/) - Looks very similar to YouTube. Advertised as "first crypt-decentralized video-platform". Built on Steemit and IPFS.
+  - [Bit.tube](https://bit.tube/) - Appears to be a crypto-powered decentralized video sharing service. (thanks u/rudolf323)
   - [Invidious](https://invidio.us/) - An [open-source](https://github.com/omarroth/invidious) front-end alternative to YouTube. Seems to work pretty well from my experience so far, and it hasn't triggered *anything* on my adblocker/privacy extensions. Also offers downloads in many formats for videos (including `.vtt` subtitles).
   - [Hooktube](https://hooktube.com/) - A slightly better way to use actual YouTube. (Use as a "last resort")
 - News
@@ -174,6 +181,7 @@ These Firefox extensions can help prevent connections to Google domains and also
   - *Help requested!*
 
 ## Operating systems
+
 - Android/Fuchsia
   - *Note: You'll either need a rooted device with an unlocked bootloader, or a specific device depending on which OS you like.*
   - [Ubuntu Touch](https://ubuntu-touch.io/) - Ubuntu, but for phones.
@@ -183,7 +191,7 @@ These Firefox extensions can help prevent connections to Google domains and also
     - u/poto-tomato pointed out that CopperheadOS is [no longer active](https://old.reddit.com/r/CopperheadOS/comments/8qdnn3/goodbye/). It has now evolved into a [new project](https://old.reddit.com/r/CopperheadOS/comments/b6muvh/androidhardening_project_renamed_to_grapheneos/) under the name [GrapheneOS](https://github.com/GrapheneOS).
   - [Plasma Mobile](https://www.plasma-mobile.org/) - **5-eyes** - Looks a bit like older versions of Android (before 7.0). Open-source and runs Linux. Very dedicated team, definitely worth trying out.
   - [Replicant](https://replicant.us/) - **5-eyes** - Free Android distribution. Puts the emphasis on "freedom and privacy/security".
-  - [/e/](https://e.foundation/) - **9-eyes** - A new open-source, privacy-focused operating system for Android devices. Looks very promising. (thanks u/itsec_ho)
+  - [/e/](https://e.foundation/) - **9-eyes** - A new open-source, privacy-focused operating system for Android devices. Looks very promising (thanks u/itsec_ho). **Note: u/steamport shared [this link](https://ewwlo.xyz/evil.html).
 - Chrome OS
   - [Qubes OS](https://www.qubes-os.org/) - "A reasonably secure operating system", at least according to their website. Edward Snowden recommends it.
   - [Tails](https://tails.boum.org/) - For the uber-paranoid. Runs live and the entire OS is routed through Tor right from boot. Built on Debian.
@@ -207,6 +215,7 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [OSMC](https://osmc.tv/) - Free, open source media center. Strongest competitor to Kodi.
 
 ## Desktop applications
+
 - Chrome
   - [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium) - Chromium (which Chrome and countless other browsers are built on top of) is one of the cleanest and light-weight browsers available. This version cuts out all the Google crap. *Editor note: I've used it for a work project and it's ridiculously fast.*
   - [Firefox](https://firefox.com/) - Built by Mozilla. Huge extension library; great for privacy.
@@ -222,7 +231,9 @@ These Firefox extensions can help prevent connections to Google domains and also
   - *Help requested!*
 
 ## Mobile applications (mobile apps installable from stores)
+
 When searching for replacements, check the alternative stores (such as F-Droid) before checking the Play Store.
+
 - Play Store
   - [F-Droid](https://f-droid.org/) - Catalogue of FOSS apps for Android. Easy to install and keeps track of updates. Also has a browser version if you don't want to install the app.
   - [Aptoide](https://www.aptoide.com/) - Marketplace for Android apps. Publishers/developers manage their own stores rather than a centralized market such as Google Play Store.
@@ -305,11 +316,13 @@ When searching for replacements, check the alternative stores (such as F-Droid) 
   - *Help requested!*
 
 Android launchers:
+
 - [Shade Launcher](https://github.com/amirzaidi/Shade) - Open-source Android launcher styled after the Google Pixel launcher. No F-Droid, but you can download the APK from GitHub.
 - [ZimLX](https://github.com/otakuhqz/ZimLX) - Open-source launcher. Active development with lots of nice features. Available from F-Droid.
 - [Lawnchair](https://lawnchair.app/) - Another open-source launcher, also built to look similar to Google's launcher (it is built off AOSP Launcher3). Available from F-Droid and also APKMirror. (thanks u/droidonomy)
 
 ## Hardware
+
 - Nexus/Pixel
   - [This list](https://www.oneclickroot.com/rootable/) shows compatibility for rooting Android devices.
 - Chromebook
@@ -323,7 +336,9 @@ Android launchers:
   - [Home Assistant](https://www.home-assistant.io/) - Open-source home automation. (thanks u/bilange)
 
 # Useful links, tools, and advice
+
 Everything you need to become Privacy Wizard.
+
 - The [r/Privacy wiki](https://old.reddit.com/r/privacy/wiki/index) has a lot of helpful information; I highly recommend reading through it! Seriously, do it now, then come back here.
 - Read the [r/VPN](https://old.reddit.com/r/VPN/) sidebar and [wiki](https://old.reddit.com/r/VPN/wiki/index) to learn more about why you should consider using a VPN. I personally use PIA.
 - Click [here](https://outline.com/XuMTFA) and [here](https://outline.com/dqfuqL) for some great tips on creating strong passwords.
@@ -351,10 +366,13 @@ Everything you need to become Privacy Wizard.
 - Check out [Prism Break](https://prism-break.org/en/) (thanks u/FrontierPsycho)
 - [Guide for Linux users](https://github.com/wesaphzt/block-all-google) on blocking everything Google at the network level. This can and probably will break other alternatives that rely on Google to serve content. Thanks u/wesaphzt
 - u/wesaphzt also provided [this](https://github.com/pyllyukko/user.js), [this](https://ffprofile.com/), and [this](https://www.privacytools.io/browsers/#about_config) for hardening Firefox.
+- Check out [WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) and [this tutorial](https://github.com/adolfintel/Windows10-Privacy) for even more Windows 10 tips (thanks u/rudolf323)
 - Did you read the [wiki](https://old.reddit.com/r/privacy/wiki/index) yet? Go do that.
 
 # The lighter side
+
 All that reading got you tired out? Or super interested in nerdy stuff? Awesome, now go check out these.
+
 - Movies and TV I recommend:
   - *Snowden (2016)* - Based on the true story of Edward Snowden, the CIA/NSA/etc whistleblower. I've seen it about 30 times. Directed by Oliver Stone.
   - *Deep Web (2015)* - Documentary (narrated by Keanu Reeves) about Ross Ulbricht aka. Dread Pirate Roberts and the infamous "Silk Road" dark market. Directed by Alex Winter.
@@ -370,6 +388,7 @@ All that reading got you tired out? Or super interested in nerdy stuff? Awesome,
   - System32 Comics [Instagram](https://www.instagram.com/system32comics/) and [Reddit](https://www.reddit.com/r/System32Comics/) - Comedic computer comics.
 
 # Closing remarks
+
 It's a shame that Google, with their immense resources, power, and influence, don't see the benefits of helping people secure themselves online. Instead, they force people like us to scour the web for alternatives and convince our friends and family to do the same, while they sell off our data to the highest bidder.
 
 Hopefully this guide can serve as a starting point for those new to privacy, or be a good refresher for the experts.
