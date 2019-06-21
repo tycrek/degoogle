@@ -141,6 +141,7 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [Nextcloud](https://nextcloud.com/) - **14-eyes** - Also self-hosted. Spin-off of ownCloud.
   - [Syncthing](https://syncthing.net/) - **9-eyes** - An interesting take on cloud storage: decentralized. Peer-to-peer between only your devices. Software is open-source and available on GitHub.
   - [Sia](https://sia.tech/) - Fully decentralized cloud storage.
+  - [Tresorit](https://tresorit.com/) - Primarily meant for businesses, but offeres a free version for individuals as well. (thanks u/xNick26)
   - *Editor note: I'm not including MEGA. I do not recommend MEGA. It's far too controversial and far too difficult to figure out who actually owns the service. Also, it's a 5-eyes.*
 - Hangouts
   - [Telegram](https://telegram.org/) - Telegram is one of the biggest names out there for secure communication. Previously based in Russia, the company has since moved to Dubai.
@@ -162,6 +163,7 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [Joplin](https://joplinapp.org/) - Open-source notes/todo app. Available for Windows, macOS, Linux, Android, and iOS. Also offers a terminal version. It can import Evernote `.enex` files if you use that. It can also sync with Nextcloud (mentioned above).
   - [Standard Notes](https://standardnotes.org/) - Encrypted note storage with loads of features. Offers a web app as well as downloads for most operating systems. Has a paid plan, but the free tier has many useful features as well.
   - [Zoho Notebook](https://www.zoho.com/notebook/) - A notebook from Zoho. Also available on Android.
+  - [QOwnNotes](https://www.qownnotes.org/) - Open-source file editor with Markdown support. (thanks u/maqp2)
 - Play Music & Play Movies and TV
   - [Jellyfin](https://jellyfin.github.io/) - Open-source alternative to the Play media services. You do need to provide your own content, however. In active development with frequent updates (to the source, that is).
   - [Airsonic](https://airsonic.github.io/) - **Music only** - Self-hosted open-source media streamer. Has features for transcoding audio on-the-fly for "virtually any audio format". You can also set bandwidth limits if you need to. Looks very powerful.
@@ -260,6 +262,7 @@ When searching for replacements, check the alternative stores (such as F-Droid) 
 - Contacts
   - [Fruux (mobile app)](https://fruux.com/) - Fruux *also* provides a contacts app.
   - [Simple Contacts](https://github.com/SimpleMobileTools/Simple-Contacts) - Open-source. Part of the [Simple Mobile Tools](https://github.com/SimpleMobileTools) project. Available from F-Droid.
+  - [Open Contacts](https://f-droid.org/en/packages/opencontacts.open.com.opencontacts/) - Available from F-Droid. (thanks u/consentio)
 - Android Messages (specifically SMS, not IM)
   - [QKSMS](https://github.com/moezbhatti/qksms) - Open-source. Very clean and feature rich SMS app.
   - [Silence.im](https://silence.im/) - Open-source and utilizes Signal's encryption protocol. Seamlessly works with SMS. End-to-end encryption with other Silence users.
@@ -292,6 +295,7 @@ When searching for replacements, check the alternative stores (such as F-Droid) 
 - Maps/Waze
   - Don't use Waze. It's owned by Google.
   - [Maps](https://f-droid.org/en/packages/com.github.axet.maps/) - Available from F-Droid. Open-source navigation app based on MAPS.ME. Searching for addresses doesn't always work and finding businesses can be a slight hassle, but overall one of the better apps I've used.
+  - [OsmAnd](https://osmand.net/) - OpenStreeMaps for Android. (thanks u/masao77)
 - News
   - [Flym](https://github.com/FredJul/Flym) - Open-source materian design RSS reader. Available from F-Droid.
 - Photos
@@ -342,7 +346,7 @@ Everything you need to become Privacy Wizard.
 - The [r/Privacy wiki](https://old.reddit.com/r/privacy/wiki/index) has a lot of helpful information; I highly recommend reading through it! Seriously, do it now, then come back here.
 - Read the [r/VPN](https://old.reddit.com/r/VPN/) sidebar and [wiki](https://old.reddit.com/r/VPN/wiki/index) to learn more about why you should consider using a VPN. I personally use PIA.
 - Click [here](https://outline.com/XuMTFA) and [here](https://outline.com/dqfuqL) for some great tips on creating strong passwords.
-- Use a [password manager](https://outline.com/pHsALA) to keep all your passwords secure. I use LastPass.
+- Use a [password manager](https://outline.com/pHsALA) to keep all your passwords secure. ~~I use LastPass~~ u/-Choose-A-User- and u/EbonixCo have convinced me to switch to [Bitwarden](https://bitwarden.com/). So far it's just as good, if not better.
 - Set up [multi-factor/two-factor authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication) on as many accounts as you can. It may be a pain, but it could save you from a targeted hack.
 - Don't save passwords to your browser! [Erase the entire password cache](http://www.wikihow.com/Delete-Remembered-Passwords) once you set up a password manager.
 - [AlternativeTo](https://alternativeto.net/) has alternatives for pretty much any software, site, or service out there.
