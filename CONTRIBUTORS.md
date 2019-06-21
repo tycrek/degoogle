@@ -32,3 +32,9 @@ Reddit:
 - u/rightknobhead
 - u/FrontierPsycho
 - u/Abaddon182
+- u/xNick26
+- u/maqp2
+- u/consentio
+- u/masao77
+- u/-Choose-A-User-
+- u/EbonixCo
