@@ -1,1 +1,2 @@
-u/SheepKid12 has a [GitLab mirror](https://gitlab.com/SheepKid12/degoogle)
+- u/SheepKid12 has a [GitLab mirror](https://gitlab.com/SheepKid12/degoogle)
+- [Xerbo](https://github.com/Xerbo) is hosting a [mirror](https://git.xerbo.net/Xerbo/degoogle)
