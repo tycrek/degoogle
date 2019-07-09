@@ -292,6 +292,7 @@ When searching for replacements, check the alternative stores (such as F-Droid) 
   - [Omni Notes](https://omninotes.app/) - Very feature rich, open-source, material design notes app. Very active development. Available on F-Droid.
   - [Carnet](https://github.com/PhieF/CarnetDocumentation) - I had some trouble finding info on this one. Looks like it has pretty seamless/painless ownCloud and NextCloud integration. Also available on F-Droid.
   - [Markor](https://gsantner.net/project/markor.html) - Open-source notes/to-do app for Android. Supports Markdown editing. Available on F-Droid. App is 100% offline, as stated on the [GitHub README](https://github.com/gsantner/markor#privacy).
+  - [Orgzly](http://orgzly.com/) Open-source and available from F-Droid. Notes are stored in the plain-text [Org mode](https://orgmode.org/) format. Supports searching, metadata, and manual sync with Dropbox or local directory, which can be synced using e.g. Syncthing.
 - Maps/Waze
   - Don't use Waze. It's owned by Google.
   - [Maps](https://f-droid.org/en/packages/com.github.axet.maps/) - Available from F-Droid. Open-source navigation app based on MAPS.ME. Searching for addresses doesn't always work and finding businesses can be a slight hassle, but overall one of the better apps I've used.
