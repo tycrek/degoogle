@@ -166,6 +166,7 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [QOwnNotes](https://www.qownnotes.org/) - Open-source file editor with Markdown support. (thanks u/maqp2)
 - Play Music & Play Movies and TV
   - [Jellyfin](https://jellyfin.github.io/) - Open-source alternative to the Play media services. You do need to provide your own content, however. In active development with frequent updates (to the source, that is).
+  - [Funkwhale](https://funkwhale.audio/) - Self hosted, decentralized music service. Provide your own audio. (thanks u/DashEquals)
   - [Airsonic](https://airsonic.github.io/) - **Music only** - Self-hosted open-source media streamer. Has features for transcoding audio on-the-fly for "virtually any audio format". You can also set bandwidth limits if you need to. Looks very powerful.
   - [Music Player Daemon](https://www.musicpd.org/) - A "flexible, powerful, server-side application for playing music".
   - *Editor note: I can no longer recommend [Emby](https://emby.media/) as they are [no longer open-source](https://www.linuxuprising.com/2018/12/jellyfin-free-software-emby-media.html).*
