@@ -3,6 +3,7 @@ Thanks to everyone here for contributing in some way! (usernames are in no parti
 GitHub:
 
 - [Fabian Cook](https://github.com/fabiancook)
+- [Alexander Schaap](https://github.com/aschaap)
 
 Reddit:
 
