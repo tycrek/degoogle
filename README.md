@@ -283,7 +283,7 @@ When searching for replacements, check the alternative stores (such as F-Droid) 
   - [Protonmail](https://protonmail.com/support/knowledge-base/android/) - Can be downloaded from the Play Store, but may work with one of the store replacements above (such as Yalp).
   - [Tutanota](https://f-droid.org/en/packages/de.tutao.tutanota/) - Client available from F-Droid.
   - [Zoho Mail](https://www.zoho.com/mail/ios-android-apps.html) - Also on the Play Store but other stores may work too.
-  - Posteo - Any open-source mail client. I use [FairEmail](https://email.faircode.eu/) from F-Droid.
+  - Posteo - Any open-source mail client. I use [K-9 Mail](https://k9mail.github.io/) and have previously used [FairEmail](https://email.faircode.eu/). Both are available on F-Droid.
   - Mailbox.org - *Help requested*
   - [Disroot](https://f-droid.org/en/packages/org.disroot.disrootapp/) - Available from F-Droid.
 - Keep (or any stock note-taking app)
