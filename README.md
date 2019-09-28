@@ -1,7 +1,6 @@
 # Cutting Google out of your life (2019)
 ### *I don't have anything to hide, but I don't have anything to show you either.*
 # Introduction
-**Hello all!** Last year, I posted a "de-google" [megathread](https://old.reddit.com/r/privacy/comments/8l3vjy/can_we_get_a_megathread_on_breaking_away_from/) on [cutting Google out of your life](https://old.reddit.com/r/privacy/comments/8m2u8e/megathread_cutting_google_out_of_your_life/). It can be found [on this sub's Wiki](https://old.reddit.com/r/privacy/wiki/de-google). However, much can change in a year, so I thought I'd come back and do it again.
 
 *Huge* thanks to [AlternativeTo](https://alternativeto.net/). Without them and their users, this project would be significantly more difficult, if not impossible.
 
@@ -20,10 +19,7 @@ If you want to help out with the project, here are some ideas:
 You can do these by:
 
 - Submitting Issues/Pull Requests on the [GitHub page](https://github.com/tycrek/degoogle)
-- Sending me (u/supamonkey2000) a PM
-- Email (both are me):
-  - josh.moore@jmoore.dev
-  - Sk0yMDAwLzA5LzE3@protonmail.com
+- (Removed contact info, please only use GitHub)
 
 Please specifiy if you wish to remain anonymous or if you want your Reddit username added to a contributors list.
 
