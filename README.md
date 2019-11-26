@@ -185,6 +185,7 @@ These Firefox extensions can help prevent connections to Google domains and also
   - *Note: You'll either need a rooted device with an unlocked bootloader, or a specific device depending on which OS you like.*
   - [Ubuntu Touch](https://ubuntu-touch.io/) - Ubuntu, but for phones.
   - [LineageOS](https://www.lineageos.org/) **5-eyes** - Open-source and based on Android, but without the crap.
+  - [GrapheneOS](https://grapheneos.org/) **5-eyes** -  An open-source privacy and security focused mobile OS with Android app compatibility.
   - [SailfishOS](https://sailfishos.org/) - *Help requested!*
   - ~~[CopperheadOS](https://copperhead.co/android/) - **5-eyes** - A "secure" version of Android from Canada.~~
     - u/poto-tomato pointed out that CopperheadOS is [no longer active](https://old.reddit.com/r/CopperheadOS/comments/8qdnn3/goodbye/). It has now evolved into a [new project](https://old.reddit.com/r/CopperheadOS/comments/b6muvh/androidhardening_project_renamed_to_grapheneos/) under the name [GrapheneOS](https://github.com/GrapheneOS).
