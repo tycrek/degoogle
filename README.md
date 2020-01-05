@@ -106,6 +106,8 @@ These Firefox extensions can help prevent connections to Google domains and also
   - *Help requested!*
 - Google Ads/AdMob/AdSense
   - *Help requested!*
+- Google Alerts
+  - *Help requested!*
 - G Suite
   - [Zoho](https://www.zoho.com/) - Zoho was included in 2018's thread as well, and they've only improved since then. They offer a full enterprise business suite that can easily rival G Suite or MS Office 365.
 - Blogger/Sites
