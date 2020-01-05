@@ -170,6 +170,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 - Fonts
   - [Open Font Library](https://fontlibrary.org/) - **5-eyes** - Lots of Serif and Sans-Serif fonts that can be directly embedded into a website.
 - Classroom
+  - [Canvas](https://www.instructure.com/canvas) Paid service by Instructure. Also avaliable as a [self hosted, open source option] (https://github.com/instructure/canvas-lms)
   - *Help requested!*
 - Maps/Street View
   - [OpenStreetMaps](https://www.openstreetmap.org/) **9-eyes** - Collaborative project to create a free, editable map of the world (from Wikipedia). Completely crowdsources. Very strong alternative to Maps.
