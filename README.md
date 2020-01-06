@@ -80,7 +80,7 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [DuckDuckGo](https://duckduckgo.com/) - **5-eyes** -  One of the best privacy-focused search engines. Domain is hosted in USA which could potentially be problematic for some. *Editor note: I've used this for the past ~5 months and haven't had any major issues. Instant Answers are incredibly helpful for programming).*
   - [Startpage](https://www.startpage.com/) - **9-eyes** - Another privacy search engine that claims to not track any of your data. They operate servers in both USA and Europe.
   - [searx.me](https://searx.me/) - [Open-source](https://github.com/asciimoo/searx) (thanks for clarification u/Sheezdudeln) privacy search engine. Domain hosted in Germany.
-  - [Qwant](https://www.qwant.com/) - Major improvements since 2018's guide.
+  - [Qwant](https://www.qwant.com/) - **9-eyes** - Major improvements since 2018's guide.
   - [Swisscows](https://swisscows.ch/) - A Swiss search engine that offers a unique search experience for the web, images, videos, music, and more. They are currently funding a mail service. Read through their [datacenter](https://swisscows.ch/en/datacenter) about page, it's really interesting.
   - [Ecosia](https://www.ecosia.org/) - **14-eyes** - Search engine that plants trees.
   - [Mojeek](https://www.mojeek.com/) - **5-eyes** - Unlike other privacy search engines which act as a "middle man" between you and Google/Bing/Yahoo, Mojeek has their own crawler and index. The results aren't as complete as some of the others, but it is still impressive and they are actively building their index to include more results with better accuracy.
