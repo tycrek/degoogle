@@ -91,6 +91,7 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [BitChute](https://www.bitchute.com/) - Also P2P, but not decentralized. Due to it being proprietary, if BitChute goes down then the whole thing goes down (unlike PeerTube). (thanks u/up-sky-7)
   - [DTube](https://d.tube/) - Looks very similar to YouTube. Advertised as "first crypt-decentralized video-platform". Built on Steemit and IPFS.
   - [Bit.tube](https://bit.tube/) - Appears to be a crypto-powered decentralized video sharing service. (thanks u/rudolf323)
+  - [LBRY](https://lbry.io/) - A decentralized protocol to host any content, where at the moment, video is the most common content. Looks up videos based on a blockchain and is open source and uncensored. It already has some "larger" creators like Minutephysics, Veritasium, Barnacules and Lunduke.
   - [Invidious](https://invidio.us/) - An [open-source](https://github.com/omarroth/invidious) front-end alternative to YouTube. Seems to work pretty well from my experience so far, and it hasn't triggered *anything* on my adblocker/privacy extensions. Also offers downloads in many formats for videos (including `.vtt` subtitles).
   - [Hooktube](https://hooktube.com/) - A slightly better way to use actual YouTube. (Use as a "last resort")
 - News
