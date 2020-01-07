@@ -140,8 +140,8 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [Tresorit](https://tresorit.com/) - Primarily meant for businesses, but offeres a free version for individuals as well. (thanks u/xNick26)
   - *Editor note: I'm not including MEGA. I do not recommend MEGA. It's far too controversial and far too difficult to figure out who actually owns the service. Also, it's a 5-eyes.*
 - Hangouts
-  - [Telegram](https://telegram.org/) - Telegram is one of the biggest names out there for secure communication. Previously based in Russia, the company has since moved to Dubai.
   - [Signal](https://signal.org/) - Whistleblower and privacy advocate Edward Snowden recommends Signal.
+  - [Telegram](https://telegram.org/) - Telegram is one of the biggest names out there for secure communication. Previously based in Russia, the company has since moved to Dubai.
   - [Tox](https://tox.chat/) - Tox is unique as it uses P2P technology to ensure the network *never* goes down, as long as there are users to keep it alive. They specifically say on the website "Tox has no central servers that can be raided, shut down, or forced to turn over data".
   - [Wire](https://wire.com/en/) - **14-eyes** - Uses end-to-end encryption. Looks to be more of a corporate service with tiered plans.
   - [Riot](https://about.riot.im/) - Open-source privacy-focused chat service with end-to-end encryption. They offer webapps, desktop apps, iOS, and Android (Play Store and F-Droid). Uses the "Matrix" protocol for decentralized communication. It is 100% free and open-source with no paid plans.
@@ -271,6 +271,7 @@ When searching for replacements, check the alternative stores (such as F-Droid) 
   - [Simple Keyboard](https://github.com/rkkr/simple-keyboard) - Open-source, available from F-Droid.
   - [Indic Keyboard](https://gitlab.com/indicproject/indic-keyboard) - Open-source keyboard that supports many languages that other keyboards sometimes don't support. Not on F-Droid, but can be built from source or possibly through a Play Store alternative.
 - Drive
+  - [Sync](https://www.sync.com) - End-to-end encrypted Google Drive/Dropbox replacement.
   - [ownCloud Android](https://github.com/owncloud/android) - ownCloud Android client.
   - [Nextcloud Android](https://github.com/nextcloud/android) - Nextcloud Android client.
   - [Syncthing Android](https://github.com/syncthing/syncthing-android) - Wrapper of Syncthing for Android
