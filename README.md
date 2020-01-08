@@ -78,11 +78,10 @@ These Firefox extensions can help prevent connections to Google domains and also
 
 - Search (web, images)
   - [DuckDuckGo](https://duckduckgo.com/) - **5-eyes** -  One of the best privacy-focused search engines. Domain is hosted in USA which could potentially be problematic for some. *Editor note: I've used this for the past ~5 months and haven't had any major issues. Instant Answers are incredibly helpful for programming).*
-  - [Startpage](https://www.startpage.com/) - **9-eyes** - Another privacy search engine that claims to not track any of your data. They operate servers in both USA and Europe.
+  - [Startpage](https://www.startpage.com/) - **9-eyes** - Another privacy search engine that claims to not track any of your data. They operate servers in both USA and Europe. Note: Startpage was recently acquired. See [Issue #12](https://github.com/tycrek/degoogle/issues/12). Thanks @pydo, @ThijsRay, and @DatAres37.
   - [searx.me](https://searx.me/) - [Open-source](https://github.com/asciimoo/searx) (thanks for clarification u/Sheezdudeln) privacy search engine. Domain hosted in Germany.
   - [Qwant](https://www.qwant.com/) - Major improvements since 2018's guide.
   - [Swisscows](https://swisscows.ch/) - A Swiss search engine that offers a unique search experience for the web, images, videos, music, and more. They are currently funding a mail service. Read through their [datacenter](https://swisscows.ch/en/datacenter) about page, it's really interesting.
-  - [Ecosia](https://www.ecosia.org/) - **14-eyes** - Search engine that plants trees.
   - [Mojeek](https://www.mojeek.com/) - **5-eyes** - Unlike other privacy search engines which act as a "middle man" between you and Google/Bing/Yahoo, Mojeek has their own crawler and index. The results aren't as complete as some of the others, but it is still impressive and they are actively building their index to include more results with better accuracy.
 - Images
   - *See above. All provide some form of image search.*
@@ -139,13 +138,14 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [Sia](https://sia.tech/) - Fully decentralized cloud storage.
   - [Tresorit](https://tresorit.com/) - Primarily meant for businesses, but offeres a free version for individuals as well. (thanks u/xNick26)
   - *Editor note: I'm not including MEGA. I do not recommend MEGA. It's far too controversial and far too difficult to figure out who actually owns the service. Also, it's a 5-eyes.*
-- Hangouts
-  - [Telegram](https://telegram.org/) - Telegram is one of the biggest names out there for secure communication. Previously based in Russia, the company has since moved to Dubai.
+- Hangouts (instant messaging)
   - [Signal](https://signal.org/) - Whistleblower and privacy advocate Edward Snowden recommends Signal.
   - [Tox](https://tox.chat/) - Tox is unique as it uses P2P technology to ensure the network *never* goes down, as long as there are users to keep it alive. They specifically say on the website "Tox has no central servers that can be raided, shut down, or forced to turn over data".
   - [Wire](https://wire.com/en/) - **14-eyes** - Uses end-to-end encryption. Looks to be more of a corporate service with tiered plans.
   - [Riot](https://about.riot.im/) - Open-source privacy-focused chat service with end-to-end encryption. They offer webapps, desktop apps, iOS, and Android (Play Store and F-Droid). Uses the "Matrix" protocol for decentralized communication. It is 100% free and open-source with no paid plans.
+  - [Threema](https://threema.ch/en) - Swiss-based GDPR-compliant instant messenger. Has apps for both iOS and Android. Unlike Signal, no phone number is required (nor is an email) to sign up. End-to-end encrypted. Thanks to @nathanvogel
   - *Editor note: See [this article](https://outline.com/BK8f7h) for why I didn't include WhatsApp and why you should NOT use it (if someone has a better Outline link, that would be much appreciated).*
+  - I have also **removed** Telegram. See [Issue #29](https://github.com/tycrek/degoogle/issues/29) from @arsv.
 - Gmail
   - [Protonmail](https://protonmail.com/) - One of the top privacy-focused email providers. Servers are in Switzerland in an underground guarded bunker that they claim can "survive a nuclear attack". I've used this frequently and it's pretty good.
   - [Tutanota](https://tutanota.com/) - **14-eyes** - Open-source. Also one of the top privacy-focused email providers. Located in Germany.
@@ -154,6 +154,7 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [mailbox.org](https://mailbox.org/en/) - **14-eyes** - Paid email provider, also located in Germany.
   - [Disroot](https://disroot.org/) - **9-eyes** - Decentralized email service.
   - [StartMail](https://www.startmail.com/en/) - **9-eyes** - Operated by the same people who run StartPage.
+  - [Runbox](https://runbox.com/why-runbox/privacy-protection/) - **9-eyes** - Privacy focusued email provider. Thanks @petertorelli
   - *This is just for the Gmail service, not a client*
 - Keep
   - [Joplin](https://joplinapp.org/) - Open-source notes/todo app. Available for Windows, macOS, Linux, Android, and iOS. Also offers a terminal version. It can import Evernote `.enex` files if you use that. It can also sync with Nextcloud (mentioned above).
@@ -190,7 +191,7 @@ These Firefox extensions can help prevent connections to Google domains and also
     - u/poto-tomato pointed out that CopperheadOS is [no longer active](https://old.reddit.com/r/CopperheadOS/comments/8qdnn3/goodbye/). It has now evolved into a [new project](https://old.reddit.com/r/CopperheadOS/comments/b6muvh/androidhardening_project_renamed_to_grapheneos/) under the name [GrapheneOS](https://github.com/GrapheneOS).
   - [Plasma Mobile](https://www.plasma-mobile.org/) - **5-eyes** - Looks a bit like older versions of Android (before 7.0). Open-source and runs Linux. Very dedicated team, definitely worth trying out.
   - [Replicant](https://replicant.us/) - **5-eyes** - Free Android distribution. Puts the emphasis on "freedom and privacy/security".
-  - [/e/](https://e.foundation/) - **9-eyes** - A new open-source, privacy-focused operating system for Android devices. Looks very promising (thanks u/itsec_ho). **Note: u/steamport shared [this link](https://ewwlo.xyz/evil.html).
+  - [/e/](https://e.foundation/) - **9-eyes** - A new open-source, privacy-focused operating system for Android devices. Looks very promising (thanks u/itsec_ho). Note: u/steamport shared [this link](https://ewwlo.xyz/evil.html).
 - Chrome OS
   - [Qubes OS](https://www.qubes-os.org/) - "A reasonably secure operating system", at least according to their website. Edward Snowden recommends it.
   - [Tails](https://tails.boum.org/) - For the uber-paranoid. Runs live and the entire OS is routed through Tor right from boot. Built on Debian.
@@ -210,8 +211,8 @@ These Firefox extensions can help prevent connections to Google domains and also
 - Android Auto
   - *Help requested!*
 - Google TV/Android TV
-  - [Kodi](https://kodi.tv/) - It's incredibly powerful. Backed by one of the strongest communities around. Tons of plugins to do nearly anything you want.
-  - [OSMC](https://osmc.tv/) - Free, open source media center. Strongest competitor to Kodi.
+  - [Kodi](https://kodi.tv/) - It's incredibly powerful and backed by one of the strongest communities around. Tons of plugins to do nearly anything you want. Software installs on nearly any platform.
+  - [OSMC](https://osmc.tv/) - Free, open source media center OS. Kodi is pre-installed. Thanks to @g4rret and @lgiard for clarifying the difference between Kodi and OSMC!
 
 ## Desktop applications
 
@@ -294,6 +295,8 @@ When searching for replacements, check the alternative stores (such as F-Droid) 
   - Don't use Waze. It's owned by Google.
   - [Maps](https://f-droid.org/en/packages/com.github.axet.maps/) - Available from F-Droid. Open-source navigation app based on MAPS.ME. Searching for addresses doesn't always work and finding businesses can be a slight hassle, but overall one of the better apps I've used.
   - [OsmAnd](https://osmand.net/) - OpenStreeMaps for Android. (thanks u/masao77)
+  - [Transportr](https://transportr.app/) - Primarily European, this is an open-source public transport app. Thanks to @lgiard
+  - [Offi or Oeffi](https://oeffi.schildbach.de/) - Another recommendation from @lgiard, this app is also for public transport.
 - News
   - [Flym](https://github.com/FredJul/Flym) - Open-source materian design RSS reader. Available from F-Droid.
 - Photos
