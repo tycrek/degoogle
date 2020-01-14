@@ -170,6 +170,7 @@ These Firefox extensions can help prevent connections to Google domains and also
   - Thanks to u/eA8KESARaW6iqCpHsbE4 for suggesting Jellyfin and pointing out that Emby isn't open-source.
 - Fonts
   - [Open Font Library](https://fontlibrary.org/) - **5-eyes** - Lots of Serif and Sans-Serif fonts that can be directly embedded into a website.
+  - [google webfonts helper](https://google-webfonts-helper.herokuapp.com/fonts) - **5-eyes** - Hassle-free way for webmasters to self-host open-source Fonts from "Google Fonts"
 - Classroom
   - [Moodle](https://moodle.org/) - Self-hosted Classroom software for schools. Very powerful. Thanks @jankapunkt
   - [ILIAS](https://www.ilias.de/en/) - Another self-hosted open source classroom software. Thanks again to @jankapunkt
