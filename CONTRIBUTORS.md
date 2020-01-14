@@ -12,6 +12,7 @@ GitHub:
 - [@nathanvogel](https://github.com/nathanvogel)
 - [@petertorelli](https://github.com/petertorelli)
 - [@arsv](https://github.com/arsv)
+- [@ribtoks](https://github.com/ribtoks)
 
 Reddit:
 

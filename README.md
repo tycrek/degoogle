@@ -106,7 +106,8 @@ These Firefox extensions can help prevent connections to Google domains and also
 - Google Ads/AdMob/AdSense
   - *Help requested!*
 - G Suite
-  - [Zoho](https://www.zoho.com/) - Zoho was included in 2018's thread as well, and they've only improved since then. They offer a full enterprise business suite that can easily rival G Suite or MS Office 365.
+  - *Help requested!*
+  - Note: Zoho has been removed as per issue #53. See [this link](https://news.ycombinator.com/item?id=18056723). Thanks @ribtoks
 - Blogger/Sites
   - [Joomla](https://www.joomla.org/) - Self-hosted and open-source content management system (CMS).
   - [Write.as](https://write.as/) - Self-advertised as privacy-focused.
@@ -123,10 +124,10 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [Lightning Calendar](https://www.thunderbird.net/en-US/calendar/) (Thunderbird)- Developed by Mozilla Foundation and open-source. Integrates into Thunderbird and SeaMonkey.
   - [Fruux](https://fruux.com/) - **14-eyes** - Open-source calendar using "sabre/dav" (open-source WebDAV, CardDAV, and CalDAV). They mention privacy quite a bit on their site. Very large number of features, and supports nearly every device: Windows, iOS, Linux, Android, BlackBerry, SailFish, and also a Webapp for browsers.
 - Docs/Sheets/Slides (cloud collaboration)
-  - [Zoho](https://www.zoho.com/) - I mentioned Zoho above for G Suite, so here they are again.
   - [CryptPad](https://cryptpad.fr/) - **9-eyes** - Open-source "zero knowledge" collaborative cloud editor. They offer Rich Text, Code, Presentation, Sheet (beta), Poll, Kanban, Whiteboard, and CryptDrive. 100% Client side encryption. Tons of useful features.
   - [Etherpad](https://etherpad.org/) - Self-hosted collaborative editor. Does not use the browser. Not the greatest interface, but it's open-source and you have full control over who can see your data.
   - [Cryptee](https://crypt.ee/) - Open-source and privacy focused photo and document storage/editing. Based in Estonia, so your files are outside the reach of any 14-eyes country. They don't even require an email address to sign up.
+  - Note: Zoho has been removed as per issue #53. See [this link](https://news.ycombinator.com/item?id=18056723). Thanks @ribtoks
 - Docs/Sheets/Slides (offline)
   - [LibreOffice](https://www.libreoffice.org/) and [Apache OpenOffice](https://www.openoffice.org/) - Both are open-source offline document suites.
 - Domains
@@ -147,19 +148,18 @@ These Firefox extensions can help prevent connections to Google domains and also
   - *Editor note: See [this article](https://outline.com/BK8f7h) for why I didn't include WhatsApp and why you should NOT use it (if someone has a better Outline link, that would be much appreciated).*
   - I have also **removed** Telegram. See [Issue #29](https://github.com/tycrek/degoogle/issues/29) from @arsv.
 - Gmail
-  - [Protonmail](https://protonmail.com/) - One of the top privacy-focused email providers. Servers are in Switzerland in an underground guarded bunker that they claim can "survive a nuclear attack". I've used this frequently and it's pretty good.
+  - [Protonmail](https://protonmail.com/) - One of the top privacy-focused email providers. Servers are in Switzerland in an underground guarded bunker that they claim can "survive a nuclear attack".
   - [Tutanota](https://tutanota.com/) - **14-eyes** - Open-source. Also one of the top privacy-focused email providers. Located in Germany.
-  - [Zoho Mail](https://www.zoho.com/mail/) - Zoho comes back yet again with a mail solution.
   - [Posteo](https://posteo.de/en) - **14-eyes** - Completely anonymous mail provider located in Germany.
   - [mailbox.org](https://mailbox.org/en/) - **14-eyes** - Paid email provider, also located in Germany.
   - [Disroot](https://disroot.org/) - **9-eyes** - Decentralized email service.
   - [StartMail](https://www.startmail.com/en/) - **9-eyes** - Operated by the same people who run StartPage.
   - [Runbox](https://runbox.com/why-runbox/privacy-protection/) - **9-eyes** - Privacy focusued email provider. Thanks @petertorelli
   - *This is just for the Gmail service, not a client*
+  - Note: Zoho has been removed as per issue #53. See [this link](https://news.ycombinator.com/item?id=18056723). Thanks @ribtoks
 - Keep
   - [Joplin](https://joplinapp.org/) - Open-source notes/todo app. Available for Windows, macOS, Linux, Android, and iOS. Also offers a terminal version. It can import Evernote `.enex` files if you use that. It can also sync with Nextcloud (mentioned above).
   - [Standard Notes](https://standardnotes.org/) - Encrypted note storage with loads of features. Offers a web app as well as downloads for most operating systems. Has a paid plan, but the free tier has many useful features as well.
-  - [Zoho Notebook](https://www.zoho.com/notebook/) - A notebook from Zoho. Also available on Android.
   - [QOwnNotes](https://www.qownnotes.org/) - Open-source file editor with Markdown support. (thanks u/maqp2)
 - Play Music & Play Movies and TV
   - [Jellyfin](https://jellyfin.github.io/) - Open-source alternative to the Play media services. You do need to provide your own content, however. In active development with frequent updates (to the source, that is).
@@ -279,7 +279,6 @@ When searching for replacements, check the alternative stores (such as F-Droid) 
 - Gmail
   - [Protonmail](https://protonmail.com/support/knowledge-base/android/) - Can be downloaded from the Play Store, but may work with one of the store replacements above (such as Yalp).
   - [Tutanota](https://f-droid.org/en/packages/de.tutao.tutanota/) - Client available from F-Droid.
-  - [Zoho Mail](https://www.zoho.com/mail/ios-android-apps.html) - Also on the Play Store but other stores may work too.
   - Posteo - Any open-source mail client. I use [K-9 Mail](https://k9mail.github.io/) and have previously used [FairEmail](https://email.faircode.eu/). Both are available on F-Droid.
   - Mailbox.org - *Help requested*
   - [Disroot](https://f-droid.org/en/packages/org.disroot.disrootapp/) - Available from F-Droid.
