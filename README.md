@@ -105,6 +105,8 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [Matomo](https://matomo.org/) - **9/14-eyes** (Matomo/parent company) - Open-source analytics platform. (thanks u/Newblik)
   - [Plausible](https://plausible.io/) - **5-eyes** - Not open-source, but privacy-focused web analytics.
 - Photos
+  - [Photoprism](https://github.com/photoprism/photoprism) - Self-hosted and open-source Personal Photo Management powered by Go and Google TensorFlow.
+  - [ownPhotos](https://github.com/hooram/ownphotos) - Self-hosted and open-source Google Photos alternative.
   - [Piwigo](https://piwigo.org/) - **9-eyes** (self-hosted) - Self-hosted and open-source cloud photo manager. You can also sign up for an ["as a service" account](https://piwigo.com).
   - *Help requested!*
 - Calendar
