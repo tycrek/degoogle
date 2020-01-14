@@ -15,6 +15,7 @@ GitHub:
 - [@ribtoks](https://github.com/ribtoks)
 - [@PopeRigby](https://github.com/PopeRigby)
 - [@brandonnodnarb](https://github.com/brandonnodnarb)
+- [@avasts](https://github.com/avasts)
 
 Reddit:
 
