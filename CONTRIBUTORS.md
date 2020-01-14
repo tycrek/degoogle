@@ -16,6 +16,7 @@ GitHub:
 - [@PopeRigby](https://github.com/PopeRigby)
 - [@brandonnodnarb](https://github.com/brandonnodnarb)
 - [@avasts](https://github.com/avasts)
+- [@okias](https://github.com/okias)
 
 Reddit:
 

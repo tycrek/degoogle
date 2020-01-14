@@ -189,7 +189,7 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [SailfishOS](https://sailfishos.org/) - *Help requested!*
   - ~~[CopperheadOS](https://copperhead.co/android/) - **5-eyes** - A "secure" version of Android from Canada.~~
     - u/poto-tomato pointed out that CopperheadOS is [no longer active](https://old.reddit.com/r/CopperheadOS/comments/8qdnn3/goodbye/). It has now evolved into a [new project](https://old.reddit.com/r/CopperheadOS/comments/b6muvh/androidhardening_project_renamed_to_grapheneos/) under the name [GrapheneOS](https://github.com/GrapheneOS).
-  - [Plasma Mobile](https://www.plasma-mobile.org/) - **5-eyes** - Looks a bit like older versions of Android (before 7.0). Open-source and runs Linux. Very dedicated team, definitely worth trying out.
+  - [postmarketOS](https://postmarketos.org/) - Open-source mobile Linux OS. Can install different user interfaces such as [Plasma Mobile](https://www.plasma-mobile.org/). Thanks @okias
   - [Replicant](https://replicant.us/) - **5-eyes** - Free Android distribution. Puts the emphasis on "freedom and privacy/security".
   - Note: Removed /e/ due to controversies. Look through the GitHub Issues to see for yourself.
 - Chrome OS
