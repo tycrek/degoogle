@@ -72,6 +72,7 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [Qwant](https://www.qwant.com/) - **9-eyes** - Major improvements since 2018's guide. *would prefer better info other than an outdated reference*
   - [Swisscows](https://swisscows.ch/) - A Swiss search engine that offers a unique search experience for the web, images, videos, music, and more. They are currently funding a mail service. Read through their [datacenter](https://swisscows.ch/en/datacenter) about page, it's really interesting.
   - [Mojeek](https://www.mojeek.com/) - **5-eyes** - Unlike other privacy search engines which act as a "middle man" between you and Google/Bing/Yahoo, Mojeek has their own crawler and index. The results aren't as complete as some of the others, but it is still impressive and they are actively building their index to include more results with better accuracy.
+  - [Cyberd](https://cyber.page/) - Decentralized Google. A web 3 alternative for the Google search engine. In Beta testing mode. Uses IPFS and Tendermint consensus for security and economic incentives. Please see their [ELI-5 FAQ](https://github.com/cybercongress/congress/blob/master/ecosystem/ELI-5%20FAQ.md) for more info.
 - Images
   - *See above. All provide some form of image search.*
 - YouTube
