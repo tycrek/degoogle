@@ -115,7 +115,7 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [Photoprism](https://github.com/photoprism/photoprism) - Self-hosted and open-source Personal Photo Management powered by Go and Google TensorFlow.
   - [ownPhotos](https://github.com/hooram/ownphotos) - Self-hosted and open-source Google Photos alternative.
   - [Piwigo](https://piwigo.org/) - **9-eyes** (self-hosted) - Self-hosted and open-source cloud photo manager. You can also sign up for an ["as a service" account](https://piwigo.com).
-  - *Help requested!*
+  - [JottaCloud](https://jottacloud.com/en/) - **9-eyes** - Norway based cloud storage provider with free and paid plans. Thanks @mynamesleon
 - Calendar
   - [Lightning Calendar](https://www.thunderbird.net/en-US/calendar/) (Thunderbird)- Developed by Mozilla Foundation and open-source. Integrates into Thunderbird and SeaMonkey.
   - [Tutanota Calendar](https://tutanota.com/calendar/) - Developed by Tutanota. Free cross-platform encrypted calendar. Allows importing of other Calendar files.
@@ -137,6 +137,7 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [Sia](https://sia.tech/) - Fully decentralized cloud storage.
   - [Tresorit](https://tresorit.com/) - Primarily meant for businesses, but offeres a free version for individuals as well. (thanks u/xNick26)
   - [Sync](https://www.sync.com) - End-to-end encrypted Google Drive/Dropbox replacement.
+  - [JottaCloud](https://jottacloud.com/en/) - **9-eyes** - Norway based cloud storage provider with free and paid plans. Thanks @mynamesleon
   - *Editor note: I'm not including MEGA. I do not recommend MEGA. It's far too controversial and far too difficult to figure out who actually owns the service. Also, it's a 5-eyes.*
 - Hangouts (instant messaging)
   - [Signal](https://signal.org/) - Whistleblower and privacy advocate Edward Snowden recommends Signal.
