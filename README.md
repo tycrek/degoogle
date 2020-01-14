@@ -1,19 +1,28 @@
-# Cutting Google out of your life (2019) (Updated: Jan 2020)
+# Cutting Google out of your life (2019) *(Updated: Jan 2020)*
 ### *I don't have anything to hide, but I don't have anything to show you either.*
-# Introduction
 
-*Huge* thanks to [AlternativeTo](https://alternativeto.net/). Without them and their users, this project would be significantly more difficult, if not impossible.
-
-Before reading this guide, I highly recommend reading through [Privacy Tools](https://www.privacytools.io/) and [ethical.net](https://ethical.net/) (thanks u/yieldingTemporarily).
+# Index
+1. [Contributing](#contributing)
+2. [Browser extensions](#browser-extensions)
+3. **[Replacements/alternatives](#replacements-alternatives)**
+    1. [Disclaimer](#disclaimer)
+    2. [Web-based products](#web-based-products)
+    3. [Operating systems](#operating-systems)
+    4. [Desktop applications](#desktop-applications)
+    5. [Mobile applications](#mobile-applications-mobile-apps-installable-from-stores)
+    6. [Hardware](#hardware)
+4. [Useful links, tools, and advice](#useful-links-tools-and-advice)
+5. [The lighter side](#the-lighter-side)
+6. [Closing remarks](#closing-remarks)
 
 # Contributing
-If you want to help out with the project, here are some ideas (submitting Issues/Pull Requests on the [GitHub page](https://github.com/tycrek/degoogle)):
+If you want to help out with the project, here are some ideas (submit **Issues** & **Pull Requests** on the [GitHub page](https://github.com/tycrek/degoogle)):
 
 - **iOS app alternatives!** I don't have an iOS device to find alternatives with. I would highly appreciate any help with this.
-- Clean up and improve the Markdown.
+- Clean up/improve the Markdown.
 - Provide more information on services with little info or where *help requested!* is shown.
 - Suggest new services or provide info for removing existing services.
-- Hosting a mirror or cloning the [repo](https://github.com/tycrek/degoogle). If you host a mirror, let me know and I can add it to the mirrors list.
+- Host a mirror or clone the [repo](https://github.com/tycrek/degoogle). If you host a mirror, let me know and I can add it to the mirrors list.
 - Anything else relating to any part of this guide, whether it's Google related or not.
 
 **Want to help out in another way?**
@@ -51,16 +60,16 @@ These Firefox extensions can help prevent connections to Google domains and also
 - [AdNauseam](https://addons.mozilla.org/en-US/firefox/addon/adnauseam/)
 
 # Replacements/alternatives
-### Notes, disclaimers, and rules
+### *Disclaimer*
 
 1. Only **privacy/security** focused alternatives will be suggested.
-1. Once again, replacements are based off [this Wikipedia article](https://en.wikipedia.org/wiki/List_of_Google_products)
+2. Many replacements are based off [this Wikipedia article (List of Google products)](https://en.wikipedia.org/wiki/List_of_Google_products)
 3. Products from companies such as Microsoft, Apple, Yahoo, Amazon, etc. will *not* be recommended unless there is a very good reason to. This includes companies/apps/services they own.
 4. Controversial services will have a disclaimer attached if needed.
 5. 5-eyes, 9-eyes, and 14-eyes services **will** be listed, and marked as such. This means the company, not the server IP.
-    - 5: Australia, Canada, New Zealand, UK, USA
-    - 9: Denmark, France, Netherlands, Norway
-    - 14: Germany, Belgium, Italy, Sweden, Spain
+    - **5**: Australia, Canada, New Zealand, UK, USA
+    - **9**: Denmark, France, Netherlands, Norway
+    - **14**: Germany, Belgium, Italy, Sweden, Spain
     - [What are 5-eyes, 9-eyes, and 14-eyes?](https://restoreprivacy.com/5-eyes-9-eyes-14-eyes/)
 
 ## Web-based products
