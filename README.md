@@ -49,26 +49,22 @@ These Firefox extensions can help prevent connections to Google domains and also
 - [uMatrix](https://addons.mozilla.org/en-US/firefox/addon/umatrix/) (thanks u/rudolf323)
 
 # Replacements/alternatives
-## Notes, disclaimers, and rules
-**Please read:** Instead of last year where any replacement I found was included, I will specifically focus on *privacy-focused* replacements this year.
+### Notes, disclaimers, and rules
 
+1. Only **privacy/security** focused alternatives will be suggested.
 1. Once again, replacements are based off [this Wikipedia article](https://en.wikipedia.org/wiki/List_of_Google_products)
-2. Currencies in USD unless otherwise stated
-3. This year I've decided ***not*** to include products from companies such as Microsoft, Apple, Yahoo, Amazon, etc. This includes companies/apps/services they own.
+3. Products from companies such as Microsoft, Apple, Yahoo, Amazon, etc. will *not* be recommended unless there is a very good reason to. This includes companies/apps/services they own.
 4. Controversial services will have a disclaimer attached if needed.
 5. 5-eyes, 9-eyes, and 14-eyes services **will** be listed, and marked as such. This means the company, not the server IP.
     - 5: Australia, Canada, New Zealand, UK, USA
     - 9: Denmark, France, Netherlands, Norway
     - 14: Germany, Belgium, Italy, Sweden, Spain
     - [What are 5-eyes, 9-eyes, and 14-eyes?](https://restoreprivacy.com/5-eyes-9-eyes-14-eyes/)
-6. I will still be adding personal notes if I want to.
-7. Google offers a ridiculous amount of small services. I'm only focusing on the important ones for now.
-9. If you see *Help requested!*, it means I couldn't find any privacy-focused services and am asking for suggestions.
 
 ## Web-based products
 
 - Search (web, images)
-  - [DuckDuckGo](https://duckduckgo.com/) - **5-eyes** -  One of the best privacy-focused search engines. Domain is hosted in USA which could potentially be problematic for some. *Editor note: I've used this for the past ~5 months and haven't had any major issues. Instant Answers are incredibly helpful for programming).*
+  - [DuckDuckGo](https://duckduckgo.com/) - **5-eyes** -  One of the best privacy-focused search engines. Domain is hosted in USA which could potentially be problematic for some.
   - [Startpage](https://www.startpage.com/) - **9-eyes** - Another privacy search engine that claims to not track any of your data. They operate servers in both USA and Europe. Note: Startpage was recently acquired. See [Issue #12](https://github.com/tycrek/degoogle/issues/12). Thanks @pydo, @ThijsRay, and @DatAres37.
   - [searx.me](https://searx.me/) - [Open-source](https://github.com/asciimoo/searx) (thanks for clarification u/Sheezdudeln) privacy search engine. Domain hosted in Germany.
   - [Qwant](https://www.qwant.com/) - Major improvements since 2018's guide.
@@ -197,7 +193,7 @@ These Firefox extensions can help prevent connections to Google domains and also
     - [Debian](https://www.debian.org/)
     - [Mint](https://linuxmint.com/)
     - [Fedora](https://getfedora.org/)
-    - [Arch](https://www.archlinux.org/) or [Manjaro](https://manjaro.org/) *Editor note: I use Manjaro and it's my favourite OS*
+    - [Arch](https://www.archlinux.org/) or [Manjaro](https://manjaro.org/) (Manjaro is objectively much easier to get running than Arch)
     - [Trisquel](https://trisquel.info/), [Gentoo](https://www.gentoo.org/), and [Alpine](https://www.alpinelinux.org/) (thanks u/privacyfreak555)
     - [etc etc etc](https://en.wikipedia.org/wiki/List_of_Linux_distributions)
 - Wear OS
@@ -211,9 +207,9 @@ These Firefox extensions can help prevent connections to Google domains and also
 ## Desktop applications
 
 - Chrome
-  - [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium) - Chromium (which Chrome and countless other browsers are built on top of) is one of the cleanest and light-weight browsers available. This version cuts out all the Google crap. *Editor note: I've used it for a work project and it's ridiculously fast.*
+  - [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium) - Chromium (which Chrome and countless other browsers are built on top of) is one of the cleanest and light-weight browsers available. This version cuts out all the Google crap.
   - [Firefox](https://firefox.com/) - Built by Mozilla. Huge extension library; great for privacy.
-    - [Waterfox](https://www.waterfox.net/) - Based on Firefox, but specifically 64-bit *only* with an emphasis on speed and privacy. Has a "classic" version built off older Firefox for legacy extension support and also an "alpha" version built off Quantum. It doesn't collect any telemetry and also removes Pocket from the alpha release. Project is run by [Alex Kontos](https://github.com/MrAlex94/) and is constantly in active development.. Looks very clean and fast. Android versions are in the works too. *Editor note: This is the browser I primarily use*
+    - [Waterfox](https://www.waterfox.net/) - Based on Firefox, but specifically 64-bit *only* with an emphasis on speed and privacy. Has a "classic" version built off older Firefox for legacy extension support and also an "alpha" version built off Quantum. It doesn't collect any telemetry and also removes Pocket from the alpha release. Project is run by [Alex Kontos](https://github.com/MrAlex94/) and is constantly in active development.. Looks very clean and fast. Android versions are in the works too.
   - [Vivaldi](https://vivaldi.com/) - Privacy-focused browser. Appears to be very customizable and feature-rich.
   - [Brave](https://brave.com/) - Another very popular privacy-focused browser. Boasts "up to 8x faster than Chrome and Safari". Automatically blocks ads and trackers so you don't have to.
   - [Tor Browser](https://www.torproject.org/download/) - Firefox-based browser routed through the onion network. Automatically has a few privacy extensions installed (such as HTTPS Everywhere). Be careful using it in public though, as it *can* look like a pretty suspicious piece of software. Available for Windows, Linux, macOS, and Android.
@@ -302,7 +298,7 @@ When searching for replacements, check the alternative stores (such as F-Droid) 
   - [FreeTube](https://github.com/FreeTubeApp/FreeTube) - Open-source YouTube client that uses the Invidio.us API to serve content. Not on F-Droid, but you can download the APK from GitHub. (thanks u/wesaphzt)
   - [YouTube Vanced](https://forum.xda-developers.com/android/apps-games/app-youtube-vanced-edition-t3758757) (if you are desperate) - Please read the XDA post before deciding to use this.
 - Authenticator
-  - [andOTP](https://github.com/andOTP/andOTP) - Open-source 2FA app available from F-Droid. *Editor note: I use this one*
+  - [andOTP](https://github.com/andOTP/andOTP) - Open-source 2FA app available from F-Droid.
   - [FreeOTP+](https://github.com/helloworld1/FreeOTPPlus) - FreeOTP is no longer in development so this fork should be used instead as it is currently in development. Available from F-Droid.
   - [Aegis](https://github.com/beemdevelopment/Aegis) - Open-source 2FA for Android. Available on F-Droid.
   - [Authenticator](https://mattrubin.me/authenticator/) - **iOS** - Open-source 2FA for iOS. (thanks u/SomeoneWannaBe)
@@ -331,7 +327,7 @@ Android launchers:
   - [TUXEDO](https://www.tuxedocomputers.com/) - **14-eyes** - Privacy-focused laptop maker out of Germany. Tech specs are very competent and can easily compete with other modern systems. Fully Linux compatible. They also offer desktops. (thanks u/itsec_ho)
   - [Purism Laptops](https://puri.sm/) - Privacy-focused laptop running PureOS. Good designs and decent hardware.
 - Chromecast
-  - [Microsoft Wireless HDMI adapter](https://www.microsoft.com/accessories/en-us/products/adapters/wireless-display-adapter-2/p3q-00001) - The **only** reason I'm recommending this Microsoft product is because there is no possible way for it to extract any data and ship it off to Microsoft. I use it and it works great.
+  - [Microsoft Wireless HDMI adapter](https://www.microsoft.com/accessories/en-us/products/adapters/wireless-display-adapter-2/p3q-00001) - The **only** reason I'm recommending this Microsoft product is because there is no possible way for it to extract any data and ship it off to Microsoft. If someone finds proof that it *can*, I will remove it.
 - Google Home
   - [Mycroft](https://mycroft.ai/) - Open-source virtual personal assistant. Can be run on a Raspberry Pi. (thanks u/Kentto7)
   - [Home Assistant](https://www.home-assistant.io/) - Open-source home automation. (thanks u/bilange)
@@ -340,19 +336,22 @@ Android launchers:
 
 Everything you need to become Privacy Wizard.
 
-- The [r/Privacy wiki](https://old.reddit.com/r/privacy/wiki/index) has a lot of helpful information; I highly recommend reading through it! Seriously, do it now, then come back here.
-- Read the [r/VPN](https://old.reddit.com/r/VPN/) sidebar and [wiki](https://old.reddit.com/r/VPN/wiki/index) to learn more about why you should consider using a VPN. I personally use PIA.
-- Click [here](https://outline.com/XuMTFA) and [here](https://outline.com/dqfuqL) for some great tips on creating strong passwords.
-- Use a [password manager](https://outline.com/pHsALA) to keep all your passwords secure. ~~I use LastPass~~ u/-Choose-A-User- and u/EbonixCo have convinced me to switch to [Bitwarden](https://bitwarden.com/). So far it's just as good, if not better.
-- Set up [multi-factor/two-factor authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication) on as many accounts as you can. It may be a pain, but it could save you from a targeted hack.
-- Don't save passwords to your browser! [Erase the entire password cache](http://www.wikihow.com/Delete-Remembered-Passwords) once you set up a password manager.
-- [AlternativeTo](https://alternativeto.net/) has alternatives for pretty much any software, site, or service out there.
+- [Privacy Tools](https://www.privacytools.io/) (thanks u/yieldingTemporarily)
+- [ethical.net](https://ethical.net/) (thanks u/yieldingTemporarily)
+- [r/Privacy wiki](https://old.reddit.com/r/privacy/wiki/index)
+- [r/VPN](https://old.reddit.com/r/VPN/) - Read the sidebar and [wiki](https://old.reddit.com/r/VPN/wiki/index) to learn more about why you should consider using a VPN. I personally use [Mullvad](https://mullvad.net) but do your own research before choosing.
+- [Four Methods to Create a Secure Password You'll Actually Remember](https://outline.com/XuMTFA)
+- [How to Create a Strong Password (and Remember It)](https://outline.com/dqfuqL)
+- Use a [password manager](https://outline.com/NC69FD) such as [Bitwarden](https://bitwarden.com)
+- Set up [multi-factor/two-factor authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication) on as many accounts as you can
+- Don't save passwords to your browser: [Erase the entire password cache](http://www.wikihow.com/Delete-Remembered-Passwords) once you set up a password manager.
+- [AlternativeTo](https://alternativeto.net/) - Find alternatives for software. Used extensively to build this guide.
 - [Remove bloatware from Android (without root)](https://www.xda-developers.com/uninstall-carrier-oem-bloatware-without-root-access/)
 - [What are 5-eyes, 9-eyes, and 14-eyes?](https://restoreprivacy.com/5-eyes-9-eyes-14-eyes/)
 - [Outline](https://outline.com/) is an awesome tool for getting all the junk out of news articles (I've used it a few times in this guide already). Sometimes it can get around paywalls for "premium" news sites.
 - [What is Tor and should I use it?](https://outline.com/JRCscH)
 - [HTTP vs. HTTPS](https://outline.com/xUXZMh)
-- The EFF has an [excellent guide](https://ssd.eff.org/) on how to stay safe and secure online. It is incredibly useful and I suggest that everyone (even the experts) read through it.
+- The EFF has an [excellent guide](https://ssd.eff.org/) on how to stay safe and secure online. It is incredibly useful and I suggest that everyone read through it.
 - Click [here](https://www.thewindowsclub.com/windows-10-telemetry) and [here](https://winaero.com/blog/how-to-disable-telemetry-and-data-collection-in-windows-10/) for tips on disabling Windows 10 telemetry/data collection.
 - Click [here](https://www.mozilla.org/en-US/internet-health/privacy-security/) and [here](https://blog.mozilla.org/internetcitizen/2017/01/30/15-privacy-tips-protect-online-life/) for tips from the Mozilla Foundation on internet privacy and security.
 - Click [here](https://duckduckgo.com/newsletter) to sign up for DuckDuckGo's privacy newsletter, and [here](https://spreadprivacy.com/) for more tips, articles, and blog posts from DuckDuckGo.
@@ -372,19 +371,18 @@ Everything you need to become Privacy Wizard.
 
 # The lighter side
 
-All that reading got you tired out? Or super interested in nerdy stuff? Awesome, now go check out these.
-
 - Movies and TV I recommend:
-  - *Snowden (2016)* - Based on the true story of Edward Snowden, the CIA/NSA/etc whistleblower. I've seen it about 30 times. Directed by Oliver Stone.
+  - *Snowden (2016)* - Based on the true story of Edward Snowden, the CIA/NSA/etc whistleblower. Directed by Oliver Stone.
   - *Deep Web (2015)* - Documentary (narrated by Keanu Reeves) about Ross Ulbricht aka. Dread Pirate Roberts and the infamous "Silk Road" dark market. Directed by Alex Winter.
   - *Mr. Robot* - Hacker-drama starring Rami Malek. Producers hired actual hackers as consultants to ensure the show is as accurate as possible; real-world tools used in the show.
-  - *Silicon Valley* - Satirical tech comedy about a compression startup struggling to take off in Silicon Valley, California. My personal favourite show. Episodes are pure genius, tech humour is actually funny and not forced.
+  - *Silicon Valley* - Satirical tech comedy about a compression startup struggling to take off in Silicon Valley, California.
 - Podcasts:
-  - [Darknet Diaries](https://darknetdiaries.com/) (by Jack Rhysider) - Beautifully crafted, bone-chilling episodes highlighting real-life hackers and their stories. Covers privacy topics a fair bit.
+  - [Darknet Diaries](https://darknetdiaries.com/) (by Jack Rhysider) - Highlights real-life hackers and their stories. Covers privacy topics a fair bit.
   - The WAN Show (Linus Tech Tips) - Not specifically privacy, but they cover all sorts of tech news.
   - [The Privacy, Security, & OSINT Show](https://inteltechniques.com/podcast.html) - "This weekly podcast presents ideas to help you become digitally invisible, stay secure from cyber threats, and make you a better online investigator."
   - [Security Now!](https://www.grc.com/SecurityNow.htm) - "TechTV's Leo Laporte and I spend somewhat shy of two hours each week to discuss important issues of personal computer security." (Thanks u/Abaddon182)
 - Other:
+  - [Permanent Record](https://www.goodreads.com/book/show/46223297-permanent-record) - Edward Snowden's autobiography.
   - [xkcd](https://xkcd.com/) - They have comics for *everything*.
   - System32 Comics [Instagram](https://www.instagram.com/system32comics/) and [Reddit](https://www.reddit.com/r/System32Comics/) - Comedic computer comics.
 
