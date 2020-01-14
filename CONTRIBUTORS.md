@@ -13,6 +13,7 @@ GitHub:
 - [@petertorelli](https://github.com/petertorelli)
 - [@arsv](https://github.com/arsv)
 - [@ribtoks](https://github.com/ribtoks)
+- [@PopeRigby](https://github.com/PopeRigby)
 
 Reddit:
 

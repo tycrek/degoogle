@@ -225,7 +225,7 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [Tor Browser](https://www.torproject.org/download/) - Firefox-based browser routed through the onion network. Automatically has a few privacy extensions installed (such as HTTPS Everywhere). Be careful using it in public though, as it *can* look like a pretty suspicious piece of software. Available for Windows, Linux, macOS, and Android.
 - Earth
   - Different from Maps Satellite in the sense that Earth has tons of complex features that require desktop software to be installed.
-  - *Help requested!*
+  - [KDE Marble](https://kde.org/applications/education/org.kde.marble) - Strong alternative for G Earth. Currently only on Linux, but is being ported to other platforms. Thanks to @PopeRigby
 - Android Studio (not specifically for Android development, just in general)
   - [VSCodium](https://github.com/VSCodium/vscodium) - VSCodium is VSCode but without all the Microsoft telemetry and branding.
   - *Help requested!*
