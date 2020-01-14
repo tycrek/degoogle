@@ -174,7 +174,8 @@ These Firefox extensions can help prevent connections to Google domains and also
 - Fonts
   - [Open Font Library](https://fontlibrary.org/) - **5-eyes** - Lots of Serif and Sans-Serif fonts that can be directly embedded into a website.
 - Classroom
-  - *Help requested!*
+  - [Moodle](https://moodle.org/) - Self-hosted Classroom software for schools. Very powerful. Thanks @jankapunkt
+  - [ILIAS](https://www.ilias.de/en/) - Another self-hosted open source classroom software. Thanks again to @jankapunkt
 - Maps/Street View
   - [OpenStreetMaps](https://www.openstreetmap.org/) **9-eyes** - Collaborative project to create a free, editable map of the world (from Wikipedia). Completely crowdsources. Very strong alternative to Maps.
   - *Editor note: I've seen OsmAnd: it's a mobile app. I've seen HERE WeGo: It's on malvertising filter lists.*

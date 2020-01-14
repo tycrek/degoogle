@@ -21,6 +21,7 @@ GitHub:
 - [@je-vv](https://github.com/je-vv)
 - [@RefexHD](https://github.com/RefexHD)
 - [@chribre](https://github.com/chribre)
+- [@jankapunkt](https://github.com/jankapunkt)
 
 Reddit:
 
