@@ -12,6 +12,17 @@ GitHub:
 - [@nathanvogel](https://github.com/nathanvogel)
 - [@petertorelli](https://github.com/petertorelli)
 - [@arsv](https://github.com/arsv)
+- [@ribtoks](https://github.com/ribtoks)
+- [@PopeRigby](https://github.com/PopeRigby)
+- [@brandonnodnarb](https://github.com/brandonnodnarb)
+- [@avasts](https://github.com/avasts)
+- [@okias](https://github.com/okias)
+- [@flubberding](https://github.com/flubberding)
+- [@je-vv](https://github.com/je-vv)
+- [@RefexHD](https://github.com/RefexHD)
+- [@chribre](https://github.com/chribre)
+- [@jankapunkt](https://github.com/jankapunkt)
+- [@jeanofthedead](https://github.com/jeanofthedead)
 
 Reddit:
 
