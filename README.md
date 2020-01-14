@@ -1,4 +1,4 @@
-# Cutting Google out of your life (2019)
+# Cutting Google out of your life (2019) (Updated: Jan 2020)
 ### *I don't have anything to hide, but I don't have anything to show you either.*
 # Introduction
 
@@ -7,27 +7,18 @@
 Before reading this guide, I highly recommend reading through [Privacy Tools](https://www.privacytools.io/) and [ethical.net](https://ethical.net/) (thanks u/yieldingTemporarily).
 
 # Contributing
-If you want to help out with the project, here are some ideas:
+If you want to help out with the project, here are some ideas (submitting Issues/Pull Requests on the [GitHub page](https://github.com/tycrek/degoogle)):
 
 - **iOS app alternatives!** I don't have an iOS device to find alternatives with. I would highly appreciate any help with this.
-- Clean up and improve the Markdown
-- Provide more information on services with little info
-- Suggest new services
-- Hosting a mirror or cloning the [repo](https://github.com/tycrek/degoogle)
-- Literally anything relating to any part of this guide, whether it's Google related or not
-
-You can do these by:
-
-- Submitting Issues/Pull Requests on the [GitHub page](https://github.com/tycrek/degoogle)
-- (Removed contact info, please only use GitHub)
-
-Please specifiy if you wish to remain anonymous or if you want your Reddit username added to a contributors list.
-
-If you host a mirror, let me know and I can add it to a mirrors list on GitHub or Pastebin.
+- Clean up and improve the Markdown.
+- Provide more information on services with little info or where *help requested!* is shown.
+- Suggest new services or provide info for removing existing services.
+- Hosting a mirror or cloning the [repo](https://github.com/tycrek/degoogle). If you host a mirror, let me know and I can add it to the mirrors list.
+- Anything else relating to any part of this guide, whether it's Google related or not.
 
 **Want to help out in another way?**
-- **Share** this guide with your friends, family, and coworkers. Let them know *why* privacy matters and *why* they should care about it. Don't force it on them, but carefully ease them into it and don't scare them away from staying secure.
-- **Donate** to non-profit organizations that support online privacy and security (see the r/privacy sidebar)
+- **Share** this guide with everyone you know. Let them know why privacy matters and why they should care about it. Don't force it on them, but carefully ease them into it and don't scare them away from staying secure.
+- **Donate** to non-profit organizations that support online privacy and security (see the [r/privacy](https://reddit.com/r/privacy) sidebar)
 
 # Browser extensions
 These Firefox extensions can help prevent connections to Google domains and also improve your privacy/security online.
