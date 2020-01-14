@@ -18,6 +18,7 @@ GitHub:
 - [@avasts](https://github.com/avasts)
 - [@okias](https://github.com/okias)
 - [@flubberding](https://github.com/flubberding)
+- [@je-vv](https://github.com/je-vv)
 
 Reddit:
 

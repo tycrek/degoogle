@@ -156,6 +156,7 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [Disroot](https://disroot.org/) - **9-eyes** - Decentralized email service.
   - [StartMail](https://www.startmail.com/en/) - **9-eyes** - Operated by the same people who run StartPage.
   - [Runbox](https://runbox.com/why-runbox/privacy-protection/) - **9-eyes** - Privacy focusued email provider. Thanks @petertorelli
+  - [nextCloud](https://help.nextcloud.com/t/nextcloud-mail-server/157) - Now also provides an email service (self-hosted). Thanks @je-vv
   - *This is just for the Gmail service, not a client*
   - Note: Zoho has been removed as per issue #53. See [this link](https://news.ycombinator.com/item?id=18056723). Thanks @ribtoks
 - Keep
@@ -167,6 +168,7 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [Funkwhale](https://funkwhale.audio/) - Self hosted, decentralized music service. Provide your own audio. (thanks u/DashEquals)
   - [Airsonic](https://airsonic.github.io/) - **Music only** - Self-hosted open-source media streamer. Has features for transcoding audio on-the-fly for "virtually any audio format". You can also set bandwidth limits if you need to. Looks very powerful.
   - [Music Player Daemon](https://www.musicpd.org/) - A "flexible, powerful, server-side application for playing music".
+  - [Popcorn Time](https://popcorntime.sh/faq) - Open source software for desktop and mobile that let you easily stream movie/TV torrents. **Be careful if your country or ISP has policies against torrenting, a VPN is recommended.** Thanks @je-vv
   - *Editor note: I can no longer recommend [Emby](https://emby.media/) as they are [no longer open-source](https://www.linuxuprising.com/2018/12/jellyfin-free-software-emby-media.html).*
   - Thanks to u/eA8KESARaW6iqCpHsbE4 for suggesting Jellyfin and pointing out that Emby isn't open-source.
 - Fonts
@@ -253,7 +255,9 @@ When searching for replacements, check the alternative stores (such as F-Droid) 
   - [Calculator N+](https://github.com/tranleduy2000/ncalc) (or NCalc+) - Open-source feature-rich calculator. App itself is no longer in development, but the developer does [encourage pull requests](https://github.com/tranleduy2000/ncalc#calculator-n---powerful-calculator-for-android). I've used it frequently and it works great. Not on F-Droid, but a 3rd party play store can probably find it; or the APK's are available as releases on GitHub. You can also compile from source.
 - Calendar
   - [Fruux (mobile app)](https://fruux.com/) - Same service from above provides an Android app.
-  - [Etar](https://github.com/xsoh/Etar-Calendar) - Open-source material design Calendar that integrates with the Android Calendar API. If you have a CalDAV/CardDAV server, I recommend using [DAVx5](https://www.davx5.com/) to sync with it. Available from F-Droid. *Editor note: this is the one I am using*
+  - [Etar](https://github.com/xsoh/Etar-Calendar) - Open-source material design Calendar that integrates with the Android Calendar API. If you have a CalDAV/CardDAV server, I recommend using [DAVx5](https://www.davx5.com/) to sync with it. Available from F-Droid. Also look at [ICSx5](https://icsx5.bitfire.at/), another WebDav/CalDav client that can integrate with calendar apps. Also available from F-Droid. Thanks @je-vv for ICSx5.
+- Camera
+  - [Open Camera](https://opencamera.sourceforge.io/) - Open source camera for Android. Thanks @je-vv
 - Clock
   - [Clock +](https://github.com/philliphsu/ClockPlus) - Open-source Alarm clock, timer, and stop watch. Available from F-Droid.
   - [Simple Alarm Clock](https://github.com/yuriykulikov/AlarmClock) - Exactly as it's name says; simple alarm clock yet adds many improvements over other apps. No dock mode or world clock.
@@ -280,7 +284,7 @@ When searching for replacements, check the alternative stores (such as F-Droid) 
 - Gmail
   - [Protonmail](https://protonmail.com/support/knowledge-base/android/) - Can be downloaded from the Play Store, but may work with one of the store replacements above (such as Yalp).
   - [Tutanota](https://f-droid.org/en/packages/de.tutao.tutanota/) - Client available from F-Droid.
-  - Posteo - Any open-source mail client. I use [K-9 Mail](https://k9mail.github.io/) and have previously used [FairEmail](https://email.faircode.eu/). Both are available on F-Droid.
+  - Posteo - Any **open-source mail client** such as: [K-9 Mail](https://k9mail.github.io/) and [FairEmail](https://email.faircode.eu/). Both are available on F-Droid.
   - Mailbox.org - Mailbox.org provides IMAP settings for Android/iOS and an iOS profile. Thanks @avasts Issue #45
   - [Disroot](https://f-droid.org/en/packages/org.disroot.disrootapp/) - Available from F-Droid.
 - Keep (or any stock note-taking app)
