@@ -20,6 +20,7 @@ GitHub:
 - [@flubberding](https://github.com/flubberding)
 - [@je-vv](https://github.com/je-vv)
 - [@RefexHD](https://github.com/RefexHD)
+- [@chribre](https://github.com/chribre)
 
 Reddit:
 
