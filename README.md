@@ -122,7 +122,7 @@ These Firefox extensions can help prevent connections to Google domains and also
   - *Help requested!*
 - Calendar
   - [Lightning Calendar](https://www.thunderbird.net/en-US/calendar/) (Thunderbird)- Developed by Mozilla Foundation and open-source. Integrates into Thunderbird and SeaMonkey.
-  - [Tutanota Calendar](https://tutanota.com/calendar/) (Tutanota)- Developed by Tutanota. Free cross-platform encrypted calendar.
+  - [Tutanota Calendar](https://tutanota.com/calendar/) - Developed by Tutanota. Free cross-platform encrypted calendar. Allows importing of other Calendar files.
   - [Fruux](https://fruux.com/) - **14-eyes** - Open-source calendar using "sabre/dav" (open-source WebDAV, CardDAV, and CalDAV). They mention privacy quite a bit on their site. Very large number of features, and supports nearly every device: Windows, iOS, Linux, Android, BlackBerry, SailFish, and also a Webapp for browsers.
 - Docs/Sheets/Slides (cloud collaboration)
   - [Zoho](https://www.zoho.com/) - I mentioned Zoho above for G Suite, so here they are again.
