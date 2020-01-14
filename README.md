@@ -80,6 +80,7 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [Invidious](https://invidio.us/) - An [open-source](https://github.com/omarroth/invidious) front-end alternative to YouTube. Seems to work pretty well from my experience so far, and it hasn't triggered *anything* on my adblocker/privacy extensions. Also offers downloads in many formats for videos (including `.vtt` subtitles).
   - [Hooktube](https://hooktube.com/) - A slightly better way to use actual YouTube. (Use as a "last resort")
 - News
+  - [Subscribe to a (local) newspaper](https://en.wikipedia.org/wiki/Category:Lists_of_newspapers_by_country) and support independent and qualitative journalism.
   - Removed Reddit news as they are typically *extremely* biased to the general populace.
   - [AllSides](https://www.allsides.com/unbiased-balanced-news) - Seemingly unbiased news source. Thanks @jeanofthedead
   - *Help requested!*
@@ -108,6 +109,7 @@ These Firefox extensions can help prevent connections to Google domains and also
   - *Help requested!*
 - Calendar
   - [Lightning Calendar](https://www.thunderbird.net/en-US/calendar/) (Thunderbird)- Developed by Mozilla Foundation and open-source. Integrates into Thunderbird and SeaMonkey.
+  - [Tutanota Calendar](https://tutanota.com/calendar/) - Developed by Tutanota. Free cross-platform encrypted calendar. Allows importing of other Calendar files.
   - [Fruux](https://fruux.com/) - **14-eyes** - Open-source calendar using "sabre/dav" (open-source WebDAV, CardDAV, and CalDAV). They mention privacy quite a bit on their site. Very large number of features, and supports nearly every device: Windows, iOS, Linux, Android, BlackBerry, SailFish, and also a Webapp for browsers.
 - Docs/Sheets/Slides (cloud collaboration)
   - [CryptPad](https://cryptpad.fr/) - **9-eyes** - Open-source "zero knowledge" collaborative cloud editor. They offer Rich Text, Code, Presentation, Sheet (beta), Poll, Kanban, Whiteboard, and CryptDrive. 100% Client side encryption. Tons of useful features.
@@ -162,6 +164,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 - Classroom
   - [Moodle](https://moodle.org/) - Self-hosted Classroom software for schools. Very powerful. Thanks @jankapunkt
   - [ILIAS](https://www.ilias.de/en/) - Another self-hosted open source classroom software. Thanks again to @jankapunkt
+  - [Canvas](https://www.instructure.com/canvas) Paid service by Instructure. Also avaliable as a [self hosted, open source option](https://github.com/instructure/canvas-lms). To ensure privacy, use the self-hosted option.
 - Maps/Street View
   - [OpenStreetMaps](https://www.openstreetmap.org/) **9-eyes** - Collaborative project to create a free, editable map of the world (from Wikipedia). Completely crowdsources. Very strong alternative to Maps.
   - *Editor note: I've seen OsmAnd: it's a mobile app. I've seen HERE WeGo: It's on malvertising filter lists.*
