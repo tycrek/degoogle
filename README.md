@@ -93,7 +93,7 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [Bit.tube](https://bit.tube/) - Appears to be a crypto-powered decentralized video sharing service. (thanks u/rudolf323)
   - [Invidious](https://invidio.us/) - An [open-source](https://github.com/omarroth/invidious) front-end alternative to YouTube. Seems to work pretty well from my experience so far, and it hasn't triggered *anything* on my adblocker/privacy extensions. Also offers downloads in many formats for videos (including `.vtt` subtitles).
   - [Hooktube](https://hooktube.com/) - A slightly better way to use actual YouTube. (Use as a "last resort")
-  - [LBRY] (https://lbry.com/) - A decentralized platform for distributing and supporting creators's work. It aims to be Open, Community driven "digital marketplace". I use it à la youtube, browsing, subscribing to the channels I like, there is a mechanism to send "tips" to creators.
+  - [LBRY](https://lbry.com/) - A decentralized platform for distributing and supporting creators's work. It aims to be Open, Community driven "digital marketplace". It can be used in a similar way to YouTube: browsing, subscribing to channels, there is a mechanism to send "tips" to creators.
 - News
   - r/news - Includes both USA and International.
   - r/worldnews - International news. Typically excludes news specific to the USA.
