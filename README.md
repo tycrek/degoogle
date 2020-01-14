@@ -154,7 +154,7 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [mailbox.org](https://mailbox.org/en/) - **14-eyes** - Paid email provider, also located in Germany.
   - [Disroot](https://disroot.org/) - **9-eyes** - Decentralized email service.
   - [StartMail](https://www.startmail.com/en/) - **9-eyes** - Operated by the same people who run StartPage.
-  - [Migadu](https://www.migadu.com/) - Paid email provider, located in Switzerland.
+  - [Migadu](https://www.migadu.com/en/index.html) - Paid email provider, located in Switzerland. Focus on privacy.
   - *This is just for the Gmail service, not a client*
 - Keep
   - [Joplin](https://joplinapp.org/) - Open-source notes/todo app. Available for Windows, macOS, Linux, Android, and iOS. Also offers a terminal version. It can import Evernote `.enex` files if you use that. It can also sync with Nextcloud (mentioned above).
