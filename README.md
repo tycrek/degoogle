@@ -117,9 +117,9 @@ These Firefox extensions can help prevent connections to Google domains and also
 - Analytics
   - [Matomo](https://matomo.org/) - **9/14-eyes** (Matomo/parent company) - Open-source analytics platform. (thanks u/Newblik)
   - [Plausible](https://plausible.io/) - **5-eyes** - Not open-source, but privacy-focused web analytics.
+  - [Fathom](https://usefathom.com/) - Fathom, simple analytics for bloggers & businesses
 - Photos
   - [Piwigo](https://piwigo.org/) - **9-eyes** (self-hosted) - Self-hosted and open-source cloud photo manager. You can also sign up for an ["as a service" account](https://piwigo.com).
-  - [Fathom](https://usefathom.com/) - Fathom, simple analytics for bloggers & businesses
   - *Help requested!*
 - Calendar
   - [Lightning Calendar](https://www.thunderbird.net/en-US/calendar/) (Thunderbird)- Developed by Mozilla Foundation and open-source. Integrates into Thunderbird and SeaMonkey.
