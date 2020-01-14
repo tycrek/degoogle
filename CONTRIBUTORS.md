@@ -23,6 +23,7 @@ GitHub:
 - [@chribre](https://github.com/chribre)
 - [@jankapunkt](https://github.com/jankapunkt)
 - [@jeanofthedead](https://github.com/jeanofthedead)
+- [@mynamesleon](https://github.com/mynamesleon)
 
 Reddit:
 
