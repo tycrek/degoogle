@@ -139,7 +139,6 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [Sia](https://sia.tech/) - Fully decentralized cloud storage.
   - [Tresorit](https://tresorit.com/) - Primarily meant for businesses, but offeres a free version for individuals as well. (thanks u/xNick26)
   - [Sync](https://www.sync.com) - End-to-end encrypted Google Drive/Dropbox replacement.
-
   - *Editor note: I'm not including MEGA. I do not recommend MEGA. It's far too controversial and far too difficult to figure out who actually owns the service. Also, it's a 5-eyes.*
 - Hangouts
   - [Signal](https://signal.org/) - Whistleblower and privacy advocate Edward Snowden recommends Signal.
