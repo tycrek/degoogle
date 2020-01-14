@@ -329,6 +329,7 @@ Android launchers:
 
 - Nexus/Pixel
   - [This list](https://www.oneclickroot.com/rootable/) shows compatibility for rooting Android devices.
+  - [Purism Librem 5](https://puri.sm/products/librem-5/) - From the company that makes Purism laptops. Runs PureOS. Thanks @brandonnodnarb
 - Chromebook
   - Literally any other laptop with some form of Linux, *or*
   - [TUXEDO](https://www.tuxedocomputers.com/) - **14-eyes** - Privacy-focused laptop maker out of Germany. Tech specs are very competent and can easily compete with other modern systems. Fully Linux compatible. They also offer desktops. (thanks u/itsec_ho)

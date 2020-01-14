@@ -14,6 +14,7 @@ GitHub:
 - [@arsv](https://github.com/arsv)
 - [@ribtoks](https://github.com/ribtoks)
 - [@PopeRigby](https://github.com/PopeRigby)
+- [@brandonnodnarb](https://github.com/brandonnodnarb)
 
 Reddit:
 
