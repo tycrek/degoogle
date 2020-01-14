@@ -107,6 +107,7 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [WordPress](https://wordpress.org/) self-hosted - The open-source version of WordPress. A very popular tool and a recognized name.
   - [concrete5](https://www.concrete5.org/about) - **5-eyes** - Open-source CMS.
   - [Noblogs](https://noblogs.org/) - **9-eyes** - A privacy/security focused blogging platform.
+  - [Ghost](https://ghost.org/) - Open-source modern CMS. Boasts "over 19x faster than WordPress". Thanks @peterge1998
 - Analytics
   - [Matomo](https://matomo.org/) - **9/14-eyes** (Matomo/parent company) - Open-source analytics platform. (thanks u/Newblik)
   - [Fathom](https://usefathom.com/) - Simple analytics for bloggers & businesses
