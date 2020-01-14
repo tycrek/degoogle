@@ -108,6 +108,7 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [Noblogs](https://noblogs.org/) - **9-eyes** - A privacy/security focused blogging platform.
 - Analytics
   - [Matomo](https://matomo.org/) - **9/14-eyes** (Matomo/parent company) - Open-source analytics platform. (thanks u/Newblik)
+  - [Fathom](https://usefathom.com/) - Simple analytics for bloggers & businesses
   - [Plausible](https://plausible.io/) - **5-eyes** - Open-source, privacy-focused web analytics.
 - Photos
   - [Photoprism](https://github.com/photoprism/photoprism) - Self-hosted and open-source Personal Photo Management powered by Go and Google TensorFlow.
