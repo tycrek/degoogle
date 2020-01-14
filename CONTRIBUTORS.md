@@ -24,6 +24,7 @@ GitHub:
 - [@jankapunkt](https://github.com/jankapunkt)
 - [@jeanofthedead](https://github.com/jeanofthedead)
 - [@mynamesleon](https://github.com/mynamesleon)
+- [@dimqua](https://github.com/dimqua)
 
 Reddit:
 
