@@ -130,6 +130,7 @@ These Firefox extensions can help prevent connections to Google domains and also
   - Note: Zoho has been removed as per issue #53. See [this link](https://news.ycombinator.com/item?id=18056723). Thanks @ribtoks
 - Docs/Sheets/Slides (offline)
   - [LibreOffice](https://www.libreoffice.org/) and [Apache OpenOffice](https://www.openoffice.org/) - Both are open-source offline document suites.
+  - [LibreOffice Online](https://www.libreoffice.org/download/libreoffice-online/) - Self-hosted instance of LibreOffice that you can run in your browser. Thanks @flubberding
 - Domains
   - [Njalla](https://njal.la/) - **14-eyes** - Privacy-focused domain registration. Competitive pricing and a large list of available domain extensions. They also offer VPS hosting. Built by people who built The Pirate Bay among others. (thanks u/brais33 and u/HumbleBasis6)
 - Drive
