@@ -147,6 +147,7 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [mailbox.org](https://mailbox.org/en/) - **14-eyes** - Paid email provider, also located in Germany.
   - [Disroot](https://disroot.org/) - **9-eyes** - Decentralized email service.
   - [StartMail](https://www.startmail.com/en/) - **9-eyes** - Operated by the same people who run StartPage.
+  - [FastMail](https://fastmail.com/) - **5-eyes** - Paid email provider, located in Australia and US.
   - [Runbox](https://runbox.com/why-runbox/privacy-protection/) - **9-eyes** - Privacy focusued email provider. Thanks @petertorelli
   - [nextCloud](https://help.nextcloud.com/t/nextcloud-mail-server/157) - Now also provides an email service (self-hosted). Thanks @je-vv
   - *This is just for the Gmail service, not a client*
