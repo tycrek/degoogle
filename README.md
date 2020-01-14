@@ -93,9 +93,8 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [Invidious](https://invidio.us/) - An [open-source](https://github.com/omarroth/invidious) front-end alternative to YouTube. Seems to work pretty well from my experience so far, and it hasn't triggered *anything* on my adblocker/privacy extensions. Also offers downloads in many formats for videos (including `.vtt` subtitles).
   - [Hooktube](https://hooktube.com/) - A slightly better way to use actual YouTube. (Use as a "last resort")
 - News
-  - r/news - Includes both USA and International.
-  - r/worldnews - International news. Typically excludes news specific to the USA.
-  - *Most country/state/provine subreddit's act as local news hubs as well.*
+  - Removed Reddit news as they are typically *extremely* biased to the general populace.
+  - [AllSides](https://www.allsides.com/unbiased-balanced-news) - Seemingly unbiased news source. Thanks @jeanofthedead
   - *Help requested!*
 - Groups
   - *Use other forum sites relating to specific topics. This is a very broad service.*
