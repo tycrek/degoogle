@@ -138,6 +138,8 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [Syncthing](https://syncthing.net/) - **9-eyes** - An interesting take on cloud storage: decentralized. Peer-to-peer between only your devices. Software is open-source and available on GitHub.
   - [Sia](https://sia.tech/) - Fully decentralized cloud storage.
   - [Tresorit](https://tresorit.com/) - Primarily meant for businesses, but offeres a free version for individuals as well. (thanks u/xNick26)
+  - [Sync](https://www.sync.com) - End-to-end encrypted Google Drive/Dropbox replacement.
+
   - *Editor note: I'm not including MEGA. I do not recommend MEGA. It's far too controversial and far too difficult to figure out who actually owns the service. Also, it's a 5-eyes.*
 - Hangouts
   - [Signal](https://signal.org/) - Whistleblower and privacy advocate Edward Snowden recommends Signal.
@@ -271,7 +273,6 @@ When searching for replacements, check the alternative stores (such as F-Droid) 
   - [Simple Keyboard](https://github.com/rkkr/simple-keyboard) - Open-source, available from F-Droid.
   - [Indic Keyboard](https://gitlab.com/indicproject/indic-keyboard) - Open-source keyboard that supports many languages that other keyboards sometimes don't support. Not on F-Droid, but can be built from source or possibly through a Play Store alternative.
 - Drive
-  - [Sync](https://www.sync.com) - End-to-end encrypted Google Drive/Dropbox replacement.
   - [ownCloud Android](https://github.com/owncloud/android) - ownCloud Android client.
   - [Nextcloud Android](https://github.com/nextcloud/android) - Nextcloud Android client.
   - [Syncthing Android](https://github.com/syncthing/syncthing-android) - Wrapper of Syncthing for Android
