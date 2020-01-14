@@ -360,6 +360,8 @@ Everything you need to become Privacy Wizard.
 
 - [Privacy Tools](https://www.privacytools.io/) (thanks u/yieldingTemporarily)
 - [ethical.net](https://ethical.net/) (thanks u/yieldingTemporarily)
+- [AlternativeTo](https://alternativeto.net/) - Find alternatives for software. Used extensively to build this guide. Also check out [Switching.software](https://switching.software/) (thanks @)
+- [Framasoft](https://framasoft.org/en/) - Lots of alternatives and software. Too many to fit into the list. Also check out [this link](https://degooglisons-internet.org/en/). Thanks @NicolasPA
 - [r/Privacy wiki](https://old.reddit.com/r/privacy/wiki/index)
 - [r/VPN](https://old.reddit.com/r/VPN/) - Read the sidebar and [wiki](https://old.reddit.com/r/VPN/wiki/index) to learn more about why you should consider using a VPN. I personally use [Mullvad](https://mullvad.net) but do your own research before choosing.
 - [Four Methods to Create a Secure Password You'll Actually Remember](https://outline.com/XuMTFA)
@@ -367,7 +369,6 @@ Everything you need to become Privacy Wizard.
 - Use a [password manager](https://outline.com/NC69FD) such as [Bitwarden](https://bitwarden.com)
 - Set up [multi-factor/two-factor authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication) on as many accounts as you can
 - Don't save passwords to your browser: [Erase the entire password cache](http://www.wikihow.com/Delete-Remembered-Passwords) once you set up a password manager.
-- [AlternativeTo](https://alternativeto.net/) - Find alternatives for software. Used extensively to build this guide. Also check out [Switching.software](https://switching.software/) (thanks @)
 - [Remove bloatware from Android (without root)](https://www.xda-developers.com/uninstall-carrier-oem-bloatware-without-root-access/)
 - [What are 5-eyes, 9-eyes, and 14-eyes?](https://restoreprivacy.com/5-eyes-9-eyes-14-eyes/)
 - [Outline](https://outline.com/) is an awesome tool for getting all the junk out of news articles (I've used it a few times in this guide already). Sometimes it can get around paywalls for "premium" news sites.
