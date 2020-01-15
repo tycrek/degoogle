@@ -357,6 +357,7 @@ Android launchers:
   - Literally any other laptop with some form of Linux, *or*
   - [TUXEDO](https://www.tuxedocomputers.com/) - **14-eyes** - Privacy-focused laptop maker out of Germany. Tech specs are very competent and can easily compete with other modern systems. Fully Linux compatible. They also offer desktops. (thanks u/itsec_ho)
   - [Purism Laptops](https://puri.sm/) - Privacy-focused laptop running PureOS. Good designs and decent hardware.
+  - [Pinebook Pro](https://www.pine64.org/pinebook-pro/) - Mid-range Linux/FreeBSD alternative to Chromebook.
 - Chromecast
   - [Microsoft Wireless HDMI adapter](https://www.microsoft.com/accessories/en-us/products/adapters/wireless-display-adapter-2/p3q-00001) - The **only** reason I'm recommending this Microsoft product is because there is no possible way for it to extract any data and ship it off to Microsoft. If someone finds proof that it *can*, I will remove it.
 - Google Home
