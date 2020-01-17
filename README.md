@@ -363,6 +363,8 @@ Android launchers:
 - Google Home
   - [Mycroft](https://mycroft.ai/) - Open-source virtual personal assistant. Can be run on a Raspberry Pi. (thanks u/Kentto7)
   - [Home Assistant](https://www.home-assistant.io/) - Open-source home automation. (thanks u/bilange)
+- FitBit
+  - *Due to Google's  [recent acquisition of FitBit](https://outline.com/tsJCYN), it is recommeded to avoid using FitBit. Instead, check out this [list of smart watches](https://asteroidos.org/install/) supported by Asteroid OS (See Wear OS in [Operating systems](#operating-systems)). Thanks @ribtoks*
 
 # Useful links, tools, and advice
 
