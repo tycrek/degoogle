@@ -212,7 +212,7 @@ These Firefox extensions can help prevent connections to Google domains and also
     - u/poto-tomato pointed out that CopperheadOS is [no longer active](https://old.reddit.com/r/CopperheadOS/comments/8qdnn3/goodbye/). It has now evolved into a [new project](https://old.reddit.com/r/CopperheadOS/comments/b6muvh/androidhardening_project_renamed_to_grapheneos/) under the name [GrapheneOS](https://github.com/GrapheneOS).
   - [postmarketOS](https://postmarketos.org/) - Open-source mobile Linux OS. Can install different user interfaces such as [Plasma Mobile](https://www.plasma-mobile.org/). Thanks @okias
   - [Replicant](https://replicant.us/) - **5-eyes** - Free Android distribution. Puts the emphasis on "freedom and privacy/security".
-  - Note: Removed /e/ due to controversies. Look through the GitHub Issues to see for yourself.
+  - Note: Please see Issue #55 for details on /e/.
 - Chrome OS
   - [Qubes OS](https://www.qubes-os.org/) - "A reasonably secure operating system", at least according to their website. Edward Snowden recommends it.
   - [Tails](https://tails.boum.org/) - For the uber-paranoid. Runs live and the entire OS is routed through Tor right from boot. Built on Debian.
