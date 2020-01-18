@@ -84,6 +84,7 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [Mojeek](https://www.mojeek.com/) - **5-eyes** - Unlike other privacy search engines which act as a "middle man" between you and Google/Bing/Yahoo, Mojeek has their own crawler and index. The results aren't as complete as some of the others, but it is still impressive and they are actively building their index to include more results with better accuracy.
   - [Ekoru](https://ekoru.org/) - Privacy focused search engine that also aims to clean up the oceans. Thanks @mynamesleon
   - [Cyberd](https://cyber.page/) - Decentralized Google. A web 3 alternative for the Google search engine. In Beta testing mode. Uses IPFS and Tendermint consensus for security and economic incentives. Please see their [ELI-5 FAQ](https://github.com/cybercongress/congress/blob/master/ecosystem/ELI-5%20FAQ.md) for more info.
+  - [Toki](https://toki.com/) - Decentralized search engine. It is "designed to be anonymous, private and censorship-resistant." (Parent company is Swiss, which is outside of 5/9/14 Eyes, however in testing I connected to a few USA and Canadian servers).
 - Images
   - *See above. All provide some form of image search.*
 - YouTube
@@ -94,6 +95,7 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [Invidious](https://invidio.us/) - An [open-source](https://github.com/omarroth/invidious) front-end alternative to YouTube. Seems to work pretty well from my experience so far, and it hasn't triggered *anything* on my adblocker/privacy extensions. Also offers downloads in many formats for videos (including `.vtt` subtitles).
   - [Hooktube](https://hooktube.com/) - A slightly better way to use actual YouTube. (Use as a "last resort")
   - [LBRY](https://lbry.com/) - A decentralized platform for distributing and supporting creators's work. It aims to be Open, Community driven "digital marketplace". It can be used in a similar way to YouTube: browsing, subscribing to channels, there is a mechanism to send "tips" to creators. Looks up videos based on a blockchain and is open source and uncensored. It already has some "larger" creators like Minutephysics, Veritasium, Barnacules and Lunduke.
+  - [US.TV](https://us.tv/) - PeerTube instance hosted by Epik.com.
 - News
   - [Subscribe to a (local) newspaper](https://en.wikipedia.org/wiki/Category:Lists_of_newspapers_by_country) and support independent and qualitative journalism.
   - Removed Reddit news as they are typically *extremely* biased to the general populace.
@@ -148,6 +150,7 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [Tresorit](https://tresorit.com/) - Primarily meant for businesses, but offeres a free version for individuals as well. (thanks u/xNick26)
   - [Sync](https://www.sync.com) - End-to-end encrypted Google Drive/Dropbox replacement.
   - [JottaCloud](https://jottacloud.com/en/) - **9-eyes** - Norway based cloud storage provider with free and paid plans. Thanks @mynamesleon
+  - [Armored](https://armored.net/) - **9-eyes** - Nextcloud instance hosted by Epik.com. Paid plans with 30-day trial. Servers in a "secure bunker" in Norway. Supports other Nextcloud features such as Nextcloud Talk.
   - *Editor note: I'm not including MEGA. I do not recommend MEGA. It's far too controversial and far too difficult to figure out who actually owns the service. Also, it's a 5-eyes.*
 - Hangouts (instant messaging)
   - [Signal](https://signal.org/) - Whistleblower and privacy advocate Edward Snowden recommends Signal.
@@ -169,6 +172,7 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [FastMail](https://fastmail.com/) - **5-eyes** - Paid email provider, located in Australia and US.
   - [Runbox](https://runbox.com/why-runbox/privacy-protection/) - **9-eyes** - Privacy focusued email provider. Thanks @petertorelli
   - [nextCloud](https://help.nextcloud.com/t/nextcloud-mail-server/157) - Now also provides an email service (self-hosted). Thanks @je-vv
+  - [Anonymize.com Email](https://anonymize.com/) - Paid secure email service provided by Epik.com.
   - *This is just for the Gmail service, not a client*
   - Note: Zoho has been removed as per issue #53. See [this link](https://news.ycombinator.com/item?id=18056723). Thanks @ribtoks
 - Keep
