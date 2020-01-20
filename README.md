@@ -201,7 +201,8 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [Benmaps](https://benmaps.fr) - Another maps alternative based on OpenStreetMaps. Thanks @dimqua
   - *Editor note: I've seen OsmAnd: it's a mobile app. I've seen HERE WeGo: It's on malvertising filter lists.*
 - Transit
-  - *Help requested!*
+  - [Transportr](https://transportr.app/) An open-source Transit app on Android that takes information from several providers (e.g Deutsche Bahn in Germany) and enables you to use them in the app. Visualises the routes on an online OpenStreetMaps map. Works in most of Western-Europe, as well as the USA, Australia, Canada, New Zealand, Brazil, Nicaragua, Costa Rica, the UAE and Ghana.
+  **Beware: most information-providers only have beta or alpha support, it may be a good idea to keep a second app as a fallback option**
 - Trends
   - *Help requested!*
 
