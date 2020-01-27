@@ -1,7 +1,9 @@
 # Cutting Google out of your life (2019) *(Updated: Jan 2020)*
+
 ### *I don't have anything to hide, but I don't have anything to show you either.*
 
 # Index
+
 1. [Contributing](#contributing)
 2. [Browser extensions](#browser-extensions)
 3. **[Replacements/alternatives](#replacements-alternatives)**
@@ -16,6 +18,7 @@
 6. [Closing remarks](#closing-remarks)
 
 # Contributing
+
 If you want to help out with the project, here are some ideas (submit **Issues** & **Pull Requests** on the [GitHub page](https://github.com/tycrek/degoogle)):
 
 - **iOS app alternatives!** I don't have an iOS device to find alternatives with. I would highly appreciate any help with this.
@@ -26,10 +29,12 @@ If you want to help out with the project, here are some ideas (submit **Issues**
 - Anything else relating to any part of this guide, whether it's Google related or not.
 
 **Want to help out in another way?**
+
 - **Share** this guide with everyone you know. Let them know why privacy matters and why they should care about it. Don't force it on them, but carefully ease them into it and don't scare them away from staying secure.
 - **Donate** to non-profit organizations that support online privacy and security (see the [r/privacy](https://reddit.com/r/privacy) sidebar)
 
 # Browser extensions
+
 These Firefox extensions can help prevent connections to Google domains and also improve your privacy/security online.
 
 - [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
@@ -60,6 +65,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 - [AdNauseam](https://addons.mozilla.org/en-US/firefox/addon/adnauseam/)
 
 # Replacements/alternatives
+
 ### *Disclaimer*
 
 1. Only **privacy/security** focused alternatives will be suggested.
@@ -329,6 +335,8 @@ When searching for replacements, check the alternative stores (such as F-Droid) 
 - Photos
   - [Piwigo Android](https://github.com/Piwigo/Piwigo-Android) - You need to have Piwigo set up first.
 - Pay
+  - *Help requested!*
+  - Note: Realistically, there most likely is not a privacy friendly alternative to Google Pay. Get a wallet with RFID protection and keep your cards with you.
 - YouTube
   - [NewPipe](https://newpipe.schabi.org/) - Powerful open-source YouTube alternative available from F-Droid. Supports audio only; background playback; picture-in-picture; no ads.
   - [FreeTube](https://github.com/FreeTubeApp/FreeTube) - Open-source YouTube client that uses the Invidio.us API to serve content. Not on F-Droid, but you can download the APK from GitHub. (thanks u/wesaphzt)
@@ -347,7 +355,7 @@ When searching for replacements, check the alternative stores (such as F-Droid) 
 - Assistant
   - *Help requested!*
 
-Android launchers:
+**Android launchers**:
 
 - [Shade Launcher](https://github.com/amirzaidi/Shade) - Open-source Android launcher styled after the Google Pixel launcher. No F-Droid, but you can download the APK from GitHub.
 - [ZimLX](https://github.com/otakuhqz/ZimLX) - Open-source launcher. Active development with lots of nice features. Available from F-Droid.
