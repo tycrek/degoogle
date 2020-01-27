@@ -328,6 +328,7 @@ When searching for replacements, check the alternative stores (such as F-Droid) 
   - Don't use Waze. It's owned by Google.
   - [Maps](https://f-droid.org/en/packages/com.github.axet.maps/) - Available from F-Droid. Open-source navigation app based on MAPS.ME. Searching for addresses doesn't always work and finding businesses can be a slight hassle, but overall one of the better apps I've used.
   - [OsmAnd](https://osmand.net/) - OpenStreeMaps for Android. (thanks u/masao77)
+    - As OsmAnd is primarily crowdsourced, many regions may not be totally accurate. If you would like to help improve OpenStreetMaps and OsmAnd, check out [StreetComplete](https://wiki.openstreetmap.org/wiki/StreetComplete). It is available from [F-Droid](https://f-droid.org/en/packages/de.westnordost.streetcomplete/).
   - [Transportr](https://transportr.app/) - Primarily European, this is an open-source public transport app. Thanks to @lgiard
   - [Offi or Oeffi](https://oeffi.schildbach.de/) - Another recommendation from @lgiard, this app is also for public transport.
 - News
