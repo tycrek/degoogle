@@ -1,4 +1,4 @@
-# Cutting Google out of your life (2019) *(Updated: Jan 2020)*
+# Cutting Google out of your life (2019) *(Updated: Feb 2020)*
 
 ### *I don't have anything to hide, but I don't have anything to show you either.*
 
