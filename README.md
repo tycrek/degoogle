@@ -6,7 +6,7 @@
 
 1. [Contributing](#contributing)
 2. [Browser extensions](#browser-extensions)
-3. **[Replacements/alternatives](#replacements-alternatives)**
+3. **[Replacements/alternatives](#replacementsalternatives)**
     1. [Disclaimer](#disclaimer)
     2. [Web-based products](#web-based-products)
     3. [Operating systems](#operating-systems)
