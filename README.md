@@ -111,7 +111,7 @@ These Firefox extensions can help prevent connections to Google domains and also
   - *Use other forum sites relating to specific topics. This is a very broad service.*
 - Translate
   - [Swisscows Translate](https://swisscows.ch/translate) - A powerful translation service with many languages available.
-  - [DeepL](https://deepl.com/) - **14-eyes** - DeepL is an artifical intelligence translation service. *Editor note: The site server seems to be hosted in Finland, yet the company lists itself as [a company based in germany](https://www.deepl.com/pro-faq.html) in the Data Protection section.*
+  - [DeepL](https://deepl.com/) - **14-eyes** - DeepL is an artifical intelligence translation service. *Editor note: The site server seems to be hosted in Finland, yet the company lists itself as [a company based in Germany](https://www.deepl.com/pro-faq.html) in the Data Protection section.*
   - *Help requested!*
 - Google Ads/AdMob/AdSense
   - *Help requested!*
@@ -137,7 +137,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 - Calendar
   - [Lightning Calendar](https://www.thunderbird.net/en-US/calendar/) (Thunderbird)- Developed by Mozilla Foundation and open-source. Integrates into Thunderbird and SeaMonkey.
   - [Tutanota Calendar](https://tutanota.com/calendar/) - Developed by Tutanota. Free cross-platform encrypted calendar. Allows importing of other Calendar files.
-  - [Fruux](https://fruux.com/) - **14-eyes** - Open-source calendar using "sabre/dav" (open-source WebDAV, CardDAV, and CalDAV). They mention privacy quite a bit on their site. Very large number of features, and supports nearly every device: Windows, iOS, Linux, Android, BlackBerry, SailFish, and also a Webapp for browsers.
+  - [Fruux](https://fruux.com/) - **14-eyes** - Open-source calendar using "sabre/dav" (open-source WebDAV, CardDAV, and CalDAV). They mention privacy quite a bit on their site. Very large number of features, and supports nearly every device: Windows, iOS, Linux, Android, BlackBerry, SailFish, and also a webapp for browsers.
 - Docs/Sheets/Slides (cloud collaboration)
   - [CryptPad](https://cryptpad.fr/) - **9-eyes** - Open-source "zero knowledge" collaborative cloud editor. They offer Rich Text, Code, Presentation, Sheet (beta), Poll, Kanban, Whiteboard, and CryptDrive. 100% Client side encryption. Tons of useful features.
   - [Etherpad](https://etherpad.org/) - Self-hosted collaborative editor. Does not use the browser. Not the greatest interface, but it's open-source and you have full control over who can see your data.
@@ -153,7 +153,7 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [Nextcloud](https://nextcloud.com/) - **14-eyes** - Also self-hosted. Spin-off of ownCloud. **Also offers Calendar and Contacts** (thanks @chribre)
   - [Syncthing](https://syncthing.net/) - **9-eyes** - An interesting take on cloud storage: decentralized. Peer-to-peer between only your devices. Software is open-source and available on GitHub.
   - [Sia](https://sia.tech/) - Fully decentralized cloud storage.
-  - [Tresorit](https://tresorit.com/) - Primarily meant for businesses, but offeres a free version for individuals as well. (thanks u/xNick26)
+  - [Tresorit](https://tresorit.com/) - Primarily meant for businesses, but offers a free version for individuals as well. (thanks u/xNick26)
   - [Sync](https://www.sync.com) - End-to-end encrypted Google Drive/Dropbox replacement.
   - [JottaCloud](https://jottacloud.com/en/) - **9-eyes** - Norway based cloud storage provider with free and paid plans. Thanks @mynamesleon
   - [Armored](https://armored.net/) - **9-eyes** - Nextcloud instance hosted by Epik.com. Paid plans with 30-day trial. Servers in a "secure bunker" in Norway. Supports other Nextcloud features such as Nextcloud Talk.
@@ -188,7 +188,7 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [QOwnNotes](https://www.qownnotes.org/) - Open-source file editor with Markdown support. (thanks u/maqp2)
 - Play Music & Play Movies and TV
   - [Jellyfin](https://jellyfin.github.io/) - Open-source alternative to the Play media services. You do need to provide your own content, however. In active development with frequent updates (to the source, that is).
-  - [Funkwhale](https://funkwhale.audio/) - Self hosted, decentralized music service. Provide your own audio. (thanks u/DashEquals)
+  - [Funkwhale](https://funkwhale.audio/) - Self-hosted, decentralized music service. Provide your own audio. (thanks u/DashEquals)
   - [Airsonic](https://airsonic.github.io/) - **Music only** - Self-hosted open-source media streamer. Has features for transcoding audio on-the-fly for "virtually any audio format". You can also set bandwidth limits if you need to. Looks very powerful.
   - [Music Player Daemon](https://www.musicpd.org/) - A "flexible, powerful, server-side application for playing music".
   - [Popcorn Time](https://popcorntime.sh/faq) - Open source software for desktop and mobile that let you easily stream movie/TV torrents. **Be careful if your country or ISP has policies against torrenting, a VPN is recommended.** Thanks @je-vv
@@ -200,11 +200,12 @@ These Firefox extensions can help prevent connections to Google domains and also
 - Classroom
   - [Moodle](https://moodle.org/) - Self-hosted Classroom software for schools. Very powerful. Thanks @jankapunkt
   - [ILIAS](https://www.ilias.de/en/) - Another self-hosted open source classroom software. Thanks again to @jankapunkt
-  - [Canvas](https://www.instructure.com/canvas) Paid service by Instructure. Also avaliable as a [self hosted, open source option](https://github.com/instructure/canvas-lms). To ensure privacy, use the self-hosted option.
+  - [Canvas](https://www.instructure.com/canvas) Paid service by Instructure. Also available as a [self-hosted, open source option](https://github.com/instructure/canvas-lms). To ensure privacy, use the self-hosted option.
 - Maps/Street View
-  - [OpenStreetMaps](https://www.openstreetmap.org/) **9-eyes** - Collaborative project to create a free, editable map of the world (from Wikipedia). Completely crowdsources. Very strong alternative to Maps.
+  - [OpenStreetMaps](https://www.openstreetmap.org/) **9-eyes** - Collaborative project to create a free, editable map of the world (from Wikipedia). Completely crowdsourced. Very strong alternative to Maps.
   - [Qwant Maps](https://www.qwant.com/maps/) - Maps from the makers of Qwant search engine. Thanks @mynamesleon
   - [Benmaps](https://benmaps.fr) - Another maps alternative based on OpenStreetMaps. Thanks @dimqua
+  - [Mapillary](https://www.mapillary.com/app/) - Crowdsourced street-level imagery built on top of OpenStreetMaps. Open source. Includes map data generated with object recognition software. Coverage is lacking in many cities but can always be improved upon.
   - *Editor note: I've seen OsmAnd: it's a mobile app. I've seen HERE WeGo: It's on malvertising filter lists.*
 - Transit
   - [Transportr](https://transportr.app/) An open-source Transit app on Android that takes information from several providers (e.g Deutsche Bahn in Germany) and enables you to use them in the app. Visualises the routes on an online OpenStreetMaps map. Works in most of Western-Europe, as well as the USA, Australia, Canada, New Zealand, Brazil, Nicaragua, Costa Rica, the UAE and Ghana.
@@ -327,12 +328,12 @@ When searching for replacements, check the alternative stores (such as F-Droid) 
 - Maps/Waze
   - Don't use Waze. It's owned by Google.
   - [Maps](https://f-droid.org/en/packages/com.github.axet.maps/) - Available from F-Droid. Open-source navigation app based on MAPS.ME. Searching for addresses doesn't always work and finding businesses can be a slight hassle, but overall one of the better apps I've used.
-  - [OsmAnd](https://osmand.net/) - OpenStreeMaps for Android. (thanks u/masao77)
+  - [OsmAnd](https://osmand.net/) - OpenStreetMaps for Android. (thanks u/masao77)
     - As OsmAnd is primarily crowdsourced, many regions may not be totally accurate. If you would like to help improve OpenStreetMaps and OsmAnd, check out [StreetComplete](https://wiki.openstreetmap.org/wiki/StreetComplete). It is available from [F-Droid](https://f-droid.org/en/packages/de.westnordost.streetcomplete/).
   - [Transportr](https://transportr.app/) - Primarily European, this is an open-source public transport app. Thanks to @lgiard
   - [Offi or Oeffi](https://oeffi.schildbach.de/) - Another recommendation from @lgiard, this app is also for public transport.
 - News
-  - [Flym](https://github.com/FredJul/Flym) - Open-source materian design RSS reader. Available from F-Droid.
+  - [Flym](https://github.com/FredJul/Flym) - Open-source Material Design RSS reader. Available from F-Droid.
 - Photos
   - [Piwigo Android](https://github.com/Piwigo/Piwigo-Android) - You need to have Piwigo set up first.
 - Pay
@@ -378,7 +379,7 @@ When searching for replacements, check the alternative stores (such as F-Droid) 
   - [Mycroft](https://mycroft.ai/) - Open-source virtual personal assistant. Can be run on a Raspberry Pi. (thanks u/Kentto7)
   - [Home Assistant](https://www.home-assistant.io/) - Open-source home automation. (thanks u/bilange)
 - FitBit
-  - *Due to Google's  [recent acquisition of FitBit](https://outline.com/tsJCYN), it is recommeded to avoid using FitBit. Instead, check out this [list of smart watches](https://asteroidos.org/install/) supported by Asteroid OS (See Wear OS in [Operating systems](#operating-systems)). Thanks @ribtoks*
+  - *Due to Google's  [recent acquisition of FitBit](https://outline.com/tsJCYN), it is recommended to avoid using FitBit. Instead, check out this [list of smart watches](https://asteroidos.org/install/) supported by Asteroid OS (See Wear OS in [Operating systems](#operating-systems)). Thanks @ribtoks*
 
 # Useful links, tools, and advice
 
