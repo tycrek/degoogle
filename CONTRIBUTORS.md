@@ -27,6 +27,7 @@ GitHub:
 - [@dimqua](https://github.com/dimqua)
 - [@peterge1998](https://github.com/peterge1998)
 - [@NicolasPA](https://github.com/NicolasPA)
+- [@scribblemaniac](https://github.com/scribblemaniac)
 
 Reddit:
 

@@ -205,6 +205,7 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [OpenStreetMaps](https://www.openstreetmap.org/) **9-eyes** - Collaborative project to create a free, editable map of the world (from Wikipedia). Completely crowdsources. Very strong alternative to Maps.
   - [Qwant Maps](https://www.qwant.com/maps/) - Maps from the makers of Qwant search engine. Thanks @mynamesleon
   - [Benmaps](https://benmaps.fr) - Another maps alternative based on OpenStreetMaps. Thanks @dimqua
+  - [Mapillary](https://www.mapillary.com/app/) - Crowdsourced street-level imagery built on top of OpenStreetMaps. Open source. Includes map data generated with object recognition software. Coverage is lacking in many cities but can always be improved upon.
   - *Editor note: I've seen OsmAnd: it's a mobile app. I've seen HERE WeGo: It's on malvertising filter lists.*
 - Transit
   - [Transportr](https://transportr.app/) An open-source Transit app on Android that takes information from several providers (e.g Deutsche Bahn in Germany) and enables you to use them in the app. Visualises the routes on an online OpenStreetMaps map. Works in most of Western-Europe, as well as the USA, Australia, Canada, New Zealand, Brazil, Nicaragua, Costa Rica, the UAE and Ghana.
