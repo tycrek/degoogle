@@ -305,6 +305,7 @@ When searching for replacements, check the alternative stores (such as F-Droid) 
   - [kboard](https://github.com/adgad/kboard) - Open-source. Has features for phrases, "lenny faces", macros and more.
   - [Simple Keyboard](https://github.com/rkkr/simple-keyboard) - Open-source, available from F-Droid.
   - [Indic Keyboard](https://gitlab.com/indicproject/indic-keyboard) - Open-source keyboard that supports many languages that other keyboards sometimes don't support. Not on F-Droid, but can be built from source or possibly through a Play Store alternative.
+  - [OpenBoard](https://github.com/dslul/openboard) - New 100% FOSS keyboard, based on AOSP. Similar to "Simple Keyboard". Thanks @Glitchy-Tozier
 - Drive
   - [ownCloud Android](https://github.com/owncloud/android) - ownCloud Android client.
   - [Nextcloud Android](https://github.com/nextcloud/android) - Nextcloud Android client.
