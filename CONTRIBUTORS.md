@@ -28,6 +28,7 @@ GitHub:
 - [@peterge1998](https://github.com/peterge1998)
 - [@NicolasPA](https://github.com/NicolasPA)
 - [@Glitchy-Tozier](https://github.com/Glitchy-Tozier)
+- [@scribblemaniac](https://github.com/scribblemaniac)
 
 Reddit:
 
