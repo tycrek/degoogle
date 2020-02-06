@@ -354,6 +354,7 @@ When searching for replacements, check the alternative stores (such as F-Droid) 
   - [Audinaut](https://github.com/nvllsvm/Audinaut) - An open-source Airsonic client for Android. Available from F-Droid.
   - [MALP](https://gitlab.com/gateship-one/malp) - An open-source Android client for MPD. Available on F-Droid.
 - Hangouts
+  - [Keybase](https://keybase.io/) - encrypted chat like Signal with features like Slack.
   - [Conversations](https://conversations.im/) - **14-eyes** - An open-source Android Jabber/XMPP client. It's a paid app on Google Play, but you can also [build it from source](https://github.com/siacs/Conversations) for free if you want to.
   - [Riot](https://github.com/vector-im/riot-android) Android app - The open-source Android client for Riot.
 - Assistant
