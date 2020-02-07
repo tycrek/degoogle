@@ -115,6 +115,8 @@ These Firefox extensions can help prevent connections to Google domains and also
   - *Help requested!*
 - Google Ads/AdMob/AdSense
   - *Help requested!*
+- Google Alerts
+  - *Help requested!*
 - G Suite
   - *Help requested!*
   - Note: Zoho has been removed as per issue #53. See [this link](https://news.ycombinator.com/item?id=18056723). Thanks @ribtoks
