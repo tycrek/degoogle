@@ -114,6 +114,7 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [DeepL](https://deepl.com/) - **14-eyes** - DeepL is an artifical intelligence translation service. *Editor note: The site server seems to be hosted in Finland, yet the company lists itself as [a company based in Germany](https://www.deepl.com/pro-faq.html) in the Data Protection section.*
   - *Help requested!*
 - Google Ads/AdMob/AdSense
+  - [CodeFund](https://codefund.io/) -- **5-eyes** - ethical advertising for technical audience.
   - *Help requested!*
 - Google Alerts
   - [F5Bot](https://f5bot.com/) - **5-eyes** - emails you when your selected keywords are mentioned on Reddit, Hacker News, or Lobsters.
