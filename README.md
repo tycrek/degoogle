@@ -116,6 +116,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 - Google Ads/AdMob/AdSense
   - *Help requested!*
 - Google Alerts
+  - [F5Bot](https://f5bot.com/) - **5-eyes** - emails you when your selected keywords are mentioned on Reddit, Hacker News, or Lobsters.
   - *Help requested!*
 - G Suite
   - *Help requested!*
