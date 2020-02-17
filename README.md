@@ -134,6 +134,7 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [Fathom](https://usefathom.com/) - Simple analytics for bloggers & businesses
   - [Plausible](https://plausible.io/) - **5-eyes** - Open-source, privacy-focused web analytics.
   - [GoatCounter](https://www.goatcounter.com/) - **14-eyes** - Simple web statistics. No tracking of personal data. Open-source and may be self-hosted. Free for non-commercial use; paid plans available. 
+  - [Simple Analytics](https://simpleanalytics.com/) - Great analytics with privacy and simplicity in mind.
 - Photos
   - [Photoprism](https://github.com/photoprism/photoprism) - Self-hosted and open-source Personal Photo Management powered by Go and Google TensorFlow.
   - [ownPhotos](https://github.com/hooram/ownphotos) - Self-hosted and open-source Google Photos alternative.
