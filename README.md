@@ -150,6 +150,7 @@ These Firefox extensions can help prevent connections to Google domains and also
   - Note: Zoho has been removed as per issue #53. See [this link](https://news.ycombinator.com/item?id=18056723). Thanks @ribtoks
 - Docs/Sheets/Slides (offline)
   - [LibreOffice](https://www.libreoffice.org/) and [Apache OpenOffice](https://www.openoffice.org/) - Both are open-source offline document suites.
+  - [ONLYOFFICE](https://www.onlyoffice.com) - Open-source private cloud replacement for Google Docs'suite and Office 360. Also available as a self contained rich application. 
   - [LibreOffice Online](https://www.libreoffice.org/download/libreoffice-online/) - Self-hosted instance of LibreOffice that you can run in your browser. Thanks @flubberding
   - [LyX](https://www.lyx.org/) - It's an open-source (and offline) document processor using TeX/LaTeX. It's different than Docs or Word but amazing, once you get used to it. Thanks @Glitchy-Tozier
 - Domains
@@ -163,6 +164,7 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [Sync](https://www.sync.com) - End-to-end encrypted Google Drive/Dropbox replacement.
   - [JottaCloud](https://jottacloud.com/en/) - **9-eyes** - Norway based cloud storage provider with free and paid plans. Thanks @mynamesleon
   - [Armored](https://armored.net/) - **9-eyes** - Nextcloud instance hosted by Epik.com. Paid plans with 30-day trial. Servers in a "secure bunker" in Norway. Supports other Nextcloud features such as Nextcloud Talk.
+  - [seafile](https://www.seafile.com) - Open-source and self-hosted file sync&share solution.
   - *Editor note: I'm not including MEGA. I do not recommend MEGA. It's far too controversial and far too difficult to figure out who actually owns the service. Also, it's a 5-eyes.*
 - Hangouts (instant messaging)
   - [Signal](https://signal.org/) - Whistleblower and privacy advocate Edward Snowden recommends Signal.
