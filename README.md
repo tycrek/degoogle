@@ -143,6 +143,7 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [Lightning Calendar](https://www.thunderbird.net/en-US/calendar/) (Thunderbird)- Developed by Mozilla Foundation and open-source. Integrates into Thunderbird and SeaMonkey.
   - [Tutanota Calendar](https://tutanota.com/calendar/) - Developed by Tutanota. Free cross-platform encrypted calendar. Allows importing of other Calendar files.
   - [Fruux](https://fruux.com/) - **14-eyes** - Open-source calendar using "sabre/dav" (open-source WebDAV, CardDAV, and CalDAV). They mention privacy quite a bit on their site. Very large number of features, and supports nearly every device: Windows, iOS, Linux, Android, BlackBerry, SailFish, and also a webapp for browsers.
+  - [EteSync](https://www.etesync.com) - Secure, end-to-end encrypted, and open-source sync for your contacts, calendars and tasks.
 - Docs/Sheets/Slides (cloud collaboration)
   - [CryptPad](https://cryptpad.fr/) - **9-eyes** - Open-source "zero knowledge" collaborative cloud editor. They offer Rich Text, Code, Presentation, Sheet (beta), Poll, Kanban, Whiteboard, and CryptDrive. 100% Client side encryption. Tons of useful features.
   - [Etherpad](https://etherpad.org/) - Self-hosted collaborative editor. Does not use the browser. Not the greatest interface, but it's open-source and you have full control over who can see your data.
@@ -192,6 +193,7 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [Standard Notes](https://standardnotes.org/) - Encrypted note storage with loads of features. Offers a web app as well as downloads for most operating systems. Has a paid plan, but the free tier has many useful features as well.
   - [Turtl](https://turtlapp.com/) - Encrypted collaborative notebook with possibility of running your own server.
   - [QOwnNotes](https://www.qownnotes.org/) - Open-source file editor with Markdown support. (thanks u/maqp2)
+  - [EteSync](https://www.etesync.com) - Secure, end-to-end encrypted, and open-source sync for your contacts, calendars and tasks.
 - Play Music & Play Movies and TV
   - [Jellyfin](https://jellyfin.github.io/) - Open-source alternative to the Play media services. You do need to provide your own content, however. In active development with frequent updates (to the source, that is).
   - [Funkwhale](https://funkwhale.audio/) - Self-hosted, decentralized music service. Provide your own audio. (thanks u/DashEquals)
