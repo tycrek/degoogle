@@ -440,6 +440,29 @@ Everything you need to become a Privacy Wizard.
 - [J. Nathan Matias | Blog 20181208: Quitting Facebook & Google](https://medium.com/@natematias/https-medium-com-natematias-quitting-facebook-google-aaf8f4c80fbf)
 - [Marko Saric | Blog 20191205: How to fight back against Google AMP as a web user and a web developer](https://markosaric.com/google-amp/)
 
+## News articles
+
+- [Forbes | 20120515: Google can survive too much innovation. You can’t.](https://www.forbes.com/sites/forbesleadershipforum/2012/05/15/google-can-survive-too-much-innovation-you-cant/#37ff02f66003)
+- [Business Insider | 20150417: The truth about Google’s famous ’20% time’ policy](https://www.businessinsider.com/google-20-percent-time-policy-2015-4)
+- [The Atlantic | 20161101: The binge breaker](https://www.theatlantic.com/magazine/archive/2016/11/the-binge-breaker/501122/)
+- [WIRED | 20170922: How malware keeps sneaking past Google Play’s defenses](https://www.wired.com/story/google-play-store-malware/)
+- [MIT Technology Review | 20171003: Forget killer robots - bias is the real AI danger](https://www.technologyreview.com/s/608986/forget-killer-robotsbias-is-the-real-ai-danger/)
+- [Business Insider | 20180108: Google managers kept blacklists of conservative employees and one manager considered holding ‘trials,’ a new lawsuit alleges](https://www.businessinsider.com/conservative-google-employees-are-blacklisted-lawsuit-alleges-2018-1)
+- [CNBC | 20180124: A longtime Google engineer quits, saying the company is now ‘100% competitor-focused’](https://www.cnbc.com/2018/01/24/google-engineer-steve-yege-calls-company-100-percent-competitor-focused.html)
+- [Washington Post | 20180126: Facebook and Google are doomed, George Soros says](https://www.washingtonpost.com/news/the-switch/wp/2018/01/26/facebook-and-google-are-doomed-george-soros-says/)
+- [Gizmodo | 20180326: Google isn’t listening, so its employees are suing](https://gizmodo.com/google-isnt-listening-so-its-employees-are-suing-1823611720)
+- [The Guardian | 20180328: Google sees major claims of harassment and discrimination as lawsuits proceed](https://www.theguardian.com/technology/2018/mar/28/google-sexual-harassment-pay-gap-lawsuits-proceed)
+- [CNBC | 20180511: How to stop Google from tracking everything you do online](https://www.cnbc.com/2018/05/11/how-to-stop-google-from-tracking-me-online.html)
+- [Engadget | 20180524: Google will always do evil](https://www.engadget.com/2018/05/24/google-will-always-do-evil/)
+- [TechCrunch | 20180607: Google’s new ‘AI principles’ forbid its use in weapons and human rights violations](https://techcrunch.com/2018/06/07/googles-new-ai-principles-forbid-its-use-in-weapons-and-human-rights-violations/)
+- [The Intercept | 20180801: Google plans to launch censored search engine in China, leaked documents reveal](https://theintercept.com/2018/08/01/google-china-search-engine-censorship/)
+- [Washington Post | 20180809: Opinion - Google’s China plan isn’t just evil - it’s bad for business](https://www.washingtonpost.com/opinions/global-opinions/googles-china-plan-isnt-just-evil--its-bad-for-business/2018/08/09/143046be-9c12-11e8-8d5e-c6c594024954_story.html)
+- [The New York Times | 20181025: How Google protected Andy Rubin, the ‘Father of Android’](https://www.nytimes.com/2018/10/25/technology/google-sexual-harassment-andy-rubin.html)
+- [WIRED | 20181210: A new Google+ blunder exposed data from 52.5 million users](https://www.wired.com/story/google-plus-bug-52-million-users-data-exposed/)
+- [WIRED | 20190813: Three years of misery inside Google, the happiest company in tech](https://www.wired.com/story/inside-google-three-years-misery-happiest-company-tech/)
+- [TechCrunch | 20200123: Google’s latest user-hostile design change makes ads and search results look identical](https://techcrunch.com/2020/01/23/squint-and-youll-click-it/)
+- [The New York Times | 20200124: You are now remotely controlled](https://www.nytimes.com/2020/01/24/opinion/sunday/surveillance-capitalism.html)
+
 # The lighter side
 
 - Movies and TV I recommend:
