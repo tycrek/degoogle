@@ -29,6 +29,7 @@ GitHub:
 - [@NicolasPA](https://github.com/NicolasPA)
 - [@Glitchy-Tozier](https://github.com/Glitchy-Tozier)
 - [@scribblemaniac](https://github.com/scribblemaniac)
+- [@br3ndonland](https://github.com/br3ndonland)
 
 Reddit:
 
