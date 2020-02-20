@@ -391,7 +391,9 @@ When searching for replacements, check the alternative stores (such as F-Droid) 
 
 # Useful links, tools, and advice
 
-Everything you need to become Privacy Wizard.
+## Resources
+
+Everything you need to become a Privacy Wizard.
 
 - [Privacy Tools](https://www.privacytools.io/) (thanks u/yieldingTemporarily)
 - [ethical.net](https://ethical.net/) (thanks u/yieldingTemporarily)
