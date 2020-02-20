@@ -429,6 +429,11 @@ Everything you need to become a Privacy Wizard.
 - Check out [WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) and [this tutorial](https://github.com/adolfintel/Windows10-Privacy) for even more Windows 10 tips (thanks u/rudolf323)
 - Did you read the [wiki](https://old.reddit.com/r/privacy/wiki/index) yet? Go do that.
 
+## Books
+
+- [Jaron Lanier | Ten arguments for deleting your social media accounts right now](http://www.jaronlanier.com/tenarguments.html) (2018)
+- [Shoshana Zuboff | The age of surveillance capitalism: The fight for a human future at the new frontier of power](https://www.publicaffairsbooks.com/titles/shoshana-zuboff/the-age-of-surveillance-capitalism/9781610395694/) (2019)
+
 # The lighter side
 
 - Movies and TV I recommend:
