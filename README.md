@@ -413,7 +413,6 @@ Everything you need to become a Privacy Wizard.
 - [HTTP vs. HTTPS](https://outline.com/xUXZMh)
 - The EFF has an [excellent guide](https://ssd.eff.org/) on how to stay safe and secure online. It is incredibly useful and I suggest that everyone read through it.
 - Click [here](https://www.thewindowsclub.com/windows-10-telemetry) and [here](https://winaero.com/blog/how-to-disable-telemetry-and-data-collection-in-windows-10/) for tips on disabling Windows 10 telemetry/data collection.
-- Click [here](https://www.mozilla.org/en-US/internet-health/privacy-security/) and [here](https://blog.mozilla.org/internetcitizen/2017/01/30/15-privacy-tips-protect-online-life/) for tips from the Mozilla Foundation on internet privacy and security.
 - Click [here](https://duckduckgo.com/newsletter) to sign up for DuckDuckGo's privacy newsletter, and [here](https://spreadprivacy.com/) for more tips, articles, and blog posts from DuckDuckGo.
 - [Delete Facebook](https://deletefacebook.com/). Another guide can be found [here](https://www.wikihow.com/Permanently-Delete-a-Facebook-Account).
 - [Why you should put tape over your webcam](https://outline.com/fYCu98)
@@ -439,6 +438,7 @@ Everything you need to become a Privacy Wizard.
 - [Electronic Frontier Foundation | Blog 20181101: Google Chrome’s users take a back seat to its bottom line](https://www.eff.org/deeplinks/2018/11/google-chromes-users-take-back-seat-its-bottom-line)
 - [J. Nathan Matias | Blog 20181208: Quitting Facebook & Google](https://medium.com/@natematias/https-medium-com-natematias-quitting-facebook-google-aaf8f4c80fbf)
 - [Marko Saric | Blog 20191205: How to fight back against Google AMP as a web user and a web developer](https://markosaric.com/google-amp/)
+- Click [here](https://www.mozilla.org/en-US/internet-health/privacy-security/) and [here](https://blog.mozilla.org/internetcitizen/2017/01/30/15-privacy-tips-protect-online-life/) for tips from the Mozilla Foundation on internet privacy and security.
 
 ## News articles
 
