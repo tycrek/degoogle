@@ -198,6 +198,7 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [Airsonic](https://airsonic.github.io/) - **Music only** - Self-hosted open-source media streamer. Has features for transcoding audio on-the-fly for "virtually any audio format". You can also set bandwidth limits if you need to. Looks very powerful.
   - [Music Player Daemon](https://www.musicpd.org/) - A "flexible, powerful, server-side application for playing music".
   - [Popcorn Time](https://popcorntime.sh/faq) - Open source software for desktop and mobile that let you easily stream movie/TV torrents. **Be careful if your country or ISP has policies against torrenting, a VPN is recommended.** Thanks @je-vv
+  - [Nuclear Music Player](https://nuclear.js.org/) - Streaming music player that finds music from free sources automatically.
   - *Editor note: I can no longer recommend [Emby](https://emby.media/) as they are [no longer open-source](https://www.linuxuprising.com/2018/12/jellyfin-free-software-emby-media.html).*
   - Thanks to u/eA8KESARaW6iqCpHsbE4 for suggesting Jellyfin and pointing out that Emby isn't open-source.
 - Fonts
