@@ -233,6 +233,7 @@ These Firefox extensions can help prevent connections to Google domains and also
   - Note: Please see Issue #55 for details on /e/.
 - Chrome OS
   - [Qubes OS](https://www.qubes-os.org/) - "A reasonably secure operating system", at least according to their website. Edward Snowden recommends it.
+  - [Subgraph OS](https://subgraph.com/index.en.html) - A desktop computing and communications platform that is designed to be resistant to network-borne exploit and malware attacks.
   - [Tails](https://tails.boum.org/) - For the uber-paranoid. Runs live and the entire OS is routed through Tor right from boot. Built on Debian.
   - [Knoppix](http://www.knopper.net/knoppix/index-en.html) - Another Live OS, runs from CD/DVD/USB. Can also be installed if desired.
   - [Parrot OS](https://parrotsec.org/) - Debian-based and privacy focused. Fully sandboxed. (thanks u/Safe_Airport)
