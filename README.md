@@ -361,6 +361,7 @@ When searching for replacements, check the alternative stores (such as F-Droid) 
   - [FreeOTP+](https://github.com/helloworld1/FreeOTPPlus) - FreeOTP is no longer in development so this fork should be used instead as it is currently in development. Available from F-Droid.
   - [Aegis](https://github.com/beemdevelopment/Aegis) - Open-source 2FA for Android. Available on F-Droid.
   - [Authenticator](https://mattrubin.me/authenticator/) - **iOS** - Open-source 2FA for iOS. (thanks u/SomeoneWannaBe)
+  - [Tofu](https://tofuauth.com) - **iOS** - Open-source 2FA for iOS.
 - Play Music/Play Movies & TV
   - [Audinaut](https://github.com/nvllsvm/Audinaut) - An open-source Airsonic client for Android. Available from F-Droid.
   - [MALP](https://gitlab.com/gateship-one/malp) - An open-source Android client for MPD. Available on F-Droid.
