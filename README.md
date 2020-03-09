@@ -153,6 +153,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 - Docs/Sheets/Slides (offline)
   - [LibreOffice](https://www.libreoffice.org/) and [Apache OpenOffice](https://www.openoffice.org/) - **14-eyes** - Both are open-source offline document suites.
   - [LibreOffice Online](https://www.libreoffice.org/download/libreoffice-online/) - **14-eyes** - Self-hosted instance of LibreOffice that you can run in your browser. Thanks @flubberding
+  - [ONLYOFFICE](https://www.onlyoffice.com) - Open-source private cloud replacement for Google Docs'suite and Office 360. Also available as a self contained rich application.
   - [LyX](https://www.lyx.org/) - It's an open-source (and offline) document processor using TeX/LaTeX. It's different than Docs or Word but amazing, once you get used to it. Thanks @Glitchy-Tozier
 - Domains
   - [Njalla](https://njal.la/) - **14-eyes** - Privacy-focused domain registration. Competitive pricing and a large list of available domain extensions. They also offer VPS hosting. Built by people who built The Pirate Bay among others. (thanks u/brais33 and u/HumbleBasis6)
@@ -165,6 +166,7 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [Sync](https://www.sync.com) - End-to-end encrypted Google Drive/Dropbox replacement.
   - [JottaCloud](https://jottacloud.com/en/) - **9-eyes** - Norway based cloud storage provider with free and paid plans. Thanks @mynamesleon
   - [Armored](https://armored.net/) - **9-eyes** - Nextcloud instance hosted by Epik.com. Paid plans with 30-day trial. Servers in a "secure bunker" in Norway. Supports other Nextcloud features such as Nextcloud Talk.
+  - [seafile](https://www.seafile.com) - Open-source and self-hosted file sync&share solution.
   - [Cozy Cloud](https://cozy.io/) - **9-eyes** - French based cloud storage provider with free and paid plans. Can also be self-hosted. Open-Source. And it also offers a collaborative notes editor.
   - *Editor note: I'm not including MEGA. I do not recommend MEGA. It's far too controversial and far too difficult to figure out who actually owns the service. Also, it's a 5-eyes.*
 - Hangouts (instant messaging)
