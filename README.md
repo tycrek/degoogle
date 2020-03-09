@@ -28,10 +28,7 @@ If you want to help out with the project, here are some ideas (submit **Issues**
 - Host a mirror or clone the [repo](https://github.com/tycrek/degoogle). If you host a mirror, let me know and I can add it to the mirrors list.
 - Anything else relating to any part of this guide, whether it's Google related or not.
 
-**Want to help out in another way?**
-
-- **Share** this guide with everyone you know. Let them know why privacy matters and why they should care about it. Don't force it on them, but carefully ease them into it and don't scare them away from staying secure.
-- **Donate** to non-profit organizations that support online privacy and security (see the [r/privacy](https://reddit.com/r/privacy) sidebar)
+When contributing, please try to follow the rules outlined in [CONTRIBUTING.md](https://github.com/tycrek/degoogle/blob/master/CONTRIBUTING.md).
 
 # Browser extensions
 
