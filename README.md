@@ -364,7 +364,7 @@ When searching for replacements, check the alternative stores (such as F-Droid) 
   - [Conversations](https://conversations.im/) - **14-eyes** - An open-source Android Jabber/XMPP client. It's a paid app on Google Play, but you can also [build it from source](https://github.com/siacs/Conversations) for free if you want to.
   - [Riot](https://github.com/vector-im/riot-android) Android app - The open-source Android client for Riot.
 - Assistant
-  - [Mycroft](https://mycroft.ai/) - the world’s first open source voice assistant.
+  - [Mycroft Android](https://github.com/MycroftAI/Mycroft-Android) - Android client for Mycroft. Must be built in IDE; no pre-built binaries are available.
 
 **Android launchers**:
 
