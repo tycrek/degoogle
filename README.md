@@ -192,6 +192,7 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [Standard Notes](https://standardnotes.org/) - Encrypted note storage with loads of features. Offers a web app as well as downloads for most operating systems. Has a paid plan, but the free tier has many useful features as well.
   - [Turtl](https://turtlapp.com/) - Encrypted collaborative notebook with possibility of running your own server.
   - [QOwnNotes](https://www.qownnotes.org/) - Open-source file editor with Markdown support. (thanks u/maqp2)
+  - [GitJournal](https://gitjournal.io/) - Your Markdown notes stores in any Git Repo. Available for both Android (Play Store) and iOS.
 - Play Music & Play Movies and TV
   - [Jellyfin](https://jellyfin.github.io/) - Open-source alternative to the Play media services. You do need to provide your own content, however. In active development with frequent updates (to the source, that is).
   - [Funkwhale](https://funkwhale.audio/) - Self-hosted, decentralized music service. Provide your own audio. (thanks u/DashEquals)
