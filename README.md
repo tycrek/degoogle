@@ -277,7 +277,9 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [KDE Marble](https://kde.org/applications/education/org.kde.marble) - Strong alternative for G Earth. Currently only on Linux, but is being ported to other platforms. Thanks to @PopeRigby
 - Android Studio (not specifically for Android development, just in general)
   - [VSCodium](https://github.com/VSCodium/vscodium) - VSCodium is VSCode but without all the Microsoft telemetry and branding.
-  - *Help requested!*
+  - Text editors:
+    - [Vim](https://www.vim.org/) - Open-source text editor. Thanks @moon-chilled
+    - [Emacs](https://www.gnu.org/software/emacs/) - Another open-source text editor. Thanks @moon-chilled
 
 ## Mobile applications (mobile apps installable from stores)
 

@@ -31,6 +31,7 @@ GitHub:
 - [@scribblemaniac](https://github.com/scribblemaniac)
 - [@br3ndonland](https://github.com/br3ndonland)
 - [@kabo](https://github.com/kabo)
+- [@moon-chilled](https://github.com/moon-chilled)
 
 Reddit:
 
