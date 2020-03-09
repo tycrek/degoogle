@@ -122,7 +122,7 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [F5Bot](https://f5bot.com/) - **5-eyes** - emails you when your selected keywords are mentioned on Reddit, Hacker News, or Lobsters.
   - *Help requested!*
 - G Suite
-  - *Help requested!*
+  - [Nextcloud](https://www.nextcloud.com/) & [ONLYOFFICE](https://www.onlyoffice.com/) - Nextcloud 18 now has Community Document Server and OnlyOffice apps integrated which allows self hosted instances of docs/sheets/slides. Users are able to edit documents in real time. Thanks @k3tan172 and @plutocrat
   - Note: Zoho has been removed as per issue #53. See [this link](https://news.ycombinator.com/item?id=18056723). Thanks @ribtoks
 - Blogger/Sites
   - [Joomla](https://www.joomla.org/) - Self-hosted and open-source content management system (CMS).

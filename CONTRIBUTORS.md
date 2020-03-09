@@ -33,6 +33,8 @@ GitHub:
 - [@kabo](https://github.com/kabo)
 - [@moon-chilled](https://github.com/moon-chilled)
 - [@taraletti](https://github.com/taraletti)
+- [@k3tan172](https://github.com/k3tan172)
+- [@plutocrat](https://github.com/plutocrat)
 
 Reddit:
 
