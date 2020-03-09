@@ -147,15 +147,16 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [Tutanota Calendar](https://tutanota.com/calendar/) - **14-eyes** - Developed by Tutanota. Free cross-platform encrypted calendar. Allows importing of other Calendar files.
   - [Fruux](https://fruux.com/) - **14-eyes** - Open-source calendar using "sabre/dav" (open-source WebDAV, CardDAV, and CalDAV). They mention privacy quite a bit on their site. Very large number of features, and supports nearly every device: Windows, iOS, Linux, Android, BlackBerry, SailFish, and also a webapp for browsers.
   - [EteSync](https://www.etesync.com) - Secure, end-to-end encrypted, and open-source sync for your contacts, calendars and tasks.
-- Docs/Sheets/Slides (cloud collaboration)
+- Docs/Sheets/Slides (cloud)
   - [CryptPad](https://cryptpad.fr/) - **9-eyes** - Open-source "zero knowledge" collaborative cloud editor. They offer Rich Text, Code, Presentation, Sheet (beta), Poll, Kanban, Whiteboard, and CryptDrive. 100% Client side encryption. Tons of useful features.
   - [Etherpad](https://etherpad.org/) - Self-hosted collaborative editor. Does not use the browser. Not the greatest interface, but it's open-source and you have full control over who can see your data.
   - [Cryptee](https://crypt.ee/) - Open-source and privacy focused photo and document storage/editing. Based in Estonia, so your files are outside the reach of any 14-eyes country. They don't even require an email address to sign up.
+  - [LibreOffice Online](https://www.libreoffice.org/download/libreoffice-online/) - **14-eyes** - Self-hosted instance of LibreOffice that you can run in your browser. Thanks @flubberding
+  - [ONLYOFFICE](https://www.onlyoffice.com) - Open-source private cloud replacement for Google Docs'suite and Office 360. Also available as a self contained rich application.
+  - [Arcane Office](https://arcaneoffice.com/) - A decentralized office suite with high-security and zero-knowledge on your data. With Arcane Office, you have maximum control on your personal stuff. Full-featured online document and spreadsheet editor. Secure storage to save your photos. All free for personal use. Thanks @taraletti
   - Note: Zoho has been removed as per issue #53. See [this link](https://news.ycombinator.com/item?id=18056723). Thanks @ribtoks
 - Docs/Sheets/Slides (offline)
   - [LibreOffice](https://www.libreoffice.org/) and [Apache OpenOffice](https://www.openoffice.org/) - **14-eyes** - Both are open-source offline document suites.
-  - [LibreOffice Online](https://www.libreoffice.org/download/libreoffice-online/) - **14-eyes** - Self-hosted instance of LibreOffice that you can run in your browser. Thanks @flubberding
-  - [ONLYOFFICE](https://www.onlyoffice.com) - Open-source private cloud replacement for Google Docs'suite and Office 360. Also available as a self contained rich application.
   - [LyX](https://www.lyx.org/) - It's an open-source (and offline) document processor using TeX/LaTeX. It's different than Docs or Word but amazing, once you get used to it. Thanks @Glitchy-Tozier
 - Domains
   - [Njalla](https://njal.la/) - **14-eyes** - Privacy-focused domain registration. Competitive pricing and a large list of available domain extensions. They also offer VPS hosting. Built by people who built The Pirate Bay among others. (thanks u/brais33 and u/HumbleBasis6)

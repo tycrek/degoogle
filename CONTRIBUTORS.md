@@ -32,6 +32,7 @@ GitHub:
 - [@br3ndonland](https://github.com/br3ndonland)
 - [@kabo](https://github.com/kabo)
 - [@moon-chilled](https://github.com/moon-chilled)
+- [@taraletti](https://github.com/taraletti)
 
 Reddit:
 
