@@ -95,7 +95,7 @@ These Firefox extensions can help prevent connections to Google domains and also
   - *See above. All provide some form of image search.*
 - YouTube
   - [PeerTube](https://joinpeertube.org/en/) - Decentralized video hosting network. Still quite small, but is growing and has a dedicated community.
-  - [BitChute](https://www.bitchute.com/) - Also P2P, but not decentralized. Due to it being proprietary, if BitChute goes down then the whole thing goes down (unlike PeerTube). (thanks u/up-sky-7)
+  - [BitChute](https://www.bitchute.com/) - **5-eyes** - Also P2P, but not decentralized. Due to it being proprietary, if BitChute goes down then the whole thing goes down (unlike PeerTube). (thanks u/up-sky-7)
   - [DTube](https://d.tube/) - Looks very similar to YouTube. Advertised as "first crypt-decentralized video-platform". Built on Steemit and IPFS.
   - [Bit.tube](https://bit.tube/) - Appears to be a crypto-powered decentralized video sharing service. (thanks u/rudolf323)
   - [Invidious](https://invidio.us/) - An [open-source](https://github.com/omarroth/invidious) front-end alternative to YouTube. Seems to work pretty well from my experience so far, and it hasn't triggered *anything* on my adblocker/privacy extensions. Also offers downloads in many formats for videos (including `.vtt` subtitles).
@@ -134,6 +134,7 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [Fathom](https://usefathom.com/) - Simple analytics for bloggers & businesses
   - [Plausible](https://plausible.io/) - **5-eyes** - Open-source, privacy-focused web analytics.
   - [GoatCounter](https://www.goatcounter.com/) - **14-eyes** - Simple web statistics. No tracking of personal data. Open-source and may be self-hosted. Free for non-commercial use; paid plans available. 
+  - [Simple Analytics](https://simpleanalytics.com/) - Great analytics with privacy and simplicity in mind. Paid plans only (with free trials).
 - Photos
   - [Photoprism](https://github.com/photoprism/photoprism) - Self-hosted and open-source Personal Photo Management powered by Go and Google TensorFlow.
   - [ownPhotos](https://github.com/hooram/ownphotos) - Self-hosted and open-source Google Photos alternative.
@@ -141,17 +142,18 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [JottaCloud](https://jottacloud.com/en/) - **9-eyes** - Norway based cloud storage provider with free and paid plans. Thanks @mynamesleon
 - Calendar
   - [Lightning Calendar](https://www.thunderbird.net/en-US/calendar/) (Thunderbird)- Developed by Mozilla Foundation and open-source. Integrates into Thunderbird and SeaMonkey.
-  - [Tutanota Calendar](https://tutanota.com/calendar/) - Developed by Tutanota. Free cross-platform encrypted calendar. Allows importing of other Calendar files.
+  - [Tutanota Calendar](https://tutanota.com/calendar/) - **14-eyes** - Developed by Tutanota. Free cross-platform encrypted calendar. Allows importing of other Calendar files.
   - [Fruux](https://fruux.com/) - **14-eyes** - Open-source calendar using "sabre/dav" (open-source WebDAV, CardDAV, and CalDAV). They mention privacy quite a bit on their site. Very large number of features, and supports nearly every device: Windows, iOS, Linux, Android, BlackBerry, SailFish, and also a webapp for browsers.
+  - [EteSync](https://www.etesync.com) - Secure, end-to-end encrypted, and open-source sync for your contacts, calendars and tasks.
 - Docs/Sheets/Slides (cloud collaboration)
   - [CryptPad](https://cryptpad.fr/) - **9-eyes** - Open-source "zero knowledge" collaborative cloud editor. They offer Rich Text, Code, Presentation, Sheet (beta), Poll, Kanban, Whiteboard, and CryptDrive. 100% Client side encryption. Tons of useful features.
   - [Etherpad](https://etherpad.org/) - Self-hosted collaborative editor. Does not use the browser. Not the greatest interface, but it's open-source and you have full control over who can see your data.
   - [Cryptee](https://crypt.ee/) - Open-source and privacy focused photo and document storage/editing. Based in Estonia, so your files are outside the reach of any 14-eyes country. They don't even require an email address to sign up.
   - Note: Zoho has been removed as per issue #53. See [this link](https://news.ycombinator.com/item?id=18056723). Thanks @ribtoks
 - Docs/Sheets/Slides (offline)
-  - [LibreOffice](https://www.libreoffice.org/) and [Apache OpenOffice](https://www.openoffice.org/) - Both are open-source offline document suites.
-  - [ONLYOFFICE](https://www.onlyoffice.com) - Open-source private cloud replacement for Google Docs'suite and Office 360. Also available as a self contained rich application. 
-  - [LibreOffice Online](https://www.libreoffice.org/download/libreoffice-online/) - Self-hosted instance of LibreOffice that you can run in your browser. Thanks @flubberding
+  - [LibreOffice](https://www.libreoffice.org/) and [Apache OpenOffice](https://www.openoffice.org/) - **14-eyes** - Both are open-source offline document suites.
+  - [LibreOffice Online](https://www.libreoffice.org/download/libreoffice-online/) - **14-eyes** - Self-hosted instance of LibreOffice that you can run in your browser. Thanks @flubberding
+  - [ONLYOFFICE](https://www.onlyoffice.com) - Open-source private cloud replacement for Google Docs'suite and Office 360. Also available as a self contained rich application.
   - [LyX](https://www.lyx.org/) - It's an open-source (and offline) document processor using TeX/LaTeX. It's different than Docs or Word but amazing, once you get used to it. Thanks @Glitchy-Tozier
 - Domains
   - [Njalla](https://njal.la/) - **14-eyes** - Privacy-focused domain registration. Competitive pricing and a large list of available domain extensions. They also offer VPS hosting. Built by people who built The Pirate Bay among others. (thanks u/brais33 and u/HumbleBasis6)
@@ -165,12 +167,13 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [JottaCloud](https://jottacloud.com/en/) - **9-eyes** - Norway based cloud storage provider with free and paid plans. Thanks @mynamesleon
   - [Armored](https://armored.net/) - **9-eyes** - Nextcloud instance hosted by Epik.com. Paid plans with 30-day trial. Servers in a "secure bunker" in Norway. Supports other Nextcloud features such as Nextcloud Talk.
   - [seafile](https://www.seafile.com) - Open-source and self-hosted file sync&share solution.
+  - [Cozy Cloud](https://cozy.io/) - **9-eyes** - French based cloud storage provider with free and paid plans. Can also be self-hosted. Open-Source. And it also offers a collaborative notes editor.
   - *Editor note: I'm not including MEGA. I do not recommend MEGA. It's far too controversial and far too difficult to figure out who actually owns the service. Also, it's a 5-eyes.*
 - Hangouts (instant messaging)
-  - [Signal](https://signal.org/) - Whistleblower and privacy advocate Edward Snowden recommends Signal.
+  - [Signal](https://signal.org/) - **5-eyes** - Whistleblower and privacy advocate Edward Snowden recommends Signal.
   - [Tox](https://tox.chat/) - Tox is unique as it uses P2P technology to ensure the network *never* goes down, as long as there are users to keep it alive. They specifically say on the website "Tox has no central servers that can be raided, shut down, or forced to turn over data".
   - [Wire](https://wire.com/en/) - **14-eyes** - Uses end-to-end encryption. Looks to be more of a corporate service with tiered plans.
-  - [Riot](https://about.riot.im/) - Open-source privacy-focused chat service with end-to-end encryption. They offer webapps, desktop apps, iOS, and Android (Play Store and F-Droid). Uses the "Matrix" protocol for decentralized communication. It is 100% free and open-source with no paid plans.
+  - [Riot](https://about.riot.im/) - **5-eyes** - Open-source privacy-focused chat service with end-to-end encryption. They offer webapps, desktop apps, iOS, and Android (Play Store and F-Droid). Uses the "Matrix" protocol for decentralized communication. It is 100% free and open-source with no paid plans.
   - [Threema](https://threema.ch/en) - Swiss-based GDPR-compliant instant messenger. Has apps for both iOS and Android. Unlike Signal, no phone number is required (nor is an email) to sign up. End-to-end encrypted. Thanks to @nathanvogel
   - *Editor note: See [this article](https://outline.com/BK8f7h) for why I didn't include WhatsApp and why you should NOT use it (if someone has a better Outline link, that would be much appreciated).*
   - I have also **removed** Telegram. See [Issue #29](https://github.com/tycrek/degoogle/issues/29) from @arsv.
@@ -194,12 +197,15 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [Standard Notes](https://standardnotes.org/) - Encrypted note storage with loads of features. Offers a web app as well as downloads for most operating systems. Has a paid plan, but the free tier has many useful features as well.
   - [Turtl](https://turtlapp.com/) - Encrypted collaborative notebook with possibility of running your own server.
   - [QOwnNotes](https://www.qownnotes.org/) - Open-source file editor with Markdown support. (thanks u/maqp2)
+  - [EteSync](https://www.etesync.com) - Secure, end-to-end encrypted, and open-source sync for your contacts, calendars and tasks.
+  - [GitJournal](https://gitjournal.io/) - Your Markdown notes stores in any Git Repo. Available for both Android (Play Store) and iOS.
 - Play Music & Play Movies and TV
   - [Jellyfin](https://jellyfin.github.io/) - Open-source alternative to the Play media services. You do need to provide your own content, however. In active development with frequent updates (to the source, that is).
   - [Funkwhale](https://funkwhale.audio/) - Self-hosted, decentralized music service. Provide your own audio. (thanks u/DashEquals)
   - [Airsonic](https://airsonic.github.io/) - **Music only** - Self-hosted open-source media streamer. Has features for transcoding audio on-the-fly for "virtually any audio format". You can also set bandwidth limits if you need to. Looks very powerful.
   - [Music Player Daemon](https://www.musicpd.org/) - A "flexible, powerful, server-side application for playing music".
   - [Popcorn Time](https://popcorntime.sh/faq) - Open source software for desktop and mobile that let you easily stream movie/TV torrents. **Be careful if your country or ISP has policies against torrenting, a VPN is recommended.** Thanks @je-vv
+  - [Nuclear Music Player](https://nuclear.js.org/) - Streaming music player that finds music from free sources automatically.
   - *Editor note: I can no longer recommend [Emby](https://emby.media/) as they are [no longer open-source](https://www.linuxuprising.com/2018/12/jellyfin-free-software-emby-media.html).*
   - Thanks to u/eA8KESARaW6iqCpHsbE4 for suggesting Jellyfin and pointing out that Emby isn't open-source.
 - Fonts
@@ -210,13 +216,13 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [ILIAS](https://www.ilias.de/en/) - Another self-hosted open source classroom software. Thanks again to @jankapunkt
   - [Canvas](https://www.instructure.com/canvas) Paid service by Instructure. Also available as a [self-hosted, open source option](https://github.com/instructure/canvas-lms). To ensure privacy, use the self-hosted option.
 - Maps/Street View
-  - [OpenStreetMaps](https://www.openstreetmap.org/) **9-eyes** - Collaborative project to create a free, editable map of the world (from Wikipedia). Completely crowdsourced. Very strong alternative to Maps.
+  - [OpenStreetMap](https://www.openstreetmap.org/) **9-eyes** - Collaborative project to create a free, editable map of the world (from Wikipedia). Completely crowdsourced. Very strong alternative to Maps.
   - [Qwant Maps](https://www.qwant.com/maps/) - Maps from the makers of Qwant search engine. Thanks @mynamesleon
-  - [Benmaps](https://benmaps.fr) - Another maps alternative based on OpenStreetMaps. Thanks @dimqua
-  - [Mapillary](https://www.mapillary.com/app/) - Crowdsourced street-level imagery built on top of OpenStreetMaps. Open source. Includes map data generated with object recognition software. Coverage is lacking in many cities but can always be improved upon.
+  - [Benmaps](https://benmaps.fr) - Another maps alternative based on OpenStreetMap. Thanks @dimqua
+  - [Mapillary](https://www.mapillary.com/app/) - **14-eyes** - Crowdsourced street-level imagery built on top of OpenStreetMap. Open source. Includes map data generated with object recognition software. Coverage is lacking in many cities but can always be improved upon.
   - *Editor note: I've seen OsmAnd: it's a mobile app. I've seen HERE WeGo: It's on malvertising filter lists.*
 - Transit
-  - [Transportr](https://transportr.app/) An open-source Transit app on Android that takes information from several providers (e.g Deutsche Bahn in Germany) and enables you to use them in the app. Visualises the routes on an online OpenStreetMaps map. Works in most of Western-Europe, as well as the USA, Australia, Canada, New Zealand, Brazil, Nicaragua, Costa Rica, the UAE and Ghana.
+  - [Transportr](https://transportr.app/) An open-source Transit app on Android that takes information from several providers (e.g Deutsche Bahn in Germany) and enables you to use them in the app. Visualises the routes on an online OpenStreetMap map. Works in most of Western-Europe, as well as the USA, Australia, Canada, New Zealand, Brazil, Nicaragua, Costa Rica, the UAE and Ghana.
   **Beware: most information-providers only have beta or alpha support, it may be a good idea to keep a second app as a fallback option**
 - Trends
   - *Help requested!*
@@ -238,7 +244,7 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [Tails](https://tails.boum.org/) - For the uber-paranoid. Runs live and the entire OS is routed through Tor right from boot. Built on Debian.
   - [Knoppix](http://www.knopper.net/knoppix/index-en.html) - Another Live OS, runs from CD/DVD/USB. Can also be installed if desired.
   - [Parrot OS](https://parrotsec.org/) - Debian-based and privacy focused. Fully sandboxed. (thanks u/Safe_Airport)
-  - [PureOS](https://pureos.net/) - The OS of Purism Laptops (mentioned in the Hardware section). Very clean UI. *Editor note: I could not get this working on a UEFI Dell laptop. The group behind PureOS does not provide any UEFI support.*
+  - [PureOS](https://pureos.net/) - **5-eyes** - The OS of Purism Laptops (mentioned in the Hardware section). Very clean UI. *Editor note: I could not get this working on a UEFI Dell laptop. The group behind PureOS does not provide any UEFI support.*
   - Any other form of Linux should work fine too.
     - [Ubuntu](https://www.ubuntu.com/)
     - [Debian](https://www.debian.org/)
@@ -322,7 +328,7 @@ When searching for replacements, check the alternative stores (such as F-Droid) 
   - *All Drive replacements are available on F-Droid*
 - Gmail
   - [Protonmail](https://protonmail.com/support/knowledge-base/android/) - Can be downloaded from the Play Store, but may work with one of the store replacements above (such as Yalp).
-  - [Tutanota](https://f-droid.org/en/packages/de.tutao.tutanota/) - Client available from F-Droid.
+  - [Tutanota](https://f-droid.org/en/packages/de.tutao.tutanota/) - **14-eyes** - Client available from F-Droid.
   - Posteo - Any **open-source mail client** such as: [K-9 Mail](https://k9mail.github.io/) and [FairEmail](https://email.faircode.eu/). Both are available on F-Droid.
   - Mailbox.org - Mailbox.org provides IMAP settings for Android/iOS and an iOS profile. Thanks @avasts Issue #45
   - [Disroot](https://f-droid.org/en/packages/org.disroot.disrootapp/) - Available from F-Droid.
@@ -337,8 +343,8 @@ When searching for replacements, check the alternative stores (such as F-Droid) 
 - Maps/Waze
   - Don't use Waze. It's owned by Google.
   - [Maps](https://f-droid.org/en/packages/com.github.axet.maps/) - Available from F-Droid. Open-source navigation app based on MAPS.ME. Searching for addresses doesn't always work and finding businesses can be a slight hassle, but overall one of the better apps I've used.
-  - [OsmAnd](https://osmand.net/) - OpenStreetMaps for Android. (thanks u/masao77)
-    - As OsmAnd is primarily crowdsourced, many regions may not be totally accurate. If you would like to help improve OpenStreetMaps and OsmAnd, check out [StreetComplete](https://wiki.openstreetmap.org/wiki/StreetComplete). It is available from [F-Droid](https://f-droid.org/en/packages/de.westnordost.streetcomplete/).
+  - [OsmAnd](https://osmand.net/) - OpenStreetMap for Android. (thanks u/masao77)
+    - As OsmAnd is primarily crowdsourced, many regions may not be totally accurate. If you would like to help improve OpenStreetMap and OsmAnd, check out [StreetComplete](https://wiki.openstreetmap.org/wiki/StreetComplete). It is available from [F-Droid](https://f-droid.org/en/packages/de.westnordost.streetcomplete/).
   - [Transportr](https://transportr.app/) - Primarily European, this is an open-source public transport app. Thanks to @lgiard
   - [Offi or Oeffi](https://oeffi.schildbach.de/) - Another recommendation from @lgiard, this app is also for public transport.
 - News
@@ -357,13 +363,14 @@ When searching for replacements, check the alternative stores (such as F-Droid) 
   - [FreeOTP+](https://github.com/helloworld1/FreeOTPPlus) - FreeOTP is no longer in development so this fork should be used instead as it is currently in development. Available from F-Droid.
   - [Aegis](https://github.com/beemdevelopment/Aegis) - Open-source 2FA for Android. Available on F-Droid.
   - [Authenticator](https://mattrubin.me/authenticator/) - **iOS** - Open-source 2FA for iOS. (thanks u/SomeoneWannaBe)
+  - [Tofu](https://tofuauth.com) - **iOS** - Open-source 2FA for iOS.
 - Play Music/Play Movies & TV
   - [Audinaut](https://github.com/nvllsvm/Audinaut) - An open-source Airsonic client for Android. Available from F-Droid.
   - [MALP](https://gitlab.com/gateship-one/malp) - An open-source Android client for MPD. Available on F-Droid.
 - Hangouts
-  - [Keybase](https://keybase.io/) - encrypted chat like Signal with features like Slack.
+  - [Keybase](https://keybase.io/) - **5-eyes** - encrypted chat like Signal with features like Slack.
   - [Conversations](https://conversations.im/) - **14-eyes** - An open-source Android Jabber/XMPP client. It's a paid app on Google Play, but you can also [build it from source](https://github.com/siacs/Conversations) for free if you want to.
-  - [Riot](https://github.com/vector-im/riot-android) Android app - The open-source Android client for Riot.
+  - [Riot](https://github.com/vector-im/riot-android) **5-eyes** - Android app - The open-source Android client for Riot.
 - Assistant
   - *Help requested!*
 
@@ -377,23 +384,25 @@ When searching for replacements, check the alternative stores (such as F-Droid) 
 
 - Nexus/Pixel
   - [This list](https://www.oneclickroot.com/rootable/) shows compatibility for rooting Android devices.
-  - [Purism Librem 5](https://puri.sm/products/librem-5/) - From the company that makes Purism laptops. Runs PureOS. Thanks @brandonnodnarb
+  - [Purism Librem 5](https://puri.sm/products/librem-5/) - **5-eyes** - From the company that makes Purism laptops. Runs PureOS. Thanks @brandonnodnarb
 - Chromebook
   - Literally any other laptop with some form of Linux, *or*
   - [TUXEDO](https://www.tuxedocomputers.com/) - **14-eyes** - Privacy-focused laptop maker out of Germany. Tech specs are very competent and can easily compete with other modern systems. Fully Linux compatible. They also offer desktops. (thanks u/itsec_ho)
-  - [Purism Laptops](https://puri.sm/) - Privacy-focused laptop running PureOS. Good designs and decent hardware.
+  - [Purism Laptops](https://puri.sm/) - **5-eyes** - Privacy-focused laptop running PureOS. Good designs and decent hardware.
   - [Pinebook Pro](https://www.pine64.org/pinebook-pro/) - Mid-range Linux/FreeBSD alternative to Chromebook.
 - Chromecast
-  - [Microsoft Wireless HDMI adapter](https://www.microsoft.com/accessories/en-us/products/adapters/wireless-display-adapter-2/p3q-00001) - The **only** reason I'm recommending this Microsoft product is because there is no possible way for it to extract any data and ship it off to Microsoft. If someone finds proof that it *can*, I will remove it.
+  - [Microsoft Wireless HDMI adapter](https://www.microsoft.com/accessories/en-us/products/adapters/wireless-display-adapter-2/p3q-00001) - **5-eyes** - The **only** reason I'm recommending this Microsoft product is because there is no possible way for it to extract any data and ship it off to Microsoft. If someone finds proof that it *can*, I will remove it.
 - Google Home
-  - [Mycroft](https://mycroft.ai/) - Open-source virtual personal assistant. Can be run on a Raspberry Pi. (thanks u/Kentto7)
+  - [Mycroft](https://mycroft.ai/) - **5-eyes** - Open-source virtual personal assistant. Can be run on a Raspberry Pi. (thanks u/Kentto7)
   - [Home Assistant](https://www.home-assistant.io/) - Open-source home automation. (thanks u/bilange)
 - FitBit
   - *Due to Google's  [recent acquisition of FitBit](https://outline.com/tsJCYN), it is recommended to avoid using FitBit. Instead, check out this [list of smart watches](https://asteroidos.org/install/) supported by Asteroid OS (See Wear OS in [Operating systems](#operating-systems)). Thanks @ribtoks*
 
 # Useful links, tools, and advice
 
-Everything you need to become Privacy Wizard.
+## Resources
+
+Everything you need to become a Privacy Wizard.
 
 - [Privacy Tools](https://www.privacytools.io/) (thanks u/yieldingTemporarily)
 - [ethical.net](https://ethical.net/) (thanks u/yieldingTemporarily)
@@ -413,7 +422,6 @@ Everything you need to become Privacy Wizard.
 - [HTTP vs. HTTPS](https://outline.com/xUXZMh)
 - The EFF has an [excellent guide](https://ssd.eff.org/) on how to stay safe and secure online. It is incredibly useful and I suggest that everyone read through it.
 - Click [here](https://www.thewindowsclub.com/windows-10-telemetry) and [here](https://winaero.com/blog/how-to-disable-telemetry-and-data-collection-in-windows-10/) for tips on disabling Windows 10 telemetry/data collection.
-- Click [here](https://www.mozilla.org/en-US/internet-health/privacy-security/) and [here](https://blog.mozilla.org/internetcitizen/2017/01/30/15-privacy-tips-protect-online-life/) for tips from the Mozilla Foundation on internet privacy and security.
 - Click [here](https://duckduckgo.com/newsletter) to sign up for DuckDuckGo's privacy newsletter, and [here](https://spreadprivacy.com/) for more tips, articles, and blog posts from DuckDuckGo.
 - [Delete Facebook](https://deletefacebook.com/). Another guide can be found [here](https://www.wikihow.com/Permanently-Delete-a-Facebook-Account).
 - [Why you should put tape over your webcam](https://outline.com/fYCu98)
@@ -428,6 +436,41 @@ Everything you need to become Privacy Wizard.
 - u/wesaphzt also provided [this](https://github.com/pyllyukko/user.js), [this](https://ffprofile.com/), and [this](https://www.privacytools.io/browsers/#about_config) for hardening Firefox.
 - Check out [WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) and [this tutorial](https://github.com/adolfintel/Windows10-Privacy) for even more Windows 10 tips (thanks u/rudolf323)
 - Did you read the [wiki](https://old.reddit.com/r/privacy/wiki/index) yet? Go do that.
+
+## Books
+
+- [Jaron Lanier | Ten arguments for deleting your social media accounts right now](http://www.jaronlanier.com/tenarguments.html) (2018)
+- [Shoshana Zuboff | The age of surveillance capitalism: The fight for a human future at the new frontier of power](https://www.publicaffairsbooks.com/titles/shoshana-zuboff/the-age-of-surveillance-capitalism/9781610395694/) (2019)
+
+## Blog posts
+
+- [Electronic Frontier Foundation | Blog 20181101: Google Chrome’s users take a back seat to its bottom line](https://www.eff.org/deeplinks/2018/11/google-chromes-users-take-back-seat-its-bottom-line)
+- [J. Nathan Matias | Blog 20181208: Quitting Facebook & Google](https://medium.com/@natematias/https-medium-com-natematias-quitting-facebook-google-aaf8f4c80fbf)
+- [Marko Saric | Blog 20191205: How to fight back against Google AMP as a web user and a web developer](https://markosaric.com/google-amp/)
+- Click [here](https://www.mozilla.org/en-US/internet-health/privacy-security/) and [here](https://blog.mozilla.org/internetcitizen/2017/01/30/15-privacy-tips-protect-online-life/) for tips from the Mozilla Foundation on internet privacy and security.
+
+## News articles
+
+- [Forbes | 20120515: Google can survive too much innovation. You can’t.](https://www.forbes.com/sites/forbesleadershipforum/2012/05/15/google-can-survive-too-much-innovation-you-cant/#37ff02f66003)
+- [Business Insider | 20150417: The truth about Google’s famous ’20% time’ policy](https://www.businessinsider.com/google-20-percent-time-policy-2015-4)
+- [The Atlantic | 20161101: The binge breaker](https://www.theatlantic.com/magazine/archive/2016/11/the-binge-breaker/501122/)
+- [WIRED | 20170922: How malware keeps sneaking past Google Play’s defenses](https://www.wired.com/story/google-play-store-malware/)
+- [MIT Technology Review | 20171003: Forget killer robots - bias is the real AI danger](https://www.technologyreview.com/s/608986/forget-killer-robotsbias-is-the-real-ai-danger/)
+- [Business Insider | 20180108: Google managers kept blacklists of conservative employees and one manager considered holding ‘trials,’ a new lawsuit alleges](https://www.businessinsider.com/conservative-google-employees-are-blacklisted-lawsuit-alleges-2018-1)
+- [CNBC | 20180124: A longtime Google engineer quits, saying the company is now ‘100% competitor-focused’](https://www.cnbc.com/2018/01/24/google-engineer-steve-yege-calls-company-100-percent-competitor-focused.html)
+- [Washington Post | 20180126: Facebook and Google are doomed, George Soros says](https://www.washingtonpost.com/news/the-switch/wp/2018/01/26/facebook-and-google-are-doomed-george-soros-says/)
+- [Gizmodo | 20180326: Google isn’t listening, so its employees are suing](https://gizmodo.com/google-isnt-listening-so-its-employees-are-suing-1823611720)
+- [The Guardian | 20180328: Google sees major claims of harassment and discrimination as lawsuits proceed](https://www.theguardian.com/technology/2018/mar/28/google-sexual-harassment-pay-gap-lawsuits-proceed)
+- [CNBC | 20180511: How to stop Google from tracking everything you do online](https://www.cnbc.com/2018/05/11/how-to-stop-google-from-tracking-me-online.html)
+- [Engadget | 20180524: Google will always do evil](https://www.engadget.com/2018/05/24/google-will-always-do-evil/)
+- [TechCrunch | 20180607: Google’s new ‘AI principles’ forbid its use in weapons and human rights violations](https://techcrunch.com/2018/06/07/googles-new-ai-principles-forbid-its-use-in-weapons-and-human-rights-violations/)
+- [The Intercept | 20180801: Google plans to launch censored search engine in China, leaked documents reveal](https://theintercept.com/2018/08/01/google-china-search-engine-censorship/)
+- [Washington Post | 20180809: Opinion - Google’s China plan isn’t just evil - it’s bad for business](https://www.washingtonpost.com/opinions/global-opinions/googles-china-plan-isnt-just-evil--its-bad-for-business/2018/08/09/143046be-9c12-11e8-8d5e-c6c594024954_story.html)
+- [The New York Times | 20181025: How Google protected Andy Rubin, the ‘Father of Android’](https://www.nytimes.com/2018/10/25/technology/google-sexual-harassment-andy-rubin.html)
+- [WIRED | 20181210: A new Google+ blunder exposed data from 52.5 million users](https://www.wired.com/story/google-plus-bug-52-million-users-data-exposed/)
+- [WIRED | 20190813: Three years of misery inside Google, the happiest company in tech](https://www.wired.com/story/inside-google-three-years-misery-happiest-company-tech/)
+- [TechCrunch | 20200123: Google’s latest user-hostile design change makes ads and search results look identical](https://techcrunch.com/2020/01/23/squint-and-youll-click-it/)
+- [The New York Times | 20200124: You are now remotely controlled](https://www.nytimes.com/2020/01/24/opinion/sunday/surveillance-capitalism.html)
 
 # The lighter side
 
