@@ -35,6 +35,7 @@ GitHub:
 - [@taraletti](https://github.com/taraletti)
 - [@k3tan172](https://github.com/k3tan172)
 - [@plutocrat](https://github.com/plutocrat)
+- [@notpushkin](https://github.com/notpushkin)
 
 Reddit:
 
