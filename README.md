@@ -14,6 +14,10 @@
     5. [Mobile applications](#mobile-applications-mobile-apps-installable-from-stores)
     6. [Hardware](#hardware)
 4. [Useful links, tools, and advice](#useful-links-tools-and-advice)
+    1. [Resources](#resources)
+    1. [Books](#books)
+    1. [Blog posts](#blog-posts)
+    1. [News articles](#news-articles)
 5. [The lighter side](#the-lighter-side)
 6. [Closing remarks](#closing-remarks)
 
