@@ -208,13 +208,13 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [ILIAS](https://www.ilias.de/en/) - Another self-hosted open source classroom software. Thanks again to @jankapunkt
   - [Canvas](https://www.instructure.com/canvas) Paid service by Instructure. Also available as a [self-hosted, open source option](https://github.com/instructure/canvas-lms). To ensure privacy, use the self-hosted option.
 - Maps/Street View
-  - [OpenStreetMaps](https://www.openstreetmap.org/) **9-eyes** - Collaborative project to create a free, editable map of the world (from Wikipedia). Completely crowdsourced. Very strong alternative to Maps.
+  - [OpenStreetMap](https://www.openstreetmap.org/) **9-eyes** - Collaborative project to create a free, editable map of the world (from Wikipedia). Completely crowdsourced. Very strong alternative to Maps.
   - [Qwant Maps](https://www.qwant.com/maps/) - Maps from the makers of Qwant search engine. Thanks @mynamesleon
-  - [Benmaps](https://benmaps.fr) - Another maps alternative based on OpenStreetMaps. Thanks @dimqua
-  - [Mapillary](https://www.mapillary.com/app/) - **14-eyes** - Crowdsourced street-level imagery built on top of OpenStreetMaps. Open source. Includes map data generated with object recognition software. Coverage is lacking in many cities but can always be improved upon.
+  - [Benmaps](https://benmaps.fr) - Another maps alternative based on OpenStreetMap. Thanks @dimqua
+  - [Mapillary](https://www.mapillary.com/app/) - **14-eyes** - Crowdsourced street-level imagery built on top of OpenStreetMap. Open source. Includes map data generated with object recognition software. Coverage is lacking in many cities but can always be improved upon.
   - *Editor note: I've seen OsmAnd: it's a mobile app. I've seen HERE WeGo: It's on malvertising filter lists.*
 - Transit
-  - [Transportr](https://transportr.app/) An open-source Transit app on Android that takes information from several providers (e.g Deutsche Bahn in Germany) and enables you to use them in the app. Visualises the routes on an online OpenStreetMaps map. Works in most of Western-Europe, as well as the USA, Australia, Canada, New Zealand, Brazil, Nicaragua, Costa Rica, the UAE and Ghana.
+  - [Transportr](https://transportr.app/) An open-source Transit app on Android that takes information from several providers (e.g Deutsche Bahn in Germany) and enables you to use them in the app. Visualises the routes on an online OpenStreetMap map. Works in most of Western-Europe, as well as the USA, Australia, Canada, New Zealand, Brazil, Nicaragua, Costa Rica, the UAE and Ghana.
   **Beware: most information-providers only have beta or alpha support, it may be a good idea to keep a second app as a fallback option**
 - Trends
   - *Help requested!*
@@ -335,8 +335,8 @@ When searching for replacements, check the alternative stores (such as F-Droid) 
 - Maps/Waze
   - Don't use Waze. It's owned by Google.
   - [Maps](https://f-droid.org/en/packages/com.github.axet.maps/) - Available from F-Droid. Open-source navigation app based on MAPS.ME. Searching for addresses doesn't always work and finding businesses can be a slight hassle, but overall one of the better apps I've used.
-  - [OsmAnd](https://osmand.net/) - OpenStreetMaps for Android. (thanks u/masao77)
-    - As OsmAnd is primarily crowdsourced, many regions may not be totally accurate. If you would like to help improve OpenStreetMaps and OsmAnd, check out [StreetComplete](https://wiki.openstreetmap.org/wiki/StreetComplete). It is available from [F-Droid](https://f-droid.org/en/packages/de.westnordost.streetcomplete/).
+  - [OsmAnd](https://osmand.net/) - OpenStreetMap for Android. (thanks u/masao77)
+    - As OsmAnd is primarily crowdsourced, many regions may not be totally accurate. If you would like to help improve OpenStreetMap and OsmAnd, check out [StreetComplete](https://wiki.openstreetmap.org/wiki/StreetComplete). It is available from [F-Droid](https://f-droid.org/en/packages/de.westnordost.streetcomplete/).
   - [Transportr](https://transportr.app/) - Primarily European, this is an open-source public transport app. Thanks to @lgiard
   - [Offi or Oeffi](https://oeffi.schildbach.de/) - Another recommendation from @lgiard, this app is also for public transport.
 - News
