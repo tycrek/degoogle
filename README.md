@@ -122,8 +122,8 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [F5Bot](https://f5bot.com/) - **5-eyes** - emails you when your selected keywords are mentioned on Reddit, Hacker News, or Lobsters.
   - *Help requested!*
 - G Suite
+  - [Zoho](https://www.zoho.com/) - Zoho was included in 2018's thread as well, and they've only improved since then. They offer a full enterprise business suite that can easily rival G Suite or MS Office 365.
   - [Nextcloud](https://www.nextcloud.com/) & [ONLYOFFICE](https://www.onlyoffice.com/) - Nextcloud 18 now has Community Document Server and OnlyOffice apps integrated which allows self hosted instances of docs/sheets/slides. Users are able to edit documents in real time. Thanks @k3tan172 and @plutocrat
-  - Note: Zoho has been removed as per issue #53. See [this link](https://news.ycombinator.com/item?id=18056723). Thanks @ribtoks
 - Blogger/Sites
   - [Joomla](https://www.joomla.org/) - Self-hosted and open-source content management system (CMS).
   - [Write.as](https://write.as/) - Self-advertised as privacy-focused.
@@ -146,6 +146,7 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [Lightning Calendar](https://www.thunderbird.net/en-US/calendar/) (Thunderbird)- Developed by Mozilla Foundation and open-source. Integrates into Thunderbird and SeaMonkey.
   - [Tutanota Calendar](https://tutanota.com/calendar/) - **14-eyes** - Developed by Tutanota. Free cross-platform encrypted calendar. Allows importing of other Calendar files.
   - [Fruux](https://fruux.com/) - **14-eyes** - Open-source calendar using "sabre/dav" (open-source WebDAV, CardDAV, and CalDAV). They mention privacy quite a bit on their site. Very large number of features, and supports nearly every device: Windows, iOS, Linux, Android, BlackBerry, SailFish, and also a webapp for browsers.
+  - [Zoho](https://www.zoho.com/) - I mentioned Zoho above for G Suite, so here they are again.
   - [EteSync](https://www.etesync.com) - Secure, end-to-end encrypted, and open-source sync for your contacts, calendars and tasks.
 - Docs/Sheets/Slides (cloud)
   - [CryptPad](https://cryptpad.fr/) - **9-eyes** - Open-source "zero knowledge" collaborative cloud editor. They offer Rich Text, Code, Presentation, Sheet (beta), Poll, Kanban, Whiteboard, and CryptDrive. 100% Client side encryption. Tons of useful features.
@@ -154,7 +155,6 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [LibreOffice Online](https://www.libreoffice.org/download/libreoffice-online/) - **14-eyes** - Self-hosted instance of LibreOffice that you can run in your browser. Thanks @flubberding
   - [ONLYOFFICE](https://www.onlyoffice.com) - Open-source private cloud replacement for Google Docs'suite and Office 360. Also available as a self contained rich application.
   - [Arcane Office](https://arcaneoffice.com/) - A decentralized office suite with high-security and zero-knowledge on your data. With Arcane Office, you have maximum control on your personal stuff. Full-featured online document and spreadsheet editor. Secure storage to save your photos. All free for personal use. Thanks @taraletti
-  - Note: Zoho has been removed as per issue #53. See [this link](https://news.ycombinator.com/item?id=18056723). Thanks @ribtoks
 - Docs/Sheets/Slides (offline)
   - [LibreOffice](https://www.libreoffice.org/) and [Apache OpenOffice](https://www.openoffice.org/) - **14-eyes** - Both are open-source offline document suites.
   - [LyX](https://www.lyx.org/) - It's an open-source (and offline) document processor using TeX/LaTeX. It's different than Docs or Word but amazing, once you get used to it. Thanks @Glitchy-Tozier
@@ -183,6 +183,7 @@ These Firefox extensions can help prevent connections to Google domains and also
   - I have also **removed** Telegram. See [Issue #29](https://github.com/tycrek/degoogle/issues/29) from @arsv.
 - Gmail
   - [Protonmail](https://protonmail.com/) - One of the top privacy-focused email providers. Servers are in Switzerland in an underground guarded bunker that they claim can "survive a nuclear attack".
+  - [Zoho Mail](https://www.zoho.com/mail/) - Zoho comes back yet again with a mail solution.
   - [Tutanota](https://tutanota.com/) - **14-eyes** - Open-source. Also one of the top privacy-focused email providers. Located in Germany.
   - [Posteo](https://posteo.de/en) - **14-eyes** - Completely anonymous mail provider located in Germany.
   - [mailbox.org](https://mailbox.org/en/) - **14-eyes** - Paid email provider, also located in Germany.
@@ -195,10 +196,10 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [nextCloud](https://help.nextcloud.com/t/nextcloud-mail-server/157) - Now also provides an email service (self-hosted). Thanks @je-vv
   - [Anonymize.com Email](https://anonymize.com/) - Paid secure email service provided by Epik.com.
   - *This is just for the Gmail service, not a client*
-  - Note: Zoho has been removed as per issue #53. See [this link](https://news.ycombinator.com/item?id=18056723). Thanks @ribtoks
 - Keep
   - [Joplin](https://joplinapp.org/) - Open-source notes/todo app. Available for Windows, macOS, Linux, Android, and iOS. Also offers a terminal version. It can import Evernote `.enex` files if you use that. It can also sync with Nextcloud (mentioned above).
   - [Standard Notes](https://standardnotes.org/) - Encrypted note storage with loads of features. Offers a web app as well as downloads for most operating systems. Has a paid plan, but the free tier has many useful features as well.
+  - [Zoho Notebook](https://www.zoho.com/notebook/) - A notebook from Zoho. Also available on Android.
   - [Turtl](https://turtlapp.com/) - Encrypted collaborative notebook with possibility of running your own server.
   - [QOwnNotes](https://www.qownnotes.org/) - Open-source file editor with Markdown support. (thanks u/maqp2)
   - [EteSync](https://www.etesync.com) - Secure, end-to-end encrypted, and open-source sync for your contacts, calendars and tasks.
@@ -337,6 +338,7 @@ When searching for replacements, check the alternative stores (such as F-Droid) 
   - [Protonmail](https://protonmail.com/support/knowledge-base/android/) - Can be downloaded from the Play Store, but may work with one of the store replacements above (such as Yalp).
   - [Tutanota](https://f-droid.org/en/packages/de.tutao.tutanota/) - **14-eyes** - Client available from F-Droid.
   - Posteo - Any **open-source mail client** such as: [K-9 Mail](https://k9mail.github.io/) and [FairEmail](https://email.faircode.eu/). Both are available on F-Droid.
+  - [Zoho Mail](https://www.zoho.com/mail/ios-android-apps.html) - Also on the Play Store but other stores may work too.
   - Mailbox.org - Mailbox.org provides IMAP settings for Android/iOS and an iOS profile. Thanks @avasts Issue #45
   - [Disroot](https://f-droid.org/en/packages/org.disroot.disrootapp/) - Available from F-Droid.
 - Keep (or any stock note-taking app)
