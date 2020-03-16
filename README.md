@@ -112,7 +112,6 @@ These Firefox extensions can help prevent connections to Google domains and also
 - Groups
   - *Use other forum sites relating to specific topics. This is a very broad service.*
 - Translate
-  - [Swisscows Translate](https://swisscows.ch/translate) - A powerful translation service with many languages available.
   - [DeepL](https://deepl.com/) - **14-eyes** - DeepL is an artifical intelligence translation service. *Editor note: The site server seems to be hosted in Finland, yet the company lists itself as [a company based in Germany](https://www.deepl.com/pro-faq.html) in the Data Protection section.*
   - *Help requested!*
 - Google Ads/AdMob/AdSense
