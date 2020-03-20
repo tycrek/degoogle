@@ -380,6 +380,7 @@ When searching for replacements, check the alternative stores (such as F-Droid) 
   - [Riot](https://github.com/vector-im/riot-android) **5-eyes** - Android app - The open-source Android client for Riot.
 - Assistant
   - [Mycroft Android](https://github.com/MycroftAI/Mycroft-Android) - Android client for Mycroft. Must be built in IDE; no pre-built binaries are available.
+  - [Ara](https://github.com/FultonBrowne/Ara-android) - Open-source virtual assistant for Android. Can replace Google Assistant (home button functionality) on most devices. Either uses the authors server by default, or you can [run your own server](https://github.com/FultonBrowne/Ara-Server). Thanks @FultonBrowne (author of Ara)
 
 **Android launchers**:
 
