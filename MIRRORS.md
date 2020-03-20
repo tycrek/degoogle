@@ -14,4 +14,4 @@ Official mirrors are the main sources and are maintained by me (@tycrek). Commun
 
 - [GitLab mirror](https://gitlab.com/SheepKid12/degoogle) from u/SheepKid12
 - [Gitea mirror](https://git.xerbo.net/Xerbo/degoogle) from [@Xerbo](https://github.com/Xerbo)
-- [Wordmean Publishing](https://wordmean.org/degoogle.html)
+- [BookRefine Publishing](https://bookrefine.com/degoogle/) (thanks @GreyLivesMatter for the updated link)
