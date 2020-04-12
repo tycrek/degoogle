@@ -108,6 +108,7 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [Subscribe to a (local) newspaper](https://en.wikipedia.org/wiki/Category:Lists_of_newspapers_by_country) and support independent and qualitative journalism.
   - Removed Reddit news as they are typically *extremely* biased to the general populace.
   - [AllSides](https://www.allsides.com/unbiased-balanced-news) - Seemingly unbiased news source. Thanks @jeanofthedead
+  - Use good old-fashioned RSS Feeds
   - *Help requested!*
 - Groups
   - *Use other forum sites relating to specific topics. This is a very broad service.*
@@ -123,6 +124,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 - G Suite
   - [Zoho](https://www.zoho.com/) - Zoho was included in 2018's thread as well, and they've only improved since then. They offer a full enterprise business suite that can easily rival G Suite or MS Office 365.
   - [Nextcloud](https://www.nextcloud.com/) & [ONLYOFFICE](https://www.onlyoffice.com/) - Nextcloud 18 now has Community Document Server and OnlyOffice apps integrated which allows self hosted instances of docs/sheets/slides. Users are able to edit documents in real time. Thanks @k3tan172 and @plutocrat
+  - Offline-only alternates are listed below
 - Blogger/Sites
   - [Joomla](https://www.joomla.org/) - Self-hosted and open-source content management system (CMS).
   - [Write.as](https://write.as/) - Self-advertised as privacy-focused.
@@ -143,7 +145,7 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [JottaCloud](https://jottacloud.com/en/) - **9-eyes** - Norway based cloud storage provider with free and paid plans. Thanks @mynamesleon
 - Calendar
   - [Lightning Calendar](https://www.thunderbird.net/en-US/calendar/) (Thunderbird)- Developed by Mozilla Foundation and open-source. Integrates into Thunderbird and SeaMonkey.
-  - [Tutanota Calendar](https://tutanota.com/calendar/) - **14-eyes** - Developed by Tutanota. Free cross-platform encrypted calendar. Allows importing of other Calendar files.
+  - [Tutanota Calendar](https://tutanota.com/calendar/) - **14-eyes** - Developed by Tutanota. Free cross-platform encrypted calendar. Allows importing of other Calendar files. Can't be synced to other calendar software.
   - [Fruux](https://fruux.com/) - **14-eyes** - Open-source calendar using "sabre/dav" (open-source WebDAV, CardDAV, and CalDAV). They mention privacy quite a bit on their site. Very large number of features, and supports nearly every device: Windows, iOS, Linux, Android, BlackBerry, SailFish, and also a webapp for browsers.
   - [Zoho](https://www.zoho.com/) - I mentioned Zoho above for G Suite, so here they are again.
   - [EteSync](https://www.etesync.com) - Secure, end-to-end encrypted, and open-source sync for your contacts, calendars and tasks.
