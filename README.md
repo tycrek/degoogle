@@ -108,7 +108,7 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [Subscribe to a (local) newspaper](https://en.wikipedia.org/wiki/Category:Lists_of_newspapers_by_country) and support independent and qualitative journalism.
   - Removed Reddit news as they are typically *extremely* biased to the general populace.
   - [AllSides](https://www.allsides.com/unbiased-balanced-news) - Seemingly unbiased news source. Thanks @jeanofthedead
-  - Use good old-fashioned RSS Feeds
+  - Use good old-fashioned RSS feeds: Try [Feeder](https://f-droid.org/app/com.nononsenseapps.feeder) for Android (available from F-Droid)
   - *Help requested!*
 - Groups
   - *Use other forum sites relating to specific topics. This is a very broad service.*
