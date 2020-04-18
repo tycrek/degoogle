@@ -295,7 +295,7 @@ When searching for replacements, check the alternative stores (such as F-Droid) 
   - [Aptoide](https://www.aptoide.com/) - Marketplace for Android apps. Publishers/developers manage their own stores rather than a centralized market such as Google Play Store.
   - [Yalp Store](https://github.com/yeriomin/YalpStore) - Yalp downloads Play Store apps as APK files. Helpful if you want to stay away from the Play Store, but require an app that is only available there.
   - [APKMirror](https://www.apkmirror.com/) - An online library of user-uploaded APK files. Helpful if you need a specific older version of an app or don't want to download it through Google Play.
-  - [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore) - Aurora Store is ~~simply a fork of the Yalp Store~~ no longer a fork of Yalp, but is now its own project (see their [readme](https://gitlab.com/AuroraOSS/AuroraStore/blob/master/README.md)). It can also utilize [microG](https://microg.org/) if you wish to use *very minimal* Google Play services. Thanks @RefexHD for clarifying.
+  - [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore) - Aurora Store is ~~simply a fork of the Yalp Store~~ no longer a fork of Yalp, but is now its own project (see their [readme](https://gitlab.com/AuroraOSS/AuroraStore/blob/master/README.md)). **Update:** Removed note on using microG as Aurora Store [does not use it](https://gitlab.com/AuroraOSS/AuroraStore/-/blob/master/README.md#L77). Thanks @RefexHD & @notpushkin
   - [Fossdroid](https://fossdroid.com/) - Uses the same library as F-Droid, but with a modern UI similar to that of the Play Store and the ability to view apps by popularity.
   - [G-Droid](https://gitlab.com/gdroid/gdroidclient/) - Also uses the F-Droid repo but with a different UI.
   - [APKGrabber](https://github.com/hemker/apkgrabber) - Fork of [APKUpdater](https://github.com/rumboalla/apkupdater). Both are great tools for avoiding app stores (on Android).
@@ -384,6 +384,8 @@ When searching for replacements, check the alternative stores (such as F-Droid) 
 - Assistant
   - [Mycroft Android](https://github.com/MycroftAI/Mycroft-Android) - Android client for Mycroft. Must be built in IDE; no pre-built binaries are available.
   - [Ara](https://github.com/FultonBrowne/Ara-android) - Open-source virtual assistant for Android. Can replace Google Assistant (home button functionality) on most devices. Either uses the authors server by default, or you can [run your own server](https://github.com/FultonBrowne/Ara-Server). Thanks @FultonBrowne (author of Ara)
+- Play Services Framework
+  - [microG](https://microg.org/) - A re-implementation of Google’s proprietary Android user space apps and libraries. It allows to use more precise navigation (which is proprietary in standard Android ROMs) and optionally receive push messages (requires connection to Google's servers, but also supports routing this connection through Tor). Thanks @notpushkin
 
 **Android launchers**:
 
