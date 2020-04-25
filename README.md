@@ -92,6 +92,7 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [Ekoru](https://ekoru.org/) - Privacy focused search engine that also aims to clean up the oceans. Thanks @mynamesleon
   - [Cyberd](https://cyber.page/) - Decentralized Google. A web 3 alternative for the Google search engine. In Beta testing mode. Uses IPFS and Tendermint consensus for security and economic incentives. Please see their [ELI-5 FAQ](https://github.com/cybercongress/congress/blob/master/ecosystem/ELI-5%20FAQ.md) for more info.
   - [Infinity Search](https://infinitysearch.co/) - **5-eyes** - Infinity Search is a privacy metasearch engine that does not log any information about its users. In terms of privacy, it works the same way as DuckDuckGo. It is free to use and is funded by non-tracking advertisements and affiliate links. It is also completely open source.
+  - [Ecosia](https://ecosia.org/) - **14-eyes** - privacy friendly search engine that plants trees.
 - Images
   - *See above. All provide some form of image search.*
 - YouTube
@@ -133,10 +134,11 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [Ghost](https://ghost.org/) - Open-source modern CMS. Boasts "over 19x faster than WordPress". Thanks @peterge1998
 - Analytics
   - [Matomo](https://matomo.org/) - **9/14-eyes** (Matomo/parent company) - Open-source analytics platform. (thanks u/Newblik)
-  - [Fathom](https://usefathom.com/) - Simple analytics for bloggers & businesses
+  - [Fathom](https://usefathom.com/) - **5-eyes** - Simple analytics for bloggers & businesses
   - [Plausible](https://plausible.io/) - **5-eyes** - Open-source, privacy-focused web analytics.
   - [GoatCounter](https://www.goatcounter.com/) - **14-eyes** - Simple web statistics. No tracking of personal data. Open-source and may be self-hosted. Free for non-commercial use; paid plans available.
-  - [Simple Analytics](https://simpleanalytics.com/) - Great analytics with privacy and simplicity in mind. Paid plans only (with free trials).
+  - [Simple Analytics](https://simpleanalytics.com/) - **9-eyes** - Great analytics with privacy and simplicity in mind. Paid plans only (with free trials).
+  - [Toasted Analytics](https://toastedanalytics.com/) - **5-eyes** -  Simple, privacy friendly analytics with event tracking. Paid only (with free trial)
 - Photos
   - [Photoprism](https://github.com/photoprism/photoprism) - Self-hosted and open-source Personal Photo Management powered by Go and Google TensorFlow.
   - [ownPhotos](https://github.com/hooram/ownphotos) - Self-hosted and open-source Google Photos alternative.
@@ -160,6 +162,7 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [LyX](https://www.lyx.org/) - It's an open-source (and offline) document processor using TeX/LaTeX. It's different than Docs or Word but amazing, once you get used to it. Thanks @Glitchy-Tozier
 - Domains
   - [Njalla](https://njal.la/) - **14-eyes** - Privacy-focused domain registration. Competitive pricing and a large list of available domain extensions. They also offer VPS hosting. Built by people who built The Pirate Bay among others. (thanks u/brais33 and u/HumbleBasis6)
+  - [Porkbun](https://porkbun.com/) - **5-eyes** - Domain registration with free WHOIS privacy.
 - Drive
   - [ownCloud](https://owncloud.org/) - **14-eyes** - Open-source and self-hosted. Provide your own storage.
   - [Nextcloud](https://nextcloud.com/) - **14-eyes** - Also self-hosted. Spin-off of ownCloud. **Also offers Calendar and Contacts** (thanks @chribre)
