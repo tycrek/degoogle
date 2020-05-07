@@ -195,6 +195,7 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [Runbox](https://runbox.com/why-runbox/privacy-protection/) - **9-eyes** - Privacy focusued email provider. Thanks @petertorelli
   - [nextCloud](https://help.nextcloud.com/t/nextcloud-mail-server/157) - Now also provides an email service (self-hosted). Thanks @je-vv
   - [Anonymize.com Email](https://anonymize.com/) - Paid secure email service provided by Epik.com.
+  - [Purelymail](https://purelymail.com/) - **5-eyes** - Cheap secure, bring your own domain email with open source webmail (Roundcube).
   - *This is just for the Gmail service, not a client*
 - Keep
   - [Joplin](https://joplinapp.org/) - Open-source notes/todo app. Available for Windows, macOS, Linux, Android, and iOS. Also offers a terminal version. It can import Evernote `.enex` files if you use that. It can also sync with Nextcloud (mentioned above).
