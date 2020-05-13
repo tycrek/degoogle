@@ -271,7 +271,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 
 - Chrome
   - [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium) - Chromium (which Chrome and countless other browsers are built on top of) is one of the cleanest and light-weight browsers available. This version cuts out all the Google crap.
-  - [Firefox](https://firefox.com/) - Built by Mozilla. Huge extension library; great for privacy.
+  - [GNU IceCat](https://www.gnu.org/software/gnuzilla/) - GNU's Firefox fork with privacy and security enhancements.
   - [Waterfox](https://www.waterfox.net/) - **5-eyes** - Based on Firefox, but **64-bit only** with an emphasis on speed and privacy. Has a "classic" version built off older Firefox for legacy extension support and also an "alpha" version built off Quantum. It doesn't collect any telemetry and also removes Pocket from the alpha release. Project is run by [Alex Kontos](https://github.com/MrAlex94/) and is constantly in active development. Looks very clean and fast. Android versions are in the works too. **UPDATE:** @Nudin pointed out in Issue #85 that Waterfox is now [apart of System1](https://www.waterfox.net/blog/waterfox-has-joined-system1/).
   - [Vivaldi](https://vivaldi.com/) - Privacy-focused browser. Appears to be very customizable and feature-rich.
   - [Brave](https://brave.com/) - Another very popular privacy-focused browser. Boasts "up to 8x faster than Chrome and Safari". Automatically blocks ads and trackers so you don't have to.
