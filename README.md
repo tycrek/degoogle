@@ -161,8 +161,8 @@ These Firefox extensions can help prevent connections to Google domains and also
 - Domains
   - [Njalla](https://njal.la/) - **14-eyes** - Privacy-focused domain registration. Competitive pricing and a large list of available domain extensions. They also offer VPS hosting. Built by people who built The Pirate Bay among others. (thanks u/brais33 and u/HumbleBasis6)
 - Drive
-  - [ownCloud](https://owncloud.org/) - **14-eyes** - Open-source and self-hosted. Provide your own storage.
-  - [Nextcloud](https://nextcloud.com/) - **14-eyes** - Also self-hosted. Spin-off of ownCloud. **Also offers Calendar and Contacts** (thanks @chribre)
+  - [ownCloud](https://owncloud.org/) - Open-source and self-hosted. Provide your own storage.
+  - [Nextcloud](https://nextcloud.com/) - Also self-hosted. Spin-off of ownCloud. **Also offers Calendar and Contacts** (thanks @chribre)
   - [Syncthing](https://syncthing.net/) - **9-eyes** - An interesting take on cloud storage: decentralized. Peer-to-peer between only your devices. Software is open-source and available on GitHub.
   - [Sia](https://sia.tech/) - Fully decentralized cloud storage.
   - [Tresorit](https://tresorit.com/) - Primarily meant for businesses, but offers a free version for individuals as well. (thanks u/xNick26)
