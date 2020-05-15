@@ -180,7 +180,7 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [Wire](https://wire.com/en/) - **5-eyes** - Uses end-to-end encryption. Looks to be more of a corporate service with tiered plans.
   - [Riot](https://about.riot.im/) - **5-eyes** - Open-source privacy-focused chat service with end-to-end encryption. They offer webapps, desktop apps, iOS, and Android (Play Store and F-Droid). Uses the "Matrix" protocol for decentralized communication. It is 100% free and open-source with no paid plans.
   - [Threema](https://threema.ch/en) - Swiss-based GDPR-compliant instant messenger. Has apps for both iOS and Android. Unlike Signal, no phone number is required (nor is an email) to sign up. End-to-end encrypted. Thanks to @nathanvogel
-  - [Keybase](https://keybase.io/) - **5-eyes** - encrypted chat like Signal with features like Slack. Does not require a phone number to sign up. Also has file storage. Thanks @notpushkin
+  - [Keybase](https://keybase.io/) - **5-eyes** - encrypted chat like Signal with features like Slack. Does not require a phone number to sign up. Also has file storage. **Note:** Keybase was acquired by Zoom, Inc. in May 2020 ([Keybase blog](https://keybase.io/blog/keybase-joins-zoom), [Zoom blog](https://blog.zoom.us/wordpress/2020/05/07/zoom-acquires-keybase-and-announces-goal-of-developing-the-most-broadly-used-enterprise-end-to-end-encryption-offering/)). Thanks @notpushkin & @multimob.
   - *Editor note: See [this article](https://outline.com/BK8f7h) for why I didn't include WhatsApp and why you should NOT use it (if someone has a better Outline link, that would be much appreciated).*
   - I have also **removed** Telegram. See [Issue #29](https://github.com/tycrek/degoogle/issues/29) from @arsv.
 - Gmail
@@ -379,7 +379,7 @@ When searching for replacements, check the alternative stores (such as F-Droid) 
   - [Audinaut](https://github.com/nvllsvm/Audinaut) - An open-source Airsonic client for Android. Available from F-Droid.
   - [MALP](https://gitlab.com/gateship-one/malp) - An open-source Android client for MPD. Available on F-Droid.
 - Hangouts
-  - [Keybase](https://keybase.io/) - **5-eyes** - encrypted chat like Signal with features like Slack. Does not require a phone number to sign up. Also has file storage.
+  - [Keybase](https://keybase.io/) - **5-eyes** - encrypted chat like Signal with features like Slack. Does not require a phone number to sign up. Also has file storage. **Note:** Keybase was acquired by Zoom, Inc. in May 2020 ([Keybase blog](https://keybase.io/blog/keybase-joins-zoom), [Zoom blog](https://blog.zoom.us/wordpress/2020/05/07/zoom-acquires-keybase-and-announces-goal-of-developing-the-most-broadly-used-enterprise-end-to-end-encryption-offering/)). Thanks @notpushkin & @multimob.
   - [Conversations](https://conversations.im/) - **14-eyes** - An open-source Android Jabber/XMPP client. It's a paid app on Google Play, but you can also [build it from source](https://github.com/siacs/Conversations) for free if you want to.
   - [Riot](https://github.com/vector-im/riot-android) **5-eyes** - Android app - The open-source Android client for Riot.
 - Assistant
