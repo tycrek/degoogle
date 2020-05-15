@@ -451,6 +451,7 @@ Everything you need to become a Privacy Wizard.
 
 ## Books
 
+- [Edward Snowden | Permanent Record (Autobiography)](https://www.goodreads.com/book/show/46223297-permanent-record)
 - [Jaron Lanier | Ten arguments for deleting your social media accounts right now](http://www.jaronlanier.com/tenarguments.html) (2018)
 - [Shoshana Zuboff | The age of surveillance capitalism: The fight for a human future at the new frontier of power](https://www.publicaffairsbooks.com/titles/shoshana-zuboff/the-age-of-surveillance-capitalism/9781610395694/) (2019)
 - [Tim Wu | The Attention Merchants: a revelatory, ambitious and urgent account of how the capture and re-sale of human attention became the defining industry of our time.](http://www.timwu.org/AttentionMerchants.html) (2017)
@@ -500,7 +501,6 @@ Everything you need to become a Privacy Wizard.
   - [The Privacy, Security, & OSINT Show](https://inteltechniques.com/podcast.html) - "This weekly podcast presents ideas to help you become digitally invisible, stay secure from cyber threats, and make you a better online investigator."
   - [Security Now!](https://www.grc.com/SecurityNow.htm) - "TechTV's Leo Laporte and I spend somewhat shy of two hours each week to discuss important issues of personal computer security." (Thanks u/Abaddon182)
 - Other:
-  - [Permanent Record](https://www.goodreads.com/book/show/46223297-permanent-record) - Edward Snowden's autobiography.
   - [xkcd](https://xkcd.com/) - They have comics for *everything*.
   - System32 Comics [Instagram](https://www.instagram.com/system32comics/) and [Reddit](https://www.reddit.com/r/System32Comics/) - Comedic computer comics.
 
