@@ -175,7 +175,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 - Hangouts (instant messaging)
   - [Signal](https://signal.org/) - **5-eyes** - Whistleblower and privacy advocate Edward Snowden recommends Signal.
   - [Tox](https://tox.chat/) - Tox is unique as it uses P2P technology to ensure the network *never* goes down, as long as there are users to keep it alive. They specifically say on the website "Tox has no central servers that can be raided, shut down, or forced to turn over data".
-  - [Wire](https://wire.com/en/) - **14-eyes** - Uses end-to-end encryption. Looks to be more of a corporate service with tiered plans.
+  - [Wire](https://wire.com/en/) - **5-eyes** - Uses end-to-end encryption. Looks to be more of a corporate service with tiered plans.
   - [Riot](https://about.riot.im/) - **5-eyes** - Open-source privacy-focused chat service with end-to-end encryption. They offer webapps, desktop apps, iOS, and Android (Play Store and F-Droid). Uses the "Matrix" protocol for decentralized communication. It is 100% free and open-source with no paid plans.
   - [Threema](https://threema.ch/en) - Swiss-based GDPR-compliant instant messenger. Has apps for both iOS and Android. Unlike Signal, no phone number is required (nor is an email) to sign up. End-to-end encrypted. Thanks to @nathanvogel
   - [Keybase](https://keybase.io/) - **5-eyes** - encrypted chat like Signal with features like Slack. Does not require a phone number to sign up. Also has file storage. Thanks @notpushkin
@@ -403,7 +403,7 @@ When searching for replacements, check the alternative stores (such as F-Droid) 
   - [Purism Laptops](https://puri.sm/) - **5-eyes** - Privacy-focused laptop running PureOS. Good designs and decent hardware.
   - [Pinebook Pro](https://www.pine64.org/pinebook-pro/) - Mid-range Linux/FreeBSD alternative to Chromebook.
 - Chromecast
-  - [Microsoft Wireless HDMI adapter](https://www.microsoft.com/accessories/en-us/products/adapters/wireless-display-adapter-2/p3q-00001) - **5-eyes** - The **only** reason I'm recommending this Microsoft product is because there is no possible way for it to extract any data and ship it off to Microsoft. If someone finds proof that it *can*, I will remove it.
+  - [Microsoft less HDMI adapter](https://www.microsoft.com/accessories/en-us/products/adapters/wireless-display-adapter-2/p3q-00001) - **5-eyes** - The **only** reason I'm recommending this Microsoft product is because there is no possible way for it to extract any data and ship it off to Microsoft. If someone finds proof that it *can*, I will remove it.
 - Google Home
   - [Mycroft](https://mycroft.ai/) - **5-eyes** - Open-source virtual personal assistant. Can be run on a Raspberry Pi. (thanks u/Kentto7)
   - [Home Assistant](https://www.home-assistant.io/) - Open-source home automation. (thanks u/bilange)
