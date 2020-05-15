@@ -385,6 +385,8 @@ When searching for replacements, check the alternative stores (such as F-Droid) 
   - [Ara](https://github.com/FultonBrowne/Ara-android) - Open-source virtual assistant for Android. Can replace Google Assistant (home button functionality) on most devices. Either uses the authors server by default, or you can [run your own server](https://github.com/FultonBrowne/Ara-Server). Thanks @FultonBrowne (author of Ara)
 - Play Services Framework
   - [microG](https://microg.org/) - A re-implementation of Google’s proprietary Android user space apps and libraries. It allows to use more precise navigation (which is proprietary in standard Android ROMs) and optionally receive push messages (requires connection to Google's servers, but also supports routing this connection through Tor). Thanks @notpushkin
+- *Other*
+  - [Blokada](https://blokada.org/) - From the website: "If you want to efficiently block ads, trackers, malware, save on your data plan, speed up your device and protect your privacy with just one application, then Blokada is for you. It is free, secure and open source." Uses internal VPN on Android to block ads. [Available from F-Droid](https://f-droid.org/packages/org.blokada.alarm/).
 
 **Android launchers**:
 
