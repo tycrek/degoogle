@@ -41,6 +41,7 @@ GitHub:
 - [@notpushkin](https://github.com/notpushkin)
 - [@onlyjob](https://github.com/onlyjob)
 - [@marco3mt](https://github.com/marco3mt)
+- [@ghost](https://github.com/ghost)
 
 Reddit:
 
