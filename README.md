@@ -63,7 +63,6 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [Temporary Containers](https://addons.mozilla.org/en-US/firefox/addon/temporary-containers/)
 - [uMatrix](https://addons.mozilla.org/en-US/firefox/addon/umatrix/) (thanks u/rudolf323)
 - [TrackMeNot](https://addons.mozilla.org/en-US/firefox/addon/trackmenot/)
-- [AdNauseam](https://addons.mozilla.org/en-US/firefox/addon/adnauseam/)
 
 # Replacements/alternatives
 
