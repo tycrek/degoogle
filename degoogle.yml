@@ -1,0 +1,21 @@
+web based products:
+  - name: DuckDuckGo
+    url: https://duckduckgo.com/
+    eyes: 5
+    text: One of the best privacy-focused search engines. Domain is hosted in USA which could potentially be problematic for some.
+  - name: Startpage
+    url: https://www.startpage.com/
+    eyes: 9
+    text: "Another privacy search engine that claims to not track any of your data. They operate servers in both USA and Europe. Note: Startpage was recently acquired. See [Issue #12](https://github.com/tycrek/degoogle/issues/12). Thanks @pydo, @ThijsRay, and @DatAres37. Also see [this comment in Issue #99](https://github.com/tycrek/degoogle/issues/99#issuecomment-616224650) from @danarel on Startpage."
+  - name: searx.me
+    url: https://searx.me/
+    eyes: null
+    text: "[Open-source](https://github.com/asciimoo/searx) (thanks for clarification u/Sheezdudeln) privacy search engine. Domain hosted in Germany."
+
+operating systems:
+
+desktop applications:
+
+mobile applications:
+
+hardware:
