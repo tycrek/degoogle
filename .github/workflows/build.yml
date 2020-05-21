@@ -1,0 +1,30 @@
+name: Build
+on:
+  push:
+    branches: [ automation ]
+  pull_request:
+    branches: [ automation ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - uses: actions/setup-node@v1
+      with:
+        node-version: 13.x
+    - name: Install dependencies
+      run: npm i
+    - name: Build
+      run: node _build.js
+    - name: Commit
+      run: |
+        git add README-test.md
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git commit -m "[Action] Generate README.md"
+    - name: Push
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: automation
