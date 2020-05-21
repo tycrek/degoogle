@@ -16,7 +16,7 @@ jobs:
     - name: Install dependencies
       run: npm i
     - name: Build
-      run: node _build.js
+      run: node ../_build.js
     - name: Commit
       run: |
         git add README-test.md
@@ -27,4 +27,4 @@ jobs:
       uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: automation
+        branch: master
