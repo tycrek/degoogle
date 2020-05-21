@@ -1,10 +1,10 @@
 name: Build
 on:
   push:
-    branches: [ automation ]
+    branches:
+      - master
   pull_request:
-    branches: [ automation ]
-
+      - master
 jobs:
   build:
     runs-on: ubuntu-latest
