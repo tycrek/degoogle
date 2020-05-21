@@ -16,7 +16,7 @@ jobs:
     - name: Install dependencies
       run: npm i
     - name: Build
-      run: node ../_build.js
+      run: node _build.js
     - name: Commit
       run: |
         git add README-test.md
