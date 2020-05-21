@@ -20,7 +20,7 @@ function __main__() {
         lines = lines.concat(entry + os.EOL)
     });
 
-    fs.writeFileSync('foobar.md', lines);
+    fs.writeFileSync('README-test.md', lines);
 }
 
 __main__();
