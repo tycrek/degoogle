@@ -174,7 +174,7 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [seafile](https://www.seafile.com) - Open-source and self-hosted file sync&share solution.
   - [Cozy Cloud](https://cozy.io/) - **9-eyes** - French based cloud storage provider with free and paid plans. Can also be self-hosted. Open-Source. And it also offers a collaborative notes editor.
   - *Editor note: I'm not including MEGA. I do not recommend MEGA. It's far too controversial and far too difficult to figure out who actually owns the service. Also, it's a 5-eyes.*
-- Hangouts (instant messaging)
+- Hangouts (text/video messaging)
   - [Signal](https://signal.org/) - **5-eyes** - Whistleblower and privacy advocate Edward Snowden recommends Signal.
   - [Tox](https://tox.chat/) - Tox is unique as it uses P2P technology to ensure the network *never* goes down, as long as there are users to keep it alive. They specifically say on the website "Tox has no central servers that can be raided, shut down, or forced to turn over data".
   - [Wire](https://wire.com/en/) - **5-eyes** - Uses end-to-end encryption. Looks to be more of a corporate service with tiered plans.
