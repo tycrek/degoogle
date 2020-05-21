@@ -81,16 +81,20 @@ These Firefox extensions can help prevent connections to Google domains and also
 ## Web-based products
 
 - Search (web, images)
-  - [DuckDuckGo](https://duckduckgo.com/) - **5-eyes** -  One of the best privacy-focused search engines. Domain is hosted in USA which could potentially be problematic for some.
-  - [Startpage](https://www.startpage.com/) - **9-eyes** - Another privacy search engine that claims to not track any of your data. They operate servers in both USA and Europe. Note: Startpage was recently acquired. See [Issue #12](https://github.com/tycrek/degoogle/issues/12). Thanks @pydo, @ThijsRay, and @DatAres37. Also see [this comment in Issue #99](https://github.com/tycrek/degoogle/issues/99#issuecomment-616224650) from @danarel on Startpage.
-  - [searx.me](https://searx.me/) - [Open-source](https://github.com/asciimoo/searx) (thanks for clarification u/Sheezdudeln) privacy search engine. Domain hosted in Germany.
-  - [MetaGer](https://metager.org/about) - **14-eyes** - MetaGer is the search engine project from the registered nonprofit organization SUMA E.V. in Germany.
-  - [Qwant](https://www.qwant.com/) - **9-eyes** - Major improvements since 2018's guide. *would prefer better info other than an outdated reference*
-  - [Swisscows](https://swisscows.ch/) - A Swiss search engine that offers a unique search experience for the web, images, videos, music, and more. They are currently funding a mail service. Read through their [datacenter](https://swisscows.ch/en/datacenter) about page, it's really interesting.
-  - [Mojeek](https://www.mojeek.com/) - **5-eyes** - Unlike other privacy search engines which act as a "middle man" between you and Google/Bing/Yahoo, Mojeek has their own crawler and index. The results aren't as complete as some of the others, but it is still impressive and they are actively building their index to include more results with better accuracy.
-  - [Ekoru](https://ekoru.org/) - Privacy focused search engine that also aims to clean up the oceans. Thanks @mynamesleon
-  - [Cyberd](https://cyber.page/) - Decentralized Google. A web 3 alternative for the Google search engine. In Beta testing mode. Uses IPFS and Tendermint consensus for security and economic incentives. Please see their [ELI-5 FAQ](https://github.com/cybercongress/congress/blob/master/ecosystem/ELI-5%20FAQ.md) for more info.
-  - [Infinity Search](https://infinitysearch.co/) - **5-eyes** - Infinity Search is a privacy metasearch engine that does not log any information about its users. In terms of privacy, it works the same way as DuckDuckGo. It is free to use and is funded by non-tracking advertisements and affiliate links. It is also completely open source.
+
+  | Name | Eyes | Description |
+  | ---- | ---- | ----------- |
+  | [DuckDuckGo](https://duckduckgo.com/) | **5-eyes** | One of the best privacy-focused search engines. Domain is hosted in USA which could potentially be problematic for some. |
+  | [Startpage](https://www.startpage.com/) | **9-eyes** | Another privacy search engine that claims to not track any of your data. They operate servers in both USA and Europe. Note: Startpage was recently acquired. See [Issue #12](https://github.com/tycrek/degoogle/issues/12). Thanks @pydo, @ThijsRay, and @DatAres37. Also see [this comment in Issue #99](https://github.com/tycrek/degoogle/issues/99#issuecomment-616224650) from @danarel on Startpage. |
+  | [searx.me](https://searx.me/) | | [Open-source](https://github.com/asciimoo/searx) (thanks for clarification u/Sheezdudeln) privacy search engine. Domain hosted in Germany. |
+  | [MetaGer](https://metager.org/about) | **14-eyes** | MetaGer is the search engine project from the registered nonprofit organization SUMA E.V. in Germany. |
+  | [Qwant](https://www.qwant.com/) | **9-eyes** | Major improvements since 2018's guide. *would prefer better info other than an outdated reference* |
+  | [Swisscows](https://swisscows.ch/) | | A Swiss search engine that offers a unique search experience for the web, images, videos, music, and more. They are currently funding a mail service. Read through their [datacenter](https://swisscows.ch/en/datacenter) about page, it's really interesting. |
+  | [Mojeek](https://www.mojeek.com/) | **5-eyes** | Unlike other privacy search engines which act as a "middle man" between you and Google/Bing/Yahoo, Mojeek has their own crawler and index. The results aren't as complete as some of the others, but it is still impressive and they are actively building their index to include more results with better accuracy. |
+  | [Ekoru](https://ekoru.org/) | | Privacy focused search engine that also aims to clean up the oceans. Thanks @mynamesleon |
+  | [Cyberd](https://cyber.page/) | | Decentralized Google. A web 3 alternative for the Google search engine. In Beta testing mode. Uses IPFS and Tendermint consensus for security and economic incentives. Please see their [ELI-5 FAQ](https://github.com/cybercongress/congress/blob/master/ecosystem/ELI-5%20FAQ.md) for more info. |
+  | [Infinity Search](https://infinitysearch.co/) | **5-eyes** | Infinity Search is a privacy metasearch engine that does not log any information about its users. In terms of privacy, it works the same way as DuckDuckGo. It is free to use and is funded by non-tracking advertisements and affiliate links. It is also completely open source. |
+
 - Images
   - *See above. All provide some form of image search.*
 - YouTube
