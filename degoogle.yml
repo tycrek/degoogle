@@ -51,6 +51,275 @@ web based products:
       eyes: 5
       text: |
         Infinity Search is a privacy metasearch engine that does not log any information about its users. In terms of privacy, it works the same way as DuckDuckGo. It is free to use and is funded by non-tracking advertisements and affiliate links. It is also completely open source.
+  youtube:
+    - title: YouTube
+    - name: PeerTube
+      url: https://joinpeertube.org/
+      eyes: null
+      text: |
+        Decentralized video hosting network. Still quite small, but is growing and has a dedicated community.
+    - name: BitChute
+      url: https://www.bitchute.com/
+      eyes: 5
+      text: |
+        Also P2P, but not decentralized. Due to it being proprietary, if BitChute goes down then the whole thing goes down (unlike PeerTube). (thanks u/up-sky-7)
+    - name: DTube
+      url: https://d.tube/
+      eyes: null
+      text: |
+        Looks very similar to YouTube. Advertised as "first crypt-decentralized video-platform". Built on Steemit and IPFS.
+    - name: Bit.tube
+      url: https://bit.tube/
+      eyes: null
+      text: |
+        Appears to be a crypto-powered decentralized video sharing service. (thanks u/rudolf323)
+    - name: Invidious
+      url: https://invidio.us/
+      eyes: null
+      text: |
+        An [open-source](https://github.com/omarroth/invidious) front-end alternative to YouTube. Seems to work pretty well from my experience so far, and it hasn't triggered *anything* on my adblocker/privacy extensions. Also offers downloads in many formats for videos (including `.vtt` subtitles).
+    - name: Hooktube
+      url: https://hooktube.com/
+      eyes: null
+      text: |
+        A slightly better way to use actual YouTube. (Use as a "last resort")
+    - name: LBRY
+      url: https://lbry.com/
+      eyes: null
+      text: |
+        A decentralized platform for distributing and supporting creators's work. It aims to be Open, Community driven "digital marketplace". It can be used in a similar way to YouTube: browsing, subscribing to channels, there is a mechanism to send "tips" to creators. Looks up videos based on a blockchain and is open source and uncensored. It already has some "larger" creators like Minutephysics, Veritasium, Barnacules and Lunduke.
+    - name: US.TV
+      url: https://us.tv/
+      eyes: null
+      text: |
+        PeerTube instance hosted by Epik.com.
+  news:
+    - title: News
+    - name: Local newspaper
+      url: https://en.wikipedia.org/wiki/Category:Lists_of_newspapers_by_country
+      eyes: null
+      text: |
+        Support independent and qualitative journalism in your community.
+    - name: AllSides
+      url: https://www.allsides.com/unbiased-balanced-news
+      eyes: null
+      text: |
+        Unbiased news source (primarily for US politics). Thanks @jeanofthedead
+    - name: "*Feeder*"
+      url: https://f-droid.org/app/com.nononsenseapps.feeder
+      eyes: null
+      text: |
+        Use good old-fashioned RSS feeds with Feeder (available from F-Droid)
+  #TODO: Groups
+  groups:
+    - title: Groups
+  translate:
+    - title: Translate
+    - name: DeepL
+      url: https://deepl.com/
+      eyes: 14
+      text: |
+        DeepL is an artifical intelligence translation service. *Editor note: The site server seems to be hosted in Finland, yet the company lists itself as [a company based in Germany](https://www.deepl.com/pro-faq.html) in the Data Protection section.*
+  ads:
+    - title: Google Ads/AdMob/AdSense        
+    - name: CodeFund
+      url: https://codefund.io/
+      eyes: 5
+      text: |
+        Ethical advertising for technical audience.
+  alerts:
+    - title: Google Alerts
+    - name: F5Bot
+      url: https://f5bot.com/
+      eyes: 5
+      text: |
+        Emails you when your selected keywords are mentioned on Reddit, Hacker News, or Lobsters.
+  gsuite:
+    - title: G Suite (enterprise cloud)
+    - name: Zoho
+      url: https://www.zoho.com/
+      eyes: null
+      text: |
+        Zoho was included in 2018's thread as well, and they've only improved since then. They offer a full enterprise business suite that can easily rival G Suite or MS Office 365. *Better description wanted*
+    - name: Nextcloud
+      url: https://www.nextcloud.com/
+      eyes: null
+      text: |
+        Nextcloud 18 now has Community Document Server and **[ONLYOFFICE](https://www.onlyoffice.com/)** apps integrated which allows self hosted instances of docs/sheets/slides. Users are able to edit documents in real time. Thanks @k3tan172 and @plutocrat
+  blogger and sites:
+    - title: Blogger/Sites
+    - name: Joomla
+      url: https://www.joomla.org/
+      eyes: null
+      text: |
+        Self-hosted and open-source content management system (CMS).
+    - name: Write.as
+      url: https://write.as/
+      eyes: null
+      text: |
+        Self-advertised as privacy-focused.
+    - name: WordPress self-hosted
+      url: https://wordpress.org/
+      eyes: null
+      text: |
+        The open-source version of WordPress. A very popular tool and a recognized name.
+    - name: concrete5
+      url: https://www.concrete5.org/about
+      eyes: 5
+      text: |
+        Open-source CMS.
+    - name: Noblogs
+      url: https://noblogs.org/
+      eyes: 9
+      text: |
+        A privacy/security focused blogging platform.
+    - name: Ghost
+      url: https://ghost.org/
+      eyes: null
+      text: |
+        Open-source modern CMS. Boasts "over 19x faster than WordPress". Thanks @peterge1998
+  analytics:
+    - title: Analytics
+    - name: Matomo
+      url: https://matomo.org/
+      eyes: "9/14"
+      text: |
+        (Matomo/parent company) - Open-source analytics platform. (thanks u/Newblik)
+    - name: Fathom
+      url: https://usefathom.com/
+      eyes: 5
+      text: |
+        Simple analytics for bloggers & businesses
+    - name: Plausible
+      url: https://plausible.io/
+      eyes: 5
+      text: |
+        Open-source, privacy-focused web analytics.
+    - name: GoatCounter
+      url: https://www.goatcounter.com/
+      eyes: 14
+      text: |
+        Simple web statistics. No tracking of personal data. Open-source and may be self-hosted. Free for non-commercial use; paid plans available.
+    - name: Simple Analytics
+      url: https://simpleanalytics.com/
+      eyes: 9
+      text: |
+        Great analytics with privacy and simplicity in mind. Paid plans only (with free trials).
+    - name: Toasted Analytics
+      url: https://toastedanalytics.com/
+      eyes: 5
+      text: |
+        Simple, privacy friendly analytics with event tracking. Paid only (with free trial)
+  photos:
+    - title: Photos
+    - name: Photoprism
+      url: https://github.com/photoprism/photoprism
+      eyes: null
+      text: |
+        Self-hosted and open-source Personal Photo Management powered by Go and Google TensorFlow.
+    - name: ownPhotos
+      url: https://github.com/hooram/ownphotos
+      eyes: null
+      text: |
+        Self-hosted and open-source Google Photos alternative.
+    - name: Piwigo
+      url: https://piwigo.org/
+      eyes: 9
+      text: |
+        (self-hosted) - Self-hosted and open-source cloud photo manager. You can also sign up for an ["as a service" account](https://piwigo.com).
+    - name: JottaCloud
+      url: https://jottacloud.com/
+      eyes: 9
+      text: |
+        Norway based cloud storage provider with free and paid plans. Thanks @mynamesleon
+  calendar:
+    - title: Calendar
+    - name: Lightning Calendar (Thunderbird)
+      url: https://www.thunderbird.net/en-US/calendar/
+      eyes: null
+      text: |
+        Developed by Mozilla Foundation and open-source. Integrates into Thunderbird and SeaMonkey.
+    - name: Tutanota Calendar
+      url: https://tutanota.com/calendar/
+      eyes: 14
+      text: |
+        Developed by Tutanota. Free cross-platform encrypted calendar. Allows importing of other Calendar files. Can't be synced to other calendar software.
+    - name: Fruux
+      url: https://fruux.com/
+      eyes: 14
+      text: |
+        Open-source calendar using "sabre/dav" (open-source WebDAV, CardDAV, and CalDAV). They mention privacy quite a bit on their site. Very large number of features, and supports nearly every device: Windows, iOS, Linux, Android, BlackBerry, SailFish, and also a webapp for browsers.
+    - name: Zoho
+      url: https://www.zoho.com/
+      eyes: null
+      text: |
+        I mentioned Zoho above for G Suite, so here they are again.
+    - name: EteSync
+      url: https://www.etesync.com
+      eyes: null
+      text: |
+        Secure, end-to-end encrypted, and open-source sync for your contacts, calendars and tasks.
+  docs:
+    - title: Docs/Sheets/Slides (cloud)
+    - name: CryptPad
+      url: 
+      eyes: 9
+      text: |
+        Open-source "zero knowledge" collaborative cloud editor. They offer Rich Text, Code, Presentation, Sheet (beta), Poll, Kanban, Whiteboard, and CryptDrive. 100% Client side encryption. Tons of useful features.
+    - name: Etherpad
+      url: 
+      eyes: null
+      text: |
+        Self-hosted collaborative editor. Does not use the browser. Not the greatest interface, but it's open-source and you have full control over who can see your data.
+    - name: Cryptee
+      url: 
+      eyes: null
+      text: |
+        Open-source and privacy focused photo and document storage/editing. Based in Estonia, so your files are outside the reach of any 14-eyes country. They don't even require an email address to sign up.
+    - name: LibreOffice Online
+      url: 
+      eyes: 14
+      text: |
+        Self-hosted instance of LibreOffice that you can run in your browser. Thanks @flubberding
+    - name: ONLYOFFICE
+      url: https://www.onlyoffice.com
+      eyes: null
+      text: |
+        Open-source private cloud replacement for Google Docs'suite and Office 360. Also available as a self contained rich application.
+    - name: Arcane Office
+      url: https://arcaneoffice.com/
+      eyes: null
+      text: |
+        A decentralized office suite with high-security and zero-knowledge on your data. With Arcane Office, you have maximum control on your personal stuff. Full-featured online document and spreadsheet editor. Secure storage to save your photos. All free for personal use. Thanks @taraletti
+  docs offline:
+    - title: Docs/Sheets/Slides (offline)
+    - name: LibreOffice
+      url: https://www.libreoffice.org/
+      eyes: null
+      text: |
+        Open-source offline document suites.
+    - name: Apache OpenOffice
+      url: https://www.openoffice.org/
+      eyes: null
+      text: |
+        Open-source offline document suites.
+    - name: LyX
+      url: https://www.lyx.org/
+      eyes: null
+      text: |
+        It's an open-source (and offline) document processor using TeX/LaTeX. It's different than Docs or Word but amazing, once you get used to it. Thanks @Glitchy-Tozier
+  domains:
+    - title: Domains
+    - name: Njalla
+      url: https://njal.la/
+      eyes: 14
+      text: |
+        Privacy-focused domain registration. Competitive pricing and a large list of available domain extensions. They also offer VPS hosting. Built by people who built The Pirate Bay among others. (thanks u/brais33 and u/HumbleBasis6)
+    - name: Porkbun
+      url: https://porkbun.com/
+      eyes: 5
+      text: |
+        Domain registration with free WHOIS privacy.
 operating systems:
 
 desktop applications:
