@@ -1,0 +1,252 @@
+- Drive
+  - [ownCloud](https://owncloud.org/) - Open-source and self-hosted. Provide your own storage.
+  - [Nextcloud](https://nextcloud.com/) - Also self-hosted. Spin-off of ownCloud. **Also offers Calendar and Contacts** (thanks @chribre)
+  - [Syncthing](https://syncthing.net/) - **9-eyes** - An interesting take on cloud storage: decentralized. Peer-to-peer between only your devices. Software is open-source and available on GitHub.
+  - [Sia](https://sia.tech/) - Fully decentralized cloud storage.
+  - [Tresorit](https://tresorit.com/) - Primarily meant for businesses, but offers a free version for individuals as well. (thanks u/xNick26)
+  - [Sync](https://www.sync.com) - End-to-end encrypted Google Drive/Dropbox replacement.
+  - [JottaCloud](https://jottacloud.com/en/) - **9-eyes** - Norway based cloud storage provider with free and paid plans. Thanks @mynamesleon
+  - [Armored](https://armored.net/) - **9-eyes** - Nextcloud instance hosted by Epik.com. Paid plans with 30-day trial. Servers in a "secure bunker" in Norway. Supports other Nextcloud features such as Nextcloud Talk.
+  - [seafile](https://www.seafile.com) - Open-source and self-hosted file sync&share solution.
+  - [Cozy Cloud](https://cozy.io/) - **9-eyes** - French based cloud storage provider with free and paid plans. Can also be self-hosted. Open-Source. And it also offers a collaborative notes editor.
+  - *Editor note: I'm not including MEGA. I do not recommend MEGA. It's far too controversial and far too difficult to figure out who actually owns the service. Also, it's a 5-eyes.*
+- Hangouts (text/video messaging)
+  - [Signal](https://signal.org/) - **5-eyes** - Whistleblower and privacy advocate Edward Snowden recommends Signal.
+  - [Tox](https://tox.chat/) - Tox is unique as it uses P2P technology to ensure the network *never* goes down, as long as there are users to keep it alive. They specifically say on the website "Tox has no central servers that can be raided, shut down, or forced to turn over data".
+  - [Wire](https://wire.com/en/) - **5-eyes** - Uses end-to-end encryption. Looks to be more of a corporate service with tiered plans.
+  - [Riot](https://about.riot.im/) - **5-eyes** - Open-source privacy-focused chat service with end-to-end encryption. They offer webapps, desktop apps, iOS, and Android (Play Store and F-Droid). Uses the "Matrix" protocol for decentralized communication. It is 100% free and open-source with no paid plans.
+  - [Threema](https://threema.ch/en) - Swiss-based GDPR-compliant instant messenger. Has apps for both iOS and Android. Unlike Signal, no phone number is required (nor is an email) to sign up. End-to-end encrypted. Thanks to @nathanvogel
+  - [Keybase](https://keybase.io/) - **5-eyes** - encrypted chat like Signal with features like Slack. Does not require a phone number to sign up. Also has file storage. **Note:** Keybase was acquired by Zoom, Inc. in May 2020 ([Keybase blog](https://keybase.io/blog/keybase-joins-zoom), [Zoom blog](https://blog.zoom.us/wordpress/2020/05/07/zoom-acquires-keybase-and-announces-goal-of-developing-the-most-broadly-used-enterprise-end-to-end-encryption-offering/)). Thanks @notpushkin & @multimob.
+  - [Jitsi](https://jitsi.org/) - Jitsi is an open-source secure video conferencing platform. No account is needed to use it, simply enter a Room Name to join or host a meeting. The host is able to kick rogue users from the call. Works directly in your browser, with apps available for iOS and Android. It is not necessary to self-host, but self-hosting is an option for those who wish to. Very low latency and easy to set up. A free public server is available at (https://meet.jit.si) (**5-eyes** server)
+  - *Editor note: See [this article](https://outline.com/BK8f7h) for why I didn't include WhatsApp and why you should NOT use it (if someone has a better Outline link, that would be much appreciated).*
+  - I have also **removed** Telegram. See [Issue #29](https://github.com/tycrek/degoogle/issues/29) from @arsv.
+- Gmail
+  - [Protonmail](https://protonmail.com/) - One of the top privacy-focused email providers. Servers are in Switzerland in an underground guarded bunker that they claim can "survive a nuclear attack".
+  - [Zoho Mail](https://www.zoho.com/mail/) - Zoho comes back yet again with a mail solution.
+  - [Tutanota](https://tutanota.com/) - **14-eyes** - Open-source. Also one of the top privacy-focused email providers. Located in Germany.
+  - [Posteo](https://posteo.de/en) - **14-eyes** - Completely anonymous mail provider located in Germany.
+  - [mailbox.org](https://mailbox.org/en/) - **14-eyes** - Paid email provider, also located in Germany.
+  - [Disroot](https://disroot.org/) - **9-eyes** - Decentralized email service.
+  - [StartMail](https://www.startmail.com/en/) - **9-eyes** - Operated by the same people who run StartPage.
+  - [SimpleLogin](https://simplelogin.io/) - Open-source, self-hosted, and privacy focused email forwarding service.
+  - [Migadu](https://www.migadu.com/en/index.html) - Paid email provider, located in Switzerland. Focus on privacy.
+  - [FastMail](https://fastmail.com/) - **5-eyes** - Paid email provider, located in Australia and US.
+  - [Runbox](https://runbox.com/why-runbox/privacy-protection/) - **9-eyes** - Privacy focusued email provider. Thanks @petertorelli
+  - [nextCloud](https://help.nextcloud.com/t/nextcloud-mail-server/157) - Now also provides an email service (self-hosted). Thanks @je-vv
+  - [Anonymize.com Email](https://anonymize.com/) - Paid secure email service provided by Epik.com.
+  - *This is just for the Gmail service, not a client*
+- Keep
+  - [Joplin](https://joplinapp.org/) - Open-source notes/todo app. Available for Windows, macOS, Linux, Android, and iOS. Also offers a terminal version. It can import Evernote `.enex` files if you use that. It can also sync with Nextcloud (mentioned above).
+  - [Standard Notes](https://standardnotes.org/) - Encrypted note storage with loads of features. Offers a web app as well as downloads for most operating systems. Has a paid plan, but the free tier has many useful features as well.
+  - [Zoho Notebook](https://www.zoho.com/notebook/) - A notebook from Zoho. Also available on Android.
+  - [Turtl](https://turtlapp.com/) - Encrypted collaborative notebook with possibility of running your own server.
+  - [QOwnNotes](https://www.qownnotes.org/) - Open-source file editor with Markdown support. (thanks u/maqp2)
+  - [EteSync](https://www.etesync.com) - Secure, end-to-end encrypted, and open-source sync for your contacts, calendars and tasks.
+  - [GitJournal](https://gitjournal.io/) - Your Markdown notes stores in any Git Repo. Available for both Android (Play Store) and iOS.
+- Play Music & Play Movies and TV
+  - [Jellyfin](https://jellyfin.github.io/) - Open-source alternative to the Play media services. You do need to provide your own content, however. In active development with frequent updates (to the source, that is).
+  - [Funkwhale](https://funkwhale.audio/) - Self-hosted, decentralized music service. Provide your own audio. (thanks u/DashEquals)
+  - [Airsonic](https://airsonic.github.io/) - **Music only** - Self-hosted open-source media streamer. Has features for transcoding audio on-the-fly for "virtually any audio format". You can also set bandwidth limits if you need to. Looks very powerful.
+  - [Music Player Daemon](https://www.musicpd.org/) - A "flexible, powerful, server-side application for playing music".
+  - [Popcorn Time](https://popcorntime.sh/faq) - Open source software for desktop and mobile that let you easily stream movie/TV torrents. **Be careful if your country or ISP has policies against torrenting, a VPN is recommended.** Thanks @je-vv
+  - [Nuclear Music Player](https://nuclear.js.org/) - Streaming music player that finds music from free sources automatically.
+  - *Editor note: I can no longer recommend [Emby](https://emby.media/) as they are [no longer open-source](https://www.linuxuprising.com/2018/12/jellyfin-free-software-emby-media.html).*
+  - Thanks to u/eA8KESARaW6iqCpHsbE4 for suggesting Jellyfin and pointing out that Emby isn't open-source.
+- Fonts
+  - [Open Font Library](https://fontlibrary.org/) - **5-eyes** - Lots of Serif and Sans-Serif fonts that can be directly embedded into a website.
+  - [google webfonts helper](https://google-webfonts-helper.herokuapp.com/fonts) - **5-eyes** - Hassle-free way for webmasters to self-host open-source Fonts from "Google Fonts"
+- Classroom
+  - [Moodle](https://moodle.org/) - Self-hosted Classroom software for schools. Very powerful. Thanks @jankapunkt
+  - [ILIAS](https://www.ilias.de/en/) - Another self-hosted open source classroom software. Thanks again to @jankapunkt
+  - [Canvas](https://www.instructure.com/canvas) Paid service by Instructure. Also available as a [self-hosted, open source option](https://github.com/instructure/canvas-lms). To ensure privacy, use the self-hosted option.
+- Maps/Street View
+  - [OpenStreetMap](https://www.openstreetmap.org/) **9-eyes** - Collaborative project to create a free, editable map of the world (from Wikipedia). Completely crowdsourced. Very strong alternative to Maps.
+  - [Qwant Maps](https://www.qwant.com/maps/) - Maps from the makers of Qwant search engine. Thanks @mynamesleon
+  - [Benmaps](https://benmaps.fr) - Another maps alternative based on OpenStreetMap. Thanks @dimqua
+  - [Mapillary](https://www.mapillary.com/app/) - **14-eyes** - Crowdsourced street-level imagery built on top of OpenStreetMap. Open source. Includes map data generated with object recognition software. Coverage is lacking in many cities but can always be improved upon.
+  - *Editor note: I've seen OsmAnd: it's a mobile app. I've seen HERE WeGo: It's on malvertising filter lists.*
+- Transit
+  - [Transportr](https://transportr.app/) An open-source Transit app on Android that takes information from several providers (e.g Deutsche Bahn in Germany) and enables you to use them in the app. Visualises the routes on an online OpenStreetMap map. Works in most of Western-Europe, as well as the USA, Australia, Canada, New Zealand, Brazil, Nicaragua, Costa Rica, the UAE and Ghana.
+  **Beware: most information-providers only have beta or alpha support, it may be a good idea to keep a second app as a fallback option**
+- Trends
+  - *Help requested!*
+
+## Operating systems
+
+- Android/Fuchsia
+  - *Note: You'll either need a rooted device with an unlocked bootloader, or a specific device depending on which OS you like.*
+  - [Ubuntu Touch](https://ubuntu-touch.io/) - Ubuntu, but for phones.
+  - [LineageOS](https://www.lineageos.org/) **5-eyes** - Open-source and based on Android, but without the crap.
+  - [SailfishOS](https://sailfishos.org/) - *Help requested!*
+  - ~~[CopperheadOS](https://copperhead.co/android/) - **5-eyes** - A "secure" version of Android from Canada.~~
+    - u/poto-tomato pointed out that CopperheadOS is [no longer active](https://old.reddit.com/r/CopperheadOS/comments/8qdnn3/goodbye/). It has now evolved into a [new project](https://old.reddit.com/r/CopperheadOS/comments/b6muvh/androidhardening_project_renamed_to_grapheneos/) under the name [GrapheneOS](https://github.com/GrapheneOS).
+  - [postmarketOS](https://postmarketos.org/) - Open-source mobile Linux OS. Can install different user interfaces such as [Plasma Mobile](https://www.plasma-mobile.org/). Thanks @okias
+  - [Replicant](https://replicant.us/) - **5-eyes** - Free Android distribution. Puts the emphasis on "freedom and privacy/security".
+  - Note: Please see Issue #55 for details on /e/.
+- Chrome OS
+  - [Qubes OS](https://www.qubes-os.org/) - "A reasonably secure operating system", at least according to their website. Edward Snowden recommends it.
+  - [Subgraph OS](https://subgraph.com/index.en.html) - A desktop computing and communications platform that is designed to be resistant to network-borne exploit and malware attacks.
+  - [Tails](https://tails.boum.org/) - For the uber-paranoid. Runs live and the entire OS is routed through Tor right from boot. Built on Debian.
+  - [Knoppix](http://www.knopper.net/knoppix/index-en.html) - Another Live OS, runs from CD/DVD/USB. Can also be installed if desired.
+  - [Parrot OS](https://parrotsec.org/) - Debian-based and privacy focused. Fully sandboxed. (thanks u/Safe_Airport)
+  - [PureOS](https://pureos.net/) - **5-eyes** - The OS of Purism Laptops (mentioned in the Hardware section). Very clean UI. *Editor note: I could not get this working on a UEFI Dell laptop. The group behind PureOS does not provide any UEFI support.*
+  - Any other form of Linux should work fine too.
+    - [Ubuntu](https://www.ubuntu.com/)
+    - [Debian](https://www.debian.org/)
+    - [Mint](https://linuxmint.com/)
+    - [Fedora](https://getfedora.org/)
+    - [Arch](https://www.archlinux.org/) or [Manjaro](https://manjaro.org/) (Manjaro is objectively much easier to get running than Arch)
+    - [Trisquel](https://trisquel.info/), [Gentoo](https://www.gentoo.org/), and [Alpine](https://www.alpinelinux.org/) (thanks u/privacyfreak555)
+    - [etc etc etc](https://en.wikipedia.org/wiki/List_of_Linux_distributions)
+- Wear OS
+  - [AsteroidOS](https://asteroidos.org/) - **14-eyes** - The cleanest (and only) open-source alternative for Wear OS. Make sure you buy a watch that supports it!
+- Android Auto
+  - *Help requested!*
+- Google TV/Android TV
+  - [Kodi](https://kodi.tv/) - It's incredibly powerful and backed by one of the strongest communities around. Tons of plugins to do nearly anything you want. Software installs on nearly any platform.
+  - [OSMC](https://osmc.tv/) - Free, open source media center OS. Kodi is pre-installed. Thanks to @g4rret and @lgiard for clarifying the difference between Kodi and OSMC!
+
+## Desktop applications
+
+- Chrome
+  - [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium) - Chromium (which Chrome and countless other browsers are built on top of) is one of the cleanest and light-weight browsers available. This version cuts out all the Google crap.
+  - [Firefox](https://firefox.com/) - Built by Mozilla. Huge extension library; great for privacy.
+  - [Waterfox](https://www.waterfox.net/) - **5-eyes** - Based on Firefox, but **64-bit only** with an emphasis on speed and privacy. Has a "classic" version built off older Firefox for legacy extension support and also an "alpha" version built off Quantum. It doesn't collect any telemetry and also removes Pocket from the alpha release. Project is run by [Alex Kontos](https://github.com/MrAlex94/) and is constantly in active development. Looks very clean and fast. Android versions are in the works too. **UPDATE:** @Nudin pointed out in Issue #85 that Waterfox is now [apart of System1](https://www.waterfox.net/blog/waterfox-has-joined-system1/).
+  - [Vivaldi](https://vivaldi.com/) - Privacy-focused browser. Appears to be very customizable and feature-rich.
+  - [Tor Browser](https://www.torproject.org/download/) - Firefox-based browser routed through the onion network. Automatically has a few privacy extensions installed (such as HTTPS Everywhere). Be careful using it in public though, as it *can* look like a pretty suspicious piece of software. Available for Windows, Linux, macOS, and Android.
+- Earth
+  - Different from Maps Satellite in the sense that Earth has tons of complex features that require desktop software to be installed.
+  - [KDE Marble](https://kde.org/applications/education/org.kde.marble) - Strong alternative for G Earth. Currently only on Linux, but is being ported to other platforms. Thanks to @PopeRigby
+- Android Studio (not specifically for Android development, just in general)
+  - [VSCodium](https://github.com/VSCodium/vscodium) - VSCodium is VSCode but without all the Microsoft telemetry and branding.
+  - Text editors:
+    - [Vim](https://www.vim.org/) - Open-source text editor. Thanks @moon-chilled
+    - [Emacs](https://www.gnu.org/software/emacs/) - Another open-source text editor. Thanks @moon-chilled
+
+## Mobile applications (mobile apps installable from stores)
+
+When searching for replacements, check the alternative stores (such as F-Droid) before checking the Play Store.
+
+- Play Store
+  - [F-Droid](https://f-droid.org/) - Catalogue of FOSS apps for Android. Easy to install and keeps track of updates. Also has a browser version if you don't want to install the app.
+  - [Aptoide](https://www.aptoide.com/) - Marketplace for Android apps. Publishers/developers manage their own stores rather than a centralized market such as Google Play Store.
+  - [Yalp Store](https://github.com/yeriomin/YalpStore) - Yalp downloads Play Store apps as APK files. Helpful if you want to stay away from the Play Store, but require an app that is only available there.
+  - [APKMirror](https://www.apkmirror.com/) - An online library of user-uploaded APK files. Helpful if you need a specific older version of an app or don't want to download it through Google Play.
+  - [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore) - Aurora Store is ~~simply a fork of the Yalp Store~~ no longer a fork of Yalp, but is now its own project (see their [readme](https://gitlab.com/AuroraOSS/AuroraStore/blob/master/README.md)). **Update:** Removed note on using microG as Aurora Store [does not use it](https://gitlab.com/AuroraOSS/AuroraStore/-/blob/master/README.md#L77). Thanks @RefexHD & @notpushkin
+  - [Fossdroid](https://fossdroid.com/) - Uses the same library as F-Droid, but with a modern UI similar to that of the Play Store and the ability to view apps by popularity.
+  - [G-Droid](https://gitlab.com/gdroid/gdroidclient/) - Also uses the F-Droid repo but with a different UI.
+  - [APKGrabber](https://github.com/hemker/apkgrabber) - Fork of [APKUpdater](https://github.com/rumboalla/apkupdater). Both are great tools for avoiding app stores (on Android).
+  - [Aurora Droid](https://forum.xda-developers.com/android/apps-games/app-aurora-droid-fdroid-client-t3932663) - Yet another F-Droid client, potentially has a few bugs (thanks u/OfficialJohnGL4)
+- Chrome (Android)
+  - [Fennec F-Droid](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/) - A privacy-focused version of Firefox Android available on F-Droid. It's focused on removing any proprietary bits found in official Mozilla's builds. (thanks u/SupremeLisper)
+  - [Bromite](https://www.bromite.org/) - Privacy-focused/open-source build of Chromium with built-in ad blocking. (thanks u/SupremeLisper)
+- Calculator
+  - [Simple Calculator](https://github.com/SimpleMobileTools/Simple-Calculator) - Also part of the SMT project. Available on F-Droid.
+  - [Calculator N+](https://github.com/tranleduy2000/ncalc) (or NCalc+) - Open-source feature-rich calculator. App itself is no longer in development, but the developer does [encourage pull requests](https://github.com/tranleduy2000/ncalc#calculator-n---powerful-calculator-for-android). I've used it frequently and it works great. Not on F-Droid, but a 3rd party play store can probably find it; or the APK's are available as releases on GitHub. You can also compile from source.
+- Calendar
+  - [Fruux (mobile app)](https://fruux.com/) - Same service from above provides an Android app.
+  - [Etar](https://github.com/xsoh/Etar-Calendar) - Open-source material design Calendar that integrates with the Android Calendar API. If you have a CalDAV/CardDAV server, I recommend using [DAVx5](https://www.davx5.com/) to sync with it. Available from F-Droid. Also look at [ICSx5](https://icsx5.bitfire.at/), another WebDav/CalDav client that can integrate with calendar apps. Also available from F-Droid. Thanks @je-vv for ICSx5.
+- Camera
+  - [Open Camera](https://opencamera.sourceforge.io/) - Open source camera for Android. Thanks @je-vv
+- Clock
+  - [Clock +](https://github.com/philliphsu/ClockPlus) - Open-source Alarm clock, timer, and stop watch. Available from F-Droid.
+  - [Simple Alarm Clock](https://github.com/yuriykulikov/AlarmClock) - Exactly as it's name says; simple alarm clock yet adds many improvements over other apps. No dock mode or world clock.
+  - [Insane Alarm!](https://github.com/RIAEvangelist/insane-alarm) - Developer states that he had "spent a night out with the boys and drank a bit too much but needed to be up in the morning". So, he made the loudest alarm clock possible based off an emergency alarm from when he was in the military. This app doesn't mess around, use it wisely.
+- Contacts
+  - [Fruux (mobile app)](https://fruux.com/) - Fruux *also* provides a contacts app.
+  - [Simple Contacts](https://github.com/SimpleMobileTools/Simple-Contacts) - Open-source. Part of the [Simple Mobile Tools](https://github.com/SimpleMobileTools) project. Available from F-Droid.
+  - [Open Contacts](https://f-droid.org/en/packages/opencontacts.open.com.opencontacts/) - Available from F-Droid. (thanks u/consentio)
+- Android Messages (specifically SMS, not IM)
+  - [QKSMS](https://github.com/moezbhatti/qksms) - Open-source. Very clean and feature rich SMS app.
+  - [Silence.im](https://silence.im/) - Open-source and utilizes Signal's encryption protocol. Seamlessly works with SMS. End-to-end encryption with other Silence users.
+  - *Both Messages replacements are available on F-Droid*
+- Gboard
+  - [AnySoftKeyboard](https://anysoftkeyboard.github.io/) - Open-source keyboard. Available on F-Droid.
+  - [Hacker's Keyboard](https://github.com/klausw/hackerskeyboard) - Also open-source. Very useful for developers or sysadmins on the go.
+  - [kboard](https://github.com/adgad/kboard) - Open-source. Has features for phrases, "lenny faces", macros and more.
+  - [Simple Keyboard](https://github.com/rkkr/simple-keyboard) - Open-source, available from F-Droid.
+  - [Indic Keyboard](https://gitlab.com/indicproject/indic-keyboard) - Open-source keyboard that supports many languages that other keyboards sometimes don't support. Not on F-Droid, but can be built from source or possibly through a Play Store alternative.
+  - [OpenBoard](https://github.com/dslul/openboard) - New 100% FOSS keyboard, based on AOSP. Similar to "Simple Keyboard". Thanks @Glitchy-Tozier
+- Drive
+  - [ownCloud Android](https://github.com/owncloud/android) - ownCloud Android client.
+  - [Nextcloud Android](https://github.com/nextcloud/android) - Nextcloud Android client.
+  - [Syncthing Android](https://github.com/syncthing/syncthing-android) - Wrapper of Syncthing for Android
+  - *All Drive replacements are available on F-Droid*
+- Gmail
+  - [Protonmail](https://protonmail.com/support/knowledge-base/android/) - Can be downloaded from the Play Store, but may work with one of the store replacements above (such as Yalp).
+  - [Tutanota](https://f-droid.org/en/packages/de.tutao.tutanota/) - **14-eyes** - Client available from F-Droid.
+  - Posteo - Any **open-source mail client** such as: [K-9 Mail](https://k9mail.github.io/) and [FairEmail](https://email.faircode.eu/). Both are available on F-Droid.
+  - [Zoho Mail](https://www.zoho.com/mail/ios-android-apps.html) - Also on the Play Store but other stores may work too.
+  - Mailbox.org - Mailbox.org provides IMAP settings for Android/iOS and an iOS profile. Thanks @avasts Issue #45
+  - [Disroot](https://f-droid.org/en/packages/org.disroot.disrootapp/) - Available from F-Droid.
+- Keep (or any stock note-taking app)
+  - [Notepad](https://github.com/farmerbb/Notepad) - Open-source and available from F-Droid. Supports Markdown and HTML. Very clean and feature-rich. *Offline only*.
+  - [Joplin](https://github.com/laurent22/joplin) for Android - Scroll down on the GitHub page until you reach the Android download links. No F-Droid repo, but you can download the APK directly instead of using the Play Store.
+  - [Standard Notes](https://standardnotes.org/) - Encrypted note storage with loads of features.
+  - [Omni Notes](https://omninotes.app/) - Very feature rich, open-source, material design notes app. Very active development. Available on F-Droid.
+  - [Carnet](https://github.com/PhieF/CarnetDocumentation) - I had some trouble finding info on this one. Looks like it has pretty seamless/painless ownCloud and NextCloud integration. Also available on F-Droid.
+  - [Markor](https://gsantner.net/project/markor.html) - Open-source notes/to-do app for Android. Supports Markdown editing. Available on F-Droid. App is 100% offline, as stated on the [GitHub README](https://github.com/gsantner/markor#privacy).
+  - [Orgzly](http://orgzly.com/) Open-source and available from F-Droid. Notes are stored in the plain-text [Org mode](https://orgmode.org/) format. Supports searching, metadata, and manual sync with Dropbox or local directory, which can be synced using e.g. Syncthing.
+- Maps/Waze
+  - Don't use Waze. It's owned by Google.
+  - [Maps](https://f-droid.org/en/packages/com.github.axet.maps/) - Available from F-Droid. Open-source navigation app based on MAPS.ME. Searching for addresses doesn't always work and finding businesses can be a slight hassle, but overall one of the better apps I've used.
+  - [OsmAnd](https://osmand.net/) - OpenStreetMap for Android. (thanks u/masao77)
+    - As OsmAnd is primarily crowdsourced, many regions may not be totally accurate. If you would like to help improve OpenStreetMap and OsmAnd, check out [StreetComplete](https://wiki.openstreetmap.org/wiki/StreetComplete). It is available from [F-Droid](https://f-droid.org/en/packages/de.westnordost.streetcomplete/).
+  - [Transportr](https://transportr.app/) - Primarily European, this is an open-source public transport app. Thanks to @lgiard
+  - [Offi or Oeffi](https://oeffi.schildbach.de/) - Another recommendation from @lgiard, this app is also for public transport.
+- News
+  - [Flym](https://github.com/FredJul/Flym) - Open-source Material Design RSS reader. Available from F-Droid.
+- Photos
+  - [Piwigo Android](https://github.com/Piwigo/Piwigo-Android) - You need to have Piwigo set up first.
+- Pay
+  - *Help requested!*
+  - Note: Realistically, there most likely is not a privacy friendly alternative to Google Pay. Get a wallet with RFID protection and keep your cards with you.
+- YouTube
+  - [NewPipe](https://newpipe.schabi.org/) - Powerful open-source YouTube alternative available from F-Droid. Supports audio only; background playback; picture-in-picture; no ads.
+  - [FreeTube](https://github.com/FreeTubeApp/FreeTube) - Open-source YouTube client that uses the Invidio.us API to serve content. Not on F-Droid, but you can download the APK from GitHub. (thanks u/wesaphzt)
+  - [YouTube Vanced](https://forum.xda-developers.com/android/apps-games/app-youtube-vanced-edition-t3758757) (if you are desperate) - Please read the XDA post before deciding to use this.
+- Authenticator
+  - [andOTP](https://github.com/andOTP/andOTP) - Open-source 2FA app available from F-Droid.
+  - [FreeOTP+](https://github.com/helloworld1/FreeOTPPlus) - FreeOTP is no longer in development so this fork should be used instead as it is currently in development. Available from F-Droid.
+  - [Aegis](https://github.com/beemdevelopment/Aegis) - Open-source 2FA for Android. Available on F-Droid.
+  - [Authenticator](https://mattrubin.me/authenticator/) - **iOS** - Open-source 2FA for iOS. (thanks u/SomeoneWannaBe)
+  - [Tofu](https://tofuauth.com) - **iOS** - Open-source 2FA for iOS.
+- Play Music/Play Movies & TV
+  - [Audinaut](https://github.com/nvllsvm/Audinaut) - An open-source Airsonic client for Android. Available from F-Droid.
+  - [MALP](https://gitlab.com/gateship-one/malp) - An open-source Android client for MPD. Available on F-Droid.
+- Hangouts
+  - [Keybase](https://keybase.io/) - **5-eyes** - encrypted chat like Signal with features like Slack. Does not require a phone number to sign up. Also has file storage. **Note:** Keybase was acquired by Zoom, Inc. in May 2020 ([Keybase blog](https://keybase.io/blog/keybase-joins-zoom), [Zoom blog](https://blog.zoom.us/wordpress/2020/05/07/zoom-acquires-keybase-and-announces-goal-of-developing-the-most-broadly-used-enterprise-end-to-end-encryption-offering/)). Thanks @notpushkin & @multimob.
+  - [Conversations](https://conversations.im/) - **14-eyes** - An open-source Android Jabber/XMPP client. It's a paid app on Google Play, but you can also [build it from source](https://github.com/siacs/Conversations) for free if you want to.
+  - [Riot](https://github.com/vector-im/riot-android) **5-eyes** - Android app - The open-source Android client for Riot.
+  - [Jitsi Meet (F-Droid)](https://f-droid.org/en/packages/org.jitsi.meet/) - Jitsi is an open-source secure video conferencing platform. No account is needed to use it, simply enter a Room Name to join or host a meeting. The host is able to kick rogue users from the call. Works directly in your browser, with apps available for iOS and Android. It is not necessary to self-host, but self-hosting is an option for those who wish to. Very low latency and easy to set up. A free public server is available at (https://meet.jit.si) (**5-eyes** server)
+- Assistant
+  - [Mycroft Android](https://github.com/MycroftAI/Mycroft-Android) - Android client for Mycroft. Must be built in IDE; no pre-built binaries are available.
+  - [Ara](https://github.com/FultonBrowne/Ara-android) - Open-source virtual assistant for Android. Can replace Google Assistant (home button functionality) on most devices. Either uses the authors server by default, or you can [run your own server](https://github.com/FultonBrowne/Ara-Server). Thanks @FultonBrowne (author of Ara)
+- Play Services Framework
+  - [microG](https://microg.org/) - A re-implementation of Google’s proprietary Android user space apps and libraries. It allows to use more precise navigation (which is proprietary in standard Android ROMs) and optionally receive push messages (requires connection to Google's servers, but also supports routing this connection through Tor). Thanks @notpushkin
+- *Other*
+  - [Blokada](https://blokada.org/) - From the website: "If you want to efficiently block ads, trackers, malware, save on your data plan, speed up your device and protect your privacy with just one application, then Blokada is for you. It is free, secure and open source." Uses internal VPN on Android to block ads. [Available from F-Droid](https://f-droid.org/packages/org.blokada.alarm/).
+
+**Android launchers**:
+
+- [Shade Launcher](https://github.com/amirzaidi/Shade) - Open-source Android launcher styled after the Google Pixel launcher. No F-Droid, but you can download the APK from GitHub.
+- [ZimLX](https://github.com/otakuhqz/ZimLX) - Open-source launcher. Active development with lots of nice features. Available from F-Droid.
+- [Lawnchair](https://lawnchair.app/) - Another open-source launcher, also built to look similar to Google's launcher (it is built off AOSP Launcher3). Available from F-Droid and also APKMirror. (thanks u/droidonomy)
+
+## Hardware
+
+- Nexus/Pixel
+  - [This list](https://www.oneclickroot.com/rootable/) shows compatibility for rooting Android devices.
+  - [Purism Librem 5](https://puri.sm/products/librem-5/) - **5-eyes** - From the company that makes Purism laptops. Runs PureOS. Thanks @brandonnodnarb
+- Chromebook
+  - Literally any other laptop with some form of Linux, *or*
+  - [TUXEDO](https://www.tuxedocomputers.com/) - **14-eyes** - Privacy-focused laptop maker out of Germany. Tech specs are very competent and can easily compete with other modern systems. Fully Linux compatible. They also offer desktops. (thanks u/itsec_ho)
+  - [Purism Laptops](https://puri.sm/) - **5-eyes** - Privacy-focused laptop running PureOS. Good designs and decent hardware.
+  - [Pinebook Pro](https://www.pine64.org/pinebook-pro/) - Mid-range Linux/FreeBSD alternative to Chromebook.
+- Chromecast
+  - [Microsoft less HDMI adapter](https://www.microsoft.com/accessories/en-us/products/adapters/wireless-display-adapter-2/p3q-00001) - **5-eyes** - The **only** reason I'm recommending this Microsoft product is because there is no possible way for it to extract any data and ship it off to Microsoft. If someone finds proof that it *can*, I will remove it.
+- Google Home
+  - [Mycroft](https://mycroft.ai/) - **5-eyes** - Open-source virtual personal assistant. Can be run on a Raspberry Pi. (thanks u/Kentto7)
+  - [Home Assistant](https://www.home-assistant.io/) - Open-source home automation. (thanks u/bilange)
+- FitBit
+  - *Due to Google's  [recent acquisition of FitBit](https://outline.com/tsJCYN), it is recommended to avoid using FitBit. Instead, check out this [list of smart watches](https://asteroidos.org/install/) supported by Asteroid OS (See Wear OS in [Operating systems](#operating-systems)). Thanks @ribtoks*
