@@ -22,7 +22,7 @@ jobs:
         git add README-test.md
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git commit -m "[Action] Generate README.md"
+        git commit -m "Generated README.md"
     - name: Push
       uses: ad-m/github-push-action@master
       with:
