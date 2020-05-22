@@ -1,33 +1,110 @@
 web based products:
-  - name: DuckDuckGo
-    url: https://duckduckgo.com/
-    eyes: 5
-    text: |
-      One of the best privacy-focused search engines. Domain is hosted in USA which could potentially be problematic for some.
-  - name: Startpage
-    url: https://www.startpage.com/
-    eyes: 9
-    text: |
-      Another privacy search engine that claims to not track any of your data. They operate servers in both USA and Europe. Note: Startpage was recently acquired. See [Issue #12](https://github.com/tycrek/degoogle/issues/12). Thanks @pydo, @ThijsRay, and @DatAres37. Also see [this comment in Issue #99](https://github.com/tycrek/degoogle/issues/99#issuecomment-616224650) from @danarel on Startpage.
-  - name: searx.me
-    url: https://searx.me/
-    eyes: null
-    text: |
-      [Open-source](https://github.com/asciimoo/searx) (thanks for clarification u/Sheezdudeln) privacy search engine. Domain hosted in Germany.
-  - name: MetaGer
-    url: https://metager.org/about
-    eyes: 14
-    text: |
-      MetaGer is the search engine project from the registered nonprofit organization SUMA E.V. in Germany.
-  - name: Qwant
-    url: https://www.qwant.com/
-    eyes: 9
-    text: |
-      Major improvements since 2018's guide. *would prefer better info other than an outdated reference*
+  search and images:
+    - title: Search (web, images)
+    - name: DuckDuckGo
+      url: https://duckduckgo.com/
+      eyes: 5
+      text: |
+        One of the best privacy-focused search engines. Domain is hosted in USA which could potentially be problematic for some.
+    - name: Startpage
+      url: https://www.startpage.com/
+      eyes: 9
+      text: |
+        Another privacy search engine that claims to not track any of your data. They operate servers in both USA and Europe. Note: Startpage was recently acquired. See [Issue #12](https://github.com/tycrek/degoogle/issues/12). Thanks @pydo, @ThijsRay, and @DatAres37. Also see [this comment in Issue #99](https://github.com/tycrek/degoogle/issues/99#issuecomment-616224650) from @danarel on Startpage.
+    - name: searx.me
+      url: https://searx.me/
+      eyes: null
+      text: |
+        [Open-source](https://github.com/asciimoo/searx) (thanks for clarification u/Sheezdudeln) privacy search engine. Domain hosted in Germany.
+    - name: MetaGer
+      url: https://metager.org/about
+      eyes: 14
+      text: |
+        MetaGer is the search engine project from the registered nonprofit organization SUMA E.V. in Germany.
+    - name: Qwant
+      url: https://www.qwant.com/
+      eyes: 9
+      text: |
+        Major improvements since 2018's guide. *would prefer better info other than an outdated reference*
+    - name: Swisscows
+      url: https://swisscows.ch
+      eyes: null
+      text: |
+        A Swiss search engine that offers a unique search experience for the web, images, videos, music, and more. They are currently funding a mail service. Read through their [datacenter about page](https://swisscows.ch/en/datacenter), it's really interesting.
+    - name: Mojeek
+      url: https://www.mojeek.com/
+      eyes: 5
+      text: |
+        Unlike other privacy search engines which act as a "middle man" between you and Google/Bing/Yahoo, Mojeek has their own crawler and index. The results aren't as complete as some of the others, but it is still impressive and they are actively building their index to include more results with better accuracy.
+    - name: Ekoru
+      url: https://ekoru.org/
+      eyes: null
+      text: |
+        Privacy focused search engine that also aims to clean up the oceans. Thanks @mynamesleon
+    - name: Cyberd
+      url: https://cyber.page/
+      eyes: null
+      text: |
+        Decentralized Google. A web 3 alternative for the Google search engine. In Beta testing mode. Uses IPFS and Tendermint consensus for security and economic incentives. Please see their [ELI-5 FAQ](https://github.com/cybercongress/congress/blob/master/ecosystem/ELI-5%20FAQ.md) for more info.
+    - name: Infinity Search
+      url: https://infinitysearch.co/
+      eyes: 5
+      text: |
+        Infinity Search is a privacy metasearch engine that does not log any information about its users. In terms of privacy, it works the same way as DuckDuckGo. It is free to use and is funded by non-tracking advertisements and affiliate links. It is also completely open source.
 operating systems:
 
 desktop applications:
-
+  chrome:
+    - title: Chrome
+    - name: Ungoogled Chromium
+      url: https://github.com/Eloston/ungoogled-chromium
+      eyes: null
+      text: |
+        Chromium (which Chrome and countless other browsers are built on top of) is one of the cleanest and light-weight browsers available. This version cuts out all the Google crap.
+    - name: Firefox
+      url: https://firefox.com/
+      eyes: null
+      text: |
+        Built by Mozilla, "The Privacy Company". Huge extension library; great for privacy.
+    - name: Waterfox
+      url: https://www.waterfox.net/
+      eyes: 5
+      text: |
+        Based on Firefox, but **64-bit only** with an emphasis on speed and privacy. Has a "classic" version built off older Firefox for legacy extension support and also an "alpha" version built off Quantum. It doesn't collect any telemetry and also removes Pocket from the alpha release. Project is run by [Alex Kontos](https://github.com/MrAlex94/) and is constantly in active development. Looks very clean and fast. Android versions are in the works too. **UPDATE:** @Nudin pointed out in Issue #85 that Waterfox is now [apart of System1](https://www.waterfox.net/blog/waterfox-has-joined-system1/).
+    - name: Vivaldi
+      url: https://vivaldi.com/
+      eyes: null
+      text: |
+        Privacy-focused browser. Appears to be very customizable and feature-rich.
+    - name: Tor Browser
+      url: 
+      eyes: null
+      text: |
+        Firefox-based browser routed through the onion network. Automatically has a few privacy extensions installed (such as HTTPS Everywhere). Be careful using it in public though, as it *can* look like a pretty suspicious piece of software. Available for Windows, Linux, macOS, and Android.
+  earth:
+    - title: Earth
+    - name: KDE Marble
+      url: https://kde.org/applications/education/org.kde.marble
+      eyes: null
+      text: |
+        Strong alternative for G Earth. Currently only on Linux, but is being ported to other platforms. Thanks to @PopeRigby
+  android studio:
+    - title: Android Studio (not specifically for Android development, just in general)
+    - name: VSCodium
+      url: https://vscodium.com/
+      eyes: null
+      text: |
+        VSCodium is Visual Studio Code but without all the Microsoft telemetry and branding.
+    - name: Vim
+      url: https://www.vim.org/
+      eyes: null
+      text: |
+        Open-source text editor. Thanks @moon-chilled
+    - name: Emacs
+      url: https://www.gnu.org/software/emacs/
+      eyes: null
+      text: |
+        Another open-source text editor. Thanks @moon-chilled
 mobile applications:
 
 hardware:
