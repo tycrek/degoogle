@@ -1,4 +1,5 @@
 // Build tool for generating README.md
+// TODO: Add support for section-specific comments
 
 const os = require('os');
 const path = require('path');
