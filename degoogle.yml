@@ -1205,7 +1205,7 @@ hardware:
       url: https://www.microsoft.com/accessories/en-us/products/adapters/wireless-display-adapter-2/p3q-00001
       eyes: 5
       text: |
-        The **only** reason I'm recommending this Microsoft product is because there is no possible way for it to extract any data and ship it off to Microsoft. If someone finds proof that it *can*, I will remove it.
+        The **only** reason I'm recommending this Microsoft product is because there is no possible way for it to extract any data and ship it off to Microsoft. If anyone is able to find proof that it *can*, I will remove it.
   google home:
     - title: Google Home
     - name: Mycroft
