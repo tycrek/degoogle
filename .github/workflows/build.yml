@@ -20,7 +20,7 @@ jobs:
       run: node _build.js
     - name: Commit
       run: |
-        git add README-test.md
+        git add README.md
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git commit -m "Generated README.md"
