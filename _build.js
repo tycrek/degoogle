@@ -9,23 +9,23 @@ const YAML = require('yaml');
 // A hacky sort of "class" to contain methods for each section
 const BUILD_SECTION = {
     // TODO: Make more of these YAML-based functions
-    header:            () => readFile('md/_header.md'),
-    index:             () => readFile('md/_index.md'),
-    contributing:      () => readFile('md/_contributing.md'),
+    header: () => readFile('md/_header.md'),
+    index: () => readFile('md/_index.md'),
+    contributing: () => readFile('md/_contributing.md'),
     browserExtensions: () => readFile('md/_browserExtensions.md'),
-    disclaimer:        () => readFile('md/_disclaimer.md'),
-    webBasedProducts:  () => generateCategorySection('Web-based products', readYaml()['web based products']),
-    operatingSystems:  () => generateCategorySection('Operating systems', readYaml()['operating systems']),
-    desktopApps:       () => generateCategorySection('Desktop apps', readYaml()['desktop applications']),
-    mobileApps:        () => generateCategorySection('Mobile apps', readYaml()['desktop applications']),
-    hardware:          () => generateCategorySection('Hardware', readYaml()['hardware']),
-    useful:            () => {}, // TODO: Make these do stuff
-    resources:         () => {},
-    books:             () => {},
-    blogs:             () => {},
-    news:              () => {},
-    lighterSide:       () => {},
-    closingRemarks:    () => {}
+    disclaimer: () => readFile('md/_disclaimer.md'),
+    webBasedProducts: () => generateCategorySection('Web-based products', readYaml()['web based products']),
+    operatingSystems: () => generateCategorySection('Operating systems', readYaml()['operating systems']),
+    desktopApps: () => generateCategorySection('Desktop apps', readYaml()['desktop applications']),
+    mobileApps: () => generateCategorySection('Mobile apps', readYaml()['desktop applications']),
+    hardware: () => generateCategorySection('Hardware', readYaml()['hardware']),
+    useful: () => '# Useful links, tools, and advice',
+    resources: () => readFile('md/_resources.md'),
+    books: () => readFile('md/_books.md'),
+    blogs: () => readFile('md/_blogs.md'),
+    news: () => readFile('md/_news.md'),
+    lighterSide: () => readFile('md/_lighterSide.md'),
+    closingRemarks: () => readFile('md/_closingRemarks.md')
 }
 
 /**
@@ -55,9 +55,9 @@ function __main__() {
     dgSectionData.push(BUILD_SECTION.closingRemarks());
 
     // Write to the README file
-    fs.writeFileSync(path.join(__dirname, 'README-test.md'), dgSectionData.join(os.EOL + os.EOL));
+    fs.writeFileSync(path.join(__dirname, 'README.md'), dgSectionData.join(os.EOL + os.EOL));
 
-    console.log(os.EOL + 'Done!')
+    console.log('Done!')
 }
 
 /**
@@ -94,7 +94,7 @@ function generateCategorySection(header, data) {
 
 /**
  * Generates a service (such as Gmail) section to be placed under a category section
- * @param {Array} data 
+ * @param {Array} data
  */
 function generateServiceSection(data) {
     // Start the section with an <h4> header and the start of a Markdown table
@@ -112,7 +112,7 @@ function generateServiceSection(data) {
 
         // Build the row
         let tableItem = `| ${name} | ${eyes} | ${text} |`;
-        
+
         // Add the row to the table
         serviceSection = serviceSection.concat(tableItem + os.EOL)
     });
@@ -120,6 +120,4 @@ function generateServiceSection(data) {
     return serviceSection;
 }
 
-false
-? console.log(YAML.parse(fs.readFileSync(path.join(__dirname, 'degoogle.yml')).toString())['web based products'].search_images)
-: __main__();
+__main__();
