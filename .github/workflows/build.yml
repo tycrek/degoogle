@@ -5,6 +5,7 @@ on:
       - master
     paths:
       - degoogle.yml
+      - md/*.md
 jobs:
   build:
     runs-on: ubuntu-latest
