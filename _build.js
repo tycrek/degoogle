@@ -99,25 +99,28 @@ function generateCategorySection(header, data) {
 function generateServiceSection(data) {
     // Start the section with an <h4> header and the start of a Markdown table
     let serviceSection = `#### ${data[0].title + os.EOL + os.EOL}| Name | Eyes | Description |${os.EOL}| ---- | ---- | ----------- |${os.EOL}`;
-
+    let notes = os.EOL + '';
     // Iterate over each alternative service and add it to the table
     data.forEach(item => {
-        // If the object has length one, it's just the title
-        if (Object.keys(item).length == 1) return;
-
-        // Build the cells for the table
-        let name = `[${item.name}](${item.url})`;
-        let eyes = item.eyes ? `**${item.eyes}-eyes**` : '';
-        let text = item.text.trim();
-
-        // Build the row
-        let tableItem = `| ${name} | ${eyes} | ${text} |`;
-
-        // Add the row to the table
-        serviceSection = serviceSection.concat(tableItem + os.EOL)
+        // If the object has length one, it's either title or note
+        if (Object.keys(item).length == 1) {
+            if (!item.notes) return;
+            else item.notes.forEach((note) => notes = notes.concat(`- *${note.trim()}*${os.EOL}`))
+        } else {
+            // Build the cells for the table
+            let name = `[${item.name}](${item.url})`;
+            let eyes = item.eyes ? `**${item.eyes}-eyes**` : '';
+            let text = item.text.trim();
+    
+            // Build the row
+            let tableItem = `| ${name} | ${eyes} | ${text} |`;
+    
+            // Add the row to the table
+            serviceSection = serviceSection.concat(tableItem + os.EOL)
+        }
     });
 
-    return serviceSection;
+    return serviceSection + notes;
 }
 
 __main__();
