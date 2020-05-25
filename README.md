@@ -845,9 +845,10 @@ Everything you need to become a Privacy Wizard.
 
 # The lighter side
 
-- Movies and TV I recommend:
+- Movies & TV:
   - *Snowden (2016)* - Based on the true story of Edward Snowden, the CIA/NSA/etc whistleblower. Directed by Oliver Stone.
   - *Deep Web (2015)* - Documentary (narrated by Keanu Reeves) about Ross Ulbricht aka. Dread Pirate Roberts and the infamous "Silk Road" dark market. Directed by Alex Winter.
+  - *The Great Hack (2019)* - Documentary about the Facebook–Cambridge Analytica data scandal. Thanks @woutfeys
   - *Mr. Robot* - Hacker-drama starring Rami Malek. Producers hired actual hackers as consultants to ensure the show is as accurate as possible; real-world tools used in the show.
   - *Silicon Valley* - Satirical tech comedy about a compression startup struggling to take off in Silicon Valley, California.
 - Podcasts:
