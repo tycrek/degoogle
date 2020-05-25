@@ -233,6 +233,11 @@ web based products:
       eyes: 9
       text: |
         Norway based cloud storage provider with free and paid plans. Thanks @mynamesleon
+    - name: Cryptee
+      url: https://crypt.ee/
+      eyes: null
+      text: |
+        Encrypted photo storage in a simple solution similar to Google Photos.
   calendar:
     - title: Calendar
     - name: Lightning Calendar (Thunderbird)
