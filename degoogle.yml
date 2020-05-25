@@ -570,6 +570,11 @@ web based products:
       eyes: 5
       text: |
         Hassle-free way for webmasters to self-host open-source Fonts from "Google Fonts"
+    - name: Brick
+      url:  https://brick.im
+      eyes: 9
+      text: |
+        Open source fonts that work in a very similar way to Google fonts. Most of the fonts render nicer than Google Fonts. Thanks @FreddyMarsden
   classroom:
     - title: Classroom
     - name: Moodle

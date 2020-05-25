@@ -42,6 +42,7 @@ GitHub:
 - [@onlyjob](https://github.com/onlyjob)
 - [@marco3mt](https://github.com/marco3mt)
 - [@ghost](https://github.com/ghost)
+- [@FreddyMarsden](https://github.com/FreddyMarsden)
 
 Reddit:
 
