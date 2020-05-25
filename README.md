@@ -197,6 +197,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 | [ownPhotos](https://github.com/hooram/ownphotos) |  | Self-hosted and open-source Google Photos alternative. |
 | [Piwigo](https://piwigo.org/) | **9-eyes** | (self-hosted) - Self-hosted and open-source cloud photo manager. You can also sign up for an ["as a service" account](https://piwigo.com). |
 | [JottaCloud](https://jottacloud.com/) | **9-eyes** | Norway based cloud storage provider with free and paid plans. Thanks @mynamesleon |
+| [Cryptee](https://crypt.ee/) |  | Encrypted photo storage in a simple solution similar to Google Photos. |
 
 
 
@@ -216,10 +217,10 @@ These Firefox extensions can help prevent connections to Google domains and also
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
-| [CryptPad](null) | **9-eyes** | Open-source "zero knowledge" collaborative cloud editor. They offer Rich Text, Code, Presentation, Sheet (beta), Poll, Kanban, Whiteboard, and CryptDrive. 100% Client side encryption. Tons of useful features. |
-| [Etherpad](null) |  | Self-hosted collaborative editor. Does not use the browser. Not the greatest interface, but it's open-source and you have full control over who can see your data. |
-| [Cryptee](null) |  | Open-source and privacy focused photo and document storage/editing. Based in Estonia, so your files are outside the reach of any 14-eyes country. They don't even require an email address to sign up. |
-| [LibreOffice Online](null) | **14-eyes** | Self-hosted instance of LibreOffice that you can run in your browser. Thanks @flubberding |
+| [CryptPad](https://cryptpad.fr/) | **9-eyes** | Open-source "zero knowledge" collaborative cloud editor. They offer Rich Text, Code, Presentation, Sheet (beta), Poll, Kanban, Whiteboard, and CryptDrive. 100% Client side encryption. Tons of useful features. |
+| [Etherpad](https://etherpad.org/) |  | Self-hosted collaborative editor. Does not use the browser. Not the greatest interface, but it's open-source and you have full control over who can see your data. |
+| [Cryptee](https://crypt.ee/) |  | Open-source and privacy focused photo and document storage/editing. Based in Estonia, so your files are outside the reach of any 14-eyes country. They don't even require an email address to sign up. |
+| [LibreOffice Online](https://www.libreoffice.org/download/libreoffice-online/) | **14-eyes** | Self-hosted instance of LibreOffice that you can run in your browser. Thanks @flubberding |
 | [ONLYOFFICE](https://www.onlyoffice.com) |  | Open-source private cloud replacement for Google Docs'suite and Office 360. Also available as a self contained rich application. |
 | [Arcane Office](https://arcaneoffice.com/) |  | A decentralized office suite with high-security and zero-knowledge on your data. With Arcane Office, you have maximum control on your personal stuff. Full-featured online document and spreadsheet editor. Secure storage to save your photos. All free for personal use. Thanks @taraletti |
 
