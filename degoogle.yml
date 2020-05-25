@@ -263,22 +263,22 @@ web based products:
   docs:
     - title: Docs/Sheets/Slides (cloud)
     - name: CryptPad
-      url:
+      url: https://cryptpad.fr/
       eyes: 9
       text: |
         Open-source "zero knowledge" collaborative cloud editor. They offer Rich Text, Code, Presentation, Sheet (beta), Poll, Kanban, Whiteboard, and CryptDrive. 100% Client side encryption. Tons of useful features.
     - name: Etherpad
-      url:
+      url: https://etherpad.org/
       eyes: null
       text: |
         Self-hosted collaborative editor. Does not use the browser. Not the greatest interface, but it's open-source and you have full control over who can see your data.
     - name: Cryptee
-      url:
+      url: https://crypt.ee/
       eyes: null
       text: |
         Open-source and privacy focused photo and document storage/editing. Based in Estonia, so your files are outside the reach of any 14-eyes country. They don't even require an email address to sign up.
     - name: LibreOffice Online
-      url:
+      url: https://www.libreoffice.org/download/libreoffice-online/
       eyes: 14
       text: |
         Self-hosted instance of LibreOffice that you can run in your browser. Thanks @flubberding
