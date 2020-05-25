@@ -96,6 +96,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 | [Infinity Search](https://infinitysearch.co/) | **5-eyes** | Infinity Search is a privacy metasearch engine that does not log any information about its users. In terms of privacy, it works the same way as DuckDuckGo. It is free to use and is funded by non-tracking advertisements and affiliate links. It is also completely open source. |
 
 
+
 #### YouTube
 
 | Name | Eyes | Description |
@@ -110,6 +111,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 | [US.TV](https://us.tv/) |  | PeerTube instance hosted by Epik.com. |
 
 
+
 #### News
 
 | Name | Eyes | Description |
@@ -119,10 +121,13 @@ These Firefox extensions can help prevent connections to Google domains and also
 | [*Feeder*](https://f-droid.org/app/com.nononsenseapps.feeder) |  | Use good old-fashioned RSS feeds with Feeder (available from F-Droid) |
 
 
+
 #### Groups
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
+
+- *Use other forum sites relating to specific topics. This is a very broad service.*
 
 
 #### Translate
@@ -132,11 +137,13 @@ These Firefox extensions can help prevent connections to Google domains and also
 | [DeepL](https://deepl.com/) | **14-eyes** | DeepL is an artifical intelligence translation service. *Editor note: The site server seems to be hosted in Finland, yet the company lists itself as [a company based in Germany](https://www.deepl.com/pro-faq.html) in the Data Protection section.* |
 
 
+
 #### Google Ads/AdMob/AdSense
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [CodeFund](https://codefund.io/) | **5-eyes** | Ethical advertising for technical audience. |
+
 
 
 #### Google Alerts
@@ -146,12 +153,14 @@ These Firefox extensions can help prevent connections to Google domains and also
 | [F5Bot](https://f5bot.com/) | **5-eyes** | Emails you when your selected keywords are mentioned on Reddit, Hacker News, or Lobsters. |
 
 
+
 #### G Suite (enterprise cloud)
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [Zoho](https://www.zoho.com/) |  | Zoho was included in 2018's thread as well, and they've only improved since then. They offer a full enterprise business suite that can easily rival G Suite or MS Office 365. *Better description wanted* |
 | [Nextcloud](https://www.nextcloud.com/) |  | Nextcloud 18 now has Community Document Server and **[ONLYOFFICE](https://www.onlyoffice.com/)** apps integrated which allows self hosted instances of docs/sheets/slides. Users are able to edit documents in real time. Thanks @k3tan172 and @plutocrat |
+
 
 
 #### Blogger/Sites
@@ -166,6 +175,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 | [Ghost](https://ghost.org/) |  | Open-source modern CMS. Boasts "over 19x faster than WordPress". Thanks @peterge1998 |
 
 
+
 #### Analytics
 
 | Name | Eyes | Description |
@@ -178,6 +188,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 | [Toasted Analytics](https://toastedanalytics.com/) | **5-eyes** | Simple, privacy friendly analytics with event tracking. Paid only (with free trial) |
 
 
+
 #### Photos
 
 | Name | Eyes | Description |
@@ -186,6 +197,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 | [ownPhotos](https://github.com/hooram/ownphotos) |  | Self-hosted and open-source Google Photos alternative. |
 | [Piwigo](https://piwigo.org/) | **9-eyes** | (self-hosted) - Self-hosted and open-source cloud photo manager. You can also sign up for an ["as a service" account](https://piwigo.com). |
 | [JottaCloud](https://jottacloud.com/) | **9-eyes** | Norway based cloud storage provider with free and paid plans. Thanks @mynamesleon |
+
 
 
 #### Calendar
@@ -197,6 +209,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 | [Fruux](https://fruux.com/) | **14-eyes** | Open-source calendar using "sabre/dav" (open-source WebDAV, CardDAV, and CalDAV). They mention privacy quite a bit on their site. Very large number of features, and supports nearly every device: Windows, iOS, Linux, Android, BlackBerry, SailFish, and also a webapp for browsers. |
 | [Zoho](https://www.zoho.com/) |  | I mentioned Zoho above for G Suite, so here they are again. |
 | [EteSync](https://www.etesync.com) |  | Secure, end-to-end encrypted, and open-source sync for your contacts, calendars and tasks. |
+
 
 
 #### Docs/Sheets/Slides (cloud)
@@ -211,6 +224,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 | [Arcane Office](https://arcaneoffice.com/) |  | A decentralized office suite with high-security and zero-knowledge on your data. With Arcane Office, you have maximum control on your personal stuff. Full-featured online document and spreadsheet editor. Secure storage to save your photos. All free for personal use. Thanks @taraletti |
 
 
+
 #### Docs/Sheets/Slides (offline)
 
 | Name | Eyes | Description |
@@ -220,12 +234,14 @@ These Firefox extensions can help prevent connections to Google domains and also
 | [LyX](https://www.lyx.org/) |  | It's an open-source (and offline) document processor using TeX/LaTeX. It's different than Docs or Word but amazing, once you get used to it. Thanks @Glitchy-Tozier |
 
 
+
 #### Domains
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [Njalla](https://njal.la/) | **14-eyes** | Privacy-focused domain registration. Competitive pricing and a large list of available domain extensions. They also offer VPS hosting. Built by people who built The Pirate Bay among others. (thanks u/brais33 and u/HumbleBasis6) |
 | [Porkbun](https://porkbun.com/) | **5-eyes** | Domain registration with free WHOIS privacy. |
+
 
 
 #### Drive
@@ -244,6 +260,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 | [Cozy Cloud](https://cozy.io/) | **9-eyes** | French based cloud storage provider with free and paid plans. Can also be self-hosted. Open-Source. And it also offers a collaborative notes editor. |
 
 
+
 #### Hangouts (text/video messaging)
 
 | Name | Eyes | Description |
@@ -255,6 +272,9 @@ These Firefox extensions can help prevent connections to Google domains and also
 | [Threema](https://threema.ch/en) |  | Swiss-based GDPR-compliant instant messenger. Has apps for both iOS and Android. Unlike Signal, no phone number is required (nor is an email) to sign up. End-to-end encrypted. Thanks to @nathanvogel |
 | [Keybase](https://keybase.io/) | **5-eyes** | encrypted chat like Signal with features like Slack. Does not require a phone number to sign up. Also has file storage. **Note:** Keybase was acquired by Zoom, Inc. in May 2020 ([Keybase blog](https://keybase.io/blog/keybase-joins-zoom), [Zoom blog](https://blog.zoom.us/wordpress/2020/05/07/zoom-acquires-keybase-and-announces-goal-of-developing-the-most-broadly-used-enterprise-end-to-end-encryption-offering/)). Thanks @notpushkin & @multimob. |
 | [Jitsi](https://jitsi.org/) | **5-eyes** | Jitsi is an open-source secure video conferencing platform. No account is needed to use it, simply enter a Room Name to join or host a meeting. The host is able to kick rogue users from the call. Works directly in your browser, with apps available for iOS and Android. It is not necessary to self-host, but self-hosting is an option for those who wish to. Very low latency and easy to set up. A free public server is available at (https://meet.jit.si) (**5-eyes** server) |
+
+- *See [this article](https://outline.com/BK8f7h) for why I didn't include WhatsApp and why you should NOT use it (if someone has a better Outline link, that would be much appreciated).*
+- *I have also **removed** Telegram. See [Issue #29](https://github.com/tycrek/degoogle/issues/29) from @arsv.*
 
 
 #### Gmail
@@ -275,6 +295,8 @@ These Firefox extensions can help prevent connections to Google domains and also
 | [nextCloud](https://help.nextcloud.com/t/nextcloud-mail-server/157) |  | Now also provides an email service (self-hosted). Thanks @je-vv |
 | [Anonymize.com Email](https://anonymize.com/) |  | Paid secure email service provided by Epik.com. |
 
+- *This is just for the Gmail service, not a client*
+
 
 #### Keep
 
@@ -289,6 +311,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 | [GitJournal](https://gitjournal.io/) |  | Your Markdown notes stores in any Git Repo. Available for both Android (Play Store) and iOS. |
 
 
+
 #### Play Music, Movies, & TV
 
 | Name | Eyes | Description |
@@ -300,6 +323,9 @@ These Firefox extensions can help prevent connections to Google domains and also
 | [Popcorn Time](https://popcorntime.sh/faq) |  | Open source software for desktop and mobile that let you easily stream movie/TV torrents. **Be careful if your country or ISP has policies against torrenting, a VPN is recommended.** Thanks @je-vv |
 | [Nuclear Music Player](https://nuclear.js.org/) |  | Streaming music player that finds music from free sources automatically. |
 
+- *I can no longer recommend [Emby](https://emby.media/) as they are [no longer open-source](https://www.linuxuprising.com/2018/12/jellyfin-free-software-emby-media.html).*
+- *Thanks to u/eA8KESARaW6iqCpHsbE4 for suggesting Jellyfin and pointing out that Emby isn't open-source.*
+
 
 #### Fonts
 
@@ -309,6 +335,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 | [google webfonts helper](https://google-webfonts-helper.herokuapp.com/fonts) | **5-eyes** | Hassle-free way for webmasters to self-host open-source Fonts from "Google Fonts" |
 
 
+
 #### Classroom
 
 | Name | Eyes | Description |
@@ -316,6 +343,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 | [Moodle](https://moodle.org/) |  | Self-hosted Classroom software for schools. Very powerful. Thanks @jankapunkt |
 | [ILIAS](https://www.ilias.de/en/) |  | Another self-hosted open source classroom software. Thanks again to @jankapunkt |
 | [Canvas](https://www.instructure.com/canvas) |  | Paid service by Instructure. Also available as a [self-hosted, open source option](https://github.com/instructure/canvas-lms). To ensure privacy, use the self-hosted option. |
+
 
 
 #### Maps/Street View
@@ -328,17 +356,20 @@ These Firefox extensions can help prevent connections to Google domains and also
 | [Mapillary](https://www.mapillary.com/app/) | **14-eyes** | Crowdsourced street-level imagery built on top of OpenStreetMap. Open source. Includes map data generated with object recognition software. Coverage is lacking in many cities but can always be improved upon. |
 
 
+
 #### Transit
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
-| [Transportr](https://transportr.app/) |  | An open-source Transit app on Android that takes information from several providers (e.g Deutsche Bahn in Germany) and enables you to use them in the app. Visualises the routes on an online OpenStreetMap map. Works in most of Western-Europe, as well as the USA, Australia, Canada, New Zealand, Brazil, Nicaragua, Costa Rica, the UAE and Ghana. |
+| [Transportr](https://transportr.app/) |  | An open-source Transit app on Android that takes information from several providers (e.g Deutsche Bahn in Germany) and enables you to use them in the app. Visualises the routes on an online OpenStreetMap map. Works in most of Western-Europe, as well as the USA, Australia, Canada, New Zealand, Brazil, Nicaragua, Costa Rica, the UAE and Ghana. **Beware: most information-providers only have beta or alpha support, it may be a good idea to keep a second app as a fallback option** |
+
 
 
 #### Trends
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
+
 
 
 
@@ -356,6 +387,9 @@ These Firefox extensions can help prevent connections to Google domains and also
 | [postmarketOS](https://postmarketos.org/) |  | Open-source mobile Linux OS. Can install different user interfaces such as [Plasma Mobile](https://www.plasma-mobile.org/). Thanks @okias |
 | [Replicant](https://replicant.us/) | **5-eyes** | Free Android distribution. Puts the emphasis on "freedom and privacy/security". |
 
+- *You'll either need a rooted device with an unlocked bootloader, or a specific device depending on which OS you like.*
+- *Please see Issue #55 for details on /e/.*
+
 
 #### Chrome OS
 
@@ -370,11 +404,13 @@ These Firefox extensions can help prevent connections to Google domains and also
 | [Any other form of Linux](https://www.linuxfoundation.org/) |  | [Ubuntu](https://www.ubuntu.com/); [Debian](https://www.debian.org/); [Mint](https://linuxmint.com/); [Fedora](https://getfedora.org/); [Arch](https://www.archlinux.org/) or [Manjaro](https://manjaro.org/) (Manjaro is objectively much easier to get running than Arch); [Trisquel](https://trisquel.info/);  [Gentoo](https://www.gentoo.org/); [Alpine](https://www.alpinelinux.org/) (thanks u/privacyfreak555); [etc etc etc](https://en.wikipedia.org/wiki/List_of_Linux_distributions) |
 
 
+
 #### Wear OS
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [AsteroidOS](https://asteroidos.org/) | **14-eyes** | The cleanest (and only) open-source alternative for Wear OS. Make sure you buy a watch that supports it! |
+
 
 
 #### Android Auto
@@ -383,12 +419,14 @@ These Firefox extensions can help prevent connections to Google domains and also
 | ---- | ---- | ----------- |
 
 
+
 #### Android TV
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [Kodi](https://kodi.tv/) |  | It's incredibly powerful and backed by one of the strongest communities around. Tons of plugins to do nearly anything you want. Software installs on nearly any platform. |
 | [OSMC](https://osmc.tv/) |  | Free, open source media center OS. Kodi is pre-installed. Thanks to @g4rret and @lgiard for clarifying the difference between Kodi and OSMC! |
+
 
 
 
@@ -406,11 +444,13 @@ These Firefox extensions can help prevent connections to Google domains and also
 | [Tor Browser](https://www.torproject.org/download/) |  | Firefox-based browser routed through the onion network. Automatically has a few privacy extensions installed (such as HTTPS Everywhere). Be careful using it in public though, as it *can* look like a pretty suspicious piece of software. Available for Windows, Linux, macOS, and Android. |
 
 
+
 #### Earth
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [KDE Marble](https://kde.org/applications/education/org.kde.marble) |  | Strong alternative for G Earth. Currently only on Linux, but is being ported to other platforms. Thanks to @PopeRigby |
+
 
 
 #### Android Studio (not specifically for Android development, just in general)
@@ -420,6 +460,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 | [VSCodium](https://vscodium.com/) |  | VSCodium is Visual Studio Code but without all the Microsoft telemetry and branding. |
 | [Vim](https://www.vim.org/) |  | Open-source text editor. Thanks @moon-chilled |
 | [Emacs](https://www.gnu.org/software/emacs/) |  | Another open-source text editor. Thanks @moon-chilled |
+
 
 
 
@@ -437,11 +478,13 @@ These Firefox extensions can help prevent connections to Google domains and also
 | [Tor Browser](https://www.torproject.org/download/) |  | Firefox-based browser routed through the onion network. Automatically has a few privacy extensions installed (such as HTTPS Everywhere). Be careful using it in public though, as it *can* look like a pretty suspicious piece of software. Available for Windows, Linux, macOS, and Android. |
 
 
+
 #### Earth
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [KDE Marble](https://kde.org/applications/education/org.kde.marble) |  | Strong alternative for G Earth. Currently only on Linux, but is being ported to other platforms. Thanks to @PopeRigby |
+
 
 
 #### Android Studio (not specifically for Android development, just in general)
@@ -451,6 +494,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 | [VSCodium](https://vscodium.com/) |  | VSCodium is Visual Studio Code but without all the Microsoft telemetry and branding. |
 | [Vim](https://www.vim.org/) |  | Open-source text editor. Thanks @moon-chilled |
 | [Emacs](https://www.gnu.org/software/emacs/) |  | Another open-source text editor. Thanks @moon-chilled |
+
 
 
 
@@ -465,6 +509,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 | [Purism Librem 5](https://puri.sm/products/librem-5/) | **5-eyes** | From the company that makes Purism laptops. Runs PureOS. Thanks @brandonnodnarb |
 
 
+
 #### Chromebook
 
 | Name | Eyes | Description |
@@ -474,11 +519,13 @@ These Firefox extensions can help prevent connections to Google domains and also
 | [Pinebook Pro](https://www.pine64.org/pinebook-pro) |  | Mid-range Linux/FreeBSD alternative to Chromebook. |
 
 
+
 #### Chromecast
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [Microsoft Wireless HDMI adapter](https://www.microsoft.com/accessories/en-us/products/adapters/wireless-display-adapter-2/p3q-00001) | **5-eyes** | The **only** reason I'm recommending this Microsoft product is because there is no possible way for it to extract any data and ship it off to Microsoft. If anyone is able to find proof that it *can*, I will remove it. |
+
 
 
 #### Google Home
@@ -489,11 +536,13 @@ These Firefox extensions can help prevent connections to Google domains and also
 | [Home Assistant](https://www.home-assistant.io/) |  | Open-source home automation. (thanks u/bilange) |
 
 
+
 #### FitBit
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
-| [FitBit acquisition](https://outline.com/tsJCYN) |  | *Due to Google's  [recent acquisition of FitBit](https://outline.com/tsJCYN), it is recommended to avoid using FitBit. Instead, check out this [list of smart watches](https://asteroidos.org/install/) supported by Asteroid OS (See Wear OS in [Operating systems](#operating-systems)). Thanks @ribtoks* |
+
+- *Due to Google's  [recent acquisition of FitBit](https://outline.com/tsJCYN), it is recommended to avoid using FitBit. Instead, check out this [list of smart watches](https://asteroidos.org/install/) supported by Asteroid OS (See Wear OS in [Operating systems](#operating-systems)). Thanks @ribtoks*
 
 
 
