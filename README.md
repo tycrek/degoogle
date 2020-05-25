@@ -133,7 +133,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 | ---- | ---- | ----------- |
 | [Local newspaper](https://en.wikipedia.org/wiki/Category:Lists_of_newspapers_by_country) |  | Support independent and qualitative journalism in your community. |
 | [AllSides](https://www.allsides.com/unbiased-balanced-news) |  | Unbiased news source (primarily for US politics). Thanks @jeanofthedead |
-| [*Feeder*](https://f-droid.org/app/com.nononsenseapps.feeder) |  | Use good old-fashioned RSS feeds with Feeder (available from F-Droid) |
+| [*Feeder*](https://gitlab.com/spacecowboy/Feeder/-/blob/master/README.md) [![F-Droid](https://img.shields.io/f-droid/v/com.nononsenseapps.feeder)](https://f-droid.org/en/packages/com.nononsenseapps.feeder/) |  | Use good old-fashioned RSS feeds with Feeder |
 
 
 
@@ -284,7 +284,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 | [Signal](https://signal.org/) | **5-eyes** | Whistleblower and privacy advocate Edward Snowden recommends Signal. |
 | [Tox](https://tox.chat/) |  | Tox is unique as it uses P2P technology to ensure the network *never* goes down, as long as there are users to keep it alive. They specifically say on the website "Tox has no central servers that can be raided, shut down, or forced to turn over data". |
 | [Wire](https://wire.com/en/) | **5-eyes** | Uses end-to-end encryption. Looks to be more of a corporate service with tiered plans. |
-| [Riot](https://about.riot.im/) | **5-eyes** | Open-source privacy-focused chat service with end-to-end encryption. They offer webapps, desktop apps, iOS, and Android (Play Store and F-Droid). Uses the "Matrix" protocol for decentralized communication. It is 100% free and open-source with no paid plans. |
+| [Riot](https://about.riot.im/) [![F-Droid](https://img.shields.io/f-droid/v/im.vector.alpha)](https://f-droid.org/en/packages/im.vector.alpha/) | **5-eyes** | Open-source privacy-focused chat service with end-to-end encryption. They offer webapps, desktop apps, iOS, and Android (Play Store and F-Droid). Uses the "Matrix" protocol for decentralized communication. It is 100% free and open-source with no paid plans. |
 | [Threema](https://threema.ch/en) |  | Swiss-based GDPR-compliant instant messenger. Has apps for both iOS and Android. Unlike Signal, no phone number is required (nor is an email) to sign up. End-to-end encrypted. Thanks to @nathanvogel |
 | [Keybase](https://keybase.io/) | **5-eyes** | encrypted chat like Signal with features like Slack. Does not require a phone number to sign up. Also has file storage. **Note:** Keybase was acquired by Zoom, Inc. in May 2020 ([Keybase blog](https://keybase.io/blog/keybase-joins-zoom), [Zoom blog](https://blog.zoom.us/wordpress/2020/05/07/zoom-acquires-keybase-and-announces-goal-of-developing-the-most-broadly-used-enterprise-end-to-end-encryption-offering/)). Thanks @notpushkin & @multimob. |
 | [Jitsi](https://jitsi.org/) | **5-eyes** | Jitsi is an open-source secure video conferencing platform. No account is needed to use it, simply enter a Room Name to join or host a meeting. The host is able to kick rogue users from the call. Works directly in your browser, with apps available for iOS and Android. It is not necessary to self-host, but self-hosting is an option for those who wish to. Very low latency and easy to set up. A free public server is available at (https://meet.jit.si) (**5-eyes** server) |
@@ -506,7 +506,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
-| [Fennec F-Droid](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/) |  | A privacy-focused version of Firefox Android available on F-Droid. It's focused on removing any proprietary bits found in official Mozilla's builds. (thanks u/SupremeLisper) |
+| [Fennec F-Droid](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/) [![F-Droid](https://img.shields.io/f-droid/v/org.mozilla.fennec_fdroid)](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/) |  | A privacy-focused version of Firefox Android available on F-Droid. It's focused on removing any proprietary bits found in official Mozilla's builds. (thanks u/SupremeLisper) |
 | [Bromite](https://www.bromite.org/) |  | Privacy-focused/open-source build of Chromium with built-in ad blocking. (thanks u/SupremeLisper) |
 
 
@@ -515,7 +515,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
-| [Simple Calculator](https://github.com/SimpleMobileTools/Simple-Calculator) |  | Also part of the SMT project. Available on F-Droid. |
+| [Simple Calculator](https://github.com/SimpleMobileTools/Simple-Calculator) [![F-Droid](https://img.shields.io/f-droid/v/com.simplemobiletools.calculator)](https://f-droid.org/en/packages/com.simplemobiletools.calculator/) |  | Also part of the SMT project. Available on F-Droid. |
 | [Calculator N+ or NCalc+](https://github.com/tranleduy2000/ncalc) |  | Open-source feature-rich calculator. App itself is no longer in development, but the developer does [encourage pull requests](https://github.com/tranleduy2000/ncalc#calculator-n---powerful-calculator-for-android). I've used it frequently and it works great. Not on F-Droid, but a 3rd party play store can probably find it; or the APK's are available as releases on GitHub. You can also compile from source. |
 
 
@@ -525,7 +525,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [Fruux (mobile app)](https://fruux.com/) |  | Same service from above provides an Android app. |
-| [Etar](https://github.com/xsoh/Etar-Calendar) |  | Open-source material design Calendar that integrates with the Android Calendar API. If you have a CalDAV/CardDAV server, I recommend using [DAVx5](https://www.davx5.com/) to sync with it. Available from F-Droid. Also look at [ICSx5](https://icsx5.bitfire.at/), another WebDav/CalDav client that can integrate with calendar apps. Also available from F-Droid. Thanks @je-vv for ICSx5. |
+| [Etar](https://github.com/xsoh/Etar-Calendar) [![F-Droid](https://img.shields.io/f-droid/v/ws.xsoh.etar)](https://f-droid.org/en/packages/ws.xsoh.etar/) |  | Open-source material design Calendar that integrates with the Android Calendar API. If you have a CalDAV/CardDAV server, I recommend using [DAVx5](https://www.davx5.com/) to sync with it. Available from F-Droid. Also look at [ICSx5](https://icsx5.bitfire.at/), another WebDav/CalDav client that can integrate with calendar apps. Also available from F-Droid. Thanks @je-vv for ICSx5. |
 
 
 
@@ -541,7 +541,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
-| [Clock +](https://github.com/philliphsu/ClockPlus) |  | Open-source Alarm clock, timer, and stop watch. Available from F-Droid. |
+| [Clock +](https://github.com/philliphsu/ClockPlus) [![F-Droid](https://img.shields.io/f-droid/v/com.philliphsu.clock2)](https://f-droid.org/en/packages/com.philliphsu.clock2/) |  | Open-source Alarm clock, timer, and stop watch. |
 | [Simple Alarm Clock](https://github.com/yuriykulikov/AlarmClock) |  | Exactly as it's name says; simple alarm clock yet adds many improvements over other apps. No dock mode or world clock. |
 | [Insane Alarm!](https://github.com/RIAEvangelist/insane-alarm) |  | Developer states that he had "spent a night out with the boys and drank a bit too much but needed to be up in the morning". So, he made the loudest alarm clock possible based off an emergency alarm from when he was in the military. This app doesn't mess around, use it wisely. |
 
@@ -552,8 +552,8 @@ These Firefox extensions can help prevent connections to Google domains and also
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [Fruux (mobile app)](https://fruux.com/) |  | Fruux *also* provides a contacts app. |
-| [Simple Contacts](https://github.com/SimpleMobileTools/Simple-Contacts) |  | Open-source. Part of the [Simple Mobile Tools](https://github.com/SimpleMobileTools) project. Available from F-Droid. |
-| [Open Contacts](https://f-droid.org/en/packages/opencontacts.open.com.opencontacts/) |  | Available from F-Droid. (thanks u/consentio) |
+| [Simple Contacts](https://github.com/SimpleMobileTools/Simple-Contacts) [![F-Droid](https://img.shields.io/f-droid/v/com.simplemobiletools.contacts.pro)](https://f-droid.org/en/packages/com.simplemobiletools.contacts.pro/) |  | Open-source. Part of the [Simple Mobile Tools](https://github.com/SimpleMobileTools) project. |
+| [Open Contacts](https://gitlab.com/sultanahamer/OpenContacts/-/blob/HEAD/README.md) [![F-Droid](https://img.shields.io/f-droid/v/opencontacts.open.com.opencontacts)](https://f-droid.org/en/packages/opencontacts.open.com.opencontacts/) |  | Open source contacts. (thanks u/consentio) |
 
 
 
@@ -561,8 +561,8 @@ These Firefox extensions can help prevent connections to Google domains and also
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
-| [QKSMS](https://github.com/moezbhatti/qksms) |  | Open-source. Very clean and feature rich SMS app. Available on F-Droid. |
-| [Silence.im](https://silence.im/) |  | Open-source and utilizes Signal's encryption protocol. Seamlessly works with SMS. End-to-end encryption with other Silence users. Available on F-Droid. |
+| [QKSMS](https://github.com/moezbhatti/qksms) [![F-Droid](https://img.shields.io/f-droid/v/com.moez.QKSMS)](https://f-droid.org/en/packages/com.moez.QKSMS/) |  | Open-source. Very clean and feature rich SMS app. Available on F-Droid. |
+| [Silence.im](https://silence.im/) [![F-Droid](https://img.shields.io/f-droid/v/org.smssecure.smssecure)](https://f-droid.org/en/packages/org.smssecure.smssecure/) |  | Open-source and utilizes Signal's encryption protocol. Seamlessly works with SMS. End-to-end encryption with other Silence users. Available on F-Droid. |
 
 
 
@@ -570,10 +570,10 @@ These Firefox extensions can help prevent connections to Google domains and also
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
-| [AnySoftKeyboard](https://anysoftkeyboard.github.io/) |  | Open-source keyboard. Available on F-Droid. |
+| [AnySoftKeyboard](https://anysoftkeyboard.github.io/) [![F-Droid](https://img.shields.io/f-droid/v/com.menny.android.anysoftkeyboard)](https://f-droid.org/en/packages/com.menny.android.anysoftkeyboard/) |  | Open-source keyboard. Available on F-Droid. |
 | [Hacker's Keyboard](https://github.com/klausw/hackerskeyboard) |  | Also open-source. Very useful for developers or sysadmins on the go. |
 | [kboard](https://github.com/adgad/kboard) |  | Open-source. Has features for phrases, "lenny faces", macros and more. |
-| [Simple Keyboard](https://github.com/rkkr/simple-keyboard) |  | Open-source, available from F-Droid. |
+| [Simple Keyboard](https://github.com/rkkr/simple-keyboard) [![F-Droid](https://img.shields.io/f-droid/v/rkr.simplekeyboard.inputmethod)](https://f-droid.org/en/packages/rkr.simplekeyboard.inputmethod/) |  | Open-source keyboard. |
 | [Indic Keyboard](https://gitlab.com/indicproject/indic-keyboard) |  | Open-source keyboard that supports many languages that other keyboards sometimes don't support. Not on F-Droid, but can be built from source or possibly through a Play Store alternative. |
 | [OpenBoard](https://github.com/dslul/openboard) |  | New 100% FOSS keyboard, based on AOSP. Similar to "Simple Keyboard". Thanks @Glitchy-Tozier |
 
@@ -583,9 +583,9 @@ These Firefox extensions can help prevent connections to Google domains and also
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
-| [ownCloud Android](https://github.com/owncloud/android) |  | ownCloud Android client. Available on F-Droid. |
-| [Nextcloud Android](https://github.com/nextcloud/android) |  | Nextcloud Android client. Available on F-Droid. |
-| [Syncthing Android](https://github.com/syncthing/syncthing-android) |  | Wrapper of Syncthing for Android. Available on F-Droid. |
+| [ownCloud Android](https://github.com/owncloud/android) [![F-Droid](https://img.shields.io/f-droid/v/com.owncloud.android)](https://f-droid.org/en/packages/com.owncloud.android/) |  | ownCloud Android client. Available on F-Droid. |
+| [Nextcloud Android](https://github.com/nextcloud/android) [![F-Droid](https://img.shields.io/f-droid/v/com.nextcloud.client)](https://f-droid.org/en/packages/com.nextcloud.client/) |  | Nextcloud Android client. Available on F-Droid. |
+| [Syncthing Android](https://github.com/syncthing/syncthing-android) [![F-Droid](https://img.shields.io/f-droid/v/com.nutomic.syncthingandroid)](https://f-droid.org/en/packages/com.nutomic.syncthingandroid/) |  | Wrapper of Syncthing for Android. Available on F-Droid. Also consider [Syncthing-Fork](https://f-droid.org/en/packages/com.github.catfriend1.syncthingandroid/) which uses a native Android UI rather than the default web UI. |
 
 
 
@@ -594,9 +594,9 @@ These Firefox extensions can help prevent connections to Google domains and also
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [Protonmail](https://protonmail.com/support/knowledge-base/android/) |  | Can be downloaded from the Play Store, but may work with one of the store replacements above (such as Yalp). |
-| [Tutanota](https://f-droid.org/en/packages/de.tutao.tutanota/) | **14-eyes** | Client available from F-Droid. |
+| [Tutanota](https://www.tutanota.com/) [![F-Droid](https://img.shields.io/f-droid/v/de.tutao.tutanota)](https://f-droid.org/en/packages/de.tutao.tutanota/) | **14-eyes** | Client available from F-Droid. |
 | [Zoho Mail](https://www.zoho.com/mail/ios-android-apps.html) |  | Also on the Play Store but other stores may work too. |
-| [Disroot](https://f-droid.org/en/packages/org.disroot.disrootapp/) |  | Available from F-Droid. |
+| [Disroot](https://disroot.org/) [![F-Droid](https://img.shields.io/f-droid/v/org.disroot.disrootapp)](https://f-droid.org/en/packages/org.disroot.disrootapp/) |  | Available from F-Droid. |
 | [Posteo](https://posteo.de/) | **14-eyes** | Any **open-source mail client** such as: [K-9 Mail](https://k9mail.github.io/) and [FairEmail](https://email.faircode.eu/). Both are available on F-Droid. |
 | [Mailbox.org](https://mailbox.org/) | **14-eyes** | Mailbox.org provides IMAP settings for Android/iOS and an iOS profile. Thanks @avasts Issue #45 |
 
@@ -606,13 +606,13 @@ These Firefox extensions can help prevent connections to Google domains and also
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
-| [Notepad](https://github.com/farmerbb/Notepad) |  | Open-source and available from F-Droid. Supports Markdown and HTML. Very clean and feature-rich. *Offline only*. |
+| [Notepad](https://github.com/farmerbb/Notepad) [![F-Droid](https://img.shields.io/f-droid/v/com.farmerbb.notepad)](https://f-droid.org/en/packages/com.farmerbb.notepad/) |  | Open-source. Supports Markdown and HTML. Very clean and feature-rich. *Offline only*. |
 | [Joplin](https://github.com/laurent22/joplin) |  | Scroll down on the GitHub page until you reach the Android download links. No F-Droid repo, but you can download the APK directly instead of using the Play Store. |
 | [Standard Notes](https://standardnotes.org/) |  | Encrypted note storage with loads of features. |
-| [Omni Notes](https://omninotes.app/) |  | Very feature rich, open-source, material design notes app. Very active development. Available on F-Droid. |
-| [Carnet](https://github.com/PhieF/CarnetDocumentation) |  | I had some trouble finding info on this one. Looks like it has pretty seamless/painless ownCloud and NextCloud integration. Also available on F-Droid. |
-| [Markor](https://gsantner.net/project/markor.html) |  | Open-source notes/to-do app for Android. Supports Markdown editing. Available on F-Droid. App is 100% offline, as stated on the [GitHub README](https://github.com/gsantner/markor#privacy). |
-| [Orgzly](http://orgzly.com/) |  | Open-source and available from F-Droid. Notes are stored in the plain-text [Org mode](https://orgmode.org/) format. Supports searching, metadata, and manual sync with Dropbox or local directory, which can be synced using e.g. Syncthing. |
+| [Omni Notes](https://omninotes.app/) [![F-Droid](https://img.shields.io/f-droid/v/it.feio.android.omninotes.foss)](https://f-droid.org/en/packages/it.feio.android.omninotes.foss/) |  | Very feature rich, open-source, material design notes app. Very active development. Available on F-Droid. |
+| [Carnet](https://github.com/PhieF/CarnetDocumentation) [![F-Droid](https://img.shields.io/f-droid/v/com.spisoft.quicknote)](https://f-droid.org/en/packages/com.spisoft.quicknote/) |  | I had some trouble finding info on this one. Looks like it has pretty seamless/painless ownCloud and NextCloud integration. Also available on F-Droid. |
+| [Markor](https://gsantner.net/project/markor.html) [![F-Droid](https://img.shields.io/f-droid/v/net.gsantner.markor)](https://f-droid.org/en/packages/net.gsantner.markor/) |  | Open-source notes/to-do app for Android. Supports Markdown editing. Available on F-Droid. App is 100% offline, as stated on the [GitHub README](https://github.com/gsantner/markor#privacy). |
+| [Orgzly](http://orgzly.com/) [![F-Droid](https://img.shields.io/f-droid/v/com.orgzly)](https://f-droid.org/en/packages/com.orgzly/) |  | Open-source. Notes are stored in the plain-text [Org mode](https://orgmode.org/) format. Supports searching, metadata, and manual sync with Dropbox or local directory, which can be synced using e.g. Syncthing. |
 
 
 
@@ -620,7 +620,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
-| [Maps](https://f-droid.org/en/packages/com.github.axet.maps/) |  | Available from F-Droid. Open-source navigation app based on MAPS.ME. Searching for addresses doesn't always work and finding businesses can be a slight hassle, but overall one of the better apps I've used. |
+| [Maps](https://gitlab.com/axet/omim/-/blob/HEAD/README.md) [![F-Droid](https://img.shields.io/f-droid/v/com.github.axet.maps)](https://f-droid.org/en/packages/com.github.axet.maps/) |  | Open-source navigation app based on MAPS.ME. Searching for addresses doesn't always work and finding businesses can be a slight hassle, but overall one of the better apps I've used. |
 | [OsmAnd](https://osmand.net/) |  | OpenStreetMap for Android. (thanks u/masao77). As OsmAnd is primarily crowdsourced, many regions may not be totally accurate. If you would like to help improve OpenStreetMap and OsmAnd, check out [StreetComplete](https://wiki.openstreetmap.org/wiki/StreetComplete). It is available from [F-Droid](https://f-droid.org/en/packages/de.westnordost.streetcomplete/). |
 | [Transportr](https://transportr.app/) |  | Primarily European, this is an open-source public transport app. Thanks to @lgiard |
 | [Offi or Oeffi](https://oeffi.schildbach.de/) |  | Another recommendation from @lgiard, this app is also for public transport. |
@@ -631,7 +631,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
-| [Flym](https://github.com/FredJul/Flym) |  | Open-source Material Design RSS reader. Available from F-Droid. |
+| [Flym](https://github.com/FredJul/Flym) [![F-Droid](https://img.shields.io/f-droid/v/net.frju.flym)](https://f-droid.org/en/packages/net.frju.flym/) |  | Open-source Material Design RSS reader. |
 
 
 
@@ -655,7 +655,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
-| [NewPipe](https://newpipe.schabi.org/) |  | Powerful open-source YouTube alternative available from F-Droid. Supports audio only; background playback; picture-in-picture; no ads. |
+| [NewPipe](https://newpipe.schabi.org/) [![F-Droid](https://img.shields.io/f-droid/v/org.schabi.newpipe)](https://f-droid.org/en/packages/org.schabi.newpipe/) |  | Powerful open-source YouTube alternative. Supports audio only; background playback; picture-in-picture; no ads. |
 | [FreeTube](https://github.com/FreeTubeApp/FreeTube) |  | Open-source YouTube client that uses the Invidio.us API to serve content. Not on F-Droid, but you can download the APK from GitHub. (thanks u/wesaphzt) |
 | [YouTube Vanced](https://forum.xda-developers.com/android/apps-games/app-youtube-vanced-edition-t3758757) |  | Please read the XDA post before deciding to use this. |
 
@@ -665,9 +665,9 @@ These Firefox extensions can help prevent connections to Google domains and also
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
-| [andOTP](https://github.com/andOTP/andOTP) |  | Open-source 2FA app available from F-Droid. |
-| [FreeOTP+](https://github.com/helloworld1/FreeOTPPlus) |  | FreeOTP is no longer in development so this fork should be used instead as it is currently in development. Available from F-Droid. |
-| [Aegis](https://github.com/beemdevelopment/Aegis) |  | Open-source 2FA for Android. Available on F-Droid. |
+| [andOTP](https://github.com/andOTP/andOTP) [![F-Droid](https://img.shields.io/f-droid/v/org.shadowice.flocke.andotp)](https://f-droid.org/en/packages/org.shadowice.flocke.andotp/) |  | Open-source 2FA app. |
+| [FreeOTP+](https://github.com/helloworld1/FreeOTPPlus) [![F-Droid](https://img.shields.io/f-droid/v/org.liberty.android.freeotpplus)](https://f-droid.org/en/packages/org.liberty.android.freeotpplus/) |  | FreeOTP is no longer in development so this fork should be used instead as it is currently in development. |
+| [Aegis](https://getaegis.app/) [![F-Droid](https://img.shields.io/f-droid/v/com.beemdevelopment.aegis)](https://f-droid.org/en/packages/com.beemdevelopment.aegis/) |  | Open-source 2FA for Android. Available on F-Droid. |
 | [Authenticator](https://mattrubin.me/authenticator/) |  | **iOS** - Open-source 2FA for iOS. (thanks u/SomeoneWannaBe) |
 | [Tofu](https://tofuauth.com) |  | **iOS** - Open-source 2FA for iOS. |
 
@@ -677,8 +677,8 @@ These Firefox extensions can help prevent connections to Google domains and also
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
-| [Audinaut](https://github.com/nvllsvm/Audinaut) |  | An open-source Airsonic client for Android. Available from F-Droid. |
-| [MALP](https://gitlab.com/gateship-one/malp) |  | An open-source Android client for MPD. Available on F-Droid. |
+| [Audinaut](https://github.com/nvllsvm/Audinaut) [![F-Droid](https://img.shields.io/f-droid/v/net.nullsum.audinaut)](https://f-droid.org/en/packages/net.nullsum.audinaut/) |  | An open-source Airsonic client for Android. |
+| [MALP](https://gitlab.com/gateship-one/malp/-/blob/master/README.md) [![F-Droid](https://img.shields.io/f-droid/v/org.gateshipone.malp)](https://f-droid.org/en/packages/org.gateshipone.malp/) |  | An open-source Android client for MPD. Available on F-Droid. |
 
 
 
@@ -689,7 +689,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 | [Keybase](https://keybase.io/) | **5-eyes** | encrypted chat like Signal with features like Slack. Does not require a phone number to sign up. Also has file storage. **Note:** Keybase was acquired by Zoom, Inc. in May 2020 ([Keybase blog](https://keybase.io/blog/keybase-joins-zoom), [Zoom blog](https://blog.zoom.us/wordpress/2020/05/07/zoom-acquires-keybase-and-announces-goal-of-developing-the-most-broadly-used-enterprise-end-to-end-encryption-offering/)). Thanks @notpushkin & @multimob. |
 | [Conversations](https://conversations.im/) | **14-eyes** | An open-source Android Jabber/XMPP client. It's a paid app on Google Play, but you can also [build it from source](https://github.com/siacs/Conversations) for free if you want to. |
 | [Riot](https://github.com/vector-im/riot-android) | **5-eyes** | Android app - The open-source Android client for Riot. |
-| [Jitsi Meet (F-Droid)](https://f-droid.org/en/packages/org.jitsi.meet/) |  | Jitsi is an open-source secure video conferencing platform. No account is needed to use it, simply enter a Room Name to join or host a meeting. The host is able to kick rogue users from the call. Works directly in your browser, with apps available for iOS and Android. It is not necessary to self-host, but self-hosting is an option for those who wish to. Very low latency and easy to set up. A free public server is available at (https://meet.jit.si) (**5-eyes** server) |
+| [Jitsi Meet (F-Droid)](https://meet.jit.si/) [![F-Droid](https://img.shields.io/f-droid/v/org.jitsi.meet)](https://f-droid.org/en/packages/org.jitsi.meet/) |  | Jitsi is an open-source secure video conferencing platform. No account is needed to use it, simply enter a Room Name to join or host a meeting. The host is able to kick rogue users from the call. Works directly in your browser, with apps available for iOS and Android. It is not necessary to self-host, but self-hosting is an option for those who wish to. Very low latency and easy to set up. A free public server is available at (https://meet.jit.si) (**5-eyes** server) |
 
 
 
@@ -715,8 +715,8 @@ These Firefox extensions can help prevent connections to Google domains and also
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [Shade Launcher](https://github.com/amirzaidi/Shade) |  | Open-source Android launcher styled after the Google Pixel launcher. No F-Droid, but you can download the APK from GitHub. |
-| [ZimLX](https://github.com/otakuhqz/ZimLX) |  | Open-source launcher. Active development with lots of nice features. Available from F-Droid. |
-| [Lawnchair](https://lawnchair.app/) |  | Another open-source launcher, also built to look similar to Google's launcher (it is built off AOSP Launcher3). Available from F-Droid and also APKMirror. (thanks u/droidonomy) |
+| [ZimLX](https://github.com/otakuhqz/ZimLX) [![F-Droid](https://img.shields.io/f-droid/v/org.zimmob.zimlx)](https://f-droid.org/en/packages/org.zimmob.zimlx/) |  | Open-source launcher. Active development with lots of nice features. |
+| [Lawnchair](https://lawnchair.app/) [![F-Droid](https://img.shields.io/f-droid/v/ch.deletescape.lawnchair.plah)](https://f-droid.org/en/packages/ch.deletescape.lawnchair.plah/) |  | Another open-source launcher, also built to look similar to Google's launcher (it is built off AOSP Launcher3). Available from F-Droid and also APKMirror. (thanks u/droidonomy) |
 
 
 
@@ -724,8 +724,8 @@ These Firefox extensions can help prevent connections to Google domains and also
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
-| [Blokada](https://blokada.org/) |  | From the website: "If you want to efficiently block ads, trackers, malware, save on your data plan, speed up your device and protect your privacy with just one application, then Blokada is for you. It is free, secure and open source." Uses internal VPN on Android to block ads. [Available from F-Droid](https://f-droid.org/packages/org.blokada.alarm/). |
-| [TrackerControl](https://github.com/OxfordHCC/tracker-control-android) |  | From the GitHub README: Allows users to monitor and control the widespread, ongoing, hidden data collection in mobile apps about user behaviour ("tracking"). To detect tracking, TrackerControl checks all network traffic against the Disconnect blocklist, used and trusted by the Mozilla Firefox browser. [Available from F-Droid](https://f-droid.org/packages/net.kollnig.missioncontrol.fdroid). Thanks @E5dZEUpc3BKaJrHnQVZd5zE |
+| [Blokada](https://blokada.org/) [![F-Droid](https://img.shields.io/f-droid/v/org.blokada.alarm)](https://f-droid.org/en/packages/org.blokada.alarm/) |  | From the website: "If you want to efficiently block ads, trackers, malware, save on your data plan, speed up your device and protect your privacy with just one application, then Blokada is for you. It is free, secure and open source." Uses internal VPN on Android to block ads. |
+| [TrackerControl](https://github.com/OxfordHCC/tracker-control-android) [![F-Droid](https://img.shields.io/f-droid/v/net.kollnig.missioncontrol.fdroid)](https://f-droid.org/en/packages/net.kollnig.missioncontrol.fdroid/) |  | From the GitHub README: Allows users to monitor and control the widespread, ongoing, hidden data collection in mobile apps about user behaviour ("tracking"). To detect tracking, TrackerControl checks all network traffic against the Disconnect blocklist, used and trusted by the Mozilla Firefox browser. Thanks @E5dZEUpc3BKaJrHnQVZd5zE |
 
 
 
