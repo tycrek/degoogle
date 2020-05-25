@@ -81,7 +81,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 
 ## Web-based products
 
-#### Search (web, images)
+#### Search (Web & Images)
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
@@ -470,33 +470,247 @@ These Firefox extensions can help prevent connections to Google domains and also
 
 ## Mobile apps
 
-#### Chrome
+#### Play Store
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
-| [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium) |  | Chromium (which Chrome and countless other browsers are built on top of) is one of the cleanest and light-weight browsers available. This version cuts out all the Google crap. |
-| [Firefox](https://firefox.com/) |  | Built by Mozilla, "The Privacy Company". Huge extension library; great for privacy. |
-| [Waterfox](https://www.waterfox.net/) | **5-eyes** | Based on Firefox, but **64-bit only** with an emphasis on speed and privacy. Has a "classic" version built off older Firefox for legacy extension support and also an "alpha" version built off Quantum. It doesn't collect any telemetry and also removes Pocket from the alpha release. Project is run by [Alex Kontos](https://github.com/MrAlex94/) and is constantly in active development. Looks very clean and fast. Android versions are in the works too. **UPDATE:** @Nudin pointed out in Issue #85 that Waterfox is now [apart of System1](https://www.waterfox.net/blog/waterfox-has-joined-system1/). |
-| [Vivaldi](https://vivaldi.com/) |  | Privacy-focused browser. Appears to be very customizable and feature-rich. |
-| [Tor Browser](https://www.torproject.org/download/) |  | Firefox-based browser routed through the onion network. Automatically has a few privacy extensions installed (such as HTTPS Everywhere). Be careful using it in public though, as it *can* look like a pretty suspicious piece of software. Available for Windows, Linux, macOS, and Android. |
+| [F-Droid](https://f-droid.org/) |  | Catalogue of FOSS apps for Android. Easy to install and keeps track of updates. Also has a browser version if you don't want to install the app. |
+| [Aptoide](https://www.aptoide.com/) |  | Marketplace for Android apps. Publishers/developers manage their own stores rather than a centralized market such as Google Play Store. |
+| [Yalp Store](https://github.com/yeriomin/YalpStore) |  | Yalp downloads Play Store apps as APK files. Helpful if you want to stay away from the Play Store, but require an app that is only available there. |
+| [APKMirror](https://www.apkmirror.com/) |  | An online library of user-uploaded APK files. Helpful if you need a specific older version of an app or don't want to download it through Google Play. |
+| [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore) |  | Aurora Store is ~~simply a fork of the Yalp Store~~ no longer a fork of Yalp, but is now its own project (see their [readme](https://gitlab.com/AuroraOSS/AuroraStore/blob/master/README.md)). **Update:** Removed note on using microG as Aurora Store [does not use it](https://gitlab.com/AuroraOSS/AuroraStore/-/blob/master/README.md#L77). Thanks @RefexHD & @notpushkin |
+| [Fossdroid](https://fossdroid.com/) |  | Uses the same library as F-Droid, but with a modern UI similar to that of the Play Store and the ability to view apps by popularity. |
+| [G-Droid](https://gitlab.com/gdroid/gdroidclient/) |  | Also uses the F-Droid repo but with a different UI. |
+| [APKGrabber](https://github.com/hemker/apkgrabber) |  | Fork of [APKUpdater](https://github.com/rumboalla/apkupdater). Both are great tools for avoiding app stores (on Android). |
+| [Aurora Droid](https://forum.xda-developers.com/android/apps-games/app-aurora-droid-fdroid-client-t3932663) |  | Yet another F-Droid client, potentially has a few bugs (thanks u/OfficialJohnGL4) |
+
+- *When searching for replacements, check the alternative stores (such as F-Droid) before checking the Play Store.*
 
 
-
-#### Earth
-
-| Name | Eyes | Description |
-| ---- | ---- | ----------- |
-| [KDE Marble](https://kde.org/applications/education/org.kde.marble) |  | Strong alternative for G Earth. Currently only on Linux, but is being ported to other platforms. Thanks to @PopeRigby |
-
-
-
-#### Android Studio (not specifically for Android development, just in general)
+#### Chrome (Android)
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
-| [VSCodium](https://vscodium.com/) |  | VSCodium is Visual Studio Code but without all the Microsoft telemetry and branding. |
-| [Vim](https://www.vim.org/) |  | Open-source text editor. Thanks @moon-chilled |
-| [Emacs](https://www.gnu.org/software/emacs/) |  | Another open-source text editor. Thanks @moon-chilled |
+| [Fennec F-Droid](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/) |  | A privacy-focused version of Firefox Android available on F-Droid. It's focused on removing any proprietary bits found in official Mozilla's builds. (thanks u/SupremeLisper) |
+| [Bromite](https://www.bromite.org/) |  | Privacy-focused/open-source build of Chromium with built-in ad blocking. (thanks u/SupremeLisper) |
+
+
+
+#### Calculator
+
+| Name | Eyes | Description |
+| ---- | ---- | ----------- |
+| [Simple Calculator](https://github.com/SimpleMobileTools/Simple-Calculator) |  | Also part of the SMT project. Available on F-Droid. |
+| [Calculator N+ or NCalc+](https://github.com/tranleduy2000/ncalc) |  | Open-source feature-rich calculator. App itself is no longer in development, but the developer does [encourage pull requests](https://github.com/tranleduy2000/ncalc#calculator-n---powerful-calculator-for-android). I've used it frequently and it works great. Not on F-Droid, but a 3rd party play store can probably find it; or the APK's are available as releases on GitHub. You can also compile from source. |
+
+
+
+#### Calendar
+
+| Name | Eyes | Description |
+| ---- | ---- | ----------- |
+| [Fruux (mobile app)](https://fruux.com/) |  | Same service from above provides an Android app. |
+| [Etar](https://github.com/xsoh/Etar-Calendar) |  | Open-source material design Calendar that integrates with the Android Calendar API. If you have a CalDAV/CardDAV server, I recommend using [DAVx5](https://www.davx5.com/) to sync with it. Available from F-Droid. Also look at [ICSx5](https://icsx5.bitfire.at/), another WebDav/CalDav client that can integrate with calendar apps. Also available from F-Droid. Thanks @je-vv for ICSx5. |
+
+
+
+#### Camera
+
+| Name | Eyes | Description |
+| ---- | ---- | ----------- |
+| [Open Camera](https://opencamera.sourceforge.io/) |  | Open source camera for Android. Thanks @je-vv |
+
+
+
+#### Clock
+
+| Name | Eyes | Description |
+| ---- | ---- | ----------- |
+| [Clock +](https://github.com/philliphsu/ClockPlus) |  | Open-source Alarm clock, timer, and stop watch. Available from F-Droid. |
+| [Simple Alarm Clock](https://github.com/yuriykulikov/AlarmClock) |  | Exactly as it's name says; simple alarm clock yet adds many improvements over other apps. No dock mode or world clock. |
+| [Insane Alarm!](https://github.com/RIAEvangelist/insane-alarm) |  | Developer states that he had "spent a night out with the boys and drank a bit too much but needed to be up in the morning". So, he made the loudest alarm clock possible based off an emergency alarm from when he was in the military. This app doesn't mess around, use it wisely. |
+
+
+
+#### Contacts
+
+| Name | Eyes | Description |
+| ---- | ---- | ----------- |
+| [Fruux (mobile app)](https://fruux.com/) |  | Fruux *also* provides a contacts app. |
+| [Simple Contacts](https://github.com/SimpleMobileTools/Simple-Contacts) |  | Open-source. Part of the [Simple Mobile Tools](https://github.com/SimpleMobileTools) project. Available from F-Droid. |
+| [Open Contacts](https://f-droid.org/en/packages/opencontacts.open.com.opencontacts/) |  | Available from F-Droid. (thanks u/consentio) |
+
+
+
+#### Android Messages (specifically SMS/MMS, not IM)
+
+| Name | Eyes | Description |
+| ---- | ---- | ----------- |
+| [QKSMS](https://github.com/moezbhatti/qksms) |  | Open-source. Very clean and feature rich SMS app. Available on F-Droid. |
+| [Silence.im](https://silence.im/) |  | Open-source and utilizes Signal's encryption protocol. Seamlessly works with SMS. End-to-end encryption with other Silence users. Available on F-Droid. |
+
+
+
+#### Gboard (Google Keyboard)
+
+| Name | Eyes | Description |
+| ---- | ---- | ----------- |
+| [AnySoftKeyboard](https://anysoftkeyboard.github.io/) |  | Open-source keyboard. Available on F-Droid. |
+| [Hacker's Keyboard](https://github.com/klausw/hackerskeyboard) |  | Also open-source. Very useful for developers or sysadmins on the go. |
+| [kboard](https://github.com/adgad/kboard) |  | Open-source. Has features for phrases, "lenny faces", macros and more. |
+| [Simple Keyboard](https://github.com/rkkr/simple-keyboard) |  | Open-source, available from F-Droid. |
+| [Indic Keyboard](https://gitlab.com/indicproject/indic-keyboard) |  | Open-source keyboard that supports many languages that other keyboards sometimes don't support. Not on F-Droid, but can be built from source or possibly through a Play Store alternative. |
+| [OpenBoard](https://github.com/dslul/openboard) |  | New 100% FOSS keyboard, based on AOSP. Similar to "Simple Keyboard". Thanks @Glitchy-Tozier |
+
+
+
+#### Drive
+
+| Name | Eyes | Description |
+| ---- | ---- | ----------- |
+| [ownCloud Android](https://github.com/owncloud/android) |  | ownCloud Android client. Available on F-Droid. |
+| [Nextcloud Android](https://github.com/nextcloud/android) |  | Nextcloud Android client. Available on F-Droid. |
+| [Syncthing Android](https://github.com/syncthing/syncthing-android) |  | Wrapper of Syncthing for Android. Available on F-Droid. |
+
+
+
+#### Gmail
+
+| Name | Eyes | Description |
+| ---- | ---- | ----------- |
+| [Protonmail](https://protonmail.com/support/knowledge-base/android/) |  | Can be downloaded from the Play Store, but may work with one of the store replacements above (such as Yalp). |
+| [Tutanota](https://f-droid.org/en/packages/de.tutao.tutanota/) | **14-eyes** | Client available from F-Droid. |
+| [Zoho Mail](https://www.zoho.com/mail/ios-android-apps.html) |  | Also on the Play Store but other stores may work too. |
+| [Disroot](https://f-droid.org/en/packages/org.disroot.disrootapp/) |  | Available from F-Droid. |
+| [Posteo](https://posteo.de/) | **14-eyes** | Any **open-source mail client** such as: [K-9 Mail](https://k9mail.github.io/) and [FairEmail](https://email.faircode.eu/). Both are available on F-Droid. |
+| [Mailbox.org](https://mailbox.org/) | **14-eyes** | Mailbox.org provides IMAP settings for Android/iOS and an iOS profile. Thanks @avasts Issue #45 |
+
+
+
+#### Keep (or any stock note-taking app)
+
+| Name | Eyes | Description |
+| ---- | ---- | ----------- |
+| [Notepad](https://github.com/farmerbb/Notepad) |  | Open-source and available from F-Droid. Supports Markdown and HTML. Very clean and feature-rich. *Offline only*. |
+| [Joplin](https://github.com/laurent22/joplin) |  | Scroll down on the GitHub page until you reach the Android download links. No F-Droid repo, but you can download the APK directly instead of using the Play Store. |
+| [Standard Notes](https://standardnotes.org/) |  | Encrypted note storage with loads of features. |
+| [Omni Notes](https://omninotes.app/) |  | Very feature rich, open-source, material design notes app. Very active development. Available on F-Droid. |
+| [Carnet](https://github.com/PhieF/CarnetDocumentation) |  | I had some trouble finding info on this one. Looks like it has pretty seamless/painless ownCloud and NextCloud integration. Also available on F-Droid. |
+| [Markor](https://gsantner.net/project/markor.html) |  | Open-source notes/to-do app for Android. Supports Markdown editing. Available on F-Droid. App is 100% offline, as stated on the [GitHub README](https://github.com/gsantner/markor#privacy). |
+| [Orgzly](http://orgzly.com/) |  | Open-source and available from F-Droid. Notes are stored in the plain-text [Org mode](https://orgmode.org/) format. Supports searching, metadata, and manual sync with Dropbox or local directory, which can be synced using e.g. Syncthing. |
+
+
+
+#### Maps/Waze
+
+| Name | Eyes | Description |
+| ---- | ---- | ----------- |
+| [Maps](https://f-droid.org/en/packages/com.github.axet.maps/) |  | Available from F-Droid. Open-source navigation app based on MAPS.ME. Searching for addresses doesn't always work and finding businesses can be a slight hassle, but overall one of the better apps I've used. |
+| [OsmAnd](https://osmand.net/) |  | OpenStreetMap for Android. (thanks u/masao77). As OsmAnd is primarily crowdsourced, many regions may not be totally accurate. If you would like to help improve OpenStreetMap and OsmAnd, check out [StreetComplete](https://wiki.openstreetmap.org/wiki/StreetComplete). It is available from [F-Droid](https://f-droid.org/en/packages/de.westnordost.streetcomplete/). |
+| [Transportr](https://transportr.app/) |  | Primarily European, this is an open-source public transport app. Thanks to @lgiard |
+| [Offi or Oeffi](https://oeffi.schildbach.de/) |  | Another recommendation from @lgiard, this app is also for public transport. |
+
+
+
+#### News
+
+| Name | Eyes | Description |
+| ---- | ---- | ----------- |
+| [Flym](https://github.com/FredJul/Flym) |  | Open-source Material Design RSS reader. Available from F-Droid. |
+
+
+
+#### Photos
+
+| Name | Eyes | Description |
+| ---- | ---- | ----------- |
+| [Piwigo Android](https://github.com/Piwigo/Piwigo-Android) |  | You need to have Piwigo set up first. |
+
+
+
+#### Pay
+
+| Name | Eyes | Description |
+| ---- | ---- | ----------- |
+
+- *Realistically, there most likely is not a privacy friendly alternative to Google Pay. Get a wallet with RFID protection and keep your cards with you.*
+
+
+#### YouTube
+
+| Name | Eyes | Description |
+| ---- | ---- | ----------- |
+| [NewPipe](https://newpipe.schabi.org/) |  | Powerful open-source YouTube alternative available from F-Droid. Supports audio only; background playback; picture-in-picture; no ads. |
+| [FreeTube](https://github.com/FreeTubeApp/FreeTube) |  | Open-source YouTube client that uses the Invidio.us API to serve content. Not on F-Droid, but you can download the APK from GitHub. (thanks u/wesaphzt) |
+| [YouTube Vanced](https://forum.xda-developers.com/android/apps-games/app-youtube-vanced-edition-t3758757) |  | Please read the XDA post before deciding to use this. |
+
+
+
+#### Authenticator
+
+| Name | Eyes | Description |
+| ---- | ---- | ----------- |
+| [andOTP](https://github.com/andOTP/andOTP) |  | Open-source 2FA app available from F-Droid. |
+| [FreeOTP+](https://github.com/helloworld1/FreeOTPPlus) |  | FreeOTP is no longer in development so this fork should be used instead as it is currently in development. Available from F-Droid. |
+| [Aegis](https://github.com/beemdevelopment/Aegis) |  | Open-source 2FA for Android. Available on F-Droid. |
+| [Authenticator](https://mattrubin.me/authenticator/) |  | **iOS** - Open-source 2FA for iOS. (thanks u/SomeoneWannaBe) |
+| [Tofu](https://tofuauth.com) |  | **iOS** - Open-source 2FA for iOS. |
+
+
+
+#### Play Music/Play Movies & TV
+
+| Name | Eyes | Description |
+| ---- | ---- | ----------- |
+| [Audinaut](https://github.com/nvllsvm/Audinaut) |  | An open-source Airsonic client for Android. Available from F-Droid. |
+| [MALP](https://gitlab.com/gateship-one/malp) |  | An open-source Android client for MPD. Available on F-Droid. |
+
+
+
+#### Hangouts
+
+| Name | Eyes | Description |
+| ---- | ---- | ----------- |
+| [Keybase](https://keybase.io/) | **5-eyes** | encrypted chat like Signal with features like Slack. Does not require a phone number to sign up. Also has file storage. **Note:** Keybase was acquired by Zoom, Inc. in May 2020 ([Keybase blog](https://keybase.io/blog/keybase-joins-zoom), [Zoom blog](https://blog.zoom.us/wordpress/2020/05/07/zoom-acquires-keybase-and-announces-goal-of-developing-the-most-broadly-used-enterprise-end-to-end-encryption-offering/)). Thanks @notpushkin & @multimob. |
+| [Conversations](https://conversations.im/) | **14-eyes** | An open-source Android Jabber/XMPP client. It's a paid app on Google Play, but you can also [build it from source](https://github.com/siacs/Conversations) for free if you want to. |
+| [Riot](https://github.com/vector-im/riot-android) | **5-eyes** | Android app - The open-source Android client for Riot. |
+| [Jitsi Meet (F-Droid)](https://f-droid.org/en/packages/org.jitsi.meet/) |  | Jitsi is an open-source secure video conferencing platform. No account is needed to use it, simply enter a Room Name to join or host a meeting. The host is able to kick rogue users from the call. Works directly in your browser, with apps available for iOS and Android. It is not necessary to self-host, but self-hosting is an option for those who wish to. Very low latency and easy to set up. A free public server is available at (https://meet.jit.si) (**5-eyes** server) |
+
+
+
+#### Assistant
+
+| Name | Eyes | Description |
+| ---- | ---- | ----------- |
+| [Mycroft Android](https://github.com/MycroftAI/Mycroft-Android) |  | Android client for Mycroft. Must be built in IDE; no pre-built binaries are available. |
+| [Ara](https://github.com/FultonBrowne/Ara-android) |  | Open-source virtual assistant for Android. Can replace Google Assistant (home button functionality) on most devices. Either uses the authors server by default, or you can [run your own server](https://github.com/FultonBrowne/Ara-Server). Thanks @FultonBrowne (author of Ara) |
+
+
+
+#### Play Services Framework
+
+| Name | Eyes | Description |
+| ---- | ---- | ----------- |
+| [microG](https://microg.org/) |  | A re-implementation of Google’s proprietary Android user space apps and libraries. It allows to use more precise navigation (which is proprietary in standard Android ROMs) and optionally receive push messages (requires connection to Google's servers, but also supports routing this connection through Tor). Thanks @notpushkin |
+
+
+
+#### Android home screen launchers
+
+| Name | Eyes | Description |
+| ---- | ---- | ----------- |
+| [Shade Launcher](https://github.com/amirzaidi/Shade) |  | Open-source Android launcher styled after the Google Pixel launcher. No F-Droid, but you can download the APK from GitHub. |
+| [ZimLX](https://github.com/otakuhqz/ZimLX) |  | Open-source launcher. Active development with lots of nice features. Available from F-Droid. |
+| [Lawnchair](https://lawnchair.app/) |  | Another open-source launcher, also built to look similar to Google's launcher (it is built off AOSP Launcher3). Available from F-Droid and also APKMirror. (thanks u/droidonomy) |
+
+
+
+#### *Other*
+
+| Name | Eyes | Description |
+| ---- | ---- | ----------- |
+| [Blokada](https://blokada.org/) |  | From the website: "If you want to efficiently block ads, trackers, malware, save on your data plan, speed up your device and protect your privacy with just one application, then Blokada is for you. It is free, secure and open source." Uses internal VPN on Android to block ads. [Available from F-Droid](https://f-droid.org/packages/org.blokada.alarm/). |
+| [TrackerControl](https://github.com/OxfordHCC/tracker-control-android) |  | From the GitHub README: Allows users to monitor and control the widespread, ongoing, hidden data collection in mobile apps about user behaviour ("tracking"). To detect tracking, TrackerControl checks all network traffic against the Disconnect blocklist, used and trusted by the Mozilla Firefox browser. [Available from F-Droid](https://f-droid.org/packages/net.kollnig.missioncontrol.fdroid). Thanks @E5dZEUpc3BKaJrHnQVZd5zE |
 
 
 
