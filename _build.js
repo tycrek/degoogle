@@ -1,5 +1,4 @@
 // Build tool for generating README.md
-// TODO: Add support for section-specific comments
 
 const os = require('os');
 const path = require('path');
@@ -126,8 +125,11 @@ function generateServiceSection(data) {
     return serviceSection + notes;
 }
 
+/**
+ * Returns a badge acting as a link to an F-Droid page for an app.
+ * @param {String} appId The package identifier on F-Droid
+ */
 function fdroidLink(appId) {
-    //return `![F-Droid](https://img.shields.io/f-droid/v/${appId})`
     return `[![F-Droid](https://img.shields.io/f-droid/v/${appId})](https://f-droid.org/en/packages/${appId}/)`;
 }
 
