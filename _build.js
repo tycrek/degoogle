@@ -111,6 +111,9 @@ function generateServiceSection(data) {
             let name = `[${item.name}](${item.url})`;
             let eyes = item.eyes ? `**${item.eyes}-eyes**` : '';
             let text = item.text.trim();
+            
+            // Append the F-Droid badge to the name
+            if (item.fdroid) name = name.concat(' ' + fdroidLink(item.fdroid))
     
             // Build the row
             let tableItem = `| ${name} | ${eyes} | ${text} |`;
@@ -121,6 +124,11 @@ function generateServiceSection(data) {
     });
 
     return serviceSection + notes;
+}
+
+function fdroidLink(appId) {
+    //return `![F-Droid](https://img.shields.io/f-droid/v/${appId})`
+    return `[![F-Droid](https://img.shields.io/f-droid/v/${appId})](https://f-droid.org/en/packages/${appId}/)`;
 }
 
 __main__();
