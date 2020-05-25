@@ -1196,6 +1196,11 @@ mobile applications:
       eyes: null
       text: |
         From the website: "If you want to efficiently block ads, trackers, malware, save on your data plan, speed up your device and protect your privacy with just one application, then Blokada is for you. It is free, secure and open source." Uses internal VPN on Android to block ads. [Available from F-Droid](https://f-droid.org/packages/org.blokada.alarm/).
+    - name: TrackerControl
+      url: https://github.com/OxfordHCC/tracker-control-android
+      eyes: null
+      text: |
+        From the GitHub README: Allows users to monitor and control the widespread, ongoing, hidden data collection in mobile apps about user behaviour ("tracking"). To detect tracking, TrackerControl checks all network traffic against the Disconnect blocklist, used and trusted by the Mozilla Firefox browser. [Available from F-Droid](https://f-droid.org/packages/net.kollnig.missioncontrol.fdroid). Thanks @E5dZEUpc3BKaJrHnQVZd5zE
 hardware:
   nexus pixel:
     - title: Nexus/Pixel
