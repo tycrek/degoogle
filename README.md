@@ -76,7 +76,7 @@ These Firefox extensions can help prevent connections to Google domains and also
     - **5**: Australia, Canada, New Zealand, UK, USA
     - **9**: Denmark, France, Netherlands, Norway
     - **14**: Germany, Belgium, Italy, Sweden, Spain
-    - [What are 5-eyes, 9-eyes, and 14-eyes?](https://restoreprivacy.com/5-eyes-9-eyes-14-eyes/)
+    - [What are 5-eyes, 9-eyes, and 14-eyes?](https://www.privacytools.io/providers/#ukusa)
 
 ## Web-based products
 
