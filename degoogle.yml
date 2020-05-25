@@ -106,10 +106,11 @@ web based products:
       text: |
         Unbiased news source (primarily for US politics). Thanks @jeanofthedead
     - name: "*Feeder*"
-      url: https://f-droid.org/app/com.nononsenseapps.feeder
+      url: https://gitlab.com/spacecowboy/Feeder/-/blob/master/README.md
+      fdroid: com.nononsenseapps.feeder
       eyes: null
       text: |
-        Use good old-fashioned RSS feeds with Feeder (available from F-Droid)
+        Use good old-fashioned RSS feeds with Feeder
   groups:
     - title: Groups
     - notes:
@@ -402,6 +403,7 @@ web based products:
         Uses end-to-end encryption. Looks to be more of a corporate service with tiered plans.
     - name: Riot
       url: https://about.riot.im/
+      fdroid: im.vector.alpha
       eyes: 5
       text: |
         Open-source privacy-focused chat service with end-to-end encryption. They offer webapps, desktop apps, iOS, and Android (Play Store and F-Droid). Uses the "Matrix" protocol for decentralized communication. It is 100% free and open-source with no paid plans.
@@ -836,6 +838,7 @@ mobile applications:
     - title: Chrome (Android)
     - name: Fennec F-Droid
       url: https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/
+      fdroid: org.mozilla.fennec_fdroid
       eyes: null
       text: |
         A privacy-focused version of Firefox Android available on F-Droid. It's focused on removing any proprietary bits found in official Mozilla's builds. (thanks u/SupremeLisper)
@@ -848,6 +851,7 @@ mobile applications:
     - title: Calculator
     - name: Simple Calculator
       url: https://github.com/SimpleMobileTools/Simple-Calculator
+      fdroid: com.simplemobiletools.calculator
       eyes: null
       text: |
         Also part of the SMT project. Available on F-Droid.
@@ -865,6 +869,7 @@ mobile applications:
         Same service from above provides an Android app.
     - name: Etar
       url: https://github.com/xsoh/Etar-Calendar
+      fdroid: ws.xsoh.etar
       eyes: null
       text: |
         Open-source material design Calendar that integrates with the Android Calendar API. If you have a CalDAV/CardDAV server, I recommend using [DAVx5](https://www.davx5.com/) to sync with it. Available from F-Droid. Also look at [ICSx5](https://icsx5.bitfire.at/), another WebDav/CalDav client that can integrate with calendar apps. Also available from F-Droid. Thanks @je-vv for ICSx5.
@@ -879,9 +884,10 @@ mobile applications:
     - title: Clock
     - name: Clock +
       url: https://github.com/philliphsu/ClockPlus
+      fdroid: com.philliphsu.clock2
       eyes: null
       text: |
-        Open-source Alarm clock, timer, and stop watch. Available from F-Droid.
+        Open-source Alarm clock, timer, and stop watch.
     - name: Simple Alarm Clock
       url: https://github.com/yuriykulikov/AlarmClock
       eyes: null
@@ -896,28 +902,32 @@ mobile applications:
     - title: Contacts
     - name: Fruux (mobile app)
       url: https://fruux.com/
-      eyes:
+      eyes: null
       text: |
         Fruux *also* provides a contacts app.
     - name: Simple Contacts
       url: https://github.com/SimpleMobileTools/Simple-Contacts
-      eyes:
+      fdroid: com.simplemobiletools.contacts.pro
+      eyes: null
       text: |
-        Open-source. Part of the [Simple Mobile Tools](https://github.com/SimpleMobileTools) project. Available from F-Droid.
+        Open-source. Part of the [Simple Mobile Tools](https://github.com/SimpleMobileTools) project.
     - name: Open Contacts
-      url: https://f-droid.org/en/packages/opencontacts.open.com.opencontacts/
-      eyes:
+      url: https://gitlab.com/sultanahamer/OpenContacts/-/blob/HEAD/README.md
+      eyes: null
+      fdroid: opencontacts.open.com.opencontacts
       text: |
-        Available from F-Droid. (thanks u/consentio)
+        Open source contacts. (thanks u/consentio)
   messages:
     - title: Android Messages (specifically SMS/MMS, not IM)
     - name: QKSMS
       url: https://github.com/moezbhatti/qksms
+      fdroid: com.moez.QKSMS
       eyes: null
       text: |
         Open-source. Very clean and feature rich SMS app. Available on F-Droid.
     - name: Silence.im
       url: https://silence.im/
+      fdroid: org.smssecure.smssecure
       eyes: null
       text: |
         Open-source and utilizes Signal's encryption protocol. Seamlessly works with SMS. End-to-end encryption with other Silence users. Available on F-Droid.
@@ -925,6 +935,7 @@ mobile applications:
     - title: Gboard (Google Keyboard)
     - name: AnySoftKeyboard
       url: https://anysoftkeyboard.github.io/
+      fdroid: com.menny.android.anysoftkeyboard
       eyes: null
       text: |
         Open-source keyboard. Available on F-Droid.
@@ -940,9 +951,10 @@ mobile applications:
         Open-source. Has features for phrases, "lenny faces", macros and more.
     - name: Simple Keyboard
       url: https://github.com/rkkr/simple-keyboard
+      fdroid: rkr.simplekeyboard.inputmethod
       eyes: null
       text: |
-        Open-source, available from F-Droid.
+        Open-source keyboard.
     - name: Indic Keyboard
       url: https://gitlab.com/indicproject/indic-keyboard
       eyes: null
@@ -957,19 +969,22 @@ mobile applications:
     - title: Drive
     - name: ownCloud Android
       url: https://github.com/owncloud/android
+      fdroid: com.owncloud.android
       eyes: null
       text: |
         ownCloud Android client. Available on F-Droid.
     - name: Nextcloud Android
       url: https://github.com/nextcloud/android
+      fdroid: com.nextcloud.client
       eyes: null
       text: |
         Nextcloud Android client. Available on F-Droid.
     - name: Syncthing Android
       url: https://github.com/syncthing/syncthing-android
+      fdroid: com.nutomic.syncthingandroid
       eyes: null
       text: |
-        Wrapper of Syncthing for Android. Available on F-Droid.
+        Wrapper of Syncthing for Android. Available on F-Droid. Also consider [Syncthing-Fork](https://f-droid.org/en/packages/com.github.catfriend1.syncthingandroid/) which uses a native Android UI rather than the default web UI.
   gmail:
     - title: Gmail
     - name: Protonmail
@@ -978,7 +993,8 @@ mobile applications:
       text: |
         Can be downloaded from the Play Store, but may work with one of the store replacements above (such as Yalp).
     - name: Tutanota
-      url: https://f-droid.org/en/packages/de.tutao.tutanota/
+      url: https://www.tutanota.com/
+      fdroid: de.tutao.tutanota
       eyes: 14
       text: |
         Client available from F-Droid.
@@ -988,7 +1004,8 @@ mobile applications:
       text: |
         Also on the Play Store but other stores may work too.
     - name: Disroot
-      url: https://f-droid.org/en/packages/org.disroot.disrootapp/
+      url: https://disroot.org/
+      fdroid: org.disroot.disrootapp
       eyes: null
       text: |
         Available from F-Droid.
@@ -1006,9 +1023,10 @@ mobile applications:
     - title: Keep (or any stock note-taking app)
     - name: Notepad
       url: https://github.com/farmerbb/Notepad
+      fdroid: com.farmerbb.notepad
       eyes: null
       text: |
-        Open-source and available from F-Droid. Supports Markdown and HTML. Very clean and feature-rich. *Offline only*.
+        Open-source. Supports Markdown and HTML. Very clean and feature-rich. *Offline only*.
     - name: Joplin
       url: https://github.com/laurent22/joplin
       eyes: null
@@ -1021,31 +1039,36 @@ mobile applications:
         Encrypted note storage with loads of features.
     - name: Omni Notes
       url: https://omninotes.app/
+      fdroid: it.feio.android.omninotes.foss
       eyes: null
       text: |
         Very feature rich, open-source, material design notes app. Very active development. Available on F-Droid.
     - name: Carnet
       url: https://github.com/PhieF/CarnetDocumentation
+      fdroid: com.spisoft.quicknote
       eyes: null
       text: |
         I had some trouble finding info on this one. Looks like it has pretty seamless/painless ownCloud and NextCloud integration. Also available on F-Droid.
     - name: Markor
       url: https://gsantner.net/project/markor.html
+      fdroid: net.gsantner.markor
       eyes: null
       text: |
         Open-source notes/to-do app for Android. Supports Markdown editing. Available on F-Droid. App is 100% offline, as stated on the [GitHub README](https://github.com/gsantner/markor#privacy).
     - name: Orgzly
       url: http://orgzly.com/
+      fdroid: com.orgzly
       eyes: null
       text: |
-        Open-source and available from F-Droid. Notes are stored in the plain-text [Org mode](https://orgmode.org/) format. Supports searching, metadata, and manual sync with Dropbox or local directory, which can be synced using e.g. Syncthing.
+        Open-source. Notes are stored in the plain-text [Org mode](https://orgmode.org/) format. Supports searching, metadata, and manual sync with Dropbox or local directory, which can be synced using e.g. Syncthing.
   maps and waze:
     - title: Maps/Waze
     - name: Maps
-      url: https://f-droid.org/en/packages/com.github.axet.maps/
+      url: https://gitlab.com/axet/omim/-/blob/HEAD/README.md
+      fdroid: com.github.axet.maps
       eyes: null
       text: |
-        Available from F-Droid. Open-source navigation app based on MAPS.ME. Searching for addresses doesn't always work and finding businesses can be a slight hassle, but overall one of the better apps I've used.
+        Open-source navigation app based on MAPS.ME. Searching for addresses doesn't always work and finding businesses can be a slight hassle, but overall one of the better apps I've used.
     - name: OsmAnd
       url: https://osmand.net/
       eyes: null
@@ -1065,9 +1088,10 @@ mobile applications:
     - title: News
     - name: Flym
       url: https://github.com/FredJul/Flym
+      fdroid: net.frju.flym
       eyes: null
       text: |
-        Open-source Material Design RSS reader. Available from F-Droid.
+        Open-source Material Design RSS reader.
   photos:
     - title: Photos
     - name: Piwigo Android
@@ -1084,9 +1108,10 @@ mobile applications:
     - title: YouTube
     - name: NewPipe
       url: https://newpipe.schabi.org/
+      fdroid: org.schabi.newpipe
       eyes: null
       text: |
-        Powerful open-source YouTube alternative available from F-Droid. Supports audio only; background playback; picture-in-picture; no ads.
+        Powerful open-source YouTube alternative. Supports audio only; background playback; picture-in-picture; no ads.
     - name: FreeTube
       url: https://github.com/FreeTubeApp/FreeTube
       eyes: null
@@ -1101,16 +1126,19 @@ mobile applications:
     - title: Authenticator
     - name: andOTP
       url: https://github.com/andOTP/andOTP
+      fdroid: org.shadowice.flocke.andotp
       eyes: null
       text: |
-        Open-source 2FA app available from F-Droid.
+        Open-source 2FA app.
     - name: FreeOTP+
       url: https://github.com/helloworld1/FreeOTPPlus
+      fdroid: org.liberty.android.freeotpplus
       eyes: null
       text: |
-        FreeOTP is no longer in development so this fork should be used instead as it is currently in development. Available from F-Droid.
+        FreeOTP is no longer in development so this fork should be used instead as it is currently in development.
     - name: Aegis
-      url: https://github.com/beemdevelopment/Aegis
+      url: https://getaegis.app/
+      fdroid: com.beemdevelopment.aegis
       eyes: null
       text: |
         Open-source 2FA for Android. Available on F-Droid.
@@ -1128,11 +1156,13 @@ mobile applications:
     - title: Play Music/Play Movies & TV
     - name: Audinaut
       url: https://github.com/nvllsvm/Audinaut
+      fdroid: net.nullsum.audinaut
       eyes: null
       text: |
-        An open-source Airsonic client for Android. Available from F-Droid.
+        An open-source Airsonic client for Android.
     - name: MALP
-      url: https://gitlab.com/gateship-one/malp
+      url: https://gitlab.com/gateship-one/malp/-/blob/master/README.md
+      fdroid: org.gateshipone.malp
       eyes: null
       text: |
         An open-source Android client for MPD. Available on F-Droid.
@@ -1154,7 +1184,8 @@ mobile applications:
       text: |
         Android app - The open-source Android client for Riot.
     - name: Jitsi Meet (F-Droid)
-      url: https://f-droid.org/en/packages/org.jitsi.meet/
+      url: https://meet.jit.si/
+      fdroid: org.jitsi.meet
       eyes: null
       text: |
         Jitsi is an open-source secure video conferencing platform. No account is needed to use it, simply enter a Room Name to join or host a meeting. The host is able to kick rogue users from the call. Works directly in your browser, with apps available for iOS and Android. It is not necessary to self-host, but self-hosting is an option for those who wish to. Very low latency and easy to set up. A free public server is available at (https://meet.jit.si) (**5-eyes** server)
@@ -1186,11 +1217,13 @@ mobile applications:
         Open-source Android launcher styled after the Google Pixel launcher. No F-Droid, but you can download the APK from GitHub.
     - name: ZimLX
       url: https://github.com/otakuhqz/ZimLX
+      fdroid: org.zimmob.zimlx
       eyes: null
       text: |
-        Open-source launcher. Active development with lots of nice features. Available from F-Droid.
+        Open-source launcher. Active development with lots of nice features.
     - name: Lawnchair
       url: https://lawnchair.app/
+      fdroid: ch.deletescape.lawnchair.plah
       eyes: null
       text: |
         Another open-source launcher, also built to look similar to Google's launcher (it is built off AOSP Launcher3). Available from F-Droid and also APKMirror. (thanks u/droidonomy)
@@ -1198,14 +1231,16 @@ mobile applications:
     - title: "*Other*"
     - name: Blokada
       url: https://blokada.org/
+      fdroid: org.blokada.alarm
       eyes: null
       text: |
-        From the website: "If you want to efficiently block ads, trackers, malware, save on your data plan, speed up your device and protect your privacy with just one application, then Blokada is for you. It is free, secure and open source." Uses internal VPN on Android to block ads. [Available from F-Droid](https://f-droid.org/packages/org.blokada.alarm/).
+        From the website: "If you want to efficiently block ads, trackers, malware, save on your data plan, speed up your device and protect your privacy with just one application, then Blokada is for you. It is free, secure and open source." Uses internal VPN on Android to block ads.
     - name: TrackerControl
       url: https://github.com/OxfordHCC/tracker-control-android
+      fdroid: net.kollnig.missioncontrol.fdroid
       eyes: null
       text: |
-        From the GitHub README: Allows users to monitor and control the widespread, ongoing, hidden data collection in mobile apps about user behaviour ("tracking"). To detect tracking, TrackerControl checks all network traffic against the Disconnect blocklist, used and trusted by the Mozilla Firefox browser. [Available from F-Droid](https://f-droid.org/packages/net.kollnig.missioncontrol.fdroid). Thanks @E5dZEUpc3BKaJrHnQVZd5zE
+        From the GitHub README: Allows users to monitor and control the widespread, ongoing, hidden data collection in mobile apps about user behaviour ("tracking"). To detect tracking, TrackerControl checks all network traffic against the Disconnect blocklist, used and trusted by the Mozilla Firefox browser. Thanks @E5dZEUpc3BKaJrHnQVZd5zE
 hardware:
   nexus pixel:
     - title: Nexus/Pixel
