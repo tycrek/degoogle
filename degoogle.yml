@@ -489,6 +489,11 @@ web based products:
       eyes: null
       text: |
         Paid secure email service provided by Epik.com.
+    - name: Thexyz
+      url: https://www.thexyz.com/
+      eyes: 5
+      text: |
+        Thexyz is a Canadian company offering privacy-conscious business email. Premium webmail costs USD $2.95 per month. Thanks @FreddyMarsden
   keep:
     - title: Keep
     - name: Joplin
