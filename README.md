@@ -133,7 +133,6 @@ These Firefox extensions can help prevent connections to Google domains and also
 | ---- | ---- | ----------- |
 | [Local newspaper](https://en.wikipedia.org/wiki/Category:Lists_of_newspapers_by_country) |  | Support independent and qualitative journalism in your community. |
 | [AllSides](https://www.allsides.com/unbiased-balanced-news) |  | Unbiased news source (primarily for US politics). Thanks @jeanofthedead |
-| [*Feeder*](https://gitlab.com/spacecowboy/Feeder/-/blob/master/README.md) [![F-Droid](https://img.shields.io/f-droid/v/com.nononsenseapps.feeder)](https://f-droid.org/en/packages/com.nononsenseapps.feeder/) |  | Use good old-fashioned RSS feeds with Feeder |
 
 
 
@@ -632,6 +631,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [Flym](https://github.com/FredJul/Flym) [![F-Droid](https://img.shields.io/f-droid/v/net.frju.flym)](https://f-droid.org/en/packages/net.frju.flym/) |  | Open-source Material Design RSS reader. |
+| [Feeder](https://gitlab.com/spacecowboy/Feeder/-/blob/master/README.md) [![F-Droid](https://img.shields.io/f-droid/v/com.nononsenseapps.feeder)](https://f-droid.org/en/packages/com.nononsenseapps.feeder/) |  | Use good old-fashioned RSS feeds with Feeder |
 
 
 
