@@ -105,12 +105,6 @@ web based products:
       eyes: null
       text: |
         Unbiased news source (primarily for US politics). Thanks @jeanofthedead
-    - name: "*Feeder*"
-      url: https://gitlab.com/spacecowboy/Feeder/-/blob/master/README.md
-      fdroid: com.nononsenseapps.feeder
-      eyes: null
-      text: |
-        Use good old-fashioned RSS feeds with Feeder
   groups:
     - title: Groups
     - notes:
@@ -1092,6 +1086,12 @@ mobile applications:
       eyes: null
       text: |
         Open-source Material Design RSS reader.
+    - name: Feeder
+      url: https://gitlab.com/spacecowboy/Feeder/-/blob/master/README.md
+      fdroid: com.nononsenseapps.feeder
+      eyes: null
+      text: |
+        Use good old-fashioned RSS feeds with Feeder
   photos:
     - title: Photos
     - name: Piwigo Android
