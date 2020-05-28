@@ -133,6 +133,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 | ---- | ---- | ----------- |
 | [Local newspaper](https://en.wikipedia.org/wiki/Category:Lists_of_newspapers_by_country) |  | Support independent and qualitative journalism in your community. |
 | [AllSides](https://www.allsides.com/unbiased-balanced-news) |  | Unbiased news source (primarily for US politics). Thanks @jeanofthedead |
+| [Miniflux](https://miniflux.app/) |  | Miniflux is a minimalist and opinionated feed reader. Completely open source, along with automatically removing pixel trackers. |
 
 
 
