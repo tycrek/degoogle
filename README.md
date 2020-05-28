@@ -694,6 +694,14 @@ These Firefox extensions can help prevent connections to Google domains and also
 
 
 
+#### Duo (video calls)
+
+| Name | Eyes | Description |
+| ---- | ---- | ----------- |
+| [Jitsi Meet (F-Droid)](https://meet.jit.si/) [![F-Droid](https://img.shields.io/f-droid/v/org.jitsi.meet)](https://f-droid.org/en/packages/org.jitsi.meet/) |  | Jitsi is an open-source secure video conferencing platform. No account is needed to use it, simply enter a Room Name to join or host a meeting. The host is able to kick rogue users from the call. Works directly in your browser, with apps available for iOS and Android. It is not necessary to self-host, but self-hosting is an option for those who wish to. Very low latency and easy to set up. A free public server is available at (https://meet.jit.si) (**5-eyes** server) |
+
+
+
 #### Assistant
 
 | Name | Eyes | Description |
