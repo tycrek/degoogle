@@ -105,6 +105,11 @@ web based products:
       eyes: null
       text: |
         Unbiased news source (primarily for US politics). Thanks @jeanofthedead
+    - name: Miniflux
+      url: https://miniflux.app/
+      eyes: null
+      text: |
+        Miniflux is a minimalist and opinionated feed reader. Completely open source, along with automatically removing pixel trackers.
   groups:
     - title: Groups
     - notes:
