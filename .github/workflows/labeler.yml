@@ -12,3 +12,4 @@ jobs:
       with:
         repo-token: "${{ secrets.GITHUB_TOKEN }}"
         configuration-path: .github/labeler.yml
+        enable-versioned-regex: 0
