@@ -402,7 +402,6 @@ web based products:
         Uses end-to-end encryption. Looks to be more of a corporate service with tiered plans.
     - name: Riot
       url: https://about.riot.im/
-      fdroid: im.vector.alpha
       eyes: 5
       text: |
         Open-source privacy-focused chat service with end-to-end encryption. They offer webapps, desktop apps, iOS, and Android (Play Store and F-Droid). Uses the "Matrix" protocol for decentralized communication. It is 100% free and open-source with no paid plans.
@@ -504,6 +503,7 @@ web based products:
         Open-source notes/todo app. Available for Windows, macOS, Linux, Android, and iOS. Also offers a terminal version. It can import Evernote `.enex` files if you use that. It can also sync with Nextcloud (mentioned above).
     - name: Standard Notes
       url: https://standardnotes.org/
+      fdroid: com.standardnotes
       eyes: null
       text: |
         Encrypted note storage with loads of features. Offers a web app as well as downloads for most operating systems. Has a paid plan, but the free tier has many useful features as well.
@@ -881,6 +881,7 @@ mobile applications:
     - title: Camera
     - name: Open Camera
       url: https://opencamera.sourceforge.io/
+      fdroid: net.sourceforge.opencamera
       eyes: null
       text: |
         Open source camera for Android. Thanks @je-vv
@@ -950,11 +951,13 @@ mobile applications:
         Open-source keyboard. Available on F-Droid.
     - name: Hacker's Keyboard
       url: https://github.com/klausw/hackerskeyboard
+      fdroid: org.pocketworkstation.pckeyboard
       eyes: null
       text: |
         Also open-source. Very useful for developers or sysadmins on the go.
     - name: kboard
       url: https://github.com/adgad/kboard
+      fdroid: com.adgad.kboard
       eyes: null
       text: |
         Open-source. Has features for phrases, "lenny faces", macros and more.
@@ -971,6 +974,7 @@ mobile applications:
         Open-source keyboard that supports many languages that other keyboards sometimes don't support. Not on F-Droid, but can be built from source or possibly through a Play Store alternative.
     - name: OpenBoard
       url: https://github.com/dslul/openboard
+      fdroid: org.dslul.openboard.inputmethod.latin
       eyes: null
       text: |
         New 100% FOSS keyboard, based on AOSP. Similar to "Simple Keyboard". Thanks @Glitchy-Tozier
@@ -1190,11 +1194,13 @@ mobile applications:
         encrypted chat like Signal with features like Slack. Does not require a phone number to sign up. Also has file storage. **Note:** Keybase was acquired by Zoom, Inc. in May 2020 ([Keybase blog](https://keybase.io/blog/keybase-joins-zoom), [Zoom blog](https://blog.zoom.us/wordpress/2020/05/07/zoom-acquires-keybase-and-announces-goal-of-developing-the-most-broadly-used-enterprise-end-to-end-encryption-offering/)). Thanks @notpushkin & @multimob.
     - name: Conversations
       url: https://conversations.im/
+      fdroid: eu.siacs.conversations
       eyes: 14
       text: |
         An open-source Android Jabber/XMPP client. It's a paid app on Google Play, but you can also [build it from source](https://github.com/siacs/Conversations) for free if you want to.
     - name: Riot
       url: https://github.com/vector-im/riot-android
+      fdroid: im.vector.alpha
       eyes: 5
       text: |
         Android app - The open-source Android client for Riot.
