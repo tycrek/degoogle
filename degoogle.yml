@@ -211,6 +211,11 @@ web based products:
       eyes: 5
       text: |
         Simple, privacy friendly analytics with event tracking. Paid only (with free trial)
+    - name: Shynet
+      url: https://github.com/milesmcc/shynet
+      eyes: null
+      text: |
+        Shynet is a self-hosted analytics tool that doesn't make use of cookies. It is privacy focused and fully open-source. Thanks @woutfeys
   photos:
     - title: Photos
     - name: Photoprism
