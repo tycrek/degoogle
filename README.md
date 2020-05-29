@@ -201,6 +201,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 | [GoatCounter](https://www.goatcounter.com/) | **14-eyes** | Simple web statistics. No tracking of personal data. Open-source and may be self-hosted. Free for non-commercial use; paid plans available. |
 | [Simple Analytics](https://simpleanalytics.com/) | **9-eyes** | Great analytics with privacy and simplicity in mind. Paid plans only (with free trials). |
 | [Toasted Analytics](https://toastedanalytics.com/) | **5-eyes** | Simple, privacy friendly analytics with event tracking. Paid only (with free trial) |
+| [Shynet](https://github.com/milesmcc/shynet) |  | Shynet is a self-hosted analytics tool that doesn't make use of cookies. It is privacy focused and fully open-source. Thanks @woutfeys |
 
 
 
