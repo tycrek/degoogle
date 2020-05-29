@@ -1,0 +1,8 @@
+fix:
+  - '[FIX]'
+new:
+  - '[NEW]'
+remove:
+  - '[REMOVE]'
+other:
+  - '[OTHER]'
