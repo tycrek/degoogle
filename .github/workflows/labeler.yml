@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Apply Label
-      uses: tycrek/issue-labeler@v2.2.2
+      uses: tycrek/issue-labeler@v2.2.3
       with:
         repo-token: "${{ secrets.GITHUB_TOKEN }}"
         configuration-path: .github/labeler.yml
