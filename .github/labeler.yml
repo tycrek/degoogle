@@ -1,8 +1,8 @@
 fix:
-  - '[FIX]'
+  - 'FIX'
 new:
-  - '[NEW]'
+  - 'NEW'
 remove:
-  - '[REMOVE]'
+  - 'REMOVE'
 other:
-  - '[OTHER]'
+  - 'OTHER'
