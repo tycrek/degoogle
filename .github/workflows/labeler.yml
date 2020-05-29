@@ -1,4 +1,4 @@
-name: RegEx Issue Title Labeler
+name: RegEx Issue Labeler
 on:
   issues:
     types: [opened, edited]
@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Apply Label
-      uses: tycrek/issue-labeler@v2.2
+      uses: github/issue-labeler@v2.0
       with:
         repo-token: "${{ secrets.GITHUB_TOKEN }}"
         configuration-path: .github/labeler.yml
