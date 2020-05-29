@@ -564,6 +564,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 | ---- | ---- | ----------- |
 | [QKSMS](https://github.com/moezbhatti/qksms) [![F-Droid](https://img.shields.io/f-droid/v/com.moez.QKSMS)](https://f-droid.org/en/packages/com.moez.QKSMS/) |  | Open-source. Very clean and feature rich SMS app. Available on F-Droid. |
 | [Silence.im](https://silence.im/) [![F-Droid](https://img.shields.io/f-droid/v/org.smssecure.smssecure)](https://f-droid.org/en/packages/org.smssecure.smssecure/) |  | Open-source and utilizes Signal's encryption protocol. Seamlessly works with SMS. End-to-end encryption with other Silence users. Available on F-Droid. |
+| [Signal](https://signal.org/) |  | Signal possesses SMS/MMS capabilities on Android. Using it as your default SMS app has the advantage of having your SMS and your online-messaging-service integrated within one app. Doing so will also show stats within the app of how many messages you send are encrypted, and offers to send invites to your contacts. Thanks @Glitchy-Tozier for suggesting it be listing as SMS/MMS alternative. |
 
 
 
