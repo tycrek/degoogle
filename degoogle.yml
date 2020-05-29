@@ -1294,6 +1294,11 @@ hardware:
       eyes: 5
       text: |
         From the company that makes Purism laptops. Runs PureOS. Thanks @brandonnodnarb
+    - name: PinePhone
+      url: https://www.pine64.org/pinephone/
+      eyes: 5
+      text: |
+        From the company that makes the Pine A64 Single Board Computer. Runs a variety of mainline Linux OSs with UIs adapted for mobile.
   chromebook:
     - title: Chromebook
     - name: TUXEDO
