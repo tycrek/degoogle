@@ -965,7 +965,7 @@ mobile applications:
       fdroid: com.adgad.kboard
       eyes: null
       text: |
-        Open-source. Has features for phrases, "lenny faces", macros and more.
+        Open-source. Has features for phrases, "lenny faces", macros and more. **Note**: Project [appears to be abandoned](https://github.com/adgad/kboard/issues/16).
     - name: Simple Keyboard
       url: https://github.com/rkkr/simple-keyboard
       fdroid: rkr.simplekeyboard.inputmethod
