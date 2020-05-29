@@ -1245,6 +1245,12 @@ mobile applications:
       eyes: null
       text: |
         Another open-source launcher, also built to look similar to Google's launcher (it is built off AOSP Launcher3). Available from F-Droid and also APKMirror. (thanks u/droidonomy)
+    - name: KISS Launcher
+      url: https://kisslauncher.com/
+      fdroid: fr.neamar.kiss
+      eyes: null
+      text: |
+        Fast, open-source and small launcher. KISS mainly relies on an app-search-bar, which makes it very easy to open up apps quickly. Thanks @Glitchy-Tozier
   other:
     - title: "*Other*"
     - name: Blokada
