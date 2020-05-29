@@ -45,6 +45,7 @@ GitHub:
 - [@FreddyMarsden](https://github.com/FreddyMarsden)
 - [@E5dZEUpc3BKaJrHnQVZd5zE](https://github.com/E5dZEUpc3BKaJrHnQVZd5zE)
 - [@woutfeys](https://github.com/woutfeys)
+- [@virtadpt](https://github.com/virtadpt)
 
 Reddit:
 
