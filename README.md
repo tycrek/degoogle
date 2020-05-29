@@ -284,7 +284,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 | [Signal](https://signal.org/) | **5-eyes** | Whistleblower and privacy advocate Edward Snowden recommends Signal. |
 | [Tox](https://tox.chat/) |  | Tox is unique as it uses P2P technology to ensure the network *never* goes down, as long as there are users to keep it alive. They specifically say on the website "Tox has no central servers that can be raided, shut down, or forced to turn over data". |
 | [Wire](https://wire.com/en/) | **5-eyes** | Uses end-to-end encryption. Looks to be more of a corporate service with tiered plans. |
-| [Riot](https://about.riot.im/) [![F-Droid](https://img.shields.io/f-droid/v/im.vector.alpha)](https://f-droid.org/en/packages/im.vector.alpha/) | **5-eyes** | Open-source privacy-focused chat service with end-to-end encryption. They offer webapps, desktop apps, iOS, and Android (Play Store and F-Droid). Uses the "Matrix" protocol for decentralized communication. It is 100% free and open-source with no paid plans. |
+| [Riot](https://about.riot.im/) | **5-eyes** | Open-source privacy-focused chat service with end-to-end encryption. They offer webapps, desktop apps, iOS, and Android (Play Store and F-Droid). Uses the "Matrix" protocol for decentralized communication. It is 100% free and open-source with no paid plans. |
 | [Threema](https://threema.ch/en) |  | Swiss-based GDPR-compliant instant messenger. Has apps for both iOS and Android. Unlike Signal, no phone number is required (nor is an email) to sign up. End-to-end encrypted. Thanks to @nathanvogel |
 | [Keybase](https://keybase.io/) | **5-eyes** | encrypted chat like Signal with features like Slack. Does not require a phone number to sign up. Also has file storage. **Note:** Keybase was acquired by Zoom, Inc. in May 2020 ([Keybase blog](https://keybase.io/blog/keybase-joins-zoom), [Zoom blog](https://blog.zoom.us/wordpress/2020/05/07/zoom-acquires-keybase-and-announces-goal-of-developing-the-most-broadly-used-enterprise-end-to-end-encryption-offering/)). Thanks @notpushkin & @multimob. |
 | [Jitsi](https://jitsi.org/) | **5-eyes** | Jitsi is an open-source secure video conferencing platform. No account is needed to use it, simply enter a Room Name to join or host a meeting. The host is able to kick rogue users from the call. Works directly in your browser, with apps available for iOS and Android. It is not necessary to self-host, but self-hosting is an option for those who wish to. Very low latency and easy to set up. A free public server is available at (https://meet.jit.si) (**5-eyes** server) |
@@ -320,7 +320,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [Joplin](https://joplinapp.org/) |  | Open-source notes/todo app. Available for Windows, macOS, Linux, Android, and iOS. Also offers a terminal version. It can import Evernote `.enex` files if you use that. It can also sync with Nextcloud (mentioned above). |
-| [Standard Notes](https://standardnotes.org/) |  | Encrypted note storage with loads of features. Offers a web app as well as downloads for most operating systems. Has a paid plan, but the free tier has many useful features as well. |
+| [Standard Notes](https://standardnotes.org/) [![F-Droid](https://img.shields.io/f-droid/v/com.standardnotes)](https://f-droid.org/en/packages/com.standardnotes/) |  | Encrypted note storage with loads of features. Offers a web app as well as downloads for most operating systems. Has a paid plan, but the free tier has many useful features as well. |
 | [Zoho Notebook](https://www.zoho.com/notebook/) |  | A notebook from Zoho. Also available on Android. |
 | [Turtl](https://turtlapp.com/) |  | Encrypted collaborative notebook with possibility of running your own server. |
 | [QOwnNotes](https://www.qownnotes.org/) |  | Open-source file editor with Markdown support. (thanks u/maqp2) |
@@ -534,7 +534,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
-| [Open Camera](https://opencamera.sourceforge.io/) |  | Open source camera for Android. Thanks @je-vv |
+| [Open Camera](https://opencamera.sourceforge.io/) [![F-Droid](https://img.shields.io/f-droid/v/net.sourceforge.opencamera)](https://f-droid.org/en/packages/net.sourceforge.opencamera/) |  | Open source camera for Android. Thanks @je-vv |
 
 
 
@@ -573,11 +573,11 @@ These Firefox extensions can help prevent connections to Google domains and also
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [AnySoftKeyboard](https://anysoftkeyboard.github.io/) [![F-Droid](https://img.shields.io/f-droid/v/com.menny.android.anysoftkeyboard)](https://f-droid.org/en/packages/com.menny.android.anysoftkeyboard/) |  | Open-source keyboard. Available on F-Droid. |
-| [Hacker's Keyboard](https://github.com/klausw/hackerskeyboard) |  | Also open-source. Very useful for developers or sysadmins on the go. |
-| [kboard](https://github.com/adgad/kboard) |  | Open-source. Has features for phrases, "lenny faces", macros and more. |
+| [Hacker's Keyboard](https://github.com/klausw/hackerskeyboard) [![F-Droid](https://img.shields.io/f-droid/v/org.pocketworkstation.pckeyboard)](https://f-droid.org/en/packages/org.pocketworkstation.pckeyboard/) |  | Also open-source. Very useful for developers or sysadmins on the go. |
+| [kboard](https://github.com/adgad/kboard) [![F-Droid](https://img.shields.io/f-droid/v/com.adgad.kboard)](https://f-droid.org/en/packages/com.adgad.kboard/) |  | Open-source. Has features for phrases, "lenny faces", macros and more. |
 | [Simple Keyboard](https://github.com/rkkr/simple-keyboard) [![F-Droid](https://img.shields.io/f-droid/v/rkr.simplekeyboard.inputmethod)](https://f-droid.org/en/packages/rkr.simplekeyboard.inputmethod/) |  | Open-source keyboard. |
 | [Indic Keyboard](https://gitlab.com/indicproject/indic-keyboard) |  | Open-source keyboard that supports many languages that other keyboards sometimes don't support. Not on F-Droid, but can be built from source or possibly through a Play Store alternative. |
-| [OpenBoard](https://github.com/dslul/openboard) |  | New 100% FOSS keyboard, based on AOSP. Similar to "Simple Keyboard". Thanks @Glitchy-Tozier |
+| [OpenBoard](https://github.com/dslul/openboard) [![F-Droid](https://img.shields.io/f-droid/v/org.dslul.openboard.inputmethod.latin)](https://f-droid.org/en/packages/org.dslul.openboard.inputmethod.latin/) |  | New 100% FOSS keyboard, based on AOSP. Similar to "Simple Keyboard". Thanks @Glitchy-Tozier |
 
 
 
@@ -690,8 +690,8 @@ These Firefox extensions can help prevent connections to Google domains and also
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [Keybase](https://keybase.io/) | **5-eyes** | encrypted chat like Signal with features like Slack. Does not require a phone number to sign up. Also has file storage. **Note:** Keybase was acquired by Zoom, Inc. in May 2020 ([Keybase blog](https://keybase.io/blog/keybase-joins-zoom), [Zoom blog](https://blog.zoom.us/wordpress/2020/05/07/zoom-acquires-keybase-and-announces-goal-of-developing-the-most-broadly-used-enterprise-end-to-end-encryption-offering/)). Thanks @notpushkin & @multimob. |
-| [Conversations](https://conversations.im/) | **14-eyes** | An open-source Android Jabber/XMPP client. It's a paid app on Google Play, but you can also [build it from source](https://github.com/siacs/Conversations) for free if you want to. |
-| [Riot](https://github.com/vector-im/riot-android) | **5-eyes** | Android app - The open-source Android client for Riot. |
+| [Conversations](https://conversations.im/) [![F-Droid](https://img.shields.io/f-droid/v/eu.siacs.conversations)](https://f-droid.org/en/packages/eu.siacs.conversations/) | **14-eyes** | An open-source Android Jabber/XMPP client. It's a paid app on Google Play, but you can also [build it from source](https://github.com/siacs/Conversations) for free if you want to. |
+| [Riot](https://github.com/vector-im/riot-android) [![F-Droid](https://img.shields.io/f-droid/v/im.vector.alpha)](https://f-droid.org/en/packages/im.vector.alpha/) | **5-eyes** | Android app - The open-source Android client for Riot. |
 | [Jitsi Meet (F-Droid)](https://meet.jit.si/) [![F-Droid](https://img.shields.io/f-droid/v/org.jitsi.meet)](https://f-droid.org/en/packages/org.jitsi.meet/) |  | Jitsi is an open-source secure video conferencing platform. No account is needed to use it, simply enter a Room Name to join or host a meeting. The host is able to kick rogue users from the call. Works directly in your browser, with apps available for iOS and Android. It is not necessary to self-host, but self-hosting is an option for those who wish to. Very low latency and easy to set up. A free public server is available at (https://meet.jit.si) (**5-eyes** server) |
 
 
