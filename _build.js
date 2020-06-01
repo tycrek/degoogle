@@ -29,7 +29,7 @@ const BUILD_SECTION = {
 }
 
 // Button that brings the user to the top of the page
-const BACK_TO_TOP = '[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](#index)';
+const BACK_TO_TOP = '[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)';
 
 /**
  * Main method
@@ -134,7 +134,7 @@ function generateServiceSection(data) {
  * @param {String} appId The package identifier on F-Droid
  */
 function fdroidLink(appId) {
-    return `[![F-Droid](https://img.shields.io/f-droid/v/${appId})](https://f-droid.org/en/packages/${appId}/)`;
+    return `[![F-Droid](https://img.shields.io/f-droid/v/${appId}?style=flat-square)](https://f-droid.org/en/packages/${appId}/)`;
 }
 
 /**
@@ -143,7 +143,7 @@ function fdroidLink(appId) {
  */
 function addonLink(link) {
     let addonId = link.split('/')[link.split('/').length - 1]
-    return `![Mozilla Add-on](https://img.shields.io/amo/users/${addonId})`;
+    return `![Mozilla Add-on](https://img.shields.io/amo/users/${addonId}?style=flat-square)`;
 }
 
 /**
@@ -151,7 +151,7 @@ function addonLink(link) {
  * @param {String|Number} date Date of publication
  */
 function dateBadge(date) {
-    return `![Published](https://img.shields.io/badge/${date.toString().replace(/\-/g, '--')}-informational.svg)`
+    return `![Published](https://img.shields.io/badge/${date.toString().replace(/\-/g, '--')}-informational?style=flat-square)`
 }
 
 /**
