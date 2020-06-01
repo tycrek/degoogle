@@ -27,6 +27,9 @@ const BUILD_SECTION = {
     closingRemarks: () => readFile('md/_closingRemarks.md')
 }
 
+// Button that brings the user to the top of the page
+const BACK_TO_TOP = '[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](https://github.com/tycrek/degoogle#readme)';
+
 /**
  * Main method
  */
@@ -83,7 +86,7 @@ function generateCategorySection(header, data) {
     if (!data) return '';
 
     // Set the header to HTML <h5>
-    let categorySection = '## ' + header + os.EOL + os.EOL;
+    let categorySection = '## ' + header + ' ' + BACK_TO_TOP + os.EOL + os.EOL;
 
     // Generate service sections for this category
     Object.keys(data).forEach((key) => categorySection = categorySection.concat(generateServiceSection(data[key]) + os.EOL + os.EOL));
@@ -97,7 +100,7 @@ function generateCategorySection(header, data) {
  */
 function generateServiceSection(data) {
     // Start the section with an <h4> header and the start of a Markdown table
-    let serviceSection = `#### ${data[0].title + os.EOL + os.EOL}| Name | Eyes | Description |${os.EOL}| ---- | ---- | ----------- |${os.EOL}`;
+    let serviceSection = `#### ${data[0].title + ' ' + BACK_TO_TOP + os.EOL + os.EOL}| Name | Eyes | Description |${os.EOL}| ---- | ---- | ----------- |${os.EOL}`;
     let notes = os.EOL + '';
     // Iterate over each alternative service and add it to the table
     data.forEach(item => {
