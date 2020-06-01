@@ -59,7 +59,7 @@ function __main__() {
     // Write to the README file
     fs.writeFileSync(path.join(__dirname, 'README.md'), dgSectionData.join(os.EOL + os.EOL));
 
-    console.log('Done!')
+    console.log('Done!');
 }
 
 /**
@@ -86,7 +86,7 @@ function generateCategorySection(header, data) {
     if (!data) return '';
 
     // Set the header to HTML <h5>
-    let categorySection = '## ' + header + ' ' + BACK_TO_TOP + os.EOL + os.EOL;
+    let categorySection = '## ' + header + os.EOL + BACK_TO_TOP + os.EOL + os.EOL;
 
     // Generate service sections for this category
     Object.keys(data).forEach((key) => categorySection = categorySection.concat(generateServiceSection(data[key]) + os.EOL + os.EOL));
@@ -107,7 +107,7 @@ function generateServiceSection(data) {
         // If the object has length one, it's either title or note
         if (Object.keys(item).length == 1) {
             if (!item.notes) return;
-            else item.notes.forEach((note) => notes = notes.concat(`- *${note.trim()}*${os.EOL}`))
+            else item.notes.forEach((note) => notes = notes.concat(`- *${note.trim()}*${os.EOL}`));
         } else {
             // Build the cells for the table
             let name = `[${item.name}](${item.url})`;
@@ -115,13 +115,13 @@ function generateServiceSection(data) {
             let text = item.text.trim();
             
             // Append the F-Droid badge to the name
-            if (item.fdroid) name = name.concat(' ' + fdroidLink(item.fdroid))
+            if (item.fdroid) name = name.concat(' ' + fdroidLink(item.fdroid));
     
             // Build the row
             let tableItem = `| ${name} | ${eyes} | ${text} |`;
     
             // Add the row to the table
-            serviceSection = serviceSection.concat(tableItem + os.EOL)
+            serviceSection = serviceSection.concat(tableItem + os.EOL);
         }
     });
 
@@ -151,7 +151,7 @@ function generateBrowserExtensions() {
 
         let tableItem = `| ${name + ' ' + badge} | ${text} |`;
 
-        extensions = extensions.concat(tableItem + os.EOL)
+        extensions = extensions.concat(tableItem + os.EOL);
     });
 
     return extensions;
