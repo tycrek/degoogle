@@ -879,6 +879,12 @@ mobile applications:
       eyes: null
       text: |
         Open-source feature-rich calculator. App itself is no longer in development, but the developer does [encourage pull requests](https://github.com/tranleduy2000/ncalc#calculator-n---powerful-calculator-for-android). I've used it frequently and it works great. Not on F-Droid, but a 3rd party play store can probably find it; or the APK's are available as releases on GitHub. You can also compile from source.
+    - name: Calculator++
+      url: https://github.com/Bubu/android-calculatorpp
+      fdroid: org.solovyev.android.calculator
+      eyes: null
+      text: |
+        Open-source calculator packed with features. Thanks @ghost
   calendar:
     - title: Calendar
     - name: Fruux (mobile app)
