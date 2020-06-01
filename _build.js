@@ -3,12 +3,13 @@
 const os = require('os');
 const path = require('path');
 const fs = require('fs-extra');
+const moment = require('moment');
 const YAML = require('yaml');
 
 // A hacky sort of "class" to contain methods for each section
 const BUILD_SECTION = {
     // TODO: Make more of these YAML-based functions
-    header: () => readFile('md/_header.md'),
+    header: () => readFile('md/_header.md').replace('{{DATE}}', moment().format('MMMM Do YYYY @h:mm a').replace(/ /g, '%20')),
     index: () => readFile('md/_index.md'),
     contributing: () => readFile('md/_contributing.md'),
     browserExtensions: () => generateBrowserExtensions(),

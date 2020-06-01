@@ -18,6 +18,7 @@
   "homepage": "https://github.com/tycrek/degoogle#readme",
   "dependencies": {
     "fs-extra": "^9.0.0",
+    "moment": "^2.26.0",
     "yaml": "^1.10.0"
   }
 }
