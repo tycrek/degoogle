@@ -179,6 +179,11 @@ web based products:
       eyes: null
       text: |
         Open-source modern CMS. Boasts "over 19x faster than WordPress". Thanks @peterge1998
+    - name: Bear
+      url: https://bearblog.dev/
+      eyes: 5
+      text: |
+        Free, no-nonsense, super-fast blogging. No javascript, no stylesheets, no trackers. Just your words. Thanks @FreddyMarsden
   analytics:
     - title: Analytics
     - name: Matomo
@@ -1363,4 +1368,3 @@ hardware:
     - notes:
       - |
         Due to Google's  [recent acquisition of FitBit](https://outline.com/tsJCYN), it is recommended to avoid using FitBit. Instead, check out this [list of smart watches](https://asteroidos.org/install/) supported by Asteroid OS (See Wear OS in [Operating systems](#operating-systems)). Thanks @ribtoks
-
