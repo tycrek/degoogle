@@ -521,6 +521,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 | ---- | ---- | ----------- |
 | [Simple Calculator](https://github.com/SimpleMobileTools/Simple-Calculator) [![F-Droid](https://img.shields.io/f-droid/v/com.simplemobiletools.calculator)](https://f-droid.org/en/packages/com.simplemobiletools.calculator/) |  | Also part of the SMT project. Available on F-Droid. |
 | [Calculator N+ or NCalc+](https://github.com/tranleduy2000/ncalc) |  | Open-source feature-rich calculator. App itself is no longer in development, but the developer does [encourage pull requests](https://github.com/tranleduy2000/ncalc#calculator-n---powerful-calculator-for-android). I've used it frequently and it works great. Not on F-Droid, but a 3rd party play store can probably find it; or the APK's are available as releases on GitHub. You can also compile from source. |
+| [Calculator++](https://github.com/Bubu/android-calculatorpp) [![F-Droid](https://img.shields.io/f-droid/v/org.solovyev.android.calculator)](https://f-droid.org/en/packages/org.solovyev.android.calculator/) |  | Open-source calculator packed with features. Thanks @ghost |
 
 
 
