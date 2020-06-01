@@ -20,9 +20,9 @@ const BUILD_SECTION = {
     hardware: () => generateCategorySection('Hardware', readYaml()['hardware']),
     useful: () => '# Useful links, tools, and advice',
     resources: () => readFile('md/_resources.md'),
-    books: () => readFile('md/_books.md'),
-    blogs: () => readFile('md/_blogs.md'),
-    news: () => readFile('md/_news.md'),
+    books: () => generatePublications('Books', 'books'),
+    blogs: () => generatePublications('Blog posts', 'blogs'),
+    news: () => generatePublications('News articles', 'news'),
     lighterSide: () => readFile('md/_lighterSide.md'),
     closingRemarks: () => readFile('md/_closingRemarks.md')
 }
@@ -136,11 +136,26 @@ function fdroidLink(appId) {
     return `[![F-Droid](https://img.shields.io/f-droid/v/${appId})](https://f-droid.org/en/packages/${appId}/)`;
 }
 
+/**
+ * Returns a badge displaying user for a Firefox addon/extension
+ * @param {String} link URL to extension WITHOUT trailing slash
+ */
 function addonLink(link) {
     let addonId = link.split('/')[link.split('/').length - 1]
     return `![Mozilla Add-on](https://img.shields.io/amo/users/${addonId})`;
 }
 
+/**
+ * Returns a badge with the date of publication
+ * @param {String|Number} date Date of publication
+ */
+function dateBadge(date) {
+    return `![Published](https://img.shields.io/badge/${date.toString().replace(/\-/g, '--')}-informational.svg)`
+}
+
+/**
+ * Generates a table with browser extensions and their descriptions
+ */
 function generateBrowserExtensions() {
     let extensions = `# Browser extensions${os.EOL + os.EOL}| Name | Description |${os.EOL}| ---- | ----------- |${os.EOL}`;
     let data = YAML.parse(fs.readFileSync(path.join(__dirname, 'yaml/browserExtensions.yml')).toString());
@@ -155,6 +170,26 @@ function generateBrowserExtensions() {
     });
 
     return extensions;
+}
+
+/**
+ * Generates sections for Books, Blogs, and News
+ * @param {String} title 
+ * @param {String} filename 
+ */
+function generatePublications(title, filename) {
+    let publications = `## ${title} ${os.EOL + BACK_TO_TOP + os.EOL + os.EOL}| Title | Published | Author |${os.EOL}| ----- | --------- | ------ |${os.EOL}`;
+    let data = YAML.parse(fs.readFileSync(path.join(__dirname, `yaml/${filename}.yml`)).toString());
+    data.forEach(item => {
+        let name = `[${item.title}](${item.url})`;
+        let author = item.author.trim();
+
+        let tableItem = `| ${name} | ${dateBadge(item.date)} | ${author} |`;
+
+        publications = publications.concat(tableItem + os.EOL);
+    });
+
+    return publications;
 }
 
 __main__();
