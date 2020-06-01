@@ -29,7 +29,7 @@
 - name: minerBlock
   url: https://addons.mozilla.org/en-US/firefox/addon/minerblock-origin
   text: |
-    MinerBlock is an efficient browser extension that focuses on blocking browser-based cryptocurrency miners all over the web. This extension uses two different approaches to block miners. The first one is based on blocking requests/scripts loaded from a blacklist, this is the traditional approach adopted by most ad-blockers and other mining blockers. The other approach which makes MinerBlock more efficient against cryptojacking is detecting potential mining behavior inside loaded scripts and kills them immediately. This makes the extension able to block inline scripts as well as miners running through proxies. Source code available on [Github](https://outgoing.prod.mozaws.net/v1/639ca8702e5e849eb1383417d3751d8479f378ae7343b155c39266fb41055398/https%3A//github.com/xd4rker/MinerBlock).
+    MinerBlock is an efficient browser extension that focuses on blocking browser-based cryptocurrency miners all over the web. This extension uses two different approaches to block miners. The first one is based on blocking requests/scripts loaded from a blacklist, this is the traditional approach adopted by most ad-blockers and other mining blockers. The other approach which makes MinerBlock more efficient against cryptojacking is detecting potential mining behavior inside loaded scripts and kills them immediately. This makes the extension able to block inline scripts as well as miners running through proxies. Source code available on [GitHub](https://github.com/xd4rker/MinerBlock).
 - name: Terms of Service; Didn't Read
   url: https://addons.mozilla.org/en-US/firefox/addon/terms-of-service-didnt-read
   text: |
