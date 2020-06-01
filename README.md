@@ -98,7 +98,8 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
     - [What are 5-eyes, 9-eyes, and 14-eyes?](https://www.privacytools.io/providers/#ukusa)
 
 
-## Web-based products [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](https://github.com/tycrek/degoogle#readme)
+## Web-based products
+[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](#index)
 
 #### Search (Web & Images)
 
@@ -409,7 +410,8 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 
 
 
-## Operating systems [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](https://github.com/tycrek/degoogle#readme)
+## Operating systems
+[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](#index)
 
 #### Android/Fuchsia
 
@@ -466,7 +468,8 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 
 
 
-## Desktop apps [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](https://github.com/tycrek/degoogle#readme)
+## Desktop apps
+[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](#index)
 
 #### Chrome
 
@@ -501,7 +504,8 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 
 
 
-## Mobile apps [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](https://github.com/tycrek/degoogle#readme)
+## Mobile apps
+[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](#index)
 
 #### Play Store
 
@@ -761,7 +765,8 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 
 
 
-## Hardware [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](https://github.com/tycrek/degoogle#readme)
+## Hardware
+[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](#index)
 
 #### Nexus/Pixel
 
@@ -850,44 +855,54 @@ Everything you need to become a Privacy Wizard.
 - [Virustotal](https://www.virustotal.com/) let's you upload files and it scans it against multiple antivirus software at once. Very helpful for checking false negatives. Website uses Google Analytics.
 - Did you read the [wiki](https://old.reddit.com/r/privacy/wiki/index) yet? Go do that.
 
-## Books
+## Books 
+[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](#index)
 
-- [Edward Snowden - Permanent Record (Autobiography)](https://www.goodreads.com/book/show/46223297-permanent-record)
-- [Jaron Lanier - Ten arguments for deleting your social media accounts right now](http://www.jaronlanier.com/tenarguments.html) (2018)
-- [Shoshana Zuboff - The age of surveillance capitalism: The fight for a human future at the new frontier of power](https://www.publicaffairsbooks.com/titles/shoshana-zuboff/the-age-of-surveillance-capitalism/9781610395694/) (2019)
-- [Tim Wu - The Attention Merchants: a revelatory, ambitious and urgent account of how the capture and re-sale of human attention became the defining industry of our time.](http://www.timwu.org/AttentionMerchants.html) (2017)
-  - [Review from The Guardian](https://www.theguardian.com/books/2016/dec/26/the-attention-merchants-tim-wu-review)
-- [Roger McNamee - The story of how a noted tech venture capitalist, an early mentor to Mark Zuckerberg and investor in his company, woke up to the serious damage Facebook was doing to our society and set out to try to stop it.](https://www.zuckedbook.com/) (2019)
+| Title | Published | Author |
+| ----- | --------- | ------ |
+| [Permanent Record](https://www.goodreads.com/book/show/46223297-permanent-record) | ![Published](https://img.shields.io/badge/2019-informational.svg) | Edward Snowden |
+| [Ten Arguments for Deleting Your Social Media Accounts Right Now](http://www.jaronlanier.com/tenarguments.html) | ![Published](https://img.shields.io/badge/2018-informational.svg) | Jaron Lanier |
+| [The Age of Surveillance Capitalism](https://www.publicaffairsbooks.com/titles/shoshana-zuboff/the-age-of-surveillance-capitalism/9781610395694/) | ![Published](https://img.shields.io/badge/2019-informational.svg) | Shoshana Zuboff |
+| [The Attention Merchants](http://www.timwu.org/AttentionMerchants.html) | ![Published](https://img.shields.io/badge/2016-informational.svg) | Tim Wu |
+| [Zucked](https://www.zuckedbook.com/) | ![Published](https://img.shields.io/badge/2019-informational.svg) | Roger McNamee |
 
-## Blog posts
 
-- [Electronic Frontier Foundation - Blog 2018-11-01: Google Chrome’s users take a back seat to its bottom line](https://www.eff.org/deeplinks/2018/11/google-chromes-users-take-back-seat-its-bottom-line)
-- [J. Nathan Matias - Blog 2018-12-08: Quitting Facebook & Google](https://medium.com/@natematias/https-medium-com-natematias-quitting-facebook-google-aaf8f4c80fbf)
-- [Marko Saric - Blog 2019-12-05: How to fight back against Google AMP as a web user and a web developer](https://markosaric.com/google-amp/)
-- Click [here](https://www.mozilla.org/en-US/internet-health/privacy-security/) and [here](https://blog.mozilla.org/internetcitizen/2017/01/30/15-privacy-tips-protect-online-life/) for tips from the Mozilla Foundation on internet privacy and security.
+## Blog posts 
+[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](#index)
 
-## News articles
+| Title | Published | Author |
+| ----- | --------- | ------ |
+| [Google Chrome’s users take a back seat to its bottom line](https://www.eff.org/deeplinks/2018/11/google-chromes-users-take-back-seat-its-bottom-line) | ![Published](https://img.shields.io/badge/2018--11--01-informational.svg) | Bennett Cyphers and Mitch Stoltz - EFF |
+| [Quitting Facebook & Google](https://medium.com/@natematias/https-medium-com-natematias-quitting-facebook-google-aaf8f4c80fbf) | ![Published](https://img.shields.io/badge/2018--12--08-informational.svg) | J. Nathan Matias |
+| [How to fight back against Google AMP as a web user and a web developer](https://markosaric.com/google-amp/) | ![Published](https://img.shields.io/badge/2019--12--05-informational.svg) | Marko Saric |
 
-- [Forbes - 2012-05-15: Google can survive too much innovation. You can’t.](https://www.forbes.com/sites/forbesleadershipforum/2012/05/15/google-can-survive-too-much-innovation-you-cant/#37ff02f66003)
-- [Business Insider - 2015-04-17: The truth about Google’s famous ’20% time’ policy](https://www.businessinsider.com/google-20-percent-time-policy-2015-4)
-- [The Atlantic - 2016-11-01: The binge breaker](https://www.theatlantic.com/magazine/archive/2016/11/the-binge-breaker/501122/)
-- [WIRED - 2017-09-22: How malware keeps sneaking past Google Play’s defenses](https://www.wired.com/story/google-play-store-malware/)
-- [MIT Technology Review - 2017-10-03: Forget killer robots - bias is the real AI danger](https://www.technologyreview.com/s/608986/forget-killer-robotsbias-is-the-real-ai-danger/)
-- [Business Insider - 2018-01-08: Google managers kept blacklists of conservative employees and one manager considered holding ‘trials,’ a new lawsuit alleges](https://www.businessinsider.com/conservative-google-employees-are-blacklisted-lawsuit-alleges-2018-1)
-- [CNBC - 2018-01-24: A longtime Google engineer quits, saying the company is now ‘100% competitor-focused’](https://www.cnbc.com/2018/01/24/google-engineer-steve-yege-calls-company-100-percent-competitor-focused.html)
-- [Washington Post - 2018-01-26: Facebook and Google are doomed, George Soros says](https://www.washingtonpost.com/news/the-switch/wp/2018/01/26/facebook-and-google-are-doomed-george-soros-says/)
-- [Gizmodo - 2018-03-26: Google isn’t listening, so its employees are suing](https://gizmodo.com/google-isnt-listening-so-its-employees-are-suing-1823611720)
-- [The Guardian - 2018-03-28: Google sees major claims of harassment and discrimination as lawsuits proceed](https://www.theguardian.com/technology/2018/mar/28/google-sexual-harassment-pay-gap-lawsuits-proceed)
-- [CNBC - 2018-05-11: How to stop Google from tracking everything you do online](https://www.cnbc.com/2018/05/11/how-to-stop-google-from-tracking-me-online.html)
-- [Engadget - 2018-05-24: Google will always do evil](https://www.engadget.com/2018/05/24/google-will-always-do-evil/)
-- [TechCrunch - 2018-06-07: Google’s new ‘AI principles’ forbid its use in weapons and human rights violations](https://techcrunch.com/2018/06/07/googles-new-ai-principles-forbid-its-use-in-weapons-and-human-rights-violations/)
-- [The Intercept - 2018-08-01: Google plans to launch censored search engine in China, leaked documents reveal](https://theintercept.com/2018/08/01/google-china-search-engine-censorship/)
-- [Washington Post - 2018-08-09: Opinion - Google’s China plan isn’t just evil - it’s bad for business](https://www.washingtonpost.com/opinions/global-opinions/googles-china-plan-isnt-just-evil--its-bad-for-business/2018/08/09/143046be-9c12-11e8-8d5e-c6c594024954_story.html)
-- [The New York Times - 2018-10-25: How Google protected Andy Rubin, the ‘Father of Android’](https://www.nytimes.com/2018/10/25/technology/google-sexual-harassment-andy-rubin.html)
-- [WIRED - 2018-12-10: A new Google+ blunder exposed data from 52.5 million users](https://www.wired.com/story/google-plus-bug-52-million-users-data-exposed/)
-- [WIRED - 2019-08-13: Three years of misery inside Google, the happiest company in tech](https://www.wired.com/story/inside-google-three-years-misery-happiest-company-tech/)
-- [TechCrunch - 2020-01-23: Google’s latest user-hostile design change makes ads and search results look identical](https://techcrunch.com/2020/01/23/squint-and-youll-click-it/)
-- [The New York Times - 2020-01-24: You are now remotely controlled](https://www.nytimes.com/2020/01/24/opinion/sunday/surveillance-capitalism.html)
+
+## News articles 
+[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](#index)
+
+| Title | Published | Author |
+| ----- | --------- | ------ |
+| [Google Can Survive Too Much Innovation. You Can't.](https://outline.com/pwWc6B) | ![Published](https://img.shields.io/badge/2012--05--15-informational.svg) | Robert Sher - Forbes |
+| [The truth about Google's famous '20% time' policy](https://outline.com/SmyHJW) | ![Published](https://img.shields.io/badge/2015--04--17-informational.svg) | Jillian D'Onfro - Business Insider |
+| [The Binge Breaker](https://outline.com/EmHWna) | ![Published](https://img.shields.io/badge/2016--11--01-informational.svg) | Bianca Bosker - The Atlantic |
+| [How Malware Keeps Sneaking Past Google Play’s Defenses](https://outline.com/2mAwU7) | ![Published](https://img.shields.io/badge/2017--09--22-informational.svg) | Lily Hay Newman - WIRED |
+| [Forget Killer Robots — Bias Is the Real AI Danger](https://outline.com/VqaaUD) | ![Published](https://img.shields.io/badge/2017--10--03-informational.svg) | Will Knight - MIT Technology Review |
+| [Google managers kept blacklists of conservative employees and one manager considered holding 'trials,' a new lawsuit alleges](https://outline.com/NMrzg2) | ![Published](https://img.shields.io/badge/2018--01--08-informational.svg) | Julie Bort - Business Insider |
+| [A longtime Google engineer quits, saying the company is ’100% competitor-focused’ and ‘can no longer innovate’](https://outline.com/WfF8DP) | ![Published](https://img.shields.io/badge/2018--01--24-informational.svg) | Jillian D'Onfro - CNBC |
+| [Facebook and Google are doomed, George Soros says](https://outline.com/GTMKNM) | ![Published](https://img.shields.io/badge/2018--01--26-informational.svg) | Hamza Shaban - Washington Post |
+| [Google Isn't Listening, So Its Employees Are Suing](https://outline.com/9awE8Z) | ![Published](https://img.shields.io/badge/2018--03--26-informational.svg) | Kate Conger - Gizmodo |
+| [Google sees major claims of harassment and discrimination as lawsuits proceed](https://outline.com/NcxRr3) | ![Published](https://img.shields.io/badge/2018--03--28-informational.svg) | Sam Levin - The Guardian |
+| [How to stop Google from tracking everything you do online](https://outline.com/uez3G5) | ![Published](https://img.shields.io/badge/2018--05--11-informational.svg) | Todd Haselton - CNBC |
+| [Google will always do evil](https://outline.com/YhAP7C) | ![Published](https://img.shields.io/badge/2018--05--24-informational.svg) | Jessica Conditt - Engadget |
+| [Google’s new ‘AI principles’ forbid its use in weapons and human rights violations](https://outline.com/NjBrf9) | ![Published](https://img.shields.io/badge/2018--06--07-informational.svg) | Devin Coldewey - TechCrunch |
+| [Google Plans to Launch Censored Search Engine in China, Leaked Documents Reveal](https://outline.com/dXrdLr) | ![Published](https://img.shields.io/badge/2018--08--01-informational.svg) | Ryan Gallagher - The Intercept |
+| [Google’s China plan isn’t just evil — it’s bad for business](https://outline.com/VRAxTZ) | ![Published](https://img.shields.io/badge/2018--08--09-informational.svg) | Josh Rogin - Washington Post |
+| [How Google Protected Andy Rubin, the ‘Father of Android’](https://outline.com/4Ua6SY) | ![Published](https://img.shields.io/badge/2018--10--25-informational.svg) | Daisuke Wakabayashi and Katie Benner - New York Times |
+| [A New Google+ Blunder Exposed Data From 52.5 Million Users](https://outline.com/w7Gxux) | ![Published](https://img.shields.io/badge/2018--12--10-informational.svg) | Lily Hay Newman - WIRED |
+| [Three Years of Misery Inside Google, the Happiest Company in Tech](https://outline.com/XUCRBr) | ![Published](https://img.shields.io/badge/2019--08--13-informational.svg) | Nitasha Tiku - WIRED |
+| [Google’s latest user-hostile design change makes ads and search results look identical](https://outline.com/utGbnh) | ![Published](https://img.shields.io/badge/2020--01--23-informational.svg) | Natasha Lomas - TechCrunch |
+| [You Are Now Remotely Controlled](https://outline.com/uzKKcq) | ![Published](https://img.shields.io/badge/2020--01--24-informational.svg) | Shoshana Zuboff - New York Times |
+
 
 # The lighter side
 
