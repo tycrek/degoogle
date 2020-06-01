@@ -6,7 +6,7 @@
     1. [Disclaimer](#disclaimer)
     2. [Web-based products](#web-based-products)
     3. [Operating systems](#operating-systems)
-    4. [Desktop applications](#desktop-applications)
+    4. [Desktop applications](#desktop-apps)
     5. [Mobile applications](#mobile-apps)
     6. [Hardware](#hardware)
 4. [Useful links, tools, and advice](#useful-links-tools-and-advice)
