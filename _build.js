@@ -100,7 +100,7 @@ function generateCategorySection(header, data) {
  */
 function generateServiceSection(data) {
     // Start the section with an <h4> header and the start of a Markdown table
-    let serviceSection = `#### ${data[0].title + ' ' + BACK_TO_TOP + os.EOL + os.EOL}| Name | Eyes | Description |${os.EOL}| ---- | ---- | ----------- |${os.EOL}`;
+    let serviceSection = `#### ${data[0].title + os.EOL + os.EOL}| Name | Eyes | Description |${os.EOL}| ---- | ---- | ----------- |${os.EOL}`;
     let notes = os.EOL + '';
     // Iterate over each alternative service and add it to the table
     data.forEach(item => {
