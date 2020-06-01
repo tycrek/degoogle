@@ -28,7 +28,7 @@ const BUILD_SECTION = {
 }
 
 // Button that brings the user to the top of the page
-const BACK_TO_TOP = '[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](https://github.com/tycrek/degoogle#readme)';
+const BACK_TO_TOP = '[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](#index)';
 
 /**
  * Main method
