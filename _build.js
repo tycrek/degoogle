@@ -74,7 +74,7 @@ function readFile(filename) {
  * Reads degoogle.yml
  */
 function readYaml() {
-    return YAML.parse(fs.readFileSync(path.join(__dirname, 'degoogle.yml')).toString());
+    return YAML.parse(fs.readFileSync(path.join(__dirname, 'yaml/degoogle.yml')).toString());
 }
 
 /**
