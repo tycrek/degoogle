@@ -100,7 +100,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 
 ## Web-based products [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](https://github.com/tycrek/degoogle#readme)
 
-#### Search (Web & Images) [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](https://github.com/tycrek/degoogle#readme)
+#### Search (Web & Images)
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
@@ -117,7 +117,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 
 
 
-#### YouTube [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](https://github.com/tycrek/degoogle#readme)
+#### YouTube
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
@@ -132,7 +132,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 
 
 
-#### News [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](https://github.com/tycrek/degoogle#readme)
+#### News
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
@@ -142,7 +142,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 
 
 
-#### Groups [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](https://github.com/tycrek/degoogle#readme)
+#### Groups
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
@@ -150,7 +150,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 - *Use other forum sites relating to specific topics. This is a very broad service.*
 
 
-#### Translate [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](https://github.com/tycrek/degoogle#readme)
+#### Translate
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
@@ -158,7 +158,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 
 
 
-#### Google Ads/AdMob/AdSense [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](https://github.com/tycrek/degoogle#readme)
+#### Google Ads/AdMob/AdSense
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
@@ -166,7 +166,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 
 
 
-#### Google Alerts [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](https://github.com/tycrek/degoogle#readme)
+#### Google Alerts
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
@@ -174,7 +174,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 
 
 
-#### G Suite (enterprise cloud) [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](https://github.com/tycrek/degoogle#readme)
+#### G Suite (enterprise cloud)
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
@@ -183,7 +183,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 
 
 
-#### Blogger/Sites [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](https://github.com/tycrek/degoogle#readme)
+#### Blogger/Sites
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
@@ -196,7 +196,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 
 
 
-#### Analytics [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](https://github.com/tycrek/degoogle#readme)
+#### Analytics
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
@@ -212,7 +212,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 
 
 
-#### Photos [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](https://github.com/tycrek/degoogle#readme)
+#### Photos
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
@@ -224,7 +224,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 
 
 
-#### Calendar [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](https://github.com/tycrek/degoogle#readme)
+#### Calendar
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
@@ -236,7 +236,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 
 
 
-#### Docs/Sheets/Slides (cloud) [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](https://github.com/tycrek/degoogle#readme)
+#### Docs/Sheets/Slides (cloud)
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
@@ -249,7 +249,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 
 
 
-#### Docs/Sheets/Slides (offline) [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](https://github.com/tycrek/degoogle#readme)
+#### Docs/Sheets/Slides (offline)
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
@@ -259,7 +259,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 
 
 
-#### Domains [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](https://github.com/tycrek/degoogle#readme)
+#### Domains
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
@@ -268,7 +268,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 
 
 
-#### Drive [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](https://github.com/tycrek/degoogle#readme)
+#### Drive
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
@@ -285,7 +285,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 
 
 
-#### Hangouts (text/video messaging) [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](https://github.com/tycrek/degoogle#readme)
+#### Hangouts (text/video messaging)
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
@@ -301,7 +301,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 - *I have also **removed** Telegram. See [Issue #29](https://github.com/tycrek/degoogle/issues/29) from @arsv.*
 
 
-#### Gmail [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](https://github.com/tycrek/degoogle#readme)
+#### Gmail
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
@@ -323,7 +323,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 - *This is just for the Gmail service, not a client*
 
 
-#### Keep [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](https://github.com/tycrek/degoogle#readme)
+#### Keep
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
@@ -337,7 +337,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 
 
 
-#### Play Music, Movies, & TV [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](https://github.com/tycrek/degoogle#readme)
+#### Play Music, Movies, & TV
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
@@ -352,7 +352,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 - *Thanks to u/eA8KESARaW6iqCpHsbE4 for suggesting Jellyfin and pointing out that Emby isn't open-source.*
 
 
-#### Fonts [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](https://github.com/tycrek/degoogle#readme)
+#### Fonts
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
@@ -362,7 +362,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 
 
 
-#### Classroom [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](https://github.com/tycrek/degoogle#readme)
+#### Classroom
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
@@ -372,7 +372,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 
 
 
-#### Maps/Street View [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](https://github.com/tycrek/degoogle#readme)
+#### Maps/Street View
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
@@ -383,7 +383,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 
 
 
-#### Transit [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](https://github.com/tycrek/degoogle#readme)
+#### Transit
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
@@ -391,14 +391,14 @@ These Firefox extensions can help prevent connections to Google domains and also
 
 
 
-#### Trends [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](https://github.com/tycrek/degoogle#readme)
+#### Trends
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 
 
 
-#### Forms [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](https://github.com/tycrek/degoogle#readme)
+#### Forms
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
@@ -410,7 +410,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 
 ## Operating systems [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](https://github.com/tycrek/degoogle#readme)
 
-#### Android/Fuchsia [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](https://github.com/tycrek/degoogle#readme)
+#### Android/Fuchsia
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
@@ -425,7 +425,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 - *Please see Issue #55 for details on /e/.*
 
 
-#### Chrome OS [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](https://github.com/tycrek/degoogle#readme)
+#### Chrome OS
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
@@ -439,7 +439,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 
 
 
-#### Wear OS [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](https://github.com/tycrek/degoogle#readme)
+#### Wear OS
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
@@ -447,14 +447,14 @@ These Firefox extensions can help prevent connections to Google domains and also
 
 
 
-#### Android Auto [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](https://github.com/tycrek/degoogle#readme)
+#### Android Auto
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 
 
 
-#### Android TV [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](https://github.com/tycrek/degoogle#readme)
+#### Android TV
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
@@ -467,7 +467,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 
 ## Desktop apps [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](https://github.com/tycrek/degoogle#readme)
 
-#### Chrome [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](https://github.com/tycrek/degoogle#readme)
+#### Chrome
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
@@ -479,7 +479,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 
 
 
-#### Earth [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](https://github.com/tycrek/degoogle#readme)
+#### Earth
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
@@ -487,7 +487,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 
 
 
-#### Android Studio (not specifically for Android development, just in general) [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](https://github.com/tycrek/degoogle#readme)
+#### Android Studio (not specifically for Android development, just in general)
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
@@ -502,7 +502,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 
 ## Mobile apps [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](https://github.com/tycrek/degoogle#readme)
 
-#### Play Store [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](https://github.com/tycrek/degoogle#readme)
+#### Play Store
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
@@ -519,7 +519,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 - *When searching for replacements, check the alternative stores (such as F-Droid) before checking the Play Store.*
 
 
-#### Chrome (Android) [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](https://github.com/tycrek/degoogle#readme)
+#### Chrome (Android)
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
@@ -528,7 +528,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 
 
 
-#### Calculator [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](https://github.com/tycrek/degoogle#readme)
+#### Calculator
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
@@ -538,7 +538,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 
 
 
-#### Calendar [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](https://github.com/tycrek/degoogle#readme)
+#### Calendar
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
@@ -547,7 +547,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 
 
 
-#### Camera [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](https://github.com/tycrek/degoogle#readme)
+#### Camera
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
@@ -555,7 +555,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 
 
 
-#### Clock [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](https://github.com/tycrek/degoogle#readme)
+#### Clock
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
@@ -565,7 +565,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 
 
 
-#### Contacts [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](https://github.com/tycrek/degoogle#readme)
+#### Contacts
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
@@ -575,7 +575,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 
 
 
-#### Android Messages (specifically SMS/MMS, not IM) [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](https://github.com/tycrek/degoogle#readme)
+#### Android Messages (specifically SMS/MMS, not IM)
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
@@ -585,7 +585,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 
 
 
-#### Gboard (Google Keyboard) [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](https://github.com/tycrek/degoogle#readme)
+#### Gboard (Google Keyboard)
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
@@ -598,7 +598,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 
 
 
-#### Drive [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](https://github.com/tycrek/degoogle#readme)
+#### Drive
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
@@ -608,7 +608,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 
 
 
-#### Gmail [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](https://github.com/tycrek/degoogle#readme)
+#### Gmail
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
@@ -621,7 +621,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 
 
 
-#### Keep (or any stock note-taking app) [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](https://github.com/tycrek/degoogle#readme)
+#### Keep (or any stock note-taking app)
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
@@ -635,7 +635,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 
 
 
-#### Maps/Waze [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](https://github.com/tycrek/degoogle#readme)
+#### Maps/Waze
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
@@ -646,7 +646,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 
 
 
-#### News [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](https://github.com/tycrek/degoogle#readme)
+#### News
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
@@ -655,7 +655,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 
 
 
-#### Photos [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](https://github.com/tycrek/degoogle#readme)
+#### Photos
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
@@ -663,7 +663,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 
 
 
-#### Pay [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](https://github.com/tycrek/degoogle#readme)
+#### Pay
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
@@ -671,7 +671,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 - *Realistically, there most likely is not a privacy friendly alternative to Google Pay. Get a wallet with RFID protection and keep your cards with you.*
 
 
-#### YouTube [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](https://github.com/tycrek/degoogle#readme)
+#### YouTube
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
@@ -681,7 +681,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 
 
 
-#### Authenticator [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](https://github.com/tycrek/degoogle#readme)
+#### Authenticator
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
@@ -693,7 +693,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 
 
 
-#### Play Music/Play Movies & TV [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](https://github.com/tycrek/degoogle#readme)
+#### Play Music/Play Movies & TV
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
@@ -702,7 +702,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 
 
 
-#### Hangouts [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](https://github.com/tycrek/degoogle#readme)
+#### Hangouts
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
@@ -713,7 +713,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 
 
 
-#### Duo (video calls) [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](https://github.com/tycrek/degoogle#readme)
+#### Duo (video calls)
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
@@ -721,7 +721,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 
 
 
-#### Assistant [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](https://github.com/tycrek/degoogle#readme)
+#### Assistant
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
@@ -730,7 +730,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 
 
 
-#### Play Services Framework [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](https://github.com/tycrek/degoogle#readme)
+#### Play Services Framework
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
@@ -738,7 +738,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 
 
 
-#### Android home screen launchers [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](https://github.com/tycrek/degoogle#readme)
+#### Android home screen launchers
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
@@ -749,7 +749,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 
 
 
-#### *Other* [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](https://github.com/tycrek/degoogle#readme)
+#### *Other*
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
@@ -762,7 +762,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 
 ## Hardware [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](https://github.com/tycrek/degoogle#readme)
 
-#### Nexus/Pixel [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](https://github.com/tycrek/degoogle#readme)
+#### Nexus/Pixel
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
@@ -772,7 +772,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 
 
 
-#### Chromebook [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](https://github.com/tycrek/degoogle#readme)
+#### Chromebook
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
@@ -782,7 +782,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 
 
 
-#### Chromecast [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](https://github.com/tycrek/degoogle#readme)
+#### Chromecast
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
@@ -790,7 +790,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 
 
 
-#### Google Home [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](https://github.com/tycrek/degoogle#readme)
+#### Google Home
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
@@ -799,7 +799,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 
 
 
-#### FitBit [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](https://github.com/tycrek/degoogle#readme)
+#### FitBit
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
