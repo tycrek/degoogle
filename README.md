@@ -12,9 +12,11 @@
 
 
 
-# Cutting Google out of your life *(Updated: May 2020)*
+# Cutting Google out of your life
 
 ### *I don't have anything to hide, but I don't have anything to show you either.*
+
+![Updated](https://img.shields.io/static/v1?label=updated&message=June%201st%202020%20@9:44%20pm&color=388E3C&style=flat-square)
 
 ![GitHub](https://img.shields.io/github/license/tycrek/degoogle?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/tycrek/degoogle?style=flat-square)
@@ -57,30 +59,30 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 
 | Name | Description |
 | ---- | ----------- |
-| [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin) ![Mozilla Add-on](https://img.shields.io/amo/users/ublock-origin) | uBlock Origin is not an "ad blocker", it's a wide-spectrum content blocker with CPU and memory efficiency as a primary feature. |
-| [Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17) ![Mozilla Add-on](https://img.shields.io/amo/users/privacy-badger17) | Privacy Badger automatically learns to block invisible trackers. Instead of keeping lists of what to block, Privacy Badger learns by watching which domains appear to be tracking you as you browse the Web. |
-| [Decentraleyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes) ![Mozilla Add-on](https://img.shields.io/amo/users/decentraleyes) | Protects you against tracking through "free", centralized, content delivery. It prevents a lot of requests from reaching networks like Google Hosted Libraries, and serves local files to keep sites from breaking. Complements regular content blockers. |
-| [HTTPS Everywhere](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere) ![Mozilla Add-on](https://img.shields.io/amo/users/https-everywhere) | Many sites on the web offer some limited support for encryption over HTTPS, but make it difficult to use. For instance, they may default to unencrypted HTTP, or fill encrypted pages with links that go back to the unencrypted site. The HTTPS Everywhere extension fixes these problems by rewriting all requests to these sites to HTTPS. |
-| [Cookie AutoDelete](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete) ![Mozilla Add-on](https://img.shields.io/amo/users/cookie-autodelete) | Control your cookies! This WebExtension is inspired by Self Destructing Cookies. When a tab closes, any cookies not being used are automatically deleted. Whitelist the ones you trust while deleting the rest. Support for Container Tabs. |
-| [DDG Privacy Essentials](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox) ![Mozilla Add-on](https://img.shields.io/amo/users/duckduckgo-for-firefox) | Privacy, simplified. Our add-on provides the privacy essentials you need to seamlessly take control of your personal information, no matter where the internet takes you: tracker blocking, smarter encryption, DuckDuckGo private search, and more. |
-| [I don't care about cookies](https://addons.mozilla.org/en-US/firefox/addon/i-dont-care-about-cookies) ![Mozilla Add-on](https://img.shields.io/amo/users/i-dont-care-about-cookies) | This add-on will remove cookie warnings from almost all websites! You can report any website which still warns you about cookies: make a right click and choose 'Report a cookie warning' from the menu. |
-| [minerBlock](https://addons.mozilla.org/en-US/firefox/addon/minerblock-origin) ![Mozilla Add-on](https://img.shields.io/amo/users/minerblock-origin) | MinerBlock is an efficient browser extension that focuses on blocking browser-based cryptocurrency miners all over the web. This extension uses two different approaches to block miners. The first one is based on blocking requests/scripts loaded from a blacklist, this is the traditional approach adopted by most ad-blockers and other mining blockers. The other approach which makes MinerBlock more efficient against cryptojacking is detecting potential mining behavior inside loaded scripts and kills them immediately. This makes the extension able to block inline scripts as well as miners running through proxies. Source code available on [GitHub](https://github.com/xd4rker/MinerBlock). |
-| [Terms of Service; Didn't Read](https://addons.mozilla.org/en-US/firefox/addon/terms-of-service-didnt-read) ![Mozilla Add-on](https://img.shields.io/amo/users/terms-of-service-didnt-read) | “I have read and agree to the Terms” is the biggest lie on the web. We aim to fix that. “Terms of Service; Didn't Read” is a user rights initiative to rate and label website terms & privacy policies, from very good (class A) to very bad (class E). This extension informs you instantly of your rights online by showing an unintrusive icon in the toolbar. You can click on this icon to get summaries from the [Terms of Service; Didn't Read](https://tosdr.org/) initiative. |
-| [ClearURLS](https://addons.mozilla.org/en-US/firefox/addon/clearurls) ![Mozilla Add-on](https://img.shields.io/amo/users/clearurls) | This extension will automatically remove tracking elements from URLs to help protect your privacy when browse through the Internet. |
-| [Cloud Firewall](https://addons.mozilla.org/en-US/firefox/addon/cloud-firewall) ![Mozilla Add-on](https://img.shields.io/amo/users/cloud-firewall) | Block connections to pages and web resources hosted in major cloud services if the user wishes to do so. Supports blocking Google, Amazon, Facebook, Apple, Microsoft and Cloudflare. |
-| [CSS Exfil Protection](https://addons.mozilla.org/en-US/firefox/addon/css-exfil-protection) ![Mozilla Add-on](https://img.shields.io/amo/users/css-exfil-protection) | CSS Exfil is a method attackers can use to steal data from web pages using Cascading Style Sheets (CSS). This plugin sanitizes and blocks any CSS rules which may be designed to steal data. |
-| [Disconnect](https://addons.mozilla.org/en-US/firefox/addon/disconnect) ![Mozilla Add-on](https://img.shields.io/amo/users/disconnect) | Visualize and block the otherwise invisible websites that track your search and browsing history. |
-| [Don't touch my tabs! (rel=noopener](https://addons.mozilla.org/en-US/firefox/addon/dont-touch-my-tabs) ![Mozilla Add-on](https://img.shields.io/amo/users/dont-touch-my-tabs) | Prevent tabs opened by a hyperlink from hijacking the previous tab by adding the rel=noopener attribute to all hyperlinks (excluding same-domain hyperlinks). |
-| [Firefox Multi-Account Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers) ![Mozilla Add-on](https://img.shields.io/amo/users/multi-account-containers) | Firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs that preserve your privacy. Cookies are separated by container, allowing you to use the web with multiple identities or accounts simultaneously. |
-| [Google search link fix (also Yandex)](https://addons.mozilla.org/en-US/firefox/addon/google-search-link-fix) ![Mozilla Add-on](https://img.shields.io/amo/users/google-search-link-fix) | This extension prevents Google and Yandex search pages from modifying search result links when you click them. This is useful when copying links but it also helps privacy by preventing the search engines from recording your clicks. |
-| [HTTPZ](https://addons.mozilla.org/en-US/firefox/addon/httpz) ![Mozilla Add-on](https://img.shields.io/amo/users/httpz) | HTTPZ is meant to be unobtrusive and lightweight, it respects your privacy, and is free of trans fats. Additionally, it is very configurable, and should be slightly more secure than some of the alternatives out there, since it has a couple of built-in defenses against SSL-stripping attacks. |
-| [Link Cleaner](https://addons.mozilla.org/en-US/firefox/addon/link-cleaner) ![Mozilla Add-on](https://img.shields.io/amo/users/link-cleaner) | Clean URLs that are about to be visited: removes utm_* parameters; on item pages of aliexpress and amazon, removes tracking parameters; skip redirect pages of facebook, steam and reddit |
-| [Neat URL](https://addons.mozilla.org/en-US/firefox/addon/neat-url) ![Mozilla Add-on](https://img.shields.io/amo/users/neat-url) | Remove garbage from URLs. |
-| [Privacy-Oriented Origin Policy](https://addons.mozilla.org/en-US/firefox/addon/privacy-oriented-origin-policy) ![Mozilla Add-on](https://img.shields.io/amo/users/privacy-oriented-origin-policy) | Prevent Firefox from sending Origin headers when they are least likely to be necessary, to protect your privacy. |
-| [Skip Redirect](https://addons.mozilla.org/en-US/firefox/addon/skip-redirect) ![Mozilla Add-on](https://img.shields.io/amo/users/skip-redirect) | Some web pages use intermediary pages before redirecting to a final page. This add-on tries to extract the final url from the intermediary url and goes there straight away if successful. |
-| [Temporary Containers](https://addons.mozilla.org/en-US/firefox/addon/temporary-containers) ![Mozilla Add-on](https://img.shields.io/amo/users/temporary-containers) | Open tabs, websites, and links in automatically managed disposable containers. Containers isolate data websites store (cookies, storage, and more) from each other, enhancing your privacy and security while you browse. |
-| [uMatrix](https://addons.mozilla.org/en-US/firefox/addon/umatrix) ![Mozilla Add-on](https://img.shields.io/amo/users/umatrix) | Point & click to forbid/allow any class of requests made by your browser. Use it to block scripts, iframes, ads, facebook, etc. |
-| [TrackMeNot](https://addons.mozilla.org/en-US/firefox/addon/trackmenot) ![Mozilla Add-on](https://img.shields.io/amo/users/trackmenot) | An artware browser add-on to protect privacy in web-search. By issuing randomized queries to common search-engines, TrackMeNot obfuscates your search profile and registers your discontent with surreptitious tracking. |
+| [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin) ![Mozilla Add-on](https://img.shields.io/amo/users/ublock-origin?style=flat-square) | uBlock Origin is not an "ad blocker", it's a wide-spectrum content blocker with CPU and memory efficiency as a primary feature. |
+| [Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17) ![Mozilla Add-on](https://img.shields.io/amo/users/privacy-badger17?style=flat-square) | Privacy Badger automatically learns to block invisible trackers. Instead of keeping lists of what to block, Privacy Badger learns by watching which domains appear to be tracking you as you browse the Web. |
+| [Decentraleyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes) ![Mozilla Add-on](https://img.shields.io/amo/users/decentraleyes?style=flat-square) | Protects you against tracking through "free", centralized, content delivery. It prevents a lot of requests from reaching networks like Google Hosted Libraries, and serves local files to keep sites from breaking. Complements regular content blockers. |
+| [HTTPS Everywhere](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere) ![Mozilla Add-on](https://img.shields.io/amo/users/https-everywhere?style=flat-square) | Many sites on the web offer some limited support for encryption over HTTPS, but make it difficult to use. For instance, they may default to unencrypted HTTP, or fill encrypted pages with links that go back to the unencrypted site. The HTTPS Everywhere extension fixes these problems by rewriting all requests to these sites to HTTPS. |
+| [Cookie AutoDelete](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete) ![Mozilla Add-on](https://img.shields.io/amo/users/cookie-autodelete?style=flat-square) | Control your cookies! This WebExtension is inspired by Self Destructing Cookies. When a tab closes, any cookies not being used are automatically deleted. Whitelist the ones you trust while deleting the rest. Support for Container Tabs. |
+| [DDG Privacy Essentials](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox) ![Mozilla Add-on](https://img.shields.io/amo/users/duckduckgo-for-firefox?style=flat-square) | Privacy, simplified. Our add-on provides the privacy essentials you need to seamlessly take control of your personal information, no matter where the internet takes you: tracker blocking, smarter encryption, DuckDuckGo private search, and more. |
+| [I don't care about cookies](https://addons.mozilla.org/en-US/firefox/addon/i-dont-care-about-cookies) ![Mozilla Add-on](https://img.shields.io/amo/users/i-dont-care-about-cookies?style=flat-square) | This add-on will remove cookie warnings from almost all websites! You can report any website which still warns you about cookies: make a right click and choose 'Report a cookie warning' from the menu. |
+| [minerBlock](https://addons.mozilla.org/en-US/firefox/addon/minerblock-origin) ![Mozilla Add-on](https://img.shields.io/amo/users/minerblock-origin?style=flat-square) | MinerBlock is an efficient browser extension that focuses on blocking browser-based cryptocurrency miners all over the web. This extension uses two different approaches to block miners. The first one is based on blocking requests/scripts loaded from a blacklist, this is the traditional approach adopted by most ad-blockers and other mining blockers. The other approach which makes MinerBlock more efficient against cryptojacking is detecting potential mining behavior inside loaded scripts and kills them immediately. This makes the extension able to block inline scripts as well as miners running through proxies. Source code available on [GitHub](https://github.com/xd4rker/MinerBlock). |
+| [Terms of Service; Didn't Read](https://addons.mozilla.org/en-US/firefox/addon/terms-of-service-didnt-read) ![Mozilla Add-on](https://img.shields.io/amo/users/terms-of-service-didnt-read?style=flat-square) | “I have read and agree to the Terms” is the biggest lie on the web. We aim to fix that. “Terms of Service; Didn't Read” is a user rights initiative to rate and label website terms & privacy policies, from very good (class A) to very bad (class E). This extension informs you instantly of your rights online by showing an unintrusive icon in the toolbar. You can click on this icon to get summaries from the [Terms of Service; Didn't Read](https://tosdr.org/) initiative. |
+| [ClearURLS](https://addons.mozilla.org/en-US/firefox/addon/clearurls) ![Mozilla Add-on](https://img.shields.io/amo/users/clearurls?style=flat-square) | This extension will automatically remove tracking elements from URLs to help protect your privacy when browse through the Internet. |
+| [Cloud Firewall](https://addons.mozilla.org/en-US/firefox/addon/cloud-firewall) ![Mozilla Add-on](https://img.shields.io/amo/users/cloud-firewall?style=flat-square) | Block connections to pages and web resources hosted in major cloud services if the user wishes to do so. Supports blocking Google, Amazon, Facebook, Apple, Microsoft and Cloudflare. |
+| [CSS Exfil Protection](https://addons.mozilla.org/en-US/firefox/addon/css-exfil-protection) ![Mozilla Add-on](https://img.shields.io/amo/users/css-exfil-protection?style=flat-square) | CSS Exfil is a method attackers can use to steal data from web pages using Cascading Style Sheets (CSS). This plugin sanitizes and blocks any CSS rules which may be designed to steal data. |
+| [Disconnect](https://addons.mozilla.org/en-US/firefox/addon/disconnect) ![Mozilla Add-on](https://img.shields.io/amo/users/disconnect?style=flat-square) | Visualize and block the otherwise invisible websites that track your search and browsing history. |
+| [Don't touch my tabs! (rel=noopener](https://addons.mozilla.org/en-US/firefox/addon/dont-touch-my-tabs) ![Mozilla Add-on](https://img.shields.io/amo/users/dont-touch-my-tabs?style=flat-square) | Prevent tabs opened by a hyperlink from hijacking the previous tab by adding the rel=noopener attribute to all hyperlinks (excluding same-domain hyperlinks). |
+| [Firefox Multi-Account Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers) ![Mozilla Add-on](https://img.shields.io/amo/users/multi-account-containers?style=flat-square) | Firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs that preserve your privacy. Cookies are separated by container, allowing you to use the web with multiple identities or accounts simultaneously. |
+| [Google search link fix (also Yandex)](https://addons.mozilla.org/en-US/firefox/addon/google-search-link-fix) ![Mozilla Add-on](https://img.shields.io/amo/users/google-search-link-fix?style=flat-square) | This extension prevents Google and Yandex search pages from modifying search result links when you click them. This is useful when copying links but it also helps privacy by preventing the search engines from recording your clicks. |
+| [HTTPZ](https://addons.mozilla.org/en-US/firefox/addon/httpz) ![Mozilla Add-on](https://img.shields.io/amo/users/httpz?style=flat-square) | HTTPZ is meant to be unobtrusive and lightweight, it respects your privacy, and is free of trans fats. Additionally, it is very configurable, and should be slightly more secure than some of the alternatives out there, since it has a couple of built-in defenses against SSL-stripping attacks. |
+| [Link Cleaner](https://addons.mozilla.org/en-US/firefox/addon/link-cleaner) ![Mozilla Add-on](https://img.shields.io/amo/users/link-cleaner?style=flat-square) | Clean URLs that are about to be visited: removes utm_* parameters; on item pages of aliexpress and amazon, removes tracking parameters; skip redirect pages of facebook, steam and reddit |
+| [Neat URL](https://addons.mozilla.org/en-US/firefox/addon/neat-url) ![Mozilla Add-on](https://img.shields.io/amo/users/neat-url?style=flat-square) | Remove garbage from URLs. |
+| [Privacy-Oriented Origin Policy](https://addons.mozilla.org/en-US/firefox/addon/privacy-oriented-origin-policy) ![Mozilla Add-on](https://img.shields.io/amo/users/privacy-oriented-origin-policy?style=flat-square) | Prevent Firefox from sending Origin headers when they are least likely to be necessary, to protect your privacy. |
+| [Skip Redirect](https://addons.mozilla.org/en-US/firefox/addon/skip-redirect) ![Mozilla Add-on](https://img.shields.io/amo/users/skip-redirect?style=flat-square) | Some web pages use intermediary pages before redirecting to a final page. This add-on tries to extract the final url from the intermediary url and goes there straight away if successful. |
+| [Temporary Containers](https://addons.mozilla.org/en-US/firefox/addon/temporary-containers) ![Mozilla Add-on](https://img.shields.io/amo/users/temporary-containers?style=flat-square) | Open tabs, websites, and links in automatically managed disposable containers. Containers isolate data websites store (cookies, storage, and more) from each other, enhancing your privacy and security while you browse. |
+| [uMatrix](https://addons.mozilla.org/en-US/firefox/addon/umatrix) ![Mozilla Add-on](https://img.shields.io/amo/users/umatrix?style=flat-square) | Point & click to forbid/allow any class of requests made by your browser. Use it to block scripts, iframes, ads, facebook, etc. |
+| [TrackMeNot](https://addons.mozilla.org/en-US/firefox/addon/trackmenot) ![Mozilla Add-on](https://img.shields.io/amo/users/trackmenot?style=flat-square) | An artware browser add-on to protect privacy in web-search. By issuing randomized queries to common search-engines, TrackMeNot obfuscates your search profile and registers your discontent with surreptitious tracking. |
 
 
 # Replacements/alternatives
@@ -99,7 +101,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 
 
 ## Web-based products
-[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](#index)
+[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
 #### Search (Web & Images)
 
@@ -330,7 +332,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [Joplin](https://joplinapp.org/) |  | Open-source notes/todo app. Available for Windows, macOS, Linux, Android, and iOS. Also offers a terminal version. It can import Evernote `.enex` files if you use that. It can also sync with Nextcloud (mentioned above). |
-| [Standard Notes](https://standardnotes.org/) [![F-Droid](https://img.shields.io/f-droid/v/com.standardnotes)](https://f-droid.org/en/packages/com.standardnotes/) |  | Encrypted note storage with loads of features. Offers a web app as well as downloads for most operating systems. Has a paid plan, but the free tier has many useful features as well. |
+| [Standard Notes](https://standardnotes.org/) [![F-Droid](https://img.shields.io/f-droid/v/com.standardnotes?style=flat-square)](https://f-droid.org/en/packages/com.standardnotes/) |  | Encrypted note storage with loads of features. Offers a web app as well as downloads for most operating systems. Has a paid plan, but the free tier has many useful features as well. |
 | [Zoho Notebook](https://www.zoho.com/notebook/) |  | A notebook from Zoho. Also available on Android. |
 | [Turtl](https://turtlapp.com/) |  | Encrypted collaborative notebook with possibility of running your own server. |
 | [QOwnNotes](https://www.qownnotes.org/) |  | Open-source file editor with Markdown support. (thanks u/maqp2) |
@@ -411,7 +413,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 
 
 ## Operating systems
-[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](#index)
+[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
 #### Android/Fuchsia
 
@@ -469,7 +471,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 
 
 ## Desktop apps
-[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](#index)
+[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
 #### Chrome
 
@@ -505,7 +507,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 
 
 ## Mobile apps
-[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](#index)
+[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
 #### Play Store
 
@@ -528,7 +530,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
-| [Fennec F-Droid](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/) [![F-Droid](https://img.shields.io/f-droid/v/org.mozilla.fennec_fdroid)](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/) |  | A privacy-focused version of Firefox Android available on F-Droid. It's focused on removing any proprietary bits found in official Mozilla's builds. (thanks u/SupremeLisper) |
+| [Fennec F-Droid](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/) [![F-Droid](https://img.shields.io/f-droid/v/org.mozilla.fennec_fdroid?style=flat-square)](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/) |  | A privacy-focused version of Firefox Android available on F-Droid. It's focused on removing any proprietary bits found in official Mozilla's builds. (thanks u/SupremeLisper) |
 | [Bromite](https://www.bromite.org/) |  | Privacy-focused/open-source build of Chromium with built-in ad blocking. (thanks u/SupremeLisper) |
 
 
@@ -537,9 +539,9 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
-| [Simple Calculator](https://github.com/SimpleMobileTools/Simple-Calculator) [![F-Droid](https://img.shields.io/f-droid/v/com.simplemobiletools.calculator)](https://f-droid.org/en/packages/com.simplemobiletools.calculator/) |  | Also part of the SMT project. Available on F-Droid. |
+| [Simple Calculator](https://github.com/SimpleMobileTools/Simple-Calculator) [![F-Droid](https://img.shields.io/f-droid/v/com.simplemobiletools.calculator?style=flat-square)](https://f-droid.org/en/packages/com.simplemobiletools.calculator/) |  | Also part of the SMT project. Available on F-Droid. |
 | [Calculator N+ or NCalc+](https://github.com/tranleduy2000/ncalc) |  | Open-source feature-rich calculator. App itself is no longer in development, but the developer does [encourage pull requests](https://github.com/tranleduy2000/ncalc#calculator-n---powerful-calculator-for-android). I've used it frequently and it works great. Not on F-Droid, but a 3rd party play store can probably find it; or the APK's are available as releases on GitHub. You can also compile from source. |
-| [Calculator++](https://github.com/Bubu/android-calculatorpp) [![F-Droid](https://img.shields.io/f-droid/v/org.solovyev.android.calculator)](https://f-droid.org/en/packages/org.solovyev.android.calculator/) |  | Open-source calculator packed with features. Thanks @ghost |
+| [Calculator++](https://github.com/Bubu/android-calculatorpp) [![F-Droid](https://img.shields.io/f-droid/v/org.solovyev.android.calculator?style=flat-square)](https://f-droid.org/en/packages/org.solovyev.android.calculator/) |  | Open-source calculator packed with features. Thanks @ghost |
 
 
 
@@ -548,7 +550,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [Fruux (mobile app)](https://fruux.com/) |  | Same service from above provides an Android app. |
-| [Etar](https://github.com/xsoh/Etar-Calendar) [![F-Droid](https://img.shields.io/f-droid/v/ws.xsoh.etar)](https://f-droid.org/en/packages/ws.xsoh.etar/) |  | Open-source material design Calendar that integrates with the Android Calendar API. If you have a CalDAV/CardDAV server, I recommend using [DAVx5](https://www.davx5.com/) to sync with it. Available from F-Droid. Also look at [ICSx5](https://icsx5.bitfire.at/), another WebDav/CalDav client that can integrate with calendar apps. Also available from F-Droid. Thanks @je-vv for ICSx5. |
+| [Etar](https://github.com/xsoh/Etar-Calendar) [![F-Droid](https://img.shields.io/f-droid/v/ws.xsoh.etar?style=flat-square)](https://f-droid.org/en/packages/ws.xsoh.etar/) |  | Open-source material design Calendar that integrates with the Android Calendar API. If you have a CalDAV/CardDAV server, I recommend using [DAVx5](https://www.davx5.com/) to sync with it. Available from F-Droid. Also look at [ICSx5](https://icsx5.bitfire.at/), another WebDav/CalDav client that can integrate with calendar apps. Also available from F-Droid. Thanks @je-vv for ICSx5. |
 
 
 
@@ -556,7 +558,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
-| [Open Camera](https://opencamera.sourceforge.io/) [![F-Droid](https://img.shields.io/f-droid/v/net.sourceforge.opencamera)](https://f-droid.org/en/packages/net.sourceforge.opencamera/) |  | Open source camera for Android. Thanks @je-vv |
+| [Open Camera](https://opencamera.sourceforge.io/) [![F-Droid](https://img.shields.io/f-droid/v/net.sourceforge.opencamera?style=flat-square)](https://f-droid.org/en/packages/net.sourceforge.opencamera/) |  | Open source camera for Android. Thanks @je-vv |
 
 
 
@@ -564,7 +566,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
-| [Clock +](https://github.com/philliphsu/ClockPlus) [![F-Droid](https://img.shields.io/f-droid/v/com.philliphsu.clock2)](https://f-droid.org/en/packages/com.philliphsu.clock2/) |  | Open-source Alarm clock, timer, and stop watch. |
+| [Clock +](https://github.com/philliphsu/ClockPlus) [![F-Droid](https://img.shields.io/f-droid/v/com.philliphsu.clock2?style=flat-square)](https://f-droid.org/en/packages/com.philliphsu.clock2/) |  | Open-source Alarm clock, timer, and stop watch. |
 | [Simple Alarm Clock](https://github.com/yuriykulikov/AlarmClock) |  | Exactly as it's name says; simple alarm clock yet adds many improvements over other apps. No dock mode or world clock. |
 | [Insane Alarm!](https://github.com/RIAEvangelist/insane-alarm) |  | Developer states that he had "spent a night out with the boys and drank a bit too much but needed to be up in the morning". So, he made the loudest alarm clock possible based off an emergency alarm from when he was in the military. This app doesn't mess around, use it wisely. |
 
@@ -575,8 +577,8 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [Fruux (mobile app)](https://fruux.com/) |  | Fruux *also* provides a contacts app. |
-| [Simple Contacts](https://github.com/SimpleMobileTools/Simple-Contacts) [![F-Droid](https://img.shields.io/f-droid/v/com.simplemobiletools.contacts.pro)](https://f-droid.org/en/packages/com.simplemobiletools.contacts.pro/) |  | Open-source. Part of the [Simple Mobile Tools](https://github.com/SimpleMobileTools) project. |
-| [Open Contacts](https://gitlab.com/sultanahamer/OpenContacts/-/blob/HEAD/README.md) [![F-Droid](https://img.shields.io/f-droid/v/opencontacts.open.com.opencontacts)](https://f-droid.org/en/packages/opencontacts.open.com.opencontacts/) |  | Open source contacts. (thanks u/consentio) |
+| [Simple Contacts](https://github.com/SimpleMobileTools/Simple-Contacts) [![F-Droid](https://img.shields.io/f-droid/v/com.simplemobiletools.contacts.pro?style=flat-square)](https://f-droid.org/en/packages/com.simplemobiletools.contacts.pro/) |  | Open-source. Part of the [Simple Mobile Tools](https://github.com/SimpleMobileTools) project. |
+| [Open Contacts](https://gitlab.com/sultanahamer/OpenContacts/-/blob/HEAD/README.md) [![F-Droid](https://img.shields.io/f-droid/v/opencontacts.open.com.opencontacts?style=flat-square)](https://f-droid.org/en/packages/opencontacts.open.com.opencontacts/) |  | Open source contacts. (thanks u/consentio) |
 
 
 
@@ -584,8 +586,8 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
-| [QKSMS](https://github.com/moezbhatti/qksms) [![F-Droid](https://img.shields.io/f-droid/v/com.moez.QKSMS)](https://f-droid.org/en/packages/com.moez.QKSMS/) |  | Open-source. Very clean and feature rich SMS app. Available on F-Droid. |
-| [Silence.im](https://silence.im/) [![F-Droid](https://img.shields.io/f-droid/v/org.smssecure.smssecure)](https://f-droid.org/en/packages/org.smssecure.smssecure/) |  | Open-source and utilizes Signal's encryption protocol. Seamlessly works with SMS. End-to-end encryption with other Silence users. Available on F-Droid. |
+| [QKSMS](https://github.com/moezbhatti/qksms) [![F-Droid](https://img.shields.io/f-droid/v/com.moez.QKSMS?style=flat-square)](https://f-droid.org/en/packages/com.moez.QKSMS/) |  | Open-source. Very clean and feature rich SMS app. Available on F-Droid. |
+| [Silence.im](https://silence.im/) [![F-Droid](https://img.shields.io/f-droid/v/org.smssecure.smssecure?style=flat-square)](https://f-droid.org/en/packages/org.smssecure.smssecure/) |  | Open-source and utilizes Signal's encryption protocol. Seamlessly works with SMS. End-to-end encryption with other Silence users. Available on F-Droid. |
 | [Signal](https://signal.org/) |  | Signal possesses SMS/MMS capabilities on Android. Using it as your default SMS app has the advantage of having your SMS and your online-messaging-service integrated within one app. Doing so will also show stats within the app of how many messages you send are encrypted, and offers to send invites to your contacts. Thanks @Glitchy-Tozier for suggesting it be listing as SMS/MMS alternative. |
 
 
@@ -594,12 +596,12 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
-| [AnySoftKeyboard](https://anysoftkeyboard.github.io/) [![F-Droid](https://img.shields.io/f-droid/v/com.menny.android.anysoftkeyboard)](https://f-droid.org/en/packages/com.menny.android.anysoftkeyboard/) |  | Open-source keyboard. Available on F-Droid. |
-| [Hacker's Keyboard](https://github.com/klausw/hackerskeyboard) [![F-Droid](https://img.shields.io/f-droid/v/org.pocketworkstation.pckeyboard)](https://f-droid.org/en/packages/org.pocketworkstation.pckeyboard/) |  | Also open-source. Very useful for developers or sysadmins on the go. |
-| [kboard](https://github.com/adgad/kboard) [![F-Droid](https://img.shields.io/f-droid/v/com.adgad.kboard)](https://f-droid.org/en/packages/com.adgad.kboard/) |  | Open-source. Has features for phrases, "lenny faces", macros and more. **Note**: Project [appears to be abandoned](https://github.com/adgad/kboard/issues/16). |
-| [Simple Keyboard](https://github.com/rkkr/simple-keyboard) [![F-Droid](https://img.shields.io/f-droid/v/rkr.simplekeyboard.inputmethod)](https://f-droid.org/en/packages/rkr.simplekeyboard.inputmethod/) |  | Open-source keyboard. |
+| [AnySoftKeyboard](https://anysoftkeyboard.github.io/) [![F-Droid](https://img.shields.io/f-droid/v/com.menny.android.anysoftkeyboard?style=flat-square)](https://f-droid.org/en/packages/com.menny.android.anysoftkeyboard/) |  | Open-source keyboard. Available on F-Droid. |
+| [Hacker's Keyboard](https://github.com/klausw/hackerskeyboard) [![F-Droid](https://img.shields.io/f-droid/v/org.pocketworkstation.pckeyboard?style=flat-square)](https://f-droid.org/en/packages/org.pocketworkstation.pckeyboard/) |  | Also open-source. Very useful for developers or sysadmins on the go. |
+| [kboard](https://github.com/adgad/kboard) [![F-Droid](https://img.shields.io/f-droid/v/com.adgad.kboard?style=flat-square)](https://f-droid.org/en/packages/com.adgad.kboard/) |  | Open-source. Has features for phrases, "lenny faces", macros and more. **Note**: Project [appears to be abandoned](https://github.com/adgad/kboard/issues/16). |
+| [Simple Keyboard](https://github.com/rkkr/simple-keyboard) [![F-Droid](https://img.shields.io/f-droid/v/rkr.simplekeyboard.inputmethod?style=flat-square)](https://f-droid.org/en/packages/rkr.simplekeyboard.inputmethod/) |  | Open-source keyboard. |
 | [Indic Keyboard](https://gitlab.com/indicproject/indic-keyboard) |  | Open-source keyboard that supports many languages that other keyboards sometimes don't support. Not on F-Droid, but can be built from source or possibly through a Play Store alternative. |
-| [OpenBoard](https://github.com/dslul/openboard) [![F-Droid](https://img.shields.io/f-droid/v/org.dslul.openboard.inputmethod.latin)](https://f-droid.org/en/packages/org.dslul.openboard.inputmethod.latin/) |  | New 100% FOSS keyboard, based on AOSP. Similar to "Simple Keyboard". Thanks @Glitchy-Tozier |
+| [OpenBoard](https://github.com/dslul/openboard) [![F-Droid](https://img.shields.io/f-droid/v/org.dslul.openboard.inputmethod.latin?style=flat-square)](https://f-droid.org/en/packages/org.dslul.openboard.inputmethod.latin/) |  | New 100% FOSS keyboard, based on AOSP. Similar to "Simple Keyboard". Thanks @Glitchy-Tozier |
 
 
 
@@ -607,9 +609,9 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
-| [ownCloud Android](https://github.com/owncloud/android) [![F-Droid](https://img.shields.io/f-droid/v/com.owncloud.android)](https://f-droid.org/en/packages/com.owncloud.android/) |  | ownCloud Android client. Available on F-Droid. |
-| [Nextcloud Android](https://github.com/nextcloud/android) [![F-Droid](https://img.shields.io/f-droid/v/com.nextcloud.client)](https://f-droid.org/en/packages/com.nextcloud.client/) |  | Nextcloud Android client. Available on F-Droid. |
-| [Syncthing Android](https://github.com/syncthing/syncthing-android) [![F-Droid](https://img.shields.io/f-droid/v/com.nutomic.syncthingandroid)](https://f-droid.org/en/packages/com.nutomic.syncthingandroid/) |  | Wrapper of Syncthing for Android. Available on F-Droid. Also consider [Syncthing-Fork](https://f-droid.org/en/packages/com.github.catfriend1.syncthingandroid/) which uses a native Android UI rather than the default web UI. |
+| [ownCloud Android](https://github.com/owncloud/android) [![F-Droid](https://img.shields.io/f-droid/v/com.owncloud.android?style=flat-square)](https://f-droid.org/en/packages/com.owncloud.android/) |  | ownCloud Android client. Available on F-Droid. |
+| [Nextcloud Android](https://github.com/nextcloud/android) [![F-Droid](https://img.shields.io/f-droid/v/com.nextcloud.client?style=flat-square)](https://f-droid.org/en/packages/com.nextcloud.client/) |  | Nextcloud Android client. Available on F-Droid. |
+| [Syncthing Android](https://github.com/syncthing/syncthing-android) [![F-Droid](https://img.shields.io/f-droid/v/com.nutomic.syncthingandroid?style=flat-square)](https://f-droid.org/en/packages/com.nutomic.syncthingandroid/) |  | Wrapper of Syncthing for Android. Available on F-Droid. Also consider [Syncthing-Fork](https://f-droid.org/en/packages/com.github.catfriend1.syncthingandroid/) which uses a native Android UI rather than the default web UI. |
 
 
 
@@ -618,9 +620,9 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [Protonmail](https://protonmail.com/support/knowledge-base/android/) |  | Can be downloaded from the Play Store, but may work with one of the store replacements above (such as Yalp). |
-| [Tutanota](https://www.tutanota.com/) [![F-Droid](https://img.shields.io/f-droid/v/de.tutao.tutanota)](https://f-droid.org/en/packages/de.tutao.tutanota/) | **14-eyes** | Client available from F-Droid. |
+| [Tutanota](https://www.tutanota.com/) [![F-Droid](https://img.shields.io/f-droid/v/de.tutao.tutanota?style=flat-square)](https://f-droid.org/en/packages/de.tutao.tutanota/) | **14-eyes** | Client available from F-Droid. |
 | [Zoho Mail](https://www.zoho.com/mail/ios-android-apps.html) |  | Also on the Play Store but other stores may work too. |
-| [Disroot](https://disroot.org/) [![F-Droid](https://img.shields.io/f-droid/v/org.disroot.disrootapp)](https://f-droid.org/en/packages/org.disroot.disrootapp/) |  | Available from F-Droid. |
+| [Disroot](https://disroot.org/) [![F-Droid](https://img.shields.io/f-droid/v/org.disroot.disrootapp?style=flat-square)](https://f-droid.org/en/packages/org.disroot.disrootapp/) |  | Available from F-Droid. |
 | [Posteo](https://posteo.de/) | **14-eyes** | Any **open-source mail client** such as: [K-9 Mail](https://k9mail.github.io/) and [FairEmail](https://email.faircode.eu/). Both are available on F-Droid. |
 | [Mailbox.org](https://mailbox.org/) | **14-eyes** | Mailbox.org provides IMAP settings for Android/iOS and an iOS profile. Thanks @avasts Issue #45 |
 
@@ -630,13 +632,13 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
-| [Notepad](https://github.com/farmerbb/Notepad) [![F-Droid](https://img.shields.io/f-droid/v/com.farmerbb.notepad)](https://f-droid.org/en/packages/com.farmerbb.notepad/) |  | Open-source. Supports Markdown and HTML. Very clean and feature-rich. *Offline only*. |
+| [Notepad](https://github.com/farmerbb/Notepad) [![F-Droid](https://img.shields.io/f-droid/v/com.farmerbb.notepad?style=flat-square)](https://f-droid.org/en/packages/com.farmerbb.notepad/) |  | Open-source. Supports Markdown and HTML. Very clean and feature-rich. *Offline only*. |
 | [Joplin](https://github.com/laurent22/joplin) |  | Scroll down on the GitHub page until you reach the Android download links. No F-Droid repo, but you can download the APK directly instead of using the Play Store. |
 | [Standard Notes](https://standardnotes.org/) |  | Encrypted note storage with loads of features. |
-| [Omni Notes](https://omninotes.app/) [![F-Droid](https://img.shields.io/f-droid/v/it.feio.android.omninotes.foss)](https://f-droid.org/en/packages/it.feio.android.omninotes.foss/) |  | Very feature rich, open-source, material design notes app. Very active development. Available on F-Droid. |
-| [Carnet](https://github.com/PhieF/CarnetDocumentation) [![F-Droid](https://img.shields.io/f-droid/v/com.spisoft.quicknote)](https://f-droid.org/en/packages/com.spisoft.quicknote/) |  | I had some trouble finding info on this one. Looks like it has pretty seamless/painless ownCloud and NextCloud integration. Also available on F-Droid. |
-| [Markor](https://gsantner.net/project/markor.html) [![F-Droid](https://img.shields.io/f-droid/v/net.gsantner.markor)](https://f-droid.org/en/packages/net.gsantner.markor/) |  | Open-source notes/to-do app for Android. Supports Markdown editing. Available on F-Droid. App is 100% offline, as stated on the [GitHub README](https://github.com/gsantner/markor#privacy). |
-| [Orgzly](http://orgzly.com/) [![F-Droid](https://img.shields.io/f-droid/v/com.orgzly)](https://f-droid.org/en/packages/com.orgzly/) |  | Open-source. Notes are stored in the plain-text [Org mode](https://orgmode.org/) format. Supports searching, metadata, and manual sync with Dropbox or local directory, which can be synced using e.g. Syncthing. |
+| [Omni Notes](https://omninotes.app/) [![F-Droid](https://img.shields.io/f-droid/v/it.feio.android.omninotes.foss?style=flat-square)](https://f-droid.org/en/packages/it.feio.android.omninotes.foss/) |  | Very feature rich, open-source, material design notes app. Very active development. Available on F-Droid. |
+| [Carnet](https://github.com/PhieF/CarnetDocumentation) [![F-Droid](https://img.shields.io/f-droid/v/com.spisoft.quicknote?style=flat-square)](https://f-droid.org/en/packages/com.spisoft.quicknote/) |  | I had some trouble finding info on this one. Looks like it has pretty seamless/painless ownCloud and NextCloud integration. Also available on F-Droid. |
+| [Markor](https://gsantner.net/project/markor.html) [![F-Droid](https://img.shields.io/f-droid/v/net.gsantner.markor?style=flat-square)](https://f-droid.org/en/packages/net.gsantner.markor/) |  | Open-source notes/to-do app for Android. Supports Markdown editing. Available on F-Droid. App is 100% offline, as stated on the [GitHub README](https://github.com/gsantner/markor#privacy). |
+| [Orgzly](http://orgzly.com/) [![F-Droid](https://img.shields.io/f-droid/v/com.orgzly?style=flat-square)](https://f-droid.org/en/packages/com.orgzly/) |  | Open-source. Notes are stored in the plain-text [Org mode](https://orgmode.org/) format. Supports searching, metadata, and manual sync with Dropbox or local directory, which can be synced using e.g. Syncthing. |
 
 
 
@@ -644,7 +646,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
-| [Maps](https://gitlab.com/axet/omim/-/blob/HEAD/README.md) [![F-Droid](https://img.shields.io/f-droid/v/com.github.axet.maps)](https://f-droid.org/en/packages/com.github.axet.maps/) |  | Open-source navigation app based on MAPS.ME. Searching for addresses doesn't always work and finding businesses can be a slight hassle, but overall one of the better apps I've used. |
+| [Maps](https://gitlab.com/axet/omim/-/blob/HEAD/README.md) [![F-Droid](https://img.shields.io/f-droid/v/com.github.axet.maps?style=flat-square)](https://f-droid.org/en/packages/com.github.axet.maps/) |  | Open-source navigation app based on MAPS.ME. Searching for addresses doesn't always work and finding businesses can be a slight hassle, but overall one of the better apps I've used. |
 | [OsmAnd](https://osmand.net/) |  | OpenStreetMap for Android. (thanks u/masao77). As OsmAnd is primarily crowdsourced, many regions may not be totally accurate. If you would like to help improve OpenStreetMap and OsmAnd, check out [StreetComplete](https://wiki.openstreetmap.org/wiki/StreetComplete). It is available from [F-Droid](https://f-droid.org/en/packages/de.westnordost.streetcomplete/). |
 | [Transportr](https://transportr.app/) |  | Primarily European, this is an open-source public transport app. Thanks to @lgiard |
 | [Offi or Oeffi](https://oeffi.schildbach.de/) |  | Another recommendation from @lgiard, this app is also for public transport. |
@@ -655,8 +657,8 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
-| [Flym](https://github.com/FredJul/Flym) [![F-Droid](https://img.shields.io/f-droid/v/net.frju.flym)](https://f-droid.org/en/packages/net.frju.flym/) |  | Open-source Material Design RSS reader. |
-| [Feeder](https://gitlab.com/spacecowboy/Feeder/-/blob/master/README.md) [![F-Droid](https://img.shields.io/f-droid/v/com.nononsenseapps.feeder)](https://f-droid.org/en/packages/com.nononsenseapps.feeder/) |  | Use good old-fashioned RSS feeds with Feeder |
+| [Flym](https://github.com/FredJul/Flym) [![F-Droid](https://img.shields.io/f-droid/v/net.frju.flym?style=flat-square)](https://f-droid.org/en/packages/net.frju.flym/) |  | Open-source Material Design RSS reader. |
+| [Feeder](https://gitlab.com/spacecowboy/Feeder/-/blob/master/README.md) [![F-Droid](https://img.shields.io/f-droid/v/com.nononsenseapps.feeder?style=flat-square)](https://f-droid.org/en/packages/com.nononsenseapps.feeder/) |  | Use good old-fashioned RSS feeds with Feeder |
 
 
 
@@ -680,7 +682,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
-| [NewPipe](https://newpipe.schabi.org/) [![F-Droid](https://img.shields.io/f-droid/v/org.schabi.newpipe)](https://f-droid.org/en/packages/org.schabi.newpipe/) |  | Powerful open-source YouTube alternative. Supports audio only; background playback; picture-in-picture; no ads. |
+| [NewPipe](https://newpipe.schabi.org/) [![F-Droid](https://img.shields.io/f-droid/v/org.schabi.newpipe?style=flat-square)](https://f-droid.org/en/packages/org.schabi.newpipe/) |  | Powerful open-source YouTube alternative. Supports audio only; background playback; picture-in-picture; no ads. |
 | [FreeTube](https://github.com/FreeTubeApp/FreeTube) |  | Open-source YouTube client that uses the Invidio.us API to serve content. Not on F-Droid, but you can download the APK from GitHub. (thanks u/wesaphzt) |
 | [YouTube Vanced](https://forum.xda-developers.com/android/apps-games/app-youtube-vanced-edition-t3758757) |  | Please read the XDA post before deciding to use this. |
 
@@ -690,9 +692,9 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
-| [andOTP](https://github.com/andOTP/andOTP) [![F-Droid](https://img.shields.io/f-droid/v/org.shadowice.flocke.andotp)](https://f-droid.org/en/packages/org.shadowice.flocke.andotp/) |  | Open-source 2FA app. |
-| [FreeOTP+](https://github.com/helloworld1/FreeOTPPlus) [![F-Droid](https://img.shields.io/f-droid/v/org.liberty.android.freeotpplus)](https://f-droid.org/en/packages/org.liberty.android.freeotpplus/) |  | FreeOTP is no longer in development so this fork should be used instead as it is currently in development. |
-| [Aegis](https://getaegis.app/) [![F-Droid](https://img.shields.io/f-droid/v/com.beemdevelopment.aegis)](https://f-droid.org/en/packages/com.beemdevelopment.aegis/) |  | Open-source 2FA for Android. Available on F-Droid. |
+| [andOTP](https://github.com/andOTP/andOTP) [![F-Droid](https://img.shields.io/f-droid/v/org.shadowice.flocke.andotp?style=flat-square)](https://f-droid.org/en/packages/org.shadowice.flocke.andotp/) |  | Open-source 2FA app. |
+| [FreeOTP+](https://github.com/helloworld1/FreeOTPPlus) [![F-Droid](https://img.shields.io/f-droid/v/org.liberty.android.freeotpplus?style=flat-square)](https://f-droid.org/en/packages/org.liberty.android.freeotpplus/) |  | FreeOTP is no longer in development so this fork should be used instead as it is currently in development. |
+| [Aegis](https://getaegis.app/) [![F-Droid](https://img.shields.io/f-droid/v/com.beemdevelopment.aegis?style=flat-square)](https://f-droid.org/en/packages/com.beemdevelopment.aegis/) |  | Open-source 2FA for Android. Available on F-Droid. |
 | [Authenticator](https://mattrubin.me/authenticator/) |  | **iOS** - Open-source 2FA for iOS. (thanks u/SomeoneWannaBe) |
 | [Tofu](https://tofuauth.com) |  | **iOS** - Open-source 2FA for iOS. |
 
@@ -702,8 +704,8 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
-| [Audinaut](https://github.com/nvllsvm/Audinaut) [![F-Droid](https://img.shields.io/f-droid/v/net.nullsum.audinaut)](https://f-droid.org/en/packages/net.nullsum.audinaut/) |  | An open-source Airsonic client for Android. |
-| [MALP](https://gitlab.com/gateship-one/malp/-/blob/master/README.md) [![F-Droid](https://img.shields.io/f-droid/v/org.gateshipone.malp)](https://f-droid.org/en/packages/org.gateshipone.malp/) |  | An open-source Android client for MPD. Available on F-Droid. |
+| [Audinaut](https://github.com/nvllsvm/Audinaut) [![F-Droid](https://img.shields.io/f-droid/v/net.nullsum.audinaut?style=flat-square)](https://f-droid.org/en/packages/net.nullsum.audinaut/) |  | An open-source Airsonic client for Android. |
+| [MALP](https://gitlab.com/gateship-one/malp/-/blob/master/README.md) [![F-Droid](https://img.shields.io/f-droid/v/org.gateshipone.malp?style=flat-square)](https://f-droid.org/en/packages/org.gateshipone.malp/) |  | An open-source Android client for MPD. Available on F-Droid. |
 
 
 
@@ -712,9 +714,9 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [Keybase](https://keybase.io/) | **5-eyes** | encrypted chat like Signal with features like Slack. Does not require a phone number to sign up. Also has file storage. **Note:** Keybase was acquired by Zoom, Inc. in May 2020 ([Keybase blog](https://keybase.io/blog/keybase-joins-zoom), [Zoom blog](https://blog.zoom.us/wordpress/2020/05/07/zoom-acquires-keybase-and-announces-goal-of-developing-the-most-broadly-used-enterprise-end-to-end-encryption-offering/)). Thanks @notpushkin & @multimob. |
-| [Conversations](https://conversations.im/) [![F-Droid](https://img.shields.io/f-droid/v/eu.siacs.conversations)](https://f-droid.org/en/packages/eu.siacs.conversations/) | **14-eyes** | An open-source Android Jabber/XMPP client. It's a paid app on Google Play, but you can also [build it from source](https://github.com/siacs/Conversations) for free if you want to. |
-| [Riot](https://github.com/vector-im/riot-android) [![F-Droid](https://img.shields.io/f-droid/v/im.vector.alpha)](https://f-droid.org/en/packages/im.vector.alpha/) | **5-eyes** | Android app - The open-source Android client for Riot. |
-| [Jitsi Meet (F-Droid)](https://meet.jit.si/) [![F-Droid](https://img.shields.io/f-droid/v/org.jitsi.meet)](https://f-droid.org/en/packages/org.jitsi.meet/) |  | Jitsi is an open-source secure video conferencing platform. No account is needed to use it, simply enter a Room Name to join or host a meeting. The host is able to kick rogue users from the call. Works directly in your browser, with apps available for iOS and Android. It is not necessary to self-host, but self-hosting is an option for those who wish to. Very low latency and easy to set up. A free public server is available at (https://meet.jit.si) (**5-eyes** server) |
+| [Conversations](https://conversations.im/) [![F-Droid](https://img.shields.io/f-droid/v/eu.siacs.conversations?style=flat-square)](https://f-droid.org/en/packages/eu.siacs.conversations/) | **14-eyes** | An open-source Android Jabber/XMPP client. It's a paid app on Google Play, but you can also [build it from source](https://github.com/siacs/Conversations) for free if you want to. |
+| [Riot](https://github.com/vector-im/riot-android) [![F-Droid](https://img.shields.io/f-droid/v/im.vector.alpha?style=flat-square)](https://f-droid.org/en/packages/im.vector.alpha/) | **5-eyes** | Android app - The open-source Android client for Riot. |
+| [Jitsi Meet (F-Droid)](https://meet.jit.si/) [![F-Droid](https://img.shields.io/f-droid/v/org.jitsi.meet?style=flat-square)](https://f-droid.org/en/packages/org.jitsi.meet/) |  | Jitsi is an open-source secure video conferencing platform. No account is needed to use it, simply enter a Room Name to join or host a meeting. The host is able to kick rogue users from the call. Works directly in your browser, with apps available for iOS and Android. It is not necessary to self-host, but self-hosting is an option for those who wish to. Very low latency and easy to set up. A free public server is available at (https://meet.jit.si) (**5-eyes** server) |
 
 
 
@@ -722,7 +724,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
-| [Jitsi Meet (F-Droid)](https://meet.jit.si/) [![F-Droid](https://img.shields.io/f-droid/v/org.jitsi.meet)](https://f-droid.org/en/packages/org.jitsi.meet/) |  | Jitsi is an open-source secure video conferencing platform. No account is needed to use it, simply enter a Room Name to join or host a meeting. The host is able to kick rogue users from the call. Works directly in your browser, with apps available for iOS and Android. It is not necessary to self-host, but self-hosting is an option for those who wish to. Very low latency and easy to set up. A free public server is available at (https://meet.jit.si) (**5-eyes** server) |
+| [Jitsi Meet (F-Droid)](https://meet.jit.si/) [![F-Droid](https://img.shields.io/f-droid/v/org.jitsi.meet?style=flat-square)](https://f-droid.org/en/packages/org.jitsi.meet/) |  | Jitsi is an open-source secure video conferencing platform. No account is needed to use it, simply enter a Room Name to join or host a meeting. The host is able to kick rogue users from the call. Works directly in your browser, with apps available for iOS and Android. It is not necessary to self-host, but self-hosting is an option for those who wish to. Very low latency and easy to set up. A free public server is available at (https://meet.jit.si) (**5-eyes** server) |
 
 
 
@@ -748,9 +750,9 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [Shade Launcher](https://github.com/amirzaidi/Shade) |  | Open-source Android launcher styled after the Google Pixel launcher. No F-Droid, but you can download the APK from GitHub. |
-| [ZimLX](https://github.com/otakuhqz/ZimLX) [![F-Droid](https://img.shields.io/f-droid/v/org.zimmob.zimlx)](https://f-droid.org/en/packages/org.zimmob.zimlx/) |  | Open-source launcher. Active development with lots of nice features. |
-| [Lawnchair](https://lawnchair.app/) [![F-Droid](https://img.shields.io/f-droid/v/ch.deletescape.lawnchair.plah)](https://f-droid.org/en/packages/ch.deletescape.lawnchair.plah/) |  | Another open-source launcher, also built to look similar to Google's launcher (it is built off AOSP Launcher3). Available from F-Droid and also APKMirror. (thanks u/droidonomy) |
-| [KISS Launcher](https://kisslauncher.com/) [![F-Droid](https://img.shields.io/f-droid/v/fr.neamar.kiss)](https://f-droid.org/en/packages/fr.neamar.kiss/) |  | Fast, open-source and small launcher. KISS mainly relies on an app-search-bar, which makes it very easy to open up apps quickly. Thanks @Glitchy-Tozier |
+| [ZimLX](https://github.com/otakuhqz/ZimLX) [![F-Droid](https://img.shields.io/f-droid/v/org.zimmob.zimlx?style=flat-square)](https://f-droid.org/en/packages/org.zimmob.zimlx/) |  | Open-source launcher. Active development with lots of nice features. |
+| [Lawnchair](https://lawnchair.app/) [![F-Droid](https://img.shields.io/f-droid/v/ch.deletescape.lawnchair.plah?style=flat-square)](https://f-droid.org/en/packages/ch.deletescape.lawnchair.plah/) |  | Another open-source launcher, also built to look similar to Google's launcher (it is built off AOSP Launcher3). Available from F-Droid and also APKMirror. (thanks u/droidonomy) |
+| [KISS Launcher](https://kisslauncher.com/) [![F-Droid](https://img.shields.io/f-droid/v/fr.neamar.kiss?style=flat-square)](https://f-droid.org/en/packages/fr.neamar.kiss/) |  | Fast, open-source and small launcher. KISS mainly relies on an app-search-bar, which makes it very easy to open up apps quickly. Thanks @Glitchy-Tozier |
 
 
 
@@ -758,15 +760,15 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
-| [Blokada](https://blokada.org/) [![F-Droid](https://img.shields.io/f-droid/v/org.blokada.alarm)](https://f-droid.org/en/packages/org.blokada.alarm/) |  | From the website: "If you want to efficiently block ads, trackers, malware, save on your data plan, speed up your device and protect your privacy with just one application, then Blokada is for you. It is free, secure and open source." Uses internal VPN on Android to block ads. |
-| [TrackerControl](https://github.com/OxfordHCC/tracker-control-android) [![F-Droid](https://img.shields.io/f-droid/v/net.kollnig.missioncontrol.fdroid)](https://f-droid.org/en/packages/net.kollnig.missioncontrol.fdroid/) |  | From the GitHub README: Allows users to monitor and control the widespread, ongoing, hidden data collection in mobile apps about user behaviour ("tracking"). To detect tracking, TrackerControl checks all network traffic against the Disconnect blocklist, used and trusted by the Mozilla Firefox browser. Thanks @E5dZEUpc3BKaJrHnQVZd5zE |
+| [Blokada](https://blokada.org/) [![F-Droid](https://img.shields.io/f-droid/v/org.blokada.alarm?style=flat-square)](https://f-droid.org/en/packages/org.blokada.alarm/) |  | From the website: "If you want to efficiently block ads, trackers, malware, save on your data plan, speed up your device and protect your privacy with just one application, then Blokada is for you. It is free, secure and open source." Uses internal VPN on Android to block ads. |
+| [TrackerControl](https://github.com/OxfordHCC/tracker-control-android) [![F-Droid](https://img.shields.io/f-droid/v/net.kollnig.missioncontrol.fdroid?style=flat-square)](https://f-droid.org/en/packages/net.kollnig.missioncontrol.fdroid/) |  | From the GitHub README: Allows users to monitor and control the widespread, ongoing, hidden data collection in mobile apps about user behaviour ("tracking"). To detect tracking, TrackerControl checks all network traffic against the Disconnect blocklist, used and trusted by the Mozilla Firefox browser. Thanks @E5dZEUpc3BKaJrHnQVZd5zE |
 
 
 
 
 
 ## Hardware
-[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](#index)
+[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
 #### Nexus/Pixel
 
@@ -856,52 +858,52 @@ Everything you need to become a Privacy Wizard.
 - Did you read the [wiki](https://old.reddit.com/r/privacy/wiki/index) yet? Go do that.
 
 ## Books 
-[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](#index)
+[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
 | Title | Published | Author |
 | ----- | --------- | ------ |
-| [Permanent Record](https://www.goodreads.com/book/show/46223297-permanent-record) | ![Published](https://img.shields.io/badge/2019-informational.svg) | Edward Snowden |
-| [Ten Arguments for Deleting Your Social Media Accounts Right Now](http://www.jaronlanier.com/tenarguments.html) | ![Published](https://img.shields.io/badge/2018-informational.svg) | Jaron Lanier |
-| [The Age of Surveillance Capitalism](https://www.publicaffairsbooks.com/titles/shoshana-zuboff/the-age-of-surveillance-capitalism/9781610395694/) | ![Published](https://img.shields.io/badge/2019-informational.svg) | Shoshana Zuboff |
-| [The Attention Merchants](http://www.timwu.org/AttentionMerchants.html) | ![Published](https://img.shields.io/badge/2016-informational.svg) | Tim Wu |
-| [Zucked](https://www.zuckedbook.com/) | ![Published](https://img.shields.io/badge/2019-informational.svg) | Roger McNamee |
+| [Permanent Record](https://www.goodreads.com/book/show/46223297-permanent-record) | ![Published](https://img.shields.io/badge/2019-informational?style=flat-square) | Edward Snowden |
+| [Ten Arguments for Deleting Your Social Media Accounts Right Now](http://www.jaronlanier.com/tenarguments.html) | ![Published](https://img.shields.io/badge/2018-informational?style=flat-square) | Jaron Lanier |
+| [The Age of Surveillance Capitalism](https://www.publicaffairsbooks.com/titles/shoshana-zuboff/the-age-of-surveillance-capitalism/9781610395694/) | ![Published](https://img.shields.io/badge/2019-informational?style=flat-square) | Shoshana Zuboff |
+| [The Attention Merchants](http://www.timwu.org/AttentionMerchants.html) | ![Published](https://img.shields.io/badge/2016-informational?style=flat-square) | Tim Wu |
+| [Zucked](https://www.zuckedbook.com/) | ![Published](https://img.shields.io/badge/2019-informational?style=flat-square) | Roger McNamee |
 
 
 ## Blog posts 
-[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](#index)
+[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
 | Title | Published | Author |
 | ----- | --------- | ------ |
-| [Google Chrome’s users take a back seat to its bottom line](https://www.eff.org/deeplinks/2018/11/google-chromes-users-take-back-seat-its-bottom-line) | ![Published](https://img.shields.io/badge/2018--11--01-informational.svg) | Bennett Cyphers and Mitch Stoltz - EFF |
-| [Quitting Facebook & Google](https://medium.com/@natematias/https-medium-com-natematias-quitting-facebook-google-aaf8f4c80fbf) | ![Published](https://img.shields.io/badge/2018--12--08-informational.svg) | J. Nathan Matias |
-| [How to fight back against Google AMP as a web user and a web developer](https://markosaric.com/google-amp/) | ![Published](https://img.shields.io/badge/2019--12--05-informational.svg) | Marko Saric |
+| [Google Chrome’s users take a back seat to its bottom line](https://www.eff.org/deeplinks/2018/11/google-chromes-users-take-back-seat-its-bottom-line) | ![Published](https://img.shields.io/badge/2018--11--01-informational?style=flat-square) | Bennett Cyphers and Mitch Stoltz - EFF |
+| [Quitting Facebook & Google](https://medium.com/@natematias/https-medium-com-natematias-quitting-facebook-google-aaf8f4c80fbf) | ![Published](https://img.shields.io/badge/2018--12--08-informational?style=flat-square) | J. Nathan Matias |
+| [How to fight back against Google AMP as a web user and a web developer](https://markosaric.com/google-amp/) | ![Published](https://img.shields.io/badge/2019--12--05-informational?style=flat-square) | Marko Saric |
 
 
 ## News articles 
-[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey.svg)](#index)
+[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
 | Title | Published | Author |
 | ----- | --------- | ------ |
-| [Google Can Survive Too Much Innovation. You Can't.](https://outline.com/pwWc6B) | ![Published](https://img.shields.io/badge/2012--05--15-informational.svg) | Robert Sher - Forbes |
-| [The truth about Google's famous '20% time' policy](https://outline.com/SmyHJW) | ![Published](https://img.shields.io/badge/2015--04--17-informational.svg) | Jillian D'Onfro - Business Insider |
-| [The Binge Breaker](https://outline.com/EmHWna) | ![Published](https://img.shields.io/badge/2016--11--01-informational.svg) | Bianca Bosker - The Atlantic |
-| [How Malware Keeps Sneaking Past Google Play’s Defenses](https://outline.com/2mAwU7) | ![Published](https://img.shields.io/badge/2017--09--22-informational.svg) | Lily Hay Newman - WIRED |
-| [Forget Killer Robots — Bias Is the Real AI Danger](https://outline.com/VqaaUD) | ![Published](https://img.shields.io/badge/2017--10--03-informational.svg) | Will Knight - MIT Technology Review |
-| [Google managers kept blacklists of conservative employees and one manager considered holding 'trials,' a new lawsuit alleges](https://outline.com/NMrzg2) | ![Published](https://img.shields.io/badge/2018--01--08-informational.svg) | Julie Bort - Business Insider |
-| [A longtime Google engineer quits, saying the company is ’100% competitor-focused’ and ‘can no longer innovate’](https://outline.com/WfF8DP) | ![Published](https://img.shields.io/badge/2018--01--24-informational.svg) | Jillian D'Onfro - CNBC |
-| [Facebook and Google are doomed, George Soros says](https://outline.com/GTMKNM) | ![Published](https://img.shields.io/badge/2018--01--26-informational.svg) | Hamza Shaban - Washington Post |
-| [Google Isn't Listening, So Its Employees Are Suing](https://outline.com/9awE8Z) | ![Published](https://img.shields.io/badge/2018--03--26-informational.svg) | Kate Conger - Gizmodo |
-| [Google sees major claims of harassment and discrimination as lawsuits proceed](https://outline.com/NcxRr3) | ![Published](https://img.shields.io/badge/2018--03--28-informational.svg) | Sam Levin - The Guardian |
-| [How to stop Google from tracking everything you do online](https://outline.com/uez3G5) | ![Published](https://img.shields.io/badge/2018--05--11-informational.svg) | Todd Haselton - CNBC |
-| [Google will always do evil](https://outline.com/YhAP7C) | ![Published](https://img.shields.io/badge/2018--05--24-informational.svg) | Jessica Conditt - Engadget |
-| [Google’s new ‘AI principles’ forbid its use in weapons and human rights violations](https://outline.com/NjBrf9) | ![Published](https://img.shields.io/badge/2018--06--07-informational.svg) | Devin Coldewey - TechCrunch |
-| [Google Plans to Launch Censored Search Engine in China, Leaked Documents Reveal](https://outline.com/dXrdLr) | ![Published](https://img.shields.io/badge/2018--08--01-informational.svg) | Ryan Gallagher - The Intercept |
-| [Google’s China plan isn’t just evil — it’s bad for business](https://outline.com/VRAxTZ) | ![Published](https://img.shields.io/badge/2018--08--09-informational.svg) | Josh Rogin - Washington Post |
-| [How Google Protected Andy Rubin, the ‘Father of Android’](https://outline.com/4Ua6SY) | ![Published](https://img.shields.io/badge/2018--10--25-informational.svg) | Daisuke Wakabayashi and Katie Benner - New York Times |
-| [A New Google+ Blunder Exposed Data From 52.5 Million Users](https://outline.com/w7Gxux) | ![Published](https://img.shields.io/badge/2018--12--10-informational.svg) | Lily Hay Newman - WIRED |
-| [Three Years of Misery Inside Google, the Happiest Company in Tech](https://outline.com/XUCRBr) | ![Published](https://img.shields.io/badge/2019--08--13-informational.svg) | Nitasha Tiku - WIRED |
-| [Google’s latest user-hostile design change makes ads and search results look identical](https://outline.com/utGbnh) | ![Published](https://img.shields.io/badge/2020--01--23-informational.svg) | Natasha Lomas - TechCrunch |
-| [You Are Now Remotely Controlled](https://outline.com/uzKKcq) | ![Published](https://img.shields.io/badge/2020--01--24-informational.svg) | Shoshana Zuboff - New York Times |
+| [Google Can Survive Too Much Innovation. You Can't.](https://outline.com/pwWc6B) | ![Published](https://img.shields.io/badge/2012--05--15-informational?style=flat-square) | Robert Sher - Forbes |
+| [The truth about Google's famous '20% time' policy](https://outline.com/SmyHJW) | ![Published](https://img.shields.io/badge/2015--04--17-informational?style=flat-square) | Jillian D'Onfro - Business Insider |
+| [The Binge Breaker](https://outline.com/EmHWna) | ![Published](https://img.shields.io/badge/2016--11--01-informational?style=flat-square) | Bianca Bosker - The Atlantic |
+| [How Malware Keeps Sneaking Past Google Play’s Defenses](https://outline.com/2mAwU7) | ![Published](https://img.shields.io/badge/2017--09--22-informational?style=flat-square) | Lily Hay Newman - WIRED |
+| [Forget Killer Robots — Bias Is the Real AI Danger](https://outline.com/VqaaUD) | ![Published](https://img.shields.io/badge/2017--10--03-informational?style=flat-square) | Will Knight - MIT Technology Review |
+| [Google managers kept blacklists of conservative employees and one manager considered holding 'trials,' a new lawsuit alleges](https://outline.com/NMrzg2) | ![Published](https://img.shields.io/badge/2018--01--08-informational?style=flat-square) | Julie Bort - Business Insider |
+| [A longtime Google engineer quits, saying the company is ’100% competitor-focused’ and ‘can no longer innovate’](https://outline.com/WfF8DP) | ![Published](https://img.shields.io/badge/2018--01--24-informational?style=flat-square) | Jillian D'Onfro - CNBC |
+| [Facebook and Google are doomed, George Soros says](https://outline.com/GTMKNM) | ![Published](https://img.shields.io/badge/2018--01--26-informational?style=flat-square) | Hamza Shaban - Washington Post |
+| [Google Isn't Listening, So Its Employees Are Suing](https://outline.com/9awE8Z) | ![Published](https://img.shields.io/badge/2018--03--26-informational?style=flat-square) | Kate Conger - Gizmodo |
+| [Google sees major claims of harassment and discrimination as lawsuits proceed](https://outline.com/NcxRr3) | ![Published](https://img.shields.io/badge/2018--03--28-informational?style=flat-square) | Sam Levin - The Guardian |
+| [How to stop Google from tracking everything you do online](https://outline.com/uez3G5) | ![Published](https://img.shields.io/badge/2018--05--11-informational?style=flat-square) | Todd Haselton - CNBC |
+| [Google will always do evil](https://outline.com/YhAP7C) | ![Published](https://img.shields.io/badge/2018--05--24-informational?style=flat-square) | Jessica Conditt - Engadget |
+| [Google’s new ‘AI principles’ forbid its use in weapons and human rights violations](https://outline.com/NjBrf9) | ![Published](https://img.shields.io/badge/2018--06--07-informational?style=flat-square) | Devin Coldewey - TechCrunch |
+| [Google Plans to Launch Censored Search Engine in China, Leaked Documents Reveal](https://outline.com/dXrdLr) | ![Published](https://img.shields.io/badge/2018--08--01-informational?style=flat-square) | Ryan Gallagher - The Intercept |
+| [Google’s China plan isn’t just evil — it’s bad for business](https://outline.com/VRAxTZ) | ![Published](https://img.shields.io/badge/2018--08--09-informational?style=flat-square) | Josh Rogin - Washington Post |
+| [How Google Protected Andy Rubin, the ‘Father of Android’](https://outline.com/4Ua6SY) | ![Published](https://img.shields.io/badge/2018--10--25-informational?style=flat-square) | Daisuke Wakabayashi and Katie Benner - New York Times |
+| [A New Google+ Blunder Exposed Data From 52.5 Million Users](https://outline.com/w7Gxux) | ![Published](https://img.shields.io/badge/2018--12--10-informational?style=flat-square) | Lily Hay Newman - WIRED |
+| [Three Years of Misery Inside Google, the Happiest Company in Tech](https://outline.com/XUCRBr) | ![Published](https://img.shields.io/badge/2019--08--13-informational?style=flat-square) | Nitasha Tiku - WIRED |
+| [Google’s latest user-hostile design change makes ads and search results look identical](https://outline.com/utGbnh) | ![Published](https://img.shields.io/badge/2020--01--23-informational?style=flat-square) | Natasha Lomas - TechCrunch |
+| [You Are Now Remotely Controlled](https://outline.com/uzKKcq) | ![Published](https://img.shields.io/badge/2020--01--24-informational?style=flat-square) | Shoshana Zuboff - New York Times |
 
 
 # The lighter side
