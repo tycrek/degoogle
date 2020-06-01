@@ -649,6 +649,13 @@ web based products:
         An open-source Transit app on Android that takes information from several providers (e.g Deutsche Bahn in Germany) and enables you to use them in the app. Visualises the routes on an online OpenStreetMap map. Works in most of Western-Europe, as well as the USA, Australia, Canada, New Zealand, Brazil, Nicaragua, Costa Rica, the UAE and Ghana. **Beware: most information-providers only have beta or alpha support, it may be a good idea to keep a second app as a fallback option**
   trends:
     - title: Trends
+  forms:
+    - title: Forms
+    - name: BlockSurvey
+      url: https://blocksurvey.io/
+      eyes: null
+      text: |
+        BlockSurvey enables digital rights (identity and data ownership) to users using Blockstack's blockchain. Users truly own their data with BlockSurvey. All your data is protected using your key and only you can access it. There are no trackers, cookies, or fingerprints on the forms of data providers. Thanks @compressstudio
 operating systems:
   mobile:
     - title: Android/Fuchsia

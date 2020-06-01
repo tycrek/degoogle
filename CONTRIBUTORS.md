@@ -46,6 +46,7 @@ GitHub:
 - [@E5dZEUpc3BKaJrHnQVZd5zE](https://github.com/E5dZEUpc3BKaJrHnQVZd5zE)
 - [@woutfeys](https://github.com/woutfeys)
 - [@virtadpt](https://github.com/virtadpt)
+- [@compressstudio](https://github.com/compressstudio)
 
 Reddit:
 
