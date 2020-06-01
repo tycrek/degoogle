@@ -33,7 +33,7 @@
 - name: Terms of Service; Didn't Read
   url: https://addons.mozilla.org/en-US/firefox/addon/terms-of-service-didnt-read
   text: |
-    “I have read and agree to the Terms” is the biggest lie on the web. We aim to fix that. “Terms of Service; Didn't Read” is a user rights initiative to rate and label website terms & privacy policies, from very good (class A) to very bad (class E). This extension informs you instantly of your rights online by showing an unintrusive icon in the toolbar. You can click on this icon to get summaries from the [Terms of Service; Didn't Read](https://outgoing.prod.mozaws.net/v1/d777d83012fe71fd83f835c6a5bfda377bac92d6cc94b12e7e199720a4b3d00b/http%3A//tosdr.org initiative.
+    “I have read and agree to the Terms” is the biggest lie on the web. We aim to fix that. “Terms of Service; Didn't Read” is a user rights initiative to rate and label website terms & privacy policies, from very good (class A) to very bad (class E). This extension informs you instantly of your rights online by showing an unintrusive icon in the toolbar. You can click on this icon to get summaries from the [Terms of Service; Didn't Read](https://tosdr.org/) initiative.
 - name: ClearURLS
   url: https://addons.mozilla.org/en-US/firefox/addon/clearurls
   text: |
