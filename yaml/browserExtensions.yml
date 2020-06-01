@@ -1,0 +1,96 @@
+- name: uBlock Origin
+  url: https://addons.mozilla.org/en-US/firefox/addon/ublock-origin
+  text: |
+    uBlock Origin is not an "ad blocker", it's a wide-spectrum content blocker with CPU and memory efficiency as a primary feature.
+- name: Privacy Badger
+  url: https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17
+  text: |
+    Privacy Badger automatically learns to block invisible trackers. Instead of keeping lists of what to block, Privacy Badger learns by watching which domains appear to be tracking you as you browse the Web.
+- name: Decentraleyes
+  url: https://addons.mozilla.org/en-US/firefox/addon/decentraleyes
+  text: |
+    Protects you against tracking through "free", centralized, content delivery. It prevents a lot of requests from reaching networks like Google Hosted Libraries, and serves local files to keep sites from breaking. Complements regular content blockers.
+- name: HTTPS Everywhere
+  url: https://addons.mozilla.org/en-US/firefox/addon/https-everywhere
+  text: |
+    Many sites on the web offer some limited support for encryption over HTTPS, but make it difficult to use. For instance, they may default to unencrypted HTTP, or fill encrypted pages with links that go back to the unencrypted site. The HTTPS Everywhere extension fixes these problems by rewriting all requests to these sites to HTTPS.
+- name: Cookie AutoDelete
+  url: https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete
+  text: |
+    Control your cookies! This WebExtension is inspired by Self Destructing Cookies. When a tab closes, any cookies not being used are automatically deleted. Whitelist the ones you trust while deleting the rest. Support for Container Tabs.
+- name: DDG Privacy Essentials
+  url: https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox
+  text: |
+    Privacy, simplified. Our add-on provides the privacy essentials you need to seamlessly take control of your personal information, no matter where the internet takes you: tracker blocking, smarter encryption, DuckDuckGo private search, and more.
+- name: I don't care about cookies
+  url: https://addons.mozilla.org/en-US/firefox/addon/i-dont-care-about-cookies
+  text: |
+    This add-on will remove cookie warnings from almost all websites! You can report any website which still warns you about cookies: make a right click and choose 'Report a cookie warning' from the menu.
+- name: minerBlock
+  url: https://addons.mozilla.org/en-US/firefox/addon/minerblock-origin
+  text: |
+    MinerBlock is an efficient browser extension that focuses on blocking browser-based cryptocurrency miners all over the web. This extension uses two different approaches to block miners. The first one is based on blocking requests/scripts loaded from a blacklist, this is the traditional approach adopted by most ad-blockers and other mining blockers. The other approach which makes MinerBlock more efficient against cryptojacking is detecting potential mining behavior inside loaded scripts and kills them immediately. This makes the extension able to block inline scripts as well as miners running through proxies. Source code available on [Github](https://outgoing.prod.mozaws.net/v1/639ca8702e5e849eb1383417d3751d8479f378ae7343b155c39266fb41055398/https%3A//github.com/xd4rker/MinerBlock).
+- name: Terms of Service; Didn't Read
+  url: https://addons.mozilla.org/en-US/firefox/addon/terms-of-service-didnt-read
+  text: |
+    “I have read and agree to the Terms” is the biggest lie on the web. We aim to fix that. “Terms of Service; Didn't Read” is a user rights initiative to rate and label website terms & privacy policies, from very good (class A) to very bad (class E). This extension informs you instantly of your rights online by showing an unintrusive icon in the toolbar. You can click on this icon to get summaries from the [Terms of Service; Didn't Read](https://outgoing.prod.mozaws.net/v1/d777d83012fe71fd83f835c6a5bfda377bac92d6cc94b12e7e199720a4b3d00b/http%3A//tosdr.org initiative.
+- name: ClearURLS
+  url: https://addons.mozilla.org/en-US/firefox/addon/clearurls
+  text: |
+    This extension will automatically remove tracking elements from URLs to help protect your privacy when browse through the Internet.
+- name: Cloud Firewall
+  url: https://addons.mozilla.org/en-US/firefox/addon/cloud-firewall
+  text: |
+    Block connections to pages and web resources hosted in major cloud services if the user wishes to do so. Supports blocking Google, Amazon, Facebook, Apple, Microsoft and Cloudflare.
+- name: CSS Exfil Protection
+  url: https://addons.mozilla.org/en-US/firefox/addon/css-exfil-protection
+  text: |
+    CSS Exfil is a method attackers can use to steal data from web pages using Cascading Style Sheets (CSS). This plugin sanitizes and blocks any CSS rules which may be designed to steal data.
+- name: Disconnect
+  url: https://addons.mozilla.org/en-US/firefox/addon/disconnect
+  text: |
+    Visualize and block the otherwise invisible websites that track your search and browsing history.
+- name: Don't touch my tabs! (rel=noopener
+  url: https://addons.mozilla.org/en-US/firefox/addon/dont-touch-my-tabs
+  text: |
+    Prevent tabs opened by a hyperlink from hijacking the previous tab by adding the rel=noopener attribute to all hyperlinks (excluding same-domain hyperlinks).
+- name: Firefox Multi-Account Containers
+  url: https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers
+  text: |
+    Firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs that preserve your privacy. Cookies are separated by container, allowing you to use the web with multiple identities or accounts simultaneously.
+- name: Google search link fix (also Yandex)
+  url: https://addons.mozilla.org/en-US/firefox/addon/google-search-link-fix
+  text: |
+    This extension prevents Google and Yandex search pages from modifying search result links when you click them. This is useful when copying links but it also helps privacy by preventing the search engines from recording your clicks.
+- name: HTTPZ
+  url: https://addons.mozilla.org/en-US/firefox/addon/httpz
+  text: |
+    HTTPZ is meant to be unobtrusive and lightweight, it respects your privacy, and is free of trans fats. Additionally, it is very configurable, and should be slightly more secure than some of the alternatives out there, since it has a couple of built-in defenses against SSL-stripping attacks.
+- name: Link Cleaner
+  url: https://addons.mozilla.org/en-US/firefox/addon/link-cleaner
+  text: |
+    Clean URLs that are about to be visited: removes utm_* parameters; on item pages of aliexpress and amazon, removes tracking parameters; skip redirect pages of facebook, steam and reddit
+- name: Neat URL
+  url: https://addons.mozilla.org/en-US/firefox/addon/neat-url
+  text: |
+    Remove garbage from URLs.
+- name: Privacy-Oriented Origin Policy
+  url: https://addons.mozilla.org/en-US/firefox/addon/privacy-oriented-origin-policy
+  text: |
+    Prevent Firefox from sending Origin headers when they are least likely to be necessary, to protect your privacy.
+- name: Skip Redirect
+  url: https://addons.mozilla.org/en-US/firefox/addon/skip-redirect
+  text: |
+    Some web pages use intermediary pages before redirecting to a final page. This add-on tries to extract the final url from the intermediary url and goes there straight away if successful.
+- name: Temporary Containers
+  url: https://addons.mozilla.org/en-US/firefox/addon/temporary-containers
+  text: |
+    Open tabs, websites, and links in automatically managed disposable containers. Containers isolate data websites store (cookies, storage, and more) from each other, enhancing your privacy and security while you browse.
+- name: uMatrix
+  url: https://addons.mozilla.org/en-US/firefox/addon/umatrix
+  text: |
+    Point & click to forbid/allow any class of requests made by your browser. Use it to block scripts, iframes, ads, facebook, etc.
+- name: TrackMeNot
+  url: https://addons.mozilla.org/en-US/firefox/addon/trackmenot
+  text: |
+    An artware browser add-on to protect privacy in web-search. By issuing randomized queries to common search-engines, TrackMeNot obfuscates your search profile and registers your discontent with surreptitious tracking.

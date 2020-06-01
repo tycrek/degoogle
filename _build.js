@@ -11,7 +11,7 @@ const BUILD_SECTION = {
     header: () => readFile('md/_header.md'),
     index: () => readFile('md/_index.md'),
     contributing: () => readFile('md/_contributing.md'),
-    browserExtensions: () => readFile('md/_browserExtensions.md'),
+    browserExtensions: () => generateBrowserExtensions(),
     disclaimer: () => readFile('md/_disclaimer.md'),
     webBasedProducts: () => generateCategorySection('Web-based products', readYaml()['web based products']),
     operatingSystems: () => generateCategorySection('Operating systems', readYaml()['operating systems']),
@@ -134,6 +134,27 @@ function generateServiceSection(data) {
  */
 function fdroidLink(appId) {
     return `[![F-Droid](https://img.shields.io/f-droid/v/${appId})](https://f-droid.org/en/packages/${appId}/)`;
+}
+
+function addonLink(link) {
+    let addonId = link.split('/')[link.split('/').length - 1]
+    return `![Mozilla Add-on](https://img.shields.io/amo/users/${addonId})`;
+}
+
+function generateBrowserExtensions() {
+    let extensions = `# Browser extensions${os.EOL + os.EOL}| Name | Description |${os.EOL}| ---- | ----------- |${os.EOL}`;
+    let data = YAML.parse(fs.readFileSync(path.join(__dirname, 'yaml/browserExtensions.yml')).toString());
+    data.forEach(item => {
+        let name = `[${item.name}](${item.url})`;
+        let text = item.text.trim();
+        let badge = addonLink(item.url);
+
+        let tableItem = `| ${name + ' ' + badge} | ${text} |`;
+
+        extensions = extensions.concat(tableItem + os.EOL)
+    });
+
+    return extensions;
 }
 
 __main__();
