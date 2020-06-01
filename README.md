@@ -193,6 +193,7 @@ These Firefox extensions can help prevent connections to Google domains and also
 | [concrete5](https://www.concrete5.org/about) | **5-eyes** | Open-source CMS. |
 | [Noblogs](https://noblogs.org/) | **9-eyes** | A privacy/security focused blogging platform. |
 | [Ghost](https://ghost.org/) |  | Open-source modern CMS. Boasts "over 19x faster than WordPress". Thanks @peterge1998 |
+| [Bear](https://bearblog.dev/) | **5-eyes** | Free, no-nonsense, super-fast blogging. No javascript, no stylesheets, no trackers. Just your words. Thanks @FreddyMarsden |
 
 
 
