@@ -6,6 +6,7 @@ on:
     paths:
       - yaml/*.yml
       - md/*.md
+      - _build.js
 jobs:
   build:
     runs-on: ubuntu-latest
