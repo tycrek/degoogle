@@ -120,7 +120,7 @@ web based products:
       url: https://deepl.com/
       eyes: 14
       text: |
-        DeepL is an artifical intelligence translation service. *Editor note: The site server seems to be hosted in Finland, yet the company lists itself as [a company based in Germany](https://www.deepl.com/pro-faq.html) in the Data Protection section.*
+        DeepL is an artifical intelligence translation service. **Please keep in mind DeepL tracks the text you translate unless you purchase Pro**. See sections 4 & 5 of their [privacy policy](https://www.deepl.com/privacy.html) for more information. Thanks u/TheCy-FiJuggernaut
   ads:
     - title: Google Ads/AdMob/AdSense
     - name: CodeFund
