@@ -2,6 +2,7 @@ const fs = require('fs-extra'); // Reading README.md
 const path = require('path'); // Get the correct path for README.md
 const fetch = require('node-fetch'); // Make calls to Reddit from Node.js
 const qs = require('qs'); // Properly build a query for node-fetch POST
+const moment = require('moment'); // Time-related functions
 
 // REDDIT_: For authentication with Reddit API. Oauth MUST be used. ID and Secret come from a "script" app type.
 const REDDIT_USER = process.env.REDDIT_USER || 'username';
@@ -88,7 +89,7 @@ function putWiki(endpoint, lastId, token) {
             method: 'POST',
             headers: { 'Authorization': `bearer ${token}`, 'Content-Type': CONTENT_TYPE },
             body: qs.stringify({
-                content: fs.readFileSync(path.join(__dirname, 'README.md')).toString(),
+                content: fixContent(fs.readFileSync(path.join(__dirname, 'README.md')).toString()),
                 page: WIKI_PAGE,
                 reason: WIKI_REASON,
                 previous: lastId
@@ -101,4 +102,19 @@ function putWiki(endpoint, lastId, token) {
             })
             .catch((err) => reject(err));
     });
+}
+
+/**
+ * Fixes certain images to only show text on the Reddit wiki
+ * @param {String} content The content in README.md
+ */
+function fixContent(content) {
+    // Fix updated timestamp
+    content = content.replace(/\!\[Updated\](.*?)\r\n/g, `#### Updated: ${moment().format('MMMM Do YYYY')}`);
+
+    // Fix published timestamps
+    content = content.replace(/\!\[Published\]\(https\:\/\/img\.shields\.io\/badge\//g, '**');
+    content = content.replace(/-informational\?style=flat-square\)/g, '**');
+
+    return content;
 }
