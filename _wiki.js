@@ -110,7 +110,7 @@ function putWiki(endpoint, lastId, token) {
  */
 function fixContent(content) {
     // Fix updated timestamp
-    content = content.replace(/\!\[Updated\](.*?)\r\n/g, `#### Updated: ${moment().format('MMMM Do YYYY')}`);
+    content = content.replace(/\!\[Updated\](.*?)square\)/g, `#### Updated: ${moment().format('MMMM Do YYYY')}`);
 
     // Fix published timestamps
     content = content.replace(/\!\[Published\]\(https\:\/\/img\.shields\.io\/badge\//g, '**');
