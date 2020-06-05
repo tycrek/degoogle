@@ -928,6 +928,7 @@ Everything you need to become a Privacy Wizard.
   - [xkcd](https://xkcd.com/) - They have comics for *everything*.
   - System32 Comics [Instagram](https://www.instagram.com/system32comics/) and [Reddit](https://www.reddit.com/r/System32Comics/) - Comedic computer comics.
 
+
 # Closing remarks
 
 It's a shame that Google, with their immense resources, power, and influence, don't see the benefits of helping people secure themselves online. Instead, they force people like us to scour the web for alternatives and convince our friends and family to do the same, while they sell off our data to the highest bidder.
