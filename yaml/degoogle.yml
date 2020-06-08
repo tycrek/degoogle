@@ -225,7 +225,7 @@ web based products:
       url: https://supabase.io/
       eyes: null
       text: |
-        Supabase is an opensource alternative to Firebase. As of right now you can use their hosting plan for free as it's in alpha, or you can self host ([note on self hosting](https://github.com/supabase/supabase/issues/85#issuecomment-636010946)). Thanks @woutfeys 
+        Supabase is an opensource alternative to Firebase. As of right now you can use their hosting plan for free as it's in alpha, or you can self host ([note on self hosting](https://github.com/supabase/supabase/issues/85#issuecomment-636010946)). Thanks @woutfeys
     - name: GoAccess
       url: https://goaccess.io/
       eyes: null
@@ -600,7 +600,7 @@ web based products:
       url: https://google-webfonts-helper.herokuapp.com/fonts
       eyes: 5
       text: |
-        Hassle-free way for webmasters to self-host open-source Fonts from "Google Fonts"
+        Hassle-free way for webmasters to self-host open-source fonts from Google Fonts
     - name: Brick
       url:  https://brick.im
       eyes: 9
