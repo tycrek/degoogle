@@ -12,7 +12,7 @@ const REDDIT_CLIENT_SECRET = process.env.REDDIT_CLIENT_SECRET || 'clientsecret';
 
 // WIKI_: For the Reddit Wiki
 const WIKI_SUBREDDIT = 'privacy';
-const WIKI_PAGE = 'de-go-git';
+const WIKI_PAGE = 'de-google';
 const WIKI_REASON = 'Automated edit from GitHub repo: https://github.com/tycrek/degoogle';
 
 // Helps POST data be submitted properly
@@ -35,7 +35,7 @@ function updateWiki() {
     let basicAuth = `Basic ${Buffer.from(REDDIT_CLIENT_ID + ':' + REDDIT_CLIENT_SECRET).toString('base64')}`;
 
     let lastId, token;
-    
+
     getLastRevision(endpoints.revisions)
         .then((mLastId) => lastId = mLastId)
         .then(() => getToken(endpoints.token, basicAuth))
