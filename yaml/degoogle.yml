@@ -784,7 +784,7 @@ desktop applications:
       url: https://www.torproject.org/download/
       eyes: null
       text: |
-        Firefox-based browser routed through the onion network. Automatically has a few privacy extensions installed (such as HTTPS Everywhere). Be careful using it in public though, as it *can* look like a pretty suspicious piece of software. Available for Windows, Linux, macOS, and Android.
+        Firefox-based browser routed through the [Tor network](https://en.wikipedia.org/wiki/Tor_%28anonymity_network%29). Automatically has a few privacy extensions installed (such as HTTPS Everywhere). [Read this article](https://write.privacytools.io/my-thoughts-on-security/slicing-onions-part-1-myth-busting-tor) for more info on how it works and the benefits of using Tor (Thanks @FreddyMarsden). Available for Windows, Linux, macOS, and Android.
   earth:
     - title: Earth
     - name: KDE Marble
