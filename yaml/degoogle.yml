@@ -842,6 +842,7 @@ mobile applications:
         An online library of user-uploaded APK files. Helpful if you need a specific older version of an app or don't want to download it through Google Play.
     - name: Aurora Store
       url: https://gitlab.com/AuroraOSS/AuroraStore
+      fdroid: com.aurora.store
       eyes: null
       text: |
         Aurora Store is ~~simply a fork of the Yalp Store~~ no longer a fork of Yalp, but is now its own project (see their [readme](https://gitlab.com/AuroraOSS/AuroraStore/blob/master/README.md)). **Update:** Removed note on using microG as Aurora Store [does not use it](https://gitlab.com/AuroraOSS/AuroraStore/-/blob/master/README.md#L77). Thanks @notpushkin
