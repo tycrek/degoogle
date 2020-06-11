@@ -20,7 +20,7 @@
 
 ### *I don't have anything to hide, but I don't have anything to show you either.*
 
-![Updated](https://img.shields.io/static/v1?label=updated&message=June%2010th%202020&color=388E3C&style=flat-square)
+![Updated](https://img.shields.io/static/v1?label=updated&message=June%2011th%202020&color=388E3C&style=flat-square)
 
 ![GitHub](https://img.shields.io/github/license/tycrek/degoogle?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/tycrek/degoogle?style=flat-square)
@@ -556,6 +556,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | ---- | ---- | ----------- |
 | [Fruux (mobile app)](https://fruux.com/) |  | Same service from above provides an Android app. |
 | [Etar](https://github.com/xsoh/Etar-Calendar) [![F-Droid](https://img.shields.io/f-droid/v/ws.xsoh.etar?style=flat-square)](https://f-droid.org/en/packages/ws.xsoh.etar/) |  | Open-source material design Calendar that integrates with the Android Calendar API. If you have a CalDAV/CardDAV server, I recommend using [DAVx5](https://www.davx5.com/) to sync with it. Available from F-Droid. Also look at [ICSx5](https://icsx5.bitfire.at/), another WebDav/CalDav client that can integrate with calendar apps. Also available from F-Droid. Thanks @je-vv for ICSx5. |
+| [Simple Calendar](https://github.com/SimpleMobileTools/Simple-Calendar) [![F-Droid](https://img.shields.io/f-droid/v/com.simplemobiletools.calendar.pro?style=flat-square)](https://f-droid.org/en/packages/com.simplemobiletools.calendar.pro/) |  | Open-source. Part of the [Simple Mobile Tools](https://github.com/SimpleMobileTools) project. |
 
 
 
