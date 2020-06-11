@@ -10,7 +10,7 @@ assignees: ''
 
 [//]: # ( Fill out to the best of your ability.  )
 [//]: # ( If an item is not applicable, feel free to leave it blank. )
-[//]: # ( Mark off checkbox items by putting an x in between the [ ] without spaces, i.e. `[x]`)
+[//]: # ( Mark off checkbox items by putting an x in between the [ ] without spaces, i.e. `[x]` )
 
 ### Checklist
 
