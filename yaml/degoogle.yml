@@ -830,11 +830,12 @@ mobile applications:
       eyes: null
       text: |
         Marketplace for Android apps. Publishers/developers manage their own stores rather than a centralized market such as Google Play Store.
-    - name: Yalp Store
-      url: https://github.com/yeriomin/YalpStore
+    - name: Yalp Store (fork)
+      url: https://github.com/kiliakin/YalpStore
+      fdroid: com.github.kiliakin.yalpstore
       eyes: null
       text: |
-        Yalp downloads Play Store apps as APK files. Helpful if you want to stay away from the Play Store, but require an app that is only available there.
+        Yalp downloads Play Store apps as APK files. Helpful if you want to stay away from the Play Store, but require an app that is only available there. This version is a fork of the original project that is no longer active. Thank @onlyjob
     - name: APKMirror
       url: https://www.apkmirror.com/
       eyes: null
