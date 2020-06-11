@@ -10,7 +10,7 @@ assignees: ''
 
 [//]: # ( Fill out to the best of your ability.  )
 [//]: # ( If an item is not applicable, feel free to leave it blank. )
-[//]: # ( Mark off checkbox items by putting an x in between the [ ] )
+[//]: # ( Mark off checkbox items by putting an x in between the [ ] without spaces, i.e. `[x]`)
 
 ### Checklist
 
@@ -19,5 +19,4 @@ assignees: ''
 - [ ] **Include my name in [CONTRIBUTORS.md](https://github.com/tycrek/degoogle/blob/master/CONTRIBUTORS.md)**
 
 ### Details
-
 
