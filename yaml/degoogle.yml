@@ -910,6 +910,12 @@ mobile applications:
       eyes: null
       text: |
         Open-source material design Calendar that integrates with the Android Calendar API. If you have a CalDAV/CardDAV server, I recommend using [DAVx5](https://www.davx5.com/) to sync with it. Available from F-Droid. Also look at [ICSx5](https://icsx5.bitfire.at/), another WebDav/CalDav client that can integrate with calendar apps. Also available from F-Droid. Thanks @je-vv for ICSx5.
+    - name: Simple Calendar
+      url: https://github.com/SimpleMobileTools/Simple-Calendar
+      fdroid: com.simplemobiletools.calendar.pro
+      eyes: null
+      text: |
+        Open-source. Part of the [Simple Mobile Tools](https://github.com/SimpleMobileTools) project.
   camera:
     - title: Camera
     - name: Open Camera
