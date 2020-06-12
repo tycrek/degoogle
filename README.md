@@ -262,7 +262,6 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
-| [Cryptee](https://crypt.ee/) |  | Open-source offline document suites. |
 | [LibreOffice](https://www.libreoffice.org/) |  | Open-source offline document suites. |
 | [Apache OpenOffice](https://www.openoffice.org/) |  | Open-source offline document suites. |
 | [LyX](https://www.lyx.org/) |  | It's an open-source (and offline) document processor using TeX/LaTeX. It's different than Docs or Word but amazing, once you get used to it. Thanks @Glitchy-Tozier |
