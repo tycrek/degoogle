@@ -334,6 +334,11 @@ web based products:
       eyes: null
       text: |
         It's an open-source (and offline) document processor using TeX/LaTeX. It's different than Docs or Word but amazing, once you get used to it. Thanks @Glitchy-Tozier
+    - name: Cryptee
+      url: https://crypt.ee/
+      eyes: null
+      text: |
+        Open-source offline document suites.
   domains:
     - title: Domains
     - name: Njalla
