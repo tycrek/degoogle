@@ -339,6 +339,11 @@ web based products:
       eyes: null
       text: |
         Offline version of ONLYOFFICE, an open-source private cloud replacement for Google Docs'suite and Office 360. Also available as a self contained rich application. Thanks @PalmoliveDev
+    - name: Cryptee
+      url: https://crypt.ee/
+      eyes: null
+      text: |
+        Offline version of Cryptee for web. Runs as a progressive web app. Works most modern phone browsers (Chrome, Opera or Firefox on Android; Safari on iOS). Also works in desktop browsers that support PWA (the website lists that only Chrome works, but [others will work](https://github.com/tycrek/degoogle/issues/160#issuecomment-643066320) too.
   domains:
     - title: Domains
     - name: Njalla
