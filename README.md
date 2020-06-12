@@ -20,7 +20,7 @@
 
 ### *I don't have anything to hide, but I don't have anything to show you either.*
 
-![Updated](https://img.shields.io/static/v1?label=updated&message=June%2011th%202020&color=388E3C&style=flat-square)
+![Updated](https://img.shields.io/static/v1?label=updated&message=June%2012th%202020&color=388E3C&style=flat-square)
 
 ![GitHub](https://img.shields.io/github/license/tycrek/degoogle?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/tycrek/degoogle?style=flat-square)
@@ -265,6 +265,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | [LibreOffice](https://www.libreoffice.org/) |  | Open-source offline document suites. |
 | [Apache OpenOffice](https://www.openoffice.org/) |  | Open-source offline document suites. |
 | [LyX](https://www.lyx.org/) |  | It's an open-source (and offline) document processor using TeX/LaTeX. It's different than Docs or Word but amazing, once you get used to it. Thanks @Glitchy-Tozier |
+| [Cryptee](https://crypt.ee/) |  | Offline version of Cryptee for web. Runs as a progressive web app. Works most modern phone browsers (Chrome, Opera or Firefox on Android; Safari on iOS). Also works in desktop browsers that support PWA (the website lists that only Chrome works, but [others will work](https://github.com/tycrek/degoogle/issues/160#issuecomment-643066320) too. |
 
 
 
