@@ -45,6 +45,7 @@ GitHub:
 - [@woutfeys](https://github.com/woutfeys)
 - [@virtadpt](https://github.com/virtadpt)
 - [@compressstudio](https://github.com/compressstudio)
+- [@PalmoliveDev](https://github.com/PalmoliveDev)
 
 Reddit:
 
