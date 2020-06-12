@@ -338,7 +338,7 @@ web based products:
       url: https://crypt.ee/
       eyes: null
       text: |
-        Open-source offline document suites.
+        Offline version of Cryptee for web. Runs as a progressive web app. Works most modern phone browsers (Chrome, Opera or Firefox on Android; Safari on iOS). Also works in desktop browsers that support PWA (the website lists that only Chrome works, but [others will work](https://github.com/tycrek/degoogle/issues/160#issuecomment-643066320) too.
   domains:
     - title: Domains
     - name: Njalla
