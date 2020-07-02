@@ -123,11 +123,6 @@ web based products:
         DeepL is an artifical intelligence translation service. **Please keep in mind DeepL tracks the text you translate unless you purchase Pro**. See sections 4 & 5 of their [privacy policy](https://www.deepl.com/privacy.html) for more information. Thanks u/TheCy-FiJuggernaut
   ads:
     - title: Google Ads/AdMob/AdSense
-    - name: CodeFund
-      url: https://codefund.io/
-      eyes: 5
-      text: |
-        Ethical advertising for technical audience.
   alerts:
     - title: Google Alerts
     - name: F5Bot
