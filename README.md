@@ -20,7 +20,7 @@
 
 ### *I don't have anything to hide, but I don't have anything to show you either.*
 
-![Updated](https://img.shields.io/static/v1?label=updated&message=July%202nd%202020&color=388E3C&style=flat-square)
+![Updated](https://img.shields.io/static/v1?label=updated&message=July%2010th%202020&color=388E3C&style=flat-square)
 
 ![GitHub](https://img.shields.io/github/license/tycrek/degoogle?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/tycrek/degoogle?style=flat-square)
@@ -88,6 +88,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | [Temporary Containers](https://addons.mozilla.org/en-US/firefox/addon/temporary-containers) ![Mozilla Add-on](https://img.shields.io/amo/users/temporary-containers?style=flat-square) | Open tabs, websites, and links in automatically managed disposable containers. Containers isolate data websites store (cookies, storage, and more) from each other, enhancing your privacy and security while you browse. |
 | [uMatrix](https://addons.mozilla.org/en-US/firefox/addon/umatrix) ![Mozilla Add-on](https://img.shields.io/amo/users/umatrix?style=flat-square) | Point & click to forbid/allow any class of requests made by your browser. Use it to block scripts, iframes, ads, facebook, etc. |
 | [TrackMeNot](https://addons.mozilla.org/en-US/firefox/addon/trackmenot) ![Mozilla Add-on](https://img.shields.io/amo/users/trackmenot?style=flat-square) | An artware browser add-on to protect privacy in web-search. By issuing randomized queries to common search-engines, TrackMeNot obfuscates your search profile and registers your discontent with surreptitious tracking. |
+| [Redirect AMP to HTML](https://addons.mozilla.org/en-US/firefox/addon/amp2html/?src=external-addonsbadge-daniel.priv.no) ![Mozilla Add-on](https://img.shields.io/amo/users/?src=external-addonsbadge-daniel.priv.no?style=flat-square) | This web extension enables users to choose to opt-out of using Accelerated Mobile Pages (AMP) and choose to use the standard web instead. |
 
 
 # Replacements/alternatives
