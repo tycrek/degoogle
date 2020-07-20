@@ -51,6 +51,11 @@ web based products:
       eyes: 5
       text: |
         Infinity Search is a privacy metasearch engine that does not log any information about its users. In terms of privacy, it works the same way as DuckDuckGo. It is free to use and is funded by non-tracking advertisements and affiliate links. It is also completely open source.
+    - name: Runnaroo
+      url: https://www.runnaroo.com/
+      eyes: 5
+      text: |
+        "Runnaroo was built from the ground up to provide an all around better search experience." Thanks @codingepaduli
   youtube:
     - title: YouTube
     - name: PeerTube
