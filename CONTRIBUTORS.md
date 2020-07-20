@@ -48,6 +48,7 @@ GitHub:
 - [@PalmoliveDev](https://github.com/PalmoliveDev)
 - [@mahdi1234](https://github.com/mahdi1234)
 - [@codingepaduli](https://github.com/codingepaduli)
+- [@kdkasad](https://github.com/kdkasad)
 
 Reddit:
 

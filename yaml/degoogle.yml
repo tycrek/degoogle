@@ -62,7 +62,7 @@ web based products:
       url: https://joinpeertube.org/
       eyes: null
       text: |
-        Decentralized video hosting network. Still quite small, but is growing and has a dedicated community.
+        Decentralized, federated video hosting network. Still quite small, but is growing and has a dedicated community. Although there is no central database/server, all the separate instances can still talk to one another. This allows for data exchange and a way to view anyone's videos while only associating with one instance. Thanks @kdkasad for clarifying federation.
     - name: BitChute
       url: https://www.bitchute.com/
       eyes: 5
