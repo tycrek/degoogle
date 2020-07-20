@@ -20,7 +20,7 @@
 
 ### *I don't have anything to hide, but I don't have anything to show you either.*
 
-![Updated](https://img.shields.io/static/v1?label=updated&message=July%2010th%202020&color=388E3C&style=flat-square)
+![Updated](https://img.shields.io/static/v1?label=updated&message=July%2020th%202020&color=388E3C&style=flat-square)
 
 ![GitHub](https://img.shields.io/github/license/tycrek/degoogle?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/tycrek/degoogle?style=flat-square)
@@ -390,7 +390,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | [OpenStreetMap](https://www.openstreetmap.org/) | **9-eyes** | Collaborative project to create a free, editable map of the world (from Wikipedia). Completely crowdsourced. Very strong alternative to Maps. |
 | [Qwant Maps](https://www.qwant.com/maps/) |  | Maps from the makers of Qwant search engine. Thanks @mynamesleon |
 | [Benmaps](https://benmaps.fr) |  | Another maps alternative based on OpenStreetMap. Thanks @dimqua |
-| [Mapillary](https://www.mapillary.com/app/) | **14-eyes** | Crowdsourced street-level imagery built on top of OpenStreetMap. Open source. Includes map data generated with object recognition software. Coverage is lacking in many cities but can always be improved upon. |
+| [Mapillary](https://www.mapillary.com/app/) | **14-eyes** | Crowdsourced street-level imagery built on top of OpenStreetMap. Open source. Includes map data generated with object recognition software. Coverage is lacking in many cities but can always be improved upon. **Note:** Recently [partnered with Facebook](https://blog.mapillary.com/news/2020/06/18/Mapillary-joins-Facebook.html) (thanks @mahdi1234) |
 
 
 
@@ -655,7 +655,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [Maps](https://gitlab.com/axet/omim/-/blob/HEAD/README.md) [![F-Droid](https://img.shields.io/f-droid/v/com.github.axet.maps?style=flat-square)](https://f-droid.org/en/packages/com.github.axet.maps/) |  | Open-source navigation app based on MAPS.ME. Searching for addresses doesn't always work and finding businesses can be a slight hassle, but overall one of the better apps I've used. |
-| [OsmAnd](https://osmand.net/) |  | OpenStreetMap for Android. (thanks u/masao77). As OsmAnd is primarily crowdsourced, many regions may not be totally accurate. If you would like to help improve OpenStreetMap and OsmAnd, check out [StreetComplete](https://wiki.openstreetmap.org/wiki/StreetComplete). It is available from [F-Droid](https://f-droid.org/en/packages/de.westnordost.streetcomplete/). |
+| [OsmAnd](https://osmand.net/) [![F-Droid](https://img.shields.io/f-droid/v/net.osmand.plus?style=flat-square)](https://f-droid.org/en/packages/net.osmand.plus/) |  | OpenStreetMap for Android. (thanks u/masao77). As OsmAnd is primarily crowdsourced, many regions may not be totally accurate. If you would like to help improve OpenStreetMap and OsmAnd, check out [StreetComplete](https://wiki.openstreetmap.org/wiki/StreetComplete) (available from [F-Droid](https://f-droid.org/en/packages/de.westnordost.streetcomplete/). |
 | [Transportr](https://transportr.app/) |  | Primarily European, this is an open-source public transport app. Thanks to @lgiard |
 | [Offi or Oeffi](https://oeffi.schildbach.de/) |  | Another recommendation from @lgiard, this app is also for public transport. |
 
