@@ -8,7 +8,7 @@ Official mirrors are the main sources and are maintained by me (@tycrek). Commun
 
 - [GitHub repo](https://github.com/tycrek/degoogle)
 - [GitHub Pages](https://degoogle.jmoore.dev) (I am using my personal domain as some firewalls block GitHub)
-- [r/Privacy wiki](https://old.reddit.com/r/privacy/wiki/de-google) (Manually maintained by me, @tycrek. Message me on Reddit or open an Issue if it is not up-to-date)
+- [r/Privacy wiki](https://old.reddit.com/r/privacy/wiki/de-google) (automatically updated using GitHub Actions)
 
 ## Community mirrors
 
