@@ -649,7 +649,7 @@ web based products:
       url: https://www.mapillary.com/app/
       eyes: 14
       text: |
-        Crowdsourced street-level imagery built on top of OpenStreetMap. Open source. Includes map data generated with object recognition software. Coverage is lacking in many cities but can always be improved upon.
+        Crowdsourced street-level imagery built on top of OpenStreetMap. Open source. Includes map data generated with object recognition software. Coverage is lacking in many cities but can always be improved upon. **Note:** Recently [partnered with Facebook](https://blog.mapillary.com/news/2020/06/18/Mapillary-joins-Facebook.html) (thanks @mahdi1234)
   transit:
     - title: Transit
     - name: Transportr
@@ -1130,9 +1130,10 @@ mobile applications:
         Open-source navigation app based on MAPS.ME. Searching for addresses doesn't always work and finding businesses can be a slight hassle, but overall one of the better apps I've used.
     - name: OsmAnd
       url: https://osmand.net/
+      fdroid: net.osmand.plus
       eyes: null
       text: |
-        OpenStreetMap for Android. (thanks u/masao77). As OsmAnd is primarily crowdsourced, many regions may not be totally accurate. If you would like to help improve OpenStreetMap and OsmAnd, check out [StreetComplete](https://wiki.openstreetmap.org/wiki/StreetComplete). It is available from [F-Droid](https://f-droid.org/en/packages/de.westnordost.streetcomplete/).
+        OpenStreetMap for Android. (thanks u/masao77). As OsmAnd is primarily crowdsourced, many regions may not be totally accurate. If you would like to help improve OpenStreetMap and OsmAnd, check out [StreetComplete](https://wiki.openstreetmap.org/wiki/StreetComplete) (available from [F-Droid](https://f-droid.org/en/packages/de.westnordost.streetcomplete/).
     - name: Transportr
       url: https://transportr.app/
       eyes: null
