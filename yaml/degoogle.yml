@@ -280,6 +280,16 @@ web based products:
       eyes: null
       text: |
         Secure, end-to-end encrypted, and open-source sync for your contacts, calendars and tasks.
+    - name: Baïkal
+      url: https://sabre.io/baikal/
+      eyes: null
+      text: |
+        a lightweight CalDAV+CardDAV server. It offers an extensive web interface with easy management of users, address books and calendars. It is fast and simple to install and only needs a basic php capable server. The data can be stored in a MySQL or a SQLite database. Thanks @mahdi1234
+    - name: Nextcloud
+      url: https://nextcloud.com/
+      eyes: null
+      text: |
+        Nextcloud also offers a calendar solution using CalDAV and CardDAV. Thanks @mahdi1234 for pointing this out.
   docs:
     - title: Docs/Sheets/Slides (cloud)
     - name: CryptPad
@@ -906,6 +916,18 @@ mobile applications:
         Open-source calculator packed with features. Thanks @ghost
   calendar:
     - title: Calendar
+    - name: DAVx⁵
+      url: https://www.davx5.com/
+      fdroid: at.bitfire.davdroid
+      eyes: null
+      text: |
+        DAVx⁵ is an open-source CalDAV/CardDAV suite and sync app for Android.
+    - name: ICSx⁵
+      url: https://icsx5.bitfire.at/
+      fdroid: at.bitfire.icsdroid
+      eyes: null
+      text: |
+        ICSx⁵ is an Android app to subscribe to remote (“Webcal”) or local iCalendar files (like time tables of your school/university or event files of your sports team). Thanks @je-vv
     - name: Fruux (mobile app)
       url: https://fruux.com/
       eyes: null
@@ -916,7 +938,7 @@ mobile applications:
       fdroid: ws.xsoh.etar
       eyes: null
       text: |
-        Open-source material design Calendar that integrates with the Android Calendar API. If you have a CalDAV/CardDAV server, I recommend using [DAVx5](https://www.davx5.com/) to sync with it. Available from F-Droid. Also look at [ICSx5](https://icsx5.bitfire.at/), another WebDav/CalDav client that can integrate with calendar apps. Also available from F-Droid. Thanks @je-vv for ICSx5.
+        Open-source material design Calendar that integrates with the Android Calendar API. Can integrate with CalDAV/CardDAV servers.
     - name: Simple Calendar
       url: https://github.com/SimpleMobileTools/Simple-Calendar
       fdroid: com.simplemobiletools.calendar.pro
