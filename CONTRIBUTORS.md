@@ -46,6 +46,7 @@ GitHub:
 - [@virtadpt](https://github.com/virtadpt)
 - [@compressstudio](https://github.com/compressstudio)
 - [@PalmoliveDev](https://github.com/PalmoliveDev)
+- [@mahdi1234](https://github.com/mahdi1234)
 
 Reddit:
 
