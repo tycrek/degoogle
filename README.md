@@ -20,7 +20,7 @@
 
 ### *I don't have anything to hide, but I don't have anything to show you either.*
 
-![Updated](https://img.shields.io/static/v1?label=updated&message=July%2020th%202020&color=388E3C&style=flat-square)
+![Updated](https://img.shields.io/static/v1?label=updated&message=July%2021st%202020&color=388E3C&style=flat-square)
 
 ![GitHub](https://img.shields.io/github/license/tycrek/degoogle?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/tycrek/degoogle?style=flat-square)
@@ -592,6 +592,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | [Fruux (mobile app)](https://fruux.com/) |  | Fruux *also* provides a contacts app. |
 | [Simple Contacts](https://github.com/SimpleMobileTools/Simple-Contacts) [![F-Droid](https://img.shields.io/f-droid/v/com.simplemobiletools.contacts.pro?style=flat-square)](https://f-droid.org/en/packages/com.simplemobiletools.contacts.pro/) |  | Open-source. Part of the [Simple Mobile Tools](https://github.com/SimpleMobileTools) project. |
 | [Open Contacts](https://gitlab.com/sultanahamer/OpenContacts/-/blob/HEAD/README.md) [![F-Droid](https://img.shields.io/f-droid/v/opencontacts.open.com.opencontacts?style=flat-square)](https://f-droid.org/en/packages/opencontacts.open.com.opencontacts/) |  | Open source contacts. (thanks u/consentio) |
+| [EteSync](https://www.etesync.com) [![F-Droid](https://img.shields.io/f-droid/v/com.etesync.syncadapter?style=flat-square)](https://f-droid.org/en/packages/com.etesync.syncadapter/) |  | Secure, end-to-end encrypted, and open-source sync for your contacts, calendars and tasks. |
 
 
 
