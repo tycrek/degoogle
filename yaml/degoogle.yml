@@ -968,6 +968,11 @@ mobile applications:
       fdroid: opencontacts.open.com.opencontacts
       text: |
         Open source contacts. (thanks u/consentio)
+    - name: EteSync
+      url: https://www.etesync.com
+      eyes: null
+      text: |
+        Secure, end-to-end encrypted, and open-source sync for your contacts, calendars and tasks.
   messages:
     - title: Android Messages (specifically SMS/MMS, not IM)
     - name: QKSMS
