@@ -970,6 +970,7 @@ mobile applications:
         Open source contacts. (thanks u/consentio)
     - name: EteSync
       url: https://www.etesync.com
+      fdroid: com.etesync.syncadapter
       eyes: null
       text: |
         Secure, end-to-end encrypted, and open-source sync for your contacts, calendars and tasks.
