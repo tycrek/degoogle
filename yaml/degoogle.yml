@@ -132,7 +132,7 @@ web based products:
       url: https://www.ethicalads.io/
       eyes: null
       text: |
-        A developer-focused, privacy-obsessed ad network from the fine folks at Read the Docs. Source code can be [on GitHub](https://github.com/readthedocs/ethical-ad-server). Thanks @FreddyMarsden
+        A developer-focused, privacy-obsessed ad network from the fine folks at Read the Docs. Source code can be [on GitHub](https://github.com/readthedocs/ethical-ad-server).
   alerts:
     - title: Google Alerts
     - name: F5Bot
@@ -188,7 +188,7 @@ web based products:
       url: https://bearblog.dev/
       eyes: 5
       text: |
-        Free, no-nonsense, super-fast blogging. No javascript, no stylesheets, no trackers. Just your words. Thanks @FreddyMarsden
+        Free, no-nonsense, super-fast blogging. No javascript, no stylesheets, no trackers. Just your words.
   analytics:
     - title: Analytics
     - name: Matomo
@@ -538,7 +538,7 @@ web based products:
       url: https://www.thexyz.com/
       eyes: 5
       text: |
-        Thexyz is a Canadian company offering privacy-conscious business email. Premium webmail costs USD $2.95 per month. Thanks @FreddyMarsden
+        Thexyz is a Canadian company offering privacy-conscious business email. Premium webmail costs USD $2.95 per month.
   keep:
     - title: Keep
     - name: Joplin
@@ -630,7 +630,7 @@ web based products:
       url:  https://brick.im
       eyes: 9
       text: |
-        Open source fonts that work in a very similar way to Google fonts. Most of the fonts render nicer than Google Fonts. Thanks @FreddyMarsden
+        Open source fonts that work in a very similar way to Google fonts. Most of the fonts render nicer than Google Fonts.
   classroom:
     - title: Classroom
     - name: Moodle
@@ -809,7 +809,7 @@ desktop applications:
       url: https://www.torproject.org/download/
       eyes: null
       text: |
-        Firefox-based browser routed through the [Tor network](https://en.wikipedia.org/wiki/Tor_%28anonymity_network%29). Automatically has a few privacy extensions installed (such as HTTPS Everywhere). [Read this article](https://write.privacytools.io/my-thoughts-on-security/slicing-onions-part-1-myth-busting-tor) for more info on how it works and the benefits of using Tor (Thanks @FreddyMarsden). Available for Windows, Linux, macOS, and Android.
+        Firefox-based browser routed through the [Tor network](https://en.wikipedia.org/wiki/Tor_%28anonymity_network%29). Automatically has a few privacy extensions installed (such as HTTPS Everywhere). [Read this article](https://write.privacytools.io/my-thoughts-on-security/slicing-onions-part-1-myth-busting-tor) for more info on how it works and the benefits of using Tor. Available for Windows, Linux, macOS, and Android.
   earth:
     - title: Earth
     - name: KDE Marble
