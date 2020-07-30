@@ -128,6 +128,11 @@ web based products:
         DeepL is an artifical intelligence translation service. **Please keep in mind DeepL tracks the text you translate unless you purchase Pro**. See sections 4 & 5 of their [privacy policy](https://www.deepl.com/privacy.html) for more information. Thanks u/TheCy-FiJuggernaut
   ads:
     - title: Google Ads/AdMob/AdSense
+    - name: EthicalAds
+      url: https://www.ethicalads.io/
+      eyes: null
+      text: |
+        A developer-focused, privacy-obsessed ad network from the fine folks at Read the Docs. Source code can be [on GitHub](https://github.com/readthedocs/ethical-ad-server). Thanks @FreddyMarsden
   alerts:
     - title: Google Alerts
     - name: F5Bot
