@@ -539,6 +539,11 @@ web based products:
       eyes: 5
       text: |
         Thexyz is a Canadian company offering privacy-conscious business email. Premium webmail costs USD $2.95 per month.
+    - name: Mailfence
+      url: https://www.mailfence.com
+      eyes: 14
+      text: |
+        A secure and private email provider much like Protonmail and Tutanota. There are no google analytics nor hidden cookies. There are options to pay anonymously via cryptocurrency. It features a wide array of collaboration tools, such as groups, calendar, contacts, documents with editing space. Offers free, paid, and freemium plans. Can pay with cryptocurrency and has a [warrant canary]https://blog.mailfence.com/transparency-report-and-warrant-canary/). Thanks @resto1231
   keep:
     - title: Keep
     - name: Joplin
