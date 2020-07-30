@@ -172,7 +172,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
-| [EthicalAds](https://www.ethicalads.io/) |  | A developer-focused, privacy-obsessed ad network from the fine folks at Read the Docs. Source code can be [on GitHub](https://github.com/readthedocs/ethical-ad-server). Thanks @FreddyMarsden |
+| [EthicalAds](https://www.ethicalads.io/) |  | A developer-focused, privacy-obsessed ad network from the fine folks at Read the Docs. Source code can be [on GitHub](https://github.com/readthedocs/ethical-ad-server). |
 
 
 
@@ -203,7 +203,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | [concrete5](https://www.concrete5.org/about) | **5-eyes** | Open-source CMS. |
 | [Noblogs](https://noblogs.org/) | **9-eyes** | A privacy/security focused blogging platform. |
 | [Ghost](https://ghost.org/) |  | Open-source modern CMS. Boasts "over 19x faster than WordPress". Thanks @peterge1998 |
-| [Bear](https://bearblog.dev/) | **5-eyes** | Free, no-nonsense, super-fast blogging. No javascript, no stylesheets, no trackers. Just your words. Thanks @FreddyMarsden |
+| [Bear](https://bearblog.dev/) | **5-eyes** | Free, no-nonsense, super-fast blogging. No javascript, no stylesheets, no trackers. Just your words. |
 
 
 
@@ -333,7 +333,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | [Runbox](https://runbox.com/why-runbox/privacy-protection/) | **9-eyes** | Privacy focusued email provider. Thanks @petertorelli |
 | [nextCloud](https://help.nextcloud.com/t/nextcloud-mail-server/157) |  | Now also provides an email service (self-hosted). Thanks @je-vv |
 | [Anonymize.com Email](https://anonymize.com/) |  | Paid secure email service provided by Epik.com. |
-| [Thexyz](https://www.thexyz.com/) | **5-eyes** | Thexyz is a Canadian company offering privacy-conscious business email. Premium webmail costs USD $2.95 per month. Thanks @FreddyMarsden |
+| [Thexyz](https://www.thexyz.com/) | **5-eyes** | Thexyz is a Canadian company offering privacy-conscious business email. Premium webmail costs USD $2.95 per month. |
 
 - *This is just for the Gmail service, not a client*
 
@@ -373,7 +373,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | ---- | ---- | ----------- |
 | [Open Font Library](https://fontlibrary.org/) | **5-eyes** | Lots of Serif and Sans-Serif fonts that can be directly embedded into a website. |
 | [google webfonts helper](https://google-webfonts-helper.herokuapp.com/fonts) | **5-eyes** | Hassle-free way for webmasters to self-host open-source fonts from Google Fonts |
-| [Brick](https://brick.im) | **9-eyes** | Open source fonts that work in a very similar way to Google fonts. Most of the fonts render nicer than Google Fonts. Thanks @FreddyMarsden |
+| [Brick](https://brick.im) | **9-eyes** | Open source fonts that work in a very similar way to Google fonts. Most of the fonts render nicer than Google Fonts. |
 
 
 
@@ -492,7 +492,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | [Firefox](https://firefox.com/) |  | Built by Mozilla, "The Privacy Company". Huge extension library; great for privacy. |
 | [Waterfox](https://www.waterfox.net/) | **5-eyes** | Based on Firefox, but **64-bit only** with an emphasis on speed and privacy. Has a "classic" version built off older Firefox for legacy extension support and also an "alpha" version built off Quantum. It doesn't collect any telemetry and also removes Pocket from the alpha release. Project is run by [Alex Kontos](https://github.com/MrAlex94/) and is constantly in active development. Looks very clean and fast. Android versions are in the works too. **UPDATE:** @Nudin pointed out in Issue #85 that Waterfox is now [apart of System1](https://www.waterfox.net/blog/waterfox-has-joined-system1/). |
 | [Vivaldi](https://vivaldi.com/) |  | Privacy-focused browser. Appears to be very customizable and feature-rich. |
-| [Tor Browser](https://www.torproject.org/download/) |  | Firefox-based browser routed through the [Tor network](https://en.wikipedia.org/wiki/Tor_%28anonymity_network%29). Automatically has a few privacy extensions installed (such as HTTPS Everywhere). [Read this article](https://write.privacytools.io/my-thoughts-on-security/slicing-onions-part-1-myth-busting-tor) for more info on how it works and the benefits of using Tor (Thanks @FreddyMarsden). Available for Windows, Linux, macOS, and Android. |
+| [Tor Browser](https://www.torproject.org/download/) |  | Firefox-based browser routed through the [Tor network](https://en.wikipedia.org/wiki/Tor_%28anonymity_network%29). Automatically has a few privacy extensions installed (such as HTTPS Everywhere). [Read this article](https://write.privacytools.io/my-thoughts-on-security/slicing-onions-part-1-myth-busting-tor) for more info on how it works and the benefits of using Tor. Available for Windows, Linux, macOS, and Android. |
 
 
 
