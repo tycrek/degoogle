@@ -805,6 +805,11 @@ desktop applications:
       eyes: 5
       text: |
         Based on Firefox, but **64-bit only** with an emphasis on speed and privacy. Has a "classic" version built off older Firefox for legacy extension support and also an "alpha" version built off Quantum. It doesn't collect any telemetry and also removes Pocket from the alpha release. Project is run by [Alex Kontos](https://github.com/MrAlex94/) and is constantly in active development. Looks very clean and fast. Android versions are in the works too. **UPDATE:** @Nudin pointed out in Issue #85 that Waterfox is now [apart of System1](https://www.waterfox.net/blog/waterfox-has-joined-system1/).
+    - name: Brave
+      url: https://brave.com/
+      eyes: null
+      text: |
+        Reimagining the browser business model from the creator of JavaScript and previous CEO of Mozilla. Blocks ads, but pays *you* if you choose to view some. Open source, built-in firewall and VPN.
     - name: Vivaldi
       url: https://vivaldi.com/
       eyes: null
