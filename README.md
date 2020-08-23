@@ -20,7 +20,7 @@
 
 ### *I don't have anything to hide, but I don't have anything to show you either.*
 
-![Updated](https://img.shields.io/static/v1?label=updated&message=August%204th%202020&color=388E3C&style=flat-square)
+![Updated](https://img.shields.io/static/v1?label=updated&message=August%2023rd%202020&color=388E3C&style=flat-square)
 
 ![GitHub](https://img.shields.io/github/license/tycrek/degoogle?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/tycrek/degoogle?style=flat-square)
@@ -320,6 +320,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
+| [Forward Email](https://forwardemail.net/) |  | Forward Email is a free and open-source email forwarding service focused on a user's right to privacy. |
 | [Protonmail](https://protonmail.com/) |  | One of the top privacy-focused email providers. Servers are in Switzerland in an underground guarded bunker that they claim can "survive a nuclear attack". |
 | [Zoho Mail](https://www.zoho.com/mail/) |  | Zoho comes back yet again with a mail solution. |
 | [Tutanota](https://tutanota.com/) | **14-eyes** | Open-source. Also one of the top privacy-focused email providers. Located in Germany. |
