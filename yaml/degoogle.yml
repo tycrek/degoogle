@@ -11,6 +11,11 @@ web based products:
       eyes: 9
       text: |
         Another privacy search engine that claims to not track any of your data. They operate servers in both USA and Europe. Note: Startpage was recently acquired. See [Issue #12](https://github.com/tycrek/degoogle/issues/12). Thanks @pydo, @ThijsRay, and @DatAres37. Also see [this comment in Issue #99](https://github.com/tycrek/degoogle/issues/99#issuecomment-616224650) from @danarel on Startpage.
+    - name: Ecosia
+      url: https://www.ecosia.org/
+      eyes: 5
+      text: |
+        Another privacy search engine that use your searches to plant trees. They operate servers in Canada (AWS Cloud).
     - name: searx.me
       url: https://searx.me/
       eyes: null
