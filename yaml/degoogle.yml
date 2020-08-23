@@ -549,6 +549,11 @@ web based products:
       eyes: 14
       text: |
         A secure and private email provider much like Protonmail and Tutanota. There are no google analytics nor hidden cookies. There are options to pay anonymously via cryptocurrency. It features a wide array of collaboration tools, such as groups, calendar, contacts, documents with editing space. Offers free, paid, and freemium plans. Can pay with cryptocurrency and has a [warrant canary]https://blog.mailfence.com/transparency-report-and-warrant-canary/). Thanks @resto1231
+    - name: Hey
+      url: https://www.hey.com
+      eyes: 5
+      text: |
+        A secure and private email provider much like Protonmail. HEY’s fresh approach transforms email into something you want to use, not something you’re forced to deal with.
   keep:
     - title: Keep
     - name: Joplin
