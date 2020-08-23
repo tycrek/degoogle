@@ -718,7 +718,7 @@ operating systems:
       url: https://github.com/GrapheneOS
       eyes: null
       text: |
-        Previously known as [CopperheadOS](https://old.reddit.com/r/CopperheadOS/comments/8qdnn3/goodbye/). It has now evolved into [GrapheneOS](https://old.reddit.com/r/CopperheadOS/comments/b6muvh/androidhardening_project_renamed_to_grapheneos/)
+        Open-source Android-based OS with an emphasis on security and privacy. Features advanced hardening and privacy protections throughout the system. [Continuation](https://old.reddit.com/r/CopperheadOS/comments/b6muvh/androidhardening_project_renamed_to_grapheneos/) of [CopperheadOS](https://old.reddit.com/r/CopperheadOS/comments/8qdnn3/goodbye/).
     - name: postmarketOS
       url: https://postmarketos.org/
       eyes: null
