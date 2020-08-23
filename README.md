@@ -434,7 +434,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | ---- | ---- | ----------- |
 | [Ubuntu Touch](https://ubuntu-touch.io/) |  | Ubuntu, but for phones. |
 | [LineageOS](https://www.lineageos.org/) | **5-eyes** | Open-source and based on Android, but without the crap. |
-| [SailfishOS](https://sailfishos.org/) |  | *Help requested!* |
+| [SailfishOS](https://sailfishos.org/) |  | Privacy-focused mobile OS by Jolla with a proprietary UI and Android compatibility layer on top of an open-source Mer GNU/Linux base. |
 | [GrapheneOS](https://github.com/GrapheneOS) |  | Previously known as [CopperheadOS](https://old.reddit.com/r/CopperheadOS/comments/8qdnn3/goodbye/). It has now evolved into [GrapheneOS](https://old.reddit.com/r/CopperheadOS/comments/b6muvh/androidhardening_project_renamed_to_grapheneos/) |
 | [postmarketOS](https://postmarketos.org/) |  | Open-source mobile Linux OS. Can install different user interfaces such as [Plasma Mobile](https://www.plasma-mobile.org/). Thanks @okias |
 | [Replicant](https://replicant.us/) | **5-eyes** | Free Android distribution. Puts the emphasis on "freedom and privacy/security". |
