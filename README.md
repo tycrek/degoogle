@@ -113,6 +113,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
+| [YaCy](https://yacy.net/) |  | Fully decentralized (peer-to-peer), Free and Open Source Software ([FOSS](https://framatube.org/videos/watch/a19e809f-5e21-4969-956d-1aa3ccd957f4)) and privacy-focused search engine. Install the app to get better search results. |
 | [DuckDuckGo](https://duckduckgo.com/) | **5-eyes** | One of the best privacy-focused search engines. Domain is hosted in USA which could potentially be problematic for some. |
 | [Startpage](https://www.startpage.com/) | **9-eyes** | Another privacy search engine that claims to not track any of your data. They operate servers in both USA and Europe. Note: Startpage was recently acquired. See [Issue #12](https://github.com/tycrek/degoogle/issues/12). Thanks @pydo, @ThijsRay, and @DatAres37. Also see [this comment in Issue #99](https://github.com/tycrek/degoogle/issues/99#issuecomment-616224650) from @danarel on Startpage. |
 | [searx.me](https://searx.me/) |  | [Open-source](https://github.com/asciimoo/searx) (thanks for clarification u/Sheezdudeln) privacy search engine. Domain hosted in Germany. |
@@ -132,9 +133,9 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [PeerTube](https://joinpeertube.org/) |  | Decentralized, federated video hosting network. Still quite small, but is growing and has a dedicated community. Although there is no central database/server, all the separate instances can still talk to one another. This allows for data exchange and a way to view anyone's videos while only associating with one instance. Thanks @kdkasad for clarifying federation. |
-| [BitChute](https://www.bitchute.com/) | **5-eyes** | Also P2P, but not decentralized. Due to it being proprietary, if BitChute goes down then the whole thing goes down (unlike PeerTube). (thanks u/up-sky-7) |
+| [BitTube](https://bittube.video/) |  | A crypto-powered decentralized video sharing service that is currently transitioning to PeerTube, soon to be completely part of the [Fediverse](https://devtube.dev-wiki.de/videos/watch/d9bd2ee9-b7a4-44e3-8d65-61badd15c6e6). |
+| [BitChute](https://www.bitchute.com/) | **5-eyes** | It's [unknown](https://www.dailydot.com/upstream/bitchute-decentralization-claims/) if they use any peer-to-peer technology, and it's not decentralized. Due to it being proprietary, if BitChute goes down then the whole thing goes down (unlike PeerTube). |
 | [DTube](https://d.tube/) |  | Looks very similar to YouTube. Advertised as "first crypt-decentralized video-platform". Built on Steemit and IPFS. |
-| [Bit.tube](https://bit.tube/) |  | Appears to be a crypto-powered decentralized video sharing service. (thanks u/rudolf323) |
 | [Invidious](https://invidio.us/) |  | An [open-source](https://github.com/omarroth/invidious) front-end alternative to YouTube. Seems to work pretty well from my experience so far, and it hasn't triggered *anything* on my adblocker/privacy extensions. Also offers downloads in many formats for videos (including `.vtt` subtitles). |
 | [Hooktube](https://hooktube.com/) |  | A slightly better way to use actual YouTube. (Use as a "last resort") |
 | [LBRY](https://lbry.com/) |  | A decentralized platform for distributing and supporting creators's work. It aims to be Open, Community driven "digital marketplace". It can be used in a similar way to YouTube: browsing, subscribing to channels, there is a mechanism to send "tips" to creators. Looks up videos based on a blockchain and is open source and uncensored. It already has some "larger" creators like Minutephysics, Veritasium, Barnacules and Lunduke. |
@@ -197,8 +198,9 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
+| [Plume](https://joinplu.me/) |  | A federated, FOSS and privacy-focused blogging application. Pick an instance [here](https://joinplu.me/#instances) or [start your own](https://docs.joinplu.me/installation). |
+| [WriteFreely](https://writefreely.org/) |  | Decentralized, FOSS and privacy-focused software that'll help you start your own blog. Pick an instance [here](https://writefreely.org/instances) or [start your own](https://writefreely.org/start). |
 | [Joomla](https://www.joomla.org/) |  | Self-hosted and open-source content management system (CMS). |
-| [Write.as](https://write.as/) |  | Self-advertised as privacy-focused. |
 | [WordPress self-hosted](https://wordpress.org/) |  | The open-source version of WordPress. A very popular tool and a recognized name. |
 | [concrete5](https://www.concrete5.org/about) | **5-eyes** | Open-source CMS. |
 | [Noblogs](https://noblogs.org/) | **9-eyes** | A privacy/security focused blogging platform. |
@@ -280,6 +282,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | ---- | ---- | ----------- |
 | [Njalla](https://njal.la/) | **14-eyes** | Privacy-focused domain registration. Competitive pricing and a large list of available domain extensions. They also offer VPS hosting. Built by people who built The Pirate Bay among others. (thanks u/brais33 and u/HumbleBasis6) |
 | [Porkbun](https://porkbun.com/) | **5-eyes** | Domain registration with free WHOIS privacy. |
+| [NearlyFreeSpeech.NET](https://www.nearlyfreespeech.net/services/domains) | **5-eyes** | Domain registrar that cares about privacy, fairness, innovation, and free speech. With $3.29/y you can get the [RespectMyPrivacy Proxy Contact Service](https://www.nearlyfreespeech.net/services/respect) which they offer. |
 
 
 
@@ -306,6 +309,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | ---- | ---- | ----------- |
 | [Signal](https://signal.org/) | **5-eyes** | Whistleblower and privacy advocate Edward Snowden recommends Signal. |
 | [Tox](https://tox.chat/) |  | Tox is unique as it uses P2P technology to ensure the network *never* goes down, as long as there are users to keep it alive. They specifically say on the website "Tox has no central servers that can be raided, shut down, or forced to turn over data". |
+| [Jami](https://jami.net/) |  | Fully decentralized (peer-to-peer), FOSS and privacy-focused instant messenger. |
 | [Wire](https://wire.com/en/) | **5-eyes** | Uses end-to-end encryption. Looks to be more of a corporate service with tiered plans. |
 | [Riot](https://about.riot.im/) | **5-eyes** | Open-source privacy-focused chat service with end-to-end encryption. They offer webapps, desktop apps, iOS, and Android (Play Store and F-Droid). Uses the "Matrix" protocol for decentralized communication. It is 100% free and open-source with no paid plans. |
 | [Threema](https://threema.ch/en) |  | Swiss-based GDPR-compliant instant messenger. Has apps for both iOS and Android. Unlike Signal, no phone number is required (nor is an email) to sign up. End-to-end encrypted. Thanks to @nathanvogel |
@@ -321,8 +325,9 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [Protonmail](https://protonmail.com/) |  | One of the top privacy-focused email providers. Servers are in Switzerland in an underground guarded bunker that they claim can "survive a nuclear attack". |
-| [Zoho Mail](https://www.zoho.com/mail/) |  | Zoho comes back yet again with a mail solution. |
 | [Tutanota](https://tutanota.com/) | **14-eyes** | Open-source. Also one of the top privacy-focused email providers. Located in Germany. |
+| [Mailfence](https://www.mailfence.com) | **14-eyes** | A secure and private email provider much like Protonmail and Tutanota. There are no google analytics nor hidden cookies. There are options to pay anonymously via cryptocurrency. It features a wide array of collaboration tools, such as groups, calendar, contacts, documents with editing space. Offers free, paid, and freemium plans. Can pay with cryptocurrency and has a [warrant canary]https://blog.mailfence.com/transparency-report-and-warrant-canary/). Thanks @resto1231 |
+| [Zoho Mail](https://www.zoho.com/mail/) |  | Zoho comes back yet again with a mail solution. |
 | [Posteo](https://posteo.de/en) | **14-eyes** | Completely anonymous mail provider located in Germany. |
 | [mailbox.org](https://mailbox.org/en/) | **14-eyes** | Paid email provider, also located in Germany. |
 | [Disroot](https://disroot.org/) | **9-eyes** | Decentralized email service. |
@@ -334,7 +339,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | [nextCloud](https://help.nextcloud.com/t/nextcloud-mail-server/157) |  | Now also provides an email service (self-hosted). Thanks @je-vv |
 | [Anonymize.com Email](https://anonymize.com/) |  | Paid secure email service provided by Epik.com. |
 | [Thexyz](https://www.thexyz.com/) | **5-eyes** | Thexyz is a Canadian company offering privacy-conscious business email. Premium webmail costs USD $2.95 per month. |
-| [Mailfence](https://www.mailfence.com) | **14-eyes** | A secure and private email provider much like Protonmail and Tutanota. There are no google analytics nor hidden cookies. There are options to pay anonymously via cryptocurrency. It features a wide array of collaboration tools, such as groups, calendar, contacts, documents with editing space. Offers free, paid, and freemium plans. Can pay with cryptocurrency and has a [warrant canary]https://blog.mailfence.com/transparency-report-and-warrant-canary/). Thanks @resto1231 |
+
 
 - *This is just for the Gmail service, not a client*
 
@@ -432,10 +437,16 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [Ubuntu Touch](https://ubuntu-touch.io/) |  | Ubuntu, but for phones. |
-| [LineageOS](https://www.lineageos.org/) | **5-eyes** | Open-source and based on Android, but without the crap. |
-| [SailfishOS](https://sailfishos.org/) |  | *Help requested!* |
-| [GrapheneOS](https://github.com/GrapheneOS) |  | Previously known as [CopperheadOS](https://old.reddit.com/r/CopperheadOS/comments/8qdnn3/goodbye/). It has now evolved into [GrapheneOS](https://old.reddit.com/r/CopperheadOS/comments/b6muvh/androidhardening_project_renamed_to_grapheneos/) |
+| [Mobian](https://mobian-project.org/) |  | Debian (Linux-based OS) for mobile phones. |
+| [Maemo Leste](https://maemo-leste.github.io/) |  | Maemo Leste is an operating system rebased on top of [Devuan](https://devuan.org/) with a mainline Linux kernel. |
+| [Manjaro Linux ARM](https://forum.manjaro.org/c/arm/100) |  | Manjaro is a user-friendly Linux distribution based on the independently developed Arch operating system with the Plasma Mobile and Phosh desktop environments. |
+| [Nemo Mobile](https://nemomobile.net/) |  | NemoMobile is the successor of MeeGo and is a truly opensource Mer-based Linux Mobile Operating System. |
+| [NixOS](https://mobile.nixos.org/) |  | A Linux-based OS for mobile phones. |
 | [postmarketOS](https://postmarketos.org/) |  | Open-source mobile Linux OS. Can install different user interfaces such as [Plasma Mobile](https://www.plasma-mobile.org/). Thanks @okias |
+| [PureOS](https://puri.sm/products/librem-5/pureos-mobile/) | **5-eyes** | PureOS is a FOSS and privacy-focused Linux-based OS. They're using a 100% deblobbed Linux kernel. |
+| [LineageOS](https://www.lineageos.org/) | **5-eyes** | Open-source and based on Android, but without the crap. |
+| [SailfishOS](https://sailfishos.org/) |  | Sailfish OS is a Linux-based operating system developed by [Jolla](http://jolla.com/). **Warning:** SailfishOS is partially closed-source (UI). |
+| [GrapheneOS](https://github.com/GrapheneOS) |  | Previously known as [CopperheadOS](https://old.reddit.com/r/CopperheadOS/comments/8qdnn3/goodbye/). It has now evolved into [GrapheneOS](https://old.reddit.com/r/CopperheadOS/comments/b6muvh/androidhardening_project_renamed_to_grapheneos/) |
 | [Replicant](https://replicant.us/) | **5-eyes** | Free Android distribution. Puts the emphasis on "freedom and privacy/security". |
 
 - *You'll either need a rooted device with an unlocked bootloader, or a specific device depending on which OS you like.*
@@ -489,10 +500,11 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
-| [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium) |  | Chromium (which Chrome and countless other browsers are built on top of) is one of the cleanest and light-weight browsers available. This version cuts out all the Google crap. |
 | [Firefox](https://firefox.com/) |  | Built by Mozilla, "The Privacy Company". Huge extension library; great for privacy. |
+| [Pale Moon](https://www.palemoon.org) |  | Pale Moon is an Open Source, Goanna-based web browser available for Microsoft Windows and Linux (with other operating systems in development), focusing on efficiency and customization. |
+| [GNOME Web (Epiphany)](http://wiki.gnome.org/Apps/Web) |  | GNOME Web is a FOSS web browser based on WebKitGTK, developed by the GNOME Project for Unix-like systems. |
 | [Waterfox](https://www.waterfox.net/) | **5-eyes** | Based on Firefox, but **64-bit only** with an emphasis on speed and privacy. Has a "classic" version built off older Firefox for legacy extension support and also an "alpha" version built off Quantum. It doesn't collect any telemetry and also removes Pocket from the alpha release. Project is run by [Alex Kontos](https://github.com/MrAlex94/) and is constantly in active development. Looks very clean and fast. Android versions are in the works too. **UPDATE:** @Nudin pointed out in Issue #85 that Waterfox is now [apart of System1](https://www.waterfox.net/blog/waterfox-has-joined-system1/). |
-| [Vivaldi](https://vivaldi.com/) |  | Privacy-focused browser. Appears to be very customizable and feature-rich. |
+| [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium) |  | Chromium (which Chrome and countless other browsers are built on top of) is one of the cleanest and light-weight browsers available. This version cuts out all the Google crap. |
 | [Tor Browser](https://www.torproject.org/download/) |  | Firefox-based browser routed through the [Tor network](https://en.wikipedia.org/wiki/Tor_%28anonymity_network%29). Automatically has a few privacy extensions installed (such as HTTPS Everywhere). [Read this article](https://write.privacytools.io/my-thoughts-on-security/slicing-onions-part-1-myth-busting-tor) for more info on how it works and the benefits of using Tor. Available for Windows, Linux, macOS, and Android. |
 
 
@@ -698,6 +710,8 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
+| [Thorium](https://f-droid.org/en/packages/net.schueller.peertube/) |  | Thorium is a FOSS PeerTube player. PeerTube is a federated video streaming platform that is community-owned and ad-free, with no vendor lock-in. This client allows you to watch and browse videos on a server of your choice in the PeerTube network.  |
+| [P2Play](https://f-droid.org/en/packages/org.libre.agosto.p2play/) |  | P2Play is a FOSS, unofficial client for PeerTube. |
 | [NewPipe](https://newpipe.schabi.org/) [![F-Droid](https://img.shields.io/f-droid/v/org.schabi.newpipe?style=flat-square)](https://f-droid.org/en/packages/org.schabi.newpipe/) |  | Powerful open-source YouTube alternative. Supports audio only; background playback; picture-in-picture; no ads. |
 | [FreeTube](https://github.com/FreeTubeApp/FreeTube) |  | Open-source YouTube client that uses the Invidio.us API to serve content. Not on F-Droid, but you can download the APK from GitHub. (thanks u/wesaphzt) |
 | [YouTube Vanced](https://forum.xda-developers.com/android/apps-games/app-youtube-vanced-edition-t3758757) |  | Please read the XDA post before deciding to use this. |
