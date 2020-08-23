@@ -469,6 +469,11 @@ web based products:
     - title: Gmail
     - notes:
       - This is just for the Gmail service, not a client
+    - name: Forward Email
+      url: https://forwardemail.net/
+      eyes: null
+      text: |
+        Forward Email is a free and open-source email forwarding service focused on a user's right to privacy.
     - name: Protonmail
       url: https://protonmail.com/
       eyes: null
