@@ -544,6 +544,11 @@ web based products:
       eyes: 14
       text: |
         A secure and private email provider much like Protonmail and Tutanota. There are no google analytics nor hidden cookies. There are options to pay anonymously via cryptocurrency. It features a wide array of collaboration tools, such as groups, calendar, contacts, documents with editing space. Offers free, paid, and freemium plans. Can pay with cryptocurrency and has a [warrant canary]https://blog.mailfence.com/transparency-report-and-warrant-canary/). Thanks @resto1231
+    - name: CTemplar
+      url: https://ctemplar.com/
+      eyes: null
+      text: |
+        Privacy-focused email provided located in Iceland.
   keep:
     - title: Keep
     - name: Joplin
