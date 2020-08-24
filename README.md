@@ -20,7 +20,7 @@
 
 ### *I don't have anything to hide, but I don't have anything to show you either.*
 
-![Updated](https://img.shields.io/static/v1?label=updated&message=August%2023rd%202020&color=388E3C&style=flat-square)
+![Updated](https://img.shields.io/static/v1?label=updated&message=August%2024th%202020&color=388E3C&style=flat-square)
 
 ![GitHub](https://img.shields.io/github/license/tycrek/degoogle?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/tycrek/degoogle?style=flat-square)
@@ -271,6 +271,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | [LyX](https://www.lyx.org/) |  | It's an open-source (and offline) document processor using TeX/LaTeX. It's different than Docs or Word but amazing, once you get used to it. Thanks @Glitchy-Tozier |
 | [ONLYOFFICE](https://www.onlyoffice.com/download-desktop.aspx) |  | Offline version of ONLYOFFICE, an open-source private cloud replacement for Google Docs'suite and Office 360. Also available as a self contained rich application. Thanks @PalmoliveDev |
 | [Cryptee](https://crypt.ee/) |  | Offline version of Cryptee for web. Runs as a progressive web app. Works most modern phone browsers (Chrome, Opera or Firefox on Android; Safari on iOS). Also works in desktop browsers that support PWA (the website lists that only Chrome works, but [others will work](https://github.com/tycrek/degoogle/issues/160#issuecomment-643066320) too. |
+| [Calligra](https://calligra.org/) |  | Calligra Suite is an office and graphic art suite by KDE. It is available for desktop PCs, tablet computers, and smartphones. It contains applications for word processing, spreadsheets, presentation, vector graphics, and editing databases. (Free and Open Source Software) |
 
 
 
