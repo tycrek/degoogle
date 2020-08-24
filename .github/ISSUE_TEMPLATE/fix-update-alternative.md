@@ -19,7 +19,7 @@ assignees: ''
 
 ### Details
 
-- **Alternative name**: { Enter name here. Required }
-- **Error**: { Enter what might be wrong or what should be updated }
-- **Proposed changes**: { enter what you suggest should be added }
-- **Additional details**: { any additional details }
+- **Alternative name**: Enter name here. Required
+- **Error**: Enter what might be wrong or what should be updated
+- **Proposed changes**: enter what you suggest should be added
+- **Additional details**: any additional details
