@@ -1088,7 +1088,7 @@ mobile applications:
       text: |
         Wrapper of Syncthing for Android. Available on F-Droid. Also consider [Syncthing-Fork](https://f-droid.org/en/packages/com.github.catfriend1.syncthingandroid/) which uses a native Android UI rather than the default web UI.
   gmail_app:
-    - title: Gmail (phone app)
+    - title: Gmail (smartphone app)
     - name: Protonmail
       url: https://protonmail.com/support/knowledge-base/android/
       eyes: null
