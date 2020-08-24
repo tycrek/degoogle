@@ -933,7 +933,7 @@ Everything you need to become a Privacy Wizard.
   - *Silicon Valley* - Satirical tech comedy about a compression startup struggling to take off in Silicon Valley, California.
 - Podcasts:
   - [Darknet Diaries](https://darknetdiaries.com/) (by Jack Rhysider) - Highlights real-life hackers and their stories. Covers privacy topics a fair bit.
-  - The WAN Show (Linus Tech Tips) - Not specifically privacy, but they cover all sorts of tech news.
+  - [The WAN Show](https://linustechtips.libsyn.com/) (Linus Tech Tips) - Not specifically privacy, but they cover all sorts of tech news.
   - [The Privacy, Security, & OSINT Show](https://inteltechniques.com/podcast.html) - "This weekly podcast presents ideas to help you become digitally invisible, stay secure from cyber threats, and make you a better online investigator."
   - [Security Now!](https://www.grc.com/SecurityNow.htm) - "TechTV's Leo Laporte and I spend somewhat shy of two hours each week to discuss important issues of personal computer security." (Thanks u/Abaddon182)
 - Other:
