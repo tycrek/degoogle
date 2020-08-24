@@ -844,7 +844,6 @@ Everything you need to become a Privacy Wizard.
 - [ethical.net](https://ethical.net/) (thanks u/yieldingTemporarily)
 - [AlternativeTo](https://alternativeto.net/) - Find alternatives for software. Used extensively to build this guide. Also check out [Switching.software](https://switching.software/) (thanks @mynamesleon)
 - [NoMoreGoogle.com](https://nomoregoogle.com/) - Another list of crowd sourced alternatives to google services. 
-- [Prism-Break.org](https://prism-break.org/) - Privacy conscious apps and services for every OS.   
 - [Framasoft](https://framasoft.org/en/) - Lots of alternatives and software. Too many to fit into the list. Also check out [this link](https://degooglisons-internet.org/en/). Thanks @NicolasPA
 - [r/Privacy wiki](https://old.reddit.com/r/privacy/wiki/index)
 - [r/VPN](https://old.reddit.com/r/VPN/) - Read the sidebar and [wiki](https://old.reddit.com/r/VPN/wiki/index) to learn more about why you should consider using a VPN. I personally use [Mullvad](https://mullvad.net) but do your own research before choosing.
@@ -869,7 +868,7 @@ Everything you need to become a Privacy Wizard.
 - [A website to raise awareness of online privacy](https://theytrackyou.com/). Lot's of good tips in here (thanks u/brais33)
 - [Android Privacy Guide](https://gitlab.com/Attedz/AndroidPrivacyGuide) (thanks u/rightknobhead)
 - [Windows 10 Privacy Guide](https://fdossena.com/?p=w10debotnet/index_1903.frag) (thanks again u/rightknobhead)
-- Check out [Prism Break](https://prism-break.org/en/) (thanks u/FrontierPsycho)
+- [Prism Break](https://prism-break.org/en/) - Privacy conscious apps and services for every OS. (thanks u/FrontierPsycho)
 - [Guide for Linux users](https://github.com/wesaphzt/block-all-google) on blocking everything Google at the network level. This can and probably will break other alternatives that rely on Google to serve content. Thanks u/wesaphzt
 - u/wesaphzt also provided [this](https://github.com/pyllyukko/user.js), [this](https://ffprofile.com/), and [this](https://www.privacytools.io/browsers/#about_config) for hardening Firefox.
 - Check out [WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) and [this tutorial](https://github.com/adolfintel/Windows10-Privacy) for even more Windows 10 tips (thanks u/rudolf323)
