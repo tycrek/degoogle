@@ -206,6 +206,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | [Noblogs](https://noblogs.org/) | **9-eyes** | A privacy/security focused blogging platform. |
 | [Ghost](https://ghost.org/) |  | Open-source modern CMS. Boasts "over 19x faster than WordPress". Thanks @peterge1998 |
 | [Bear](https://bearblog.dev/) | **5-eyes** | Free, no-nonsense, super-fast blogging. No javascript, no stylesheets, no trackers. Just your words. |
+| [Simpleblogs](https://simpleblogs.org/) |  | FLOSS blogging platform with a focus on privacy. Easy to self-host (standard rails app, ships with AWS deployment scripts. AWS is not required). Access restricted to accounts which you create and hand out. Good for private blogs but not for commercial/public blogging. |
 
 
 
