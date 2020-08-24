@@ -690,11 +690,6 @@ web based products:
       eyes: null
       text: |
         Another maps alternative based on OpenStreetMap. Thanks @dimqua
-    - name: Mapillary
-      url: https://www.mapillary.com/app/
-      eyes: 14
-      text: |
-        Crowdsourced street-level imagery built on top of OpenStreetMap. Open source. Includes map data generated with object recognition software. Coverage is lacking in many cities but can always be improved upon. **Note:** Recently [partnered with Facebook](https://blog.mapillary.com/news/2020/06/18/Mapillary-joins-Facebook.html) (thanks @mahdi1234)
   transit:
     - title: Transit
     - name: Transportr
