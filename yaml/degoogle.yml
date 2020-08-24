@@ -349,11 +349,6 @@ web based products:
       eyes: null
       text: |
         Open-source offline document suites.
-    - name: Apache OpenOffice
-      url: https://www.openoffice.org/
-      eyes: null
-      text: |
-        Open-source offline document suites.
     - name: LyX
       url: https://www.lyx.org/
       eyes: null
