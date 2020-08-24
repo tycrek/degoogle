@@ -319,7 +319,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 - *I have also **removed** Telegram. See [Issue #29](https://github.com/tycrek/degoogle/issues/29) from @arsv.*
 
 
-#### Gmail
+#### Gmail (mail service)
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
@@ -635,7 +635,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 
 
 
-#### Gmail
+#### Gmail (smartphone app)
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
@@ -643,7 +643,8 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | [Tutanota](https://www.tutanota.com/) [![F-Droid](https://img.shields.io/f-droid/v/de.tutao.tutanota?style=flat-square)](https://f-droid.org/en/packages/de.tutao.tutanota/) | **14-eyes** | Client available from F-Droid. |
 | [Zoho Mail](https://www.zoho.com/mail/ios-android-apps.html) |  | Also on the Play Store but other stores may work too. |
 | [Disroot](https://disroot.org/) [![F-Droid](https://img.shields.io/f-droid/v/org.disroot.disrootapp?style=flat-square)](https://f-droid.org/en/packages/org.disroot.disrootapp/) |  | Available from F-Droid. |
-| [Posteo](https://posteo.de/) | **14-eyes** | Any **open-source mail client** such as: [K-9 Mail](https://k9mail.github.io/) and [FairEmail](https://email.faircode.eu/). Both are available on F-Droid. |
+| [K-9 Mail](https://k9mail.github.io/) [![F-Droid](https://img.shields.io/f-droid/v/com.fsck.k9?style=flat-square)](https://f-droid.org/en/packages/com.fsck.k9/) |  | Available on F-Droid. |
+| [FairEmail](https://email.faircode.eu/) [![F-Droid](https://img.shields.io/f-droid/v/eu.faircode.email?style=flat-square)](https://f-droid.org/en/packages/eu.faircode.email/) |  | Available on F-Droid. |
 | [Mailbox.org](https://mailbox.org/) | **14-eyes** | Mailbox.org provides IMAP settings for Android/iOS and an iOS profile. Thanks @avasts Issue #45 |
 
 
