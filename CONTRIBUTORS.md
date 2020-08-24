@@ -52,6 +52,7 @@ GitHub:
 - [@resto1231](https://githgithub.com/resto1231)
 - [@kdrag0n](https://github.com/kdrag0n)
 - [@ianschmitz](https://github.com/ianschmitz)
+- [@mythmakerseven](https://github.com/mythmakerseven)
 
 Reddit:
 
