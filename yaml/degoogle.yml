@@ -98,6 +98,11 @@ web based products:
       eyes: null
       text: |
         PeerTube instance hosted by Epik.com.
+    - name: FreeTube
+      url: https://github.com/FreeTubeApp/FreeTube
+      eyes: null
+      text: |
+        Open-source desktop YouTube client that uses the Invidio.us API to serve content.
   news:
     - title: News
     - name: Local newspaper
@@ -1231,11 +1236,6 @@ mobile applications:
       eyes: null
       text: |
         Powerful open-source YouTube alternative. Supports audio only; background playback; picture-in-picture; no ads.
-    - name: FreeTube
-      url: https://github.com/FreeTubeApp/FreeTube
-      eyes: null
-      text: |
-        Open-source YouTube client that uses the Invidio.us API to serve content. Not on F-Droid, but you can download the APK from GitHub. (thanks u/wesaphzt)
     - name: YouTube Vanced
       url: https://forum.xda-developers.com/android/apps-games/app-youtube-vanced-edition-t3758757
       eyes: null
