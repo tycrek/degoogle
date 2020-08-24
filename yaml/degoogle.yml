@@ -194,6 +194,11 @@ web based products:
       eyes: 5
       text: |
         Free, no-nonsense, super-fast blogging. No javascript, no stylesheets, no trackers. Just your words.
+    - name: Simpleblogs
+      url: https://simpleblogs.org/
+      eyes: null
+      text: |
+        FLOSS blogging platform with a focus on privacy. Easy to self-host (standard rails app, ships with AWS deployment scripts. AWS is not required). Access restricted to accounts which you create and hand out. Good for private blogs but not for commercial/public blogging.
   analytics:
     - title: Analytics
     - name: Matomo
