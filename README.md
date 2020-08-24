@@ -247,6 +247,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | [EteSync](https://www.etesync.com) |  | Secure, end-to-end encrypted, and open-source sync for your contacts, calendars and tasks. |
 | [Baïkal](https://sabre.io/baikal/) |  | a lightweight CalDAV+CardDAV server. It offers an extensive web interface with easy management of users, address books and calendars. It is fast and simple to install and only needs a basic php capable server. The data can be stored in a MySQL or a SQLite database. Thanks @mahdi1234 |
 | [Nextcloud](https://nextcloud.com/) |  | Nextcloud also offers a calendar solution using CalDAV and CardDAV. Thanks @mahdi1234 for pointing this out. |
+| [Fastmail](https://fastmail.com/) | **5-eyes** | Paid email provider with Calendar hosting using CalDAV and CardDAV, located in Australia and US. |
 
 
 
@@ -332,7 +333,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | [StartMail](https://www.startmail.com/en/) | **9-eyes** | Operated by the same people who run StartPage. |
 | [SimpleLogin](https://simplelogin.io/) |  | Open-source, self-hosted, and privacy focused email forwarding service. |
 | [Migadu](https://www.migadu.com/en/index.html) |  | Paid email provider, located in Switzerland. Focus on privacy. |
-| [FastMail](https://fastmail.com/) | **5-eyes** | Paid email provider, located in Australia and US. |
+| [Fastmail](https://fastmail.com/) | **5-eyes** | Paid email provider, located in Australia and US. |
 | [Runbox](https://runbox.com/why-runbox/privacy-protection/) | **9-eyes** | Privacy focusued email provider. Thanks @petertorelli |
 | [nextCloud](https://help.nextcloud.com/t/nextcloud-mail-server/157) |  | Now also provides an email service (self-hosted). Thanks @je-vv |
 | [Anonymize.com Email](https://anonymize.com/) |  | Paid secure email service provided by Epik.com. |
