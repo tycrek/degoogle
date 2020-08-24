@@ -235,6 +235,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | [Piwigo](https://piwigo.org/) | **9-eyes** | (self-hosted) - Self-hosted and open-source cloud photo manager. You can also sign up for an ["as a service" account](https://piwigo.com). |
 | [JottaCloud](https://jottacloud.com/) | **9-eyes** | Norway based cloud storage provider with free and paid plans. Thanks @mynamesleon |
 | [Cryptee](https://crypt.ee/) |  | Encrypted photo storage in a simple solution similar to Google Photos. |
+| [Photostructure](https://photostructure.com/) |  | Open-source and self-hosted photo library. Photostructure is a new media-hosting solution, in its last beta version before production release. |
 
 
 
