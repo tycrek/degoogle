@@ -53,6 +53,8 @@ GitHub:
 - [@kdrag0n](https://github.com/kdrag0n)
 - [@ianschmitz](https://github.com/ianschmitz)
 - [@mythmakerseven](https://github.com/mythmakerseven)
+- [@SuperSandro2000](https://github.com/superSandro2000)
+- [@honorsea](https://github.com/honorsea)
 
 Reddit:
 
