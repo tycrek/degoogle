@@ -241,6 +241,11 @@ web based products:
       eyes: null
       text: |
         An open source web server analysis tool. Installs on your web server (ideally), but works just as well if you download your logs someplace else. Interactive; cursor around in the report and see what's going on. Can generate HTML reports. Can also generate realtime interactive HTML reports if you run it in server mode. Lightweight, only requires UTF-8 support and ncurses (ncursesw, if you want a UTF-8 enabled console). Available in the default package repositories of multiple Linux distros. Thanks @virtadpt
+    - name: Offen
+      url: https://www.offen.dev/
+      eyes: null
+      text: |
+        Open-source and self-hosted, Offen is a fair and lightweight web analytics alternative that treats operators and users as equal parties.
   photos:
     - title: Photos
     - name: Photoprism
