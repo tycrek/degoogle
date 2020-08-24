@@ -1113,11 +1113,13 @@ mobile applications:
         Available from F-Droid.
     - name: K-9 Mail
       url: https://k9mail.github.io/
+      fdroid: com.fsck.k9
       eyes: null
       text: |
         Available on F-Droid.
     - name: FairEmail
       url: https://email.faircode.eu/
+      fdroid: eu.faircode.email
       eyes: null
       text: |
         Available on F-Droid.
