@@ -139,6 +139,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | [Hooktube](https://hooktube.com/) |  | A slightly better way to use actual YouTube. (Use as a "last resort") |
 | [LBRY](https://lbry.com/) |  | A decentralized platform for distributing and supporting creators's work. It aims to be Open, Community driven "digital marketplace". It can be used in a similar way to YouTube: browsing, subscribing to channels, there is a mechanism to send "tips" to creators. Looks up videos based on a blockchain and is open source and uncensored. It already has some "larger" creators like Minutephysics, Veritasium, Barnacules and Lunduke. |
 | [US.TV](https://us.tv/) |  | PeerTube instance hosted by Epik.com. |
+| [FreeTube](https://github.com/FreeTubeApp/FreeTube) |  | Open-source desktop YouTube client that uses the Invidio.us API to serve content. |
 
 
 
@@ -701,7 +702,6 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [NewPipe](https://newpipe.schabi.org/) [![F-Droid](https://img.shields.io/f-droid/v/org.schabi.newpipe?style=flat-square)](https://f-droid.org/en/packages/org.schabi.newpipe/) |  | Powerful open-source YouTube alternative. Supports audio only; background playback; picture-in-picture; no ads. |
-| [FreeTube](https://github.com/FreeTubeApp/FreeTube) |  | Open-source YouTube client that uses the Invidio.us API to serve content. Not on F-Droid, but you can download the APK from GitHub. (thanks u/wesaphzt) |
 | [YouTube Vanced](https://forum.xda-developers.com/android/apps-games/app-youtube-vanced-edition-t3758757) |  | Please read the XDA post before deciding to use this. |
 
 
