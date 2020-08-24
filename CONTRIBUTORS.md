@@ -50,6 +50,7 @@ GitHub:
 - [@codingepaduli](https://github.com/codingepaduli)
 - [@kdkasad](https://github.com/kdkasad)
 - [@resto1231](https://githgithub.com/resto1231)
+- [@kdrag0n](https://github.com/kdrag0n)
 
 Reddit:
 
