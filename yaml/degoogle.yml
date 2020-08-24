@@ -455,8 +455,8 @@ web based products:
       eyes: 5
       text: |
         Uses end-to-end encryption. Looks to be more of a corporate service with tiered plans.
-    - name: Riot
-      url: https://about.riot.im/
+    - name: Element
+      url: https://element.io/
       eyes: 5
       text: |
         Open-source privacy-focused chat service with end-to-end encryption. They offer webapps, desktop apps, iOS, and Android (Play Store and F-Droid). Uses the "Matrix" protocol for decentralized communication. It is 100% free and open-source with no paid plans.
@@ -1295,12 +1295,12 @@ mobile applications:
       eyes: 14
       text: |
         An open-source Android Jabber/XMPP client. It's a paid app on Google Play, but you can also [build it from source](https://github.com/siacs/Conversations) for free if you want to.
-    - name: Riot
-      url: https://github.com/vector-im/riot-android
-      fdroid: im.vector.alpha
+    - name: Element
+      url: https://github.com/vector-im/element-android
+      fdroid: im.vector.app
       eyes: 5
       text: |
-        Android app - The open-source Android client for Riot.
+        Android app - The open-source Android client for Element.
     - name: Jitsi Meet (F-Droid)
       url: https://meet.jit.si/
       fdroid: org.jitsi.meet
