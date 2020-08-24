@@ -19,5 +19,5 @@ assignees: ''
 
 ### Details
 
-- **Alternative name**: { Enter name here. Required }
-- **Reason**: { detail why this alternative should be removed. Include any relevant links }
+- **Alternative name**: Enter name here. Required
+- **Reason**: detail why this alternative should be removed. Include any relevant links
