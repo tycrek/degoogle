@@ -156,7 +156,7 @@ web based products:
       url: https://www.nextcloud.com/
       eyes: null
       text: |
-        Nextcloud 18 now has Community Document Server and **[ONLYOFFICE](https://www.onlyoffice.com/)** apps integrated which allows self hosted instances of docs/sheets/slides. Users are able to edit documents in real time. Thanks @k3tan172 and @plutocrat
+        Nextcloud 19 now has Community Document Server and **[ONLYOFFICE](https://www.onlyoffice.com/)** apps integrated which allows self hosted instances of docs/sheets/slides. Users are able to edit documents in real time. Thanks @k3tan172 and @plutocrat
   blogger and sites:
     - title: Blogger/Sites
     - name: Joomla
