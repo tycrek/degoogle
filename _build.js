@@ -114,13 +114,13 @@ function generateServiceSection(data) {
             let name = `[${item.name}](${item.url})`;
             let eyes = item.eyes ? `**${item.eyes}-eyes**` : '';
             let text = item.text.trim();
-            
+
             // Append the F-Droid badge to the name
             if (item.fdroid) name = name.concat(' ' + fdroidLink(item.fdroid));
-    
+
             // Build the row
             let tableItem = `| ${name} | ${eyes} | ${text} |`;
-    
+
             // Add the row to the table
             serviceSection = serviceSection.concat(tableItem + os.EOL);
         }
@@ -142,6 +142,7 @@ function fdroidLink(appId) {
  * @param {String} link URL to extension WITHOUT trailing slash
  */
 function addonLink(link) {
+    if (!link.includes('addons.mozilla.org')) return;
     let addonId = link.split('/')[link.split('/').length - 1]
     return `![Mozilla Add-on](https://img.shields.io/amo/users/${addonId}?style=flat-square)`;
 }
