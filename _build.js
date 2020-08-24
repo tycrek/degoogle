@@ -142,7 +142,7 @@ function fdroidLink(appId) {
  * @param {String} link URL to extension WITHOUT trailing slash
  */
 function addonLink(link) {
-    if (!link.includes('addons.mozilla.org')) return;
+    if (!link.includes('addons.mozilla.org')) return '';
     let addonId = link.split('/')[link.split('/').length - 1]
     return `![Mozilla Add-on](https://img.shields.io/amo/users/${addonId}?style=flat-square)`;
 }
