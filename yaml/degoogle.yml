@@ -865,11 +865,6 @@ mobile applications:
       eyes: null
       text: |
         Catalogue of FOSS apps for Android. Easy to install and keeps track of updates. Also has a browser version if you don't want to install the app.
-    - name: Aptoide
-      url: https://www.aptoide.com/
-      eyes: null
-      text: |
-        Marketplace for Android apps. Publishers/developers manage their own stores rather than a centralized market such as Google Play Store.
     - name: Yalp Store (fork)
       url: https://github.com/kiliakin/YalpStore
       fdroid: com.github.kiliakin.yalpstore
