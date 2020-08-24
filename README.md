@@ -399,7 +399,6 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | [OpenStreetMap](https://www.openstreetmap.org/) | **9-eyes** | Collaborative project to create a free, editable map of the world (from Wikipedia). Completely crowdsourced. Very strong alternative to Maps. |
 | [Qwant Maps](https://www.qwant.com/maps/) |  | Maps from the makers of Qwant search engine. Thanks @mynamesleon |
 | [Benmaps](https://benmaps.fr) |  | Another maps alternative based on OpenStreetMap. Thanks @dimqua |
-| [Mapillary](https://www.mapillary.com/app/) | **14-eyes** | Crowdsourced street-level imagery built on top of OpenStreetMap. Open source. Includes map data generated with object recognition software. Coverage is lacking in many cities but can always be improved upon. **Note:** Recently [partnered with Facebook](https://blog.mapillary.com/news/2020/06/18/Mapillary-joins-Facebook.html) (thanks @mahdi1234) |
 
 
 
