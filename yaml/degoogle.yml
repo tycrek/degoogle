@@ -273,6 +273,11 @@ web based products:
       eyes: null
       text: |
         Encrypted photo storage in a simple solution similar to Google Photos.
+    - name: Photostructure
+      url: https://photostructure.com/
+      eyes: null
+      text: |
+        Open-source and self-hosted photo library. Photostructure is a new media-hosting solution, in its last beta version before production release.
   calendar:
     - title: Calendar
     - name: Lightning Calendar (Thunderbird)
