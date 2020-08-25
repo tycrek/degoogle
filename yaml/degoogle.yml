@@ -744,12 +744,12 @@ operating systems:
       eyes: null
       text: |
         Open-source Android-based OS with an emphasis on security and privacy. Features advanced hardening and privacy protections throughout the system. 
- - name: CopperheadOS
+    - name: CopperheadOS
       url: https://copperhead.co/android
       eyes: 5-eyes
       text: |
         A security and privacy focused mobile operating system compatible with Android apps. Available as Google-free secure Android on the latest secure android phone. 
- - name: postmarketOS
+    - name: postmarketOS
       url: https://postmarketos.org/
       eyes: null
       text: |
