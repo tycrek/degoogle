@@ -400,9 +400,9 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [OpenStreetMap](https://www.openstreetmap.org/) | **9-eyes** | Collaborative project to create a free, editable map of the world (from Wikipedia). Completely crowdsourced. Very strong alternative to Maps. |
-| [Qwant Maps](https://www.qwant.com/maps/) |  | Maps from the makers of Qwant search engine. Thanks @mynamesleon |
+| [Qwant Maps](https://www.qwant.com/maps/) |  | Openstreetmap based Maps from the makers of Qwant search engine. Thanks @mynamesleon |
 | [Benmaps](https://benmaps.fr) |  | Another maps alternative based on OpenStreetMap. Thanks @dimqua |
-
+| OsmAnd (https://osmand.net/) Android and IOS app using Openstreetmap. Can be used with downloaded maps
 
 
 #### Transit
