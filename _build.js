@@ -100,9 +100,13 @@ function generateCategorySection(header, data) {
  * @param {Array} data
  */
 function generateServiceSection(data) {
-    // Start the section with an <h4> header and the start of a Markdown table
-    let serviceSection = `#### ${data[0].title + os.EOL + os.EOL}| Name | Eyes | Description |${os.EOL}| ---- | ---- | ----------- |${os.EOL}`;
+    // Start the section with an <h4> header
+    let serviceSection = `#### ${data[0].title + os.EOL + os.EOL}`;
     let notes = os.EOL + '';
+    // If there is data to be displayed, add the start of a Markdown table
+    let tableHeader = `| Name | Eyes | Description |${os.EOL}| ---- | ---- | ----------- |${os.EOL}`;
+    if (data.filter(d => 'name' in d).length == 0) tableHeader = `No known alternatives.${os.EOL}`;
+    serviceSection = serviceSection.concat(tableHeader);
     // Iterate over each alternative service and add it to the table
     data.forEach(item => {
         // If the object has length one, it's either title or note
