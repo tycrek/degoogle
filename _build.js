@@ -105,7 +105,8 @@ function generateServiceSection(data) {
     let notes = os.EOL + '';
     // If there is data to be displayed, add the start of a Markdown table
     let tableHeader = `| Name | Eyes | Description |${os.EOL}| ---- | ---- | ----------- |${os.EOL}`;
-    if (data.filter(d => "name" in d).length > 0) serviceSection = serviceSection.concat(tableHeader);
+    if (data.filter(d => 'name' in d).length == 0) tableHeader = `No known alternatives.${os.EOL}`;
+    serviceSection = serviceSection.concat(tableHeader);
     // Iterate over each alternative service and add it to the table
     data.forEach(item => {
         // If the object has length one, it's either title or note
