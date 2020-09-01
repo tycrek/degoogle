@@ -20,7 +20,7 @@
 
 ### *I don't have anything to hide, but I don't have anything to show you either.*
 
-![Updated](https://img.shields.io/static/v1?label=updated&message=August%2024th%202020&color=388E3C&style=flat-square)
+![Updated](https://img.shields.io/static/v1?label=updated&message=September%201st%202020&color=388E3C&style=flat-square)
 
 ![GitHub](https://img.shields.io/github/license/tycrek/degoogle?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/tycrek/degoogle?style=flat-square)
@@ -156,8 +156,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 
 #### Groups
 
-| Name | Eyes | Description |
-| ---- | ---- | ----------- |
+No known alternatives.
 
 - *Use other forum sites relating to specific topics. This is a very broad service.*
 
@@ -415,8 +414,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 
 #### Trends
 
-| Name | Eyes | Description |
-| ---- | ---- | ----------- |
+No known alternatives.
 
 
 
@@ -472,8 +470,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 
 #### Android Auto
 
-| Name | Eyes | Description |
-| ---- | ---- | ----------- |
+No known alternatives.
 
 
 
@@ -694,8 +691,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 
 #### Pay
 
-| Name | Eyes | Description |
-| ---- | ---- | ----------- |
+No known alternatives.
 
 - *Realistically, there most likely is not a privacy friendly alternative to Google Pay. Get a wallet with RFID protection and keep your cards with you.*
 
@@ -830,8 +826,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 
 #### FitBit
 
-| Name | Eyes | Description |
-| ---- | ---- | ----------- |
+No known alternatives.
 
 - *Due to Google's  [recent acquisition of FitBit](https://outline.com/tsJCYN), it is recommended to avoid using FitBit. Instead, check out this [list of smart watches](https://asteroidos.org/install/) supported by Asteroid OS (See Wear OS in [Operating systems](#operating-systems)). Thanks @ribtoks*
 
