@@ -1143,6 +1143,12 @@ mobile applications:
       eyes: null
       text: |
         Available on F-Droid.
+    - name: DeltaChat
+      url: https://delta.chat/
+      fdroid: com.b44t.messenger
+      eyes: null
+      text: |
+        Supports autocrypt
     - name: Mailbox.org
       url: https://mailbox.org/
       eyes: 14
