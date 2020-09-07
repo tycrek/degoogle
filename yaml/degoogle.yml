@@ -103,23 +103,6 @@ web based products:
       eyes: null
       text: |
         Open-source desktop YouTube client that uses the Invidio.us API to serve content.
-  news:
-    - title: News
-    - name: Local newspaper
-      url: https://en.wikipedia.org/wiki/Category:Lists_of_newspapers_by_country
-      eyes: null
-      text: |
-        Support independent and qualitative journalism in your community.
-    - name: AllSides
-      url: https://www.allsides.com/unbiased-balanced-news
-      eyes: null
-      text: |
-        Unbiased news source (primarily for US politics). Thanks @jeanofthedead
-    - name: Miniflux
-      url: https://miniflux.app/
-      eyes: null
-      text: |
-        Miniflux is a minimalist and opinionated feed reader. Completely open source, along with automatically removing pixel trackers.
   groups:
     - title: Groups
     - notes:
@@ -1228,6 +1211,11 @@ mobile applications:
       eyes: null
       text: |
         Use good old-fashioned RSS feeds with Feeder
+    - name: AllSides
+      url: https://www.allsides.com/unbiased-balanced-news
+      eyes: null
+      text: |
+        Unbiased news source (primarily for US politics). Thanks @jeanofthedead
   photos:
     - title: Photos
     - name: Piwigo Android
