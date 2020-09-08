@@ -425,7 +425,7 @@ web based products:
         Primarily meant for businesses, but offers a free version for individuals as well. (thanks u/xNick26)
     - name: Sync
       url: https://www.sync.com
-      eyes: null
+      eyes: 5
       text: |
         End-to-end encrypted Google Drive/Dropbox replacement.
     - name: JottaCloud
