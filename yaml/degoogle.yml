@@ -1380,7 +1380,7 @@ mobile applications:
       url: https://github.com/amirzaidi/Shade
       eyes: null
       text: |
-        Open-source Android launcher styled after the Google Pixel launcher. No F-Droid, but you can download the APK from GitHub.
+        Open-source Android launcher styled after the Google Pixel launcher. Available to download from an [alternative F-Droid](https://apt.izzysoft.de/fdroid/index/apk/amirz.shade), APK Mirror, or GitHub Releases.
     - name: Omega
       url: https://github.com/otakuhqz/omega
       eyes: null
