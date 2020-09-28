@@ -796,6 +796,11 @@ operating systems:
       eyes: 5
       text: |
         The OS of Purism Laptops (mentioned in the Hardware section). Very clean UI. *Editor note: I could not get this working on a UEFI Dell laptop. The group behind PureOS does not provide any UEFI support.*
+    - name: GhostBSD
+      url: https://ghostbsd.org/
+      eyes: null
+      text: |
+        This is a secure open-source OS based on FreeBSD, preconfigured to be a sane desktop environment for all users.
     - name: Any other form of Linux
       url: https://www.linuxfoundation.org/
       eyes: null
