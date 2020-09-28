@@ -406,6 +406,11 @@ web based products:
       eyes: 5
       text: |
         Domain registration with free WHOIS privacy.
+    - name: Orangewebsite
+      url: https://www.orangewebsite.com/
+      eyes: null
+      text: |
+        An Iceland-based freedom of speech web hosting provider. They never actually ask for your name, at least when you pay in Bitcoin.
   drive:
     - title: Drive
     - name: ownCloud
