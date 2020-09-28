@@ -1371,12 +1371,11 @@ mobile applications:
       eyes: null
       text: |
         Open-source Android launcher styled after the Google Pixel launcher. No F-Droid, but you can download the APK from GitHub.
-    - name: ZimLX
-      url: https://github.com/otakuhqz/ZimLX
-      fdroid: org.zimmob.zimlx
+    - name: Omega
+      url: https://github.com/otakuhqz/omega
       eyes: null
       text: |
-        Open-source launcher. Active development with lots of nice features.
+        Open-source launcher. Active development with lots of nice features. Downloads available from GitHub. Previously known as ZimLX which has since been replaced by Omega.
     - name: Lawnchair
       url: https://lawnchair.app/
       fdroid: ch.deletescape.lawnchair.plah
