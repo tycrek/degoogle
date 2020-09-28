@@ -288,6 +288,11 @@ web based products:
       eyes: null
       text: |
         Open-source and self-hosted photo library. Photostructure is a new media-hosting solution, in its last beta version before production release.
+    - name: Lychee
+      url: https://lycheeorg.github.io/
+      eyes: null
+      text: |
+        An open-source self-hosted photo-management tool that includes built-in support for videos. Thanks @m0yP
   calendar:
     - title: Calendar
     - name: Lightning Calendar (Thunderbird)
