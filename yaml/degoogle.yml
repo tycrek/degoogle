@@ -131,6 +131,11 @@ web based products:
       eyes: 14
       text: |
         DeepL is an artifical intelligence translation service. **Please keep in mind DeepL tracks the text you translate unless you purchase Pro**. See sections 4 & 5 of their [privacy policy](https://www.deepl.com/privacy.html) for more information. Thanks u/TheCy-FiJuggernaut
+    - name: Apertium
+      url: https://apertium.org/
+      eyes: null
+      text: |
+        A free, open-source translation system. [Source repo](https://github.com/apertium/apertium) has some useful CLI tools.
   ads:
     - title: Google Ads/AdMob/AdSense
     - name: EthicalAds
