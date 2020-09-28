@@ -335,11 +335,6 @@ web based products:
       eyes: null
       text: |
         Nextcloud also offers a calendar solution using CalDAV and CardDAV. Thanks @mahdi1234 for pointing this out.
-    - name: Fastmail
-      url: https://fastmail.com/
-      eyes: 5
-      text: |
-        Paid email provider with Calendar hosting using CalDAV and CardDAV, located in Australia and US.
   docs:
     - title: Docs/Sheets/Slides (cloud)
     - name: CryptPad
