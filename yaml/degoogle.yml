@@ -256,6 +256,11 @@ web based products:
       eyes: null
       text: |
         Open-source and self-hosted, Offen is a fair and lightweight web analytics alternative that treats operators and users as equal parties.
+    - name: Umami
+      url: https://umami.is/
+      eyes: null
+      text: |
+        A simple, easy to use, open-source/self-hosted web analytics solution.
   photos:
     - title: Photos
     - name: Photoprism
