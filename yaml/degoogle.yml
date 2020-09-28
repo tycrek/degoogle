@@ -1195,6 +1195,11 @@ mobile applications:
       eyes: null
       text: |
         Open-source. Notes are stored in the plain-text [Org mode](https://orgmode.org/) format. Supports searching, metadata, and manual sync with Dropbox or local directory, which can be synced using e.g. Syncthing.
+    - name: Notally
+      url: https://github.com/OmGodse/Notally
+      eyes: null
+      text: |
+        A beautiful, light and minimalistic notes app with no trackers, ads or analytics of any kind. Not on F-Droid, but available from [this alternative market](https://apt.izzysoft.de/fdroid/index/apk/com.omgodse.notally).
   maps and waze:
     - title: Maps/Waze
     - name: Maps
