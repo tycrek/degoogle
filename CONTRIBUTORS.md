@@ -58,6 +58,7 @@ GitHub:
 - [@chanana](https://github.com/chanana)
 - [@m0yP](https://github.com/m0yP)
 - [@mceachen](https://github.com/mceachen)
+- [@adam-sroka](https://github.com/adam-sroka)
 
 Reddit:
 
