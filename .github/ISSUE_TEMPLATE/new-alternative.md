@@ -2,7 +2,7 @@
 name: New alternative
 about: Add a new alternative for a Google service
 title: "[NEW] New alternative"
-labels: ''
+labels: 'new'
 assignees: ''
 
 ---

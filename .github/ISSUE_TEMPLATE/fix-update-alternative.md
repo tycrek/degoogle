@@ -2,7 +2,7 @@
 name: Fix/update alternative
 about: Fix or update an exsting alternative.
 title: "[FIX] Fix/update alternative"
-labels: ''
+labels: 'fix'
 assignees: ''
 
 ---

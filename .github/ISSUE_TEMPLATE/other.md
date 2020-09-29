@@ -3,7 +3,7 @@ name: Other
 about: Anything else that does not fit the other templates. Blank issues are also
   permitted.
 title: "[OTHER]"
-labels: ''
+labels: 'other'
 assignees: ''
 
 ---
@@ -19,4 +19,3 @@ assignees: ''
 - [ ] **Include my name in [CONTRIBUTORS.md](https://github.com/tycrek/degoogle/blob/master/CONTRIBUTORS.md)**
 
 ### Details
-

@@ -2,7 +2,7 @@
 name: Remove alternative
 about: Provide details on why an existing alternative should be removed.
 title: "[REMOVE] Remove alternative"
-labels: ''
+labels: 'remove'
 assignees: ''
 
 ---
