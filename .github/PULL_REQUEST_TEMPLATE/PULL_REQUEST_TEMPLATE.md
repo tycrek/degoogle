@@ -1,0 +1,16 @@
+---
+name: New pull request
+about: Create a new pull request
+title: ''
+labels: ''
+assignees: ''
+
+---
+
+[//]: # ( Every alternative in your pull request MUST have an linked issue)
+
+### Checklist
+
+- [ ] **I have read the rules outlined in [CONTRIBUTING.md](https://github.com/tycrek/degoogle/blob/master/CONTRIBUTING.md)**
+- [ ] **Include my name in [CONTRIBUTORS.md](https://github.com/tycrek/degoogle/blob/master/CONTRIBUTORS.md) (or I have added myself in this PR)**
+- [ ] **I am affiliated with this alternative (if applicable)**
