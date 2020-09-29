@@ -253,6 +253,7 @@ No known alternatives.
 | [EteSync](https://www.etesync.com) |  | Secure, end-to-end encrypted, and open-source sync for your contacts, calendars and tasks. |
 | [Baïkal](https://sabre.io/baikal/) |  | a lightweight CalDAV+CardDAV server. It offers an extensive web interface with easy management of users, address books and calendars. It is fast and simple to install and only needs a basic php capable server. The data can be stored in a MySQL or a SQLite database. Thanks @mahdi1234 |
 | [Nextcloud](https://nextcloud.com/) |  | Nextcloud also offers a calendar solution using CalDAV and CardDAV. Thanks @mahdi1234 for pointing this out. |
+| [Radicale](https://radicale.org/) |  | Self-hosted calendar server written in Python. WebUI for desktop, CalDav/CardDav for mobile sync. Can use a reverse proxy with Nginx for HTTPS. |
 
 
 
