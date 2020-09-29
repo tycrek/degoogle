@@ -131,6 +131,11 @@ web based products:
       eyes: 14
       text: |
         DeepL is an artifical intelligence translation service. **Please keep in mind DeepL tracks the text you translate unless you purchase Pro**. See sections 4 & 5 of their [privacy policy](https://www.deepl.com/privacy.html) for more information. Thanks u/TheCy-FiJuggernaut
+    - name: Apertium
+      url: https://apertium.org/
+      eyes: null
+      text: |
+        A free, open-source translation system. [Source repo](https://github.com/apertium/apertium) has some useful CLI tools.
   ads:
     - title: Google Ads/AdMob/AdSense
     - name: EthicalAds
@@ -251,6 +256,11 @@ web based products:
       eyes: null
       text: |
         Open-source and self-hosted, Offen is a fair and lightweight web analytics alternative that treats operators and users as equal parties.
+    - name: Umami
+      url: https://umami.is/
+      eyes: null
+      text: |
+        A simple, easy to use, open-source/self-hosted web analytics solution.
   photos:
     - title: Photos
     - name: Photoprism
@@ -283,6 +293,11 @@ web based products:
       eyes: null
       text: |
         Self-hosted photo and video manager. Cross-platform (macOS, Windows, Linux, Docker). Scales to millions of assets, with automatic organization, auto-transcoding, and advanced de-duplication.
+    - name: Lychee
+      url: https://lycheeorg.github.io/
+      eyes: null
+      text: |
+        An open-source self-hosted photo-management tool that includes built-in support for videos. Thanks @m0yP
   calendar:
     - title: Calendar
     - name: Lightning Calendar (Thunderbird)
@@ -320,11 +335,6 @@ web based products:
       eyes: null
       text: |
         Nextcloud also offers a calendar solution using CalDAV and CardDAV. Thanks @mahdi1234 for pointing this out.
-    - name: Fastmail
-      url: https://fastmail.com/
-      eyes: 5
-      text: |
-        Paid email provider with Calendar hosting using CalDAV and CardDAV, located in Australia and US.
   docs:
     - title: Docs/Sheets/Slides (cloud)
     - name: CryptPad
@@ -390,12 +400,17 @@ web based products:
       url: https://njal.la/
       eyes: 14
       text: |
-        Privacy-focused domain registration. Competitive pricing and a large list of available domain extensions. They also offer VPS hosting. Built by people who built The Pirate Bay among others. (thanks u/brais33 and u/HumbleBasis6)
+        Privacy-focused domain registration. Competitive pricing and a large list of available domain extensions. They also offer VPS hosting. Built by people who built The Pirate Bay among others. (thanks u/brais33 and u/HumbleBasis6). Note: some users may have issues with them [legally owning your domain](https://news.ycombinator.com/item?id=14177597).
     - name: Porkbun
       url: https://porkbun.com/
       eyes: 5
       text: |
         Domain registration with free WHOIS privacy.
+    - name: Orangewebsite
+      url: https://www.orangewebsite.com/
+      eyes: null
+      text: |
+        An Iceland-based freedom of speech web hosting provider. They never actually ask for your name, at least when you pay in Bitcoin.
   drive:
     - title: Drive
     - name: ownCloud
@@ -425,7 +440,7 @@ web based products:
         Primarily meant for businesses, but offers a free version for individuals as well. (thanks u/xNick26)
     - name: Sync
       url: https://www.sync.com
-      eyes: null
+      eyes: 5
       text: |
         End-to-end encrypted Google Drive/Dropbox replacement.
     - name: JottaCloud
@@ -786,6 +801,11 @@ operating systems:
       eyes: 5
       text: |
         The OS of Purism Laptops (mentioned in the Hardware section). Very clean UI. *Editor note: I could not get this working on a UEFI Dell laptop. The group behind PureOS does not provide any UEFI support.*
+    - name: GhostBSD
+      url: https://ghostbsd.org/
+      eyes: null
+      text: |
+        This is a secure open-source OS based on FreeBSD, preconfigured to be a sane desktop environment for all users.
     - name: Any other form of Linux
       url: https://www.linuxfoundation.org/
       eyes: null
@@ -1190,6 +1210,11 @@ mobile applications:
       eyes: null
       text: |
         Open-source. Notes are stored in the plain-text [Org mode](https://orgmode.org/) format. Supports searching, metadata, and manual sync with Dropbox or local directory, which can be synced using e.g. Syncthing.
+    - name: Notally
+      url: https://github.com/OmGodse/Notally
+      eyes: null
+      text: |
+        A beautiful, light and minimalistic notes app with no trackers, ads or analytics of any kind. Not on F-Droid, but available from [this alternative market](https://apt.izzysoft.de/fdroid/index/apk/com.omgodse.notally).
   maps and waze:
     - title: Maps/Waze
     - name: Maps
@@ -1355,13 +1380,12 @@ mobile applications:
       url: https://github.com/amirzaidi/Shade
       eyes: null
       text: |
-        Open-source Android launcher styled after the Google Pixel launcher. No F-Droid, but you can download the APK from GitHub.
-    - name: ZimLX
-      url: https://github.com/otakuhqz/ZimLX
-      fdroid: org.zimmob.zimlx
+        Open-source Android launcher styled after the Google Pixel launcher. Available to download from an [alternative F-Droid](https://apt.izzysoft.de/fdroid/index/apk/amirz.shade), APK Mirror, or GitHub Releases.
+    - name: Omega
+      url: https://github.com/otakuhqz/omega
       eyes: null
       text: |
-        Open-source launcher. Active development with lots of nice features.
+        Open-source launcher. Active development with lots of nice features. Downloads available from GitHub. Previously known as ZimLX which has since been replaced by Omega.
     - name: Lawnchair
       url: https://lawnchair.app/
       fdroid: ch.deletescape.lawnchair.plah

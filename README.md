@@ -20,7 +20,7 @@
 
 ### *I don't have anything to hide, but I don't have anything to show you either.*
 
-![Updated](https://img.shields.io/static/v1?label=updated&message=August%2024th%202020&color=388E3C&style=flat-square)
+![Updated](https://img.shields.io/static/v1?label=updated&message=September%2028th%202020&color=388E3C&style=flat-square)
 
 ![GitHub](https://img.shields.io/github/license/tycrek/degoogle?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/tycrek/degoogle?style=flat-square)
@@ -156,8 +156,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 
 #### Groups
 
-| Name | Eyes | Description |
-| ---- | ---- | ----------- |
+No known alternatives.
 
 - *Use other forum sites relating to specific topics. This is a very broad service.*
 
@@ -167,6 +166,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [DeepL](https://deepl.com/) | **14-eyes** | DeepL is an artifical intelligence translation service. **Please keep in mind DeepL tracks the text you translate unless you purchase Pro**. See sections 4 & 5 of their [privacy policy](https://www.deepl.com/privacy.html) for more information. Thanks u/TheCy-FiJuggernaut |
+| [Apertium](https://apertium.org/) |  | A free, open-source translation system. [Source repo](https://github.com/apertium/apertium) has some useful CLI tools. |
 
 
 
@@ -224,6 +224,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | [Supabase](https://supabase.io/) |  | Supabase is an opensource alternative to Firebase. As of right now you can use their hosting plan for free as it's in alpha, or you can self host ([note on self hosting](https://github.com/supabase/supabase/issues/85#issuecomment-636010946)). Thanks @woutfeys |
 | [GoAccess](https://goaccess.io/) |  | An open source web server analysis tool. Installs on your web server (ideally), but works just as well if you download your logs someplace else. Interactive; cursor around in the report and see what's going on. Can generate HTML reports. Can also generate realtime interactive HTML reports if you run it in server mode. Lightweight, only requires UTF-8 support and ncurses (ncursesw, if you want a UTF-8 enabled console). Available in the default package repositories of multiple Linux distros. Thanks @virtadpt |
 | [Offen](https://www.offen.dev/) |  | Open-source and self-hosted, Offen is a fair and lightweight web analytics alternative that treats operators and users as equal parties. |
+| [Umami](https://umami.is/) |  | A simple, easy to use, open-source/self-hosted web analytics solution. |
 
 
 
@@ -237,6 +238,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | [JottaCloud](https://jottacloud.com/) | **9-eyes** | Norway based cloud storage provider with free and paid plans. Thanks @mynamesleon |
 | [Cryptee](https://crypt.ee/) |  | Encrypted photo storage in a simple solution similar to Google Photos. |
 | [Photostructure](https://photostructure.com/) |  | Open-source and self-hosted photo library. Photostructure is a new media-hosting solution, in its last beta version before production release. |
+| [Lychee](https://lycheeorg.github.io/) |  | An open-source self-hosted photo-management tool that includes built-in support for videos. Thanks @m0yP |
 
 
 
@@ -251,7 +253,6 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | [EteSync](https://www.etesync.com) |  | Secure, end-to-end encrypted, and open-source sync for your contacts, calendars and tasks. |
 | [Baïkal](https://sabre.io/baikal/) |  | a lightweight CalDAV+CardDAV server. It offers an extensive web interface with easy management of users, address books and calendars. It is fast and simple to install and only needs a basic php capable server. The data can be stored in a MySQL or a SQLite database. Thanks @mahdi1234 |
 | [Nextcloud](https://nextcloud.com/) |  | Nextcloud also offers a calendar solution using CalDAV and CardDAV. Thanks @mahdi1234 for pointing this out. |
-| [Fastmail](https://fastmail.com/) | **5-eyes** | Paid email provider with Calendar hosting using CalDAV and CardDAV, located in Australia and US. |
 
 
 
@@ -284,8 +285,9 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
-| [Njalla](https://njal.la/) | **14-eyes** | Privacy-focused domain registration. Competitive pricing and a large list of available domain extensions. They also offer VPS hosting. Built by people who built The Pirate Bay among others. (thanks u/brais33 and u/HumbleBasis6) |
+| [Njalla](https://njal.la/) | **14-eyes** | Privacy-focused domain registration. Competitive pricing and a large list of available domain extensions. They also offer VPS hosting. Built by people who built The Pirate Bay among others. (thanks u/brais33 and u/HumbleBasis6). Note: some users may have issues with them [legally owning your domain](https://news.ycombinator.com/item?id=14177597). |
 | [Porkbun](https://porkbun.com/) | **5-eyes** | Domain registration with free WHOIS privacy. |
+| [Orangewebsite](https://www.orangewebsite.com/) |  | An Iceland-based freedom of speech web hosting provider. They never actually ask for your name, at least when you pay in Bitcoin. |
 
 
 
@@ -298,7 +300,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | [Syncthing](https://syncthing.net/) | **9-eyes** | An interesting take on cloud storage: decentralized. Peer-to-peer between only your devices. Software is open-source and available on GitHub. |
 | [Sia](https://sia.tech/) |  | Fully decentralized cloud storage. |
 | [Tresorit](https://tresorit.com/) |  | Primarily meant for businesses, but offers a free version for individuals as well. (thanks u/xNick26) |
-| [Sync](https://www.sync.com) |  | End-to-end encrypted Google Drive/Dropbox replacement. |
+| [Sync](https://www.sync.com) | **5-eyes** | End-to-end encrypted Google Drive/Dropbox replacement. |
 | [JottaCloud](https://jottacloud.com/en/) | **9-eyes** | Norway based cloud storage provider with free and paid plans. Thanks @mynamesleon |
 | [Armored](https://armored.net/) | **9-eyes** | Nextcloud instance hosted by Epik.com. Paid plans with 30-day trial. Servers in a "secure bunker" in Norway. Supports other Nextcloud features such as Nextcloud Talk. |
 | [seafile](https://www.seafile.com) |  | Open-source and self-hosted file sync&share solution. |
@@ -415,8 +417,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 
 #### Trends
 
-| Name | Eyes | Description |
-| ---- | ---- | ----------- |
+No known alternatives.
 
 
 
@@ -458,6 +459,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | [Knoppix](http://www.knopper.net/knoppix/index-en.html) |  | Another Live OS, runs from CD/DVD/USB. Can also be installed if desired. |
 | [Parrot OS](https://parrotsec.org/) |  | Debian-based and privacy focused. Fully sandboxed. (thanks u/Safe_Airport) |
 | [PureOS](https://pureos.net/) | **5-eyes** | The OS of Purism Laptops (mentioned in the Hardware section). Very clean UI. *Editor note: I could not get this working on a UEFI Dell laptop. The group behind PureOS does not provide any UEFI support.* |
+| [GhostBSD](https://ghostbsd.org/) |  | This is a secure open-source OS based on FreeBSD, preconfigured to be a sane desktop environment for all users. |
 | [Any other form of Linux](https://www.linuxfoundation.org/) |  | [Ubuntu](https://www.ubuntu.com/); [Debian](https://www.debian.org/); [Mint](https://linuxmint.com/); [Fedora](https://getfedora.org/); [Arch](https://www.archlinux.org/) or [Manjaro](https://manjaro.org/) (Manjaro is objectively much easier to get running than Arch); [Trisquel](https://trisquel.info/);  [Gentoo](https://www.gentoo.org/); [Alpine](https://www.alpinelinux.org/) (thanks u/privacyfreak555); [etc etc etc](https://en.wikipedia.org/wiki/List_of_Linux_distributions) |
 
 
@@ -472,8 +474,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 
 #### Android Auto
 
-| Name | Eyes | Description |
-| ---- | ---- | ----------- |
+No known alternatives.
 
 
 
@@ -661,6 +662,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | [Carnet](https://github.com/PhieF/CarnetDocumentation) [![F-Droid](https://img.shields.io/f-droid/v/com.spisoft.quicknote?style=flat-square)](https://f-droid.org/en/packages/com.spisoft.quicknote/) |  | I had some trouble finding info on this one. Looks like it has pretty seamless/painless ownCloud and NextCloud integration. Also available on F-Droid. |
 | [Markor](https://gsantner.net/project/markor.html) [![F-Droid](https://img.shields.io/f-droid/v/net.gsantner.markor?style=flat-square)](https://f-droid.org/en/packages/net.gsantner.markor/) |  | Open-source notes/to-do app for Android. Supports Markdown editing. Available on F-Droid. App is 100% offline, as stated on the [GitHub README](https://github.com/gsantner/markor#privacy). |
 | [Orgzly](http://orgzly.com/) [![F-Droid](https://img.shields.io/f-droid/v/com.orgzly?style=flat-square)](https://f-droid.org/en/packages/com.orgzly/) |  | Open-source. Notes are stored in the plain-text [Org mode](https://orgmode.org/) format. Supports searching, metadata, and manual sync with Dropbox or local directory, which can be synced using e.g. Syncthing. |
+| [Notally](https://github.com/OmGodse/Notally) |  | A beautiful, light and minimalistic notes app with no trackers, ads or analytics of any kind. Not on F-Droid, but available from [this alternative market](https://apt.izzysoft.de/fdroid/index/apk/com.omgodse.notally). |
 
 
 
@@ -694,8 +696,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 
 #### Pay
 
-| Name | Eyes | Description |
-| ---- | ---- | ----------- |
+No known alternatives.
 
 - *Realistically, there most likely is not a privacy friendly alternative to Google Pay. Get a wallet with RFID protection and keep your cards with you.*
 
@@ -770,8 +771,8 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
-| [Shade Launcher](https://github.com/amirzaidi/Shade) |  | Open-source Android launcher styled after the Google Pixel launcher. No F-Droid, but you can download the APK from GitHub. |
-| [ZimLX](https://github.com/otakuhqz/ZimLX) [![F-Droid](https://img.shields.io/f-droid/v/org.zimmob.zimlx?style=flat-square)](https://f-droid.org/en/packages/org.zimmob.zimlx/) |  | Open-source launcher. Active development with lots of nice features. |
+| [Shade Launcher](https://github.com/amirzaidi/Shade) |  | Open-source Android launcher styled after the Google Pixel launcher. Available to download from an [alternative F-Droid](https://apt.izzysoft.de/fdroid/index/apk/amirz.shade), APK Mirror, or GitHub Releases. |
+| [Omega](https://github.com/otakuhqz/omega) |  | Open-source launcher. Active development with lots of nice features. Downloads available from GitHub. Previously known as ZimLX which has since been replaced by Omega. |
 | [Lawnchair](https://lawnchair.app/) [![F-Droid](https://img.shields.io/f-droid/v/ch.deletescape.lawnchair.plah?style=flat-square)](https://f-droid.org/en/packages/ch.deletescape.lawnchair.plah/) |  | Another open-source launcher, also built to look similar to Google's launcher (it is built off AOSP Launcher3). Available from F-Droid and also APKMirror. (thanks u/droidonomy) |
 | [KISS Launcher](https://kisslauncher.com/) [![F-Droid](https://img.shields.io/f-droid/v/fr.neamar.kiss?style=flat-square)](https://f-droid.org/en/packages/fr.neamar.kiss/) |  | Fast, open-source and small launcher. KISS mainly relies on an app-search-bar, which makes it very easy to open up apps quickly. Thanks @Glitchy-Tozier |
 
@@ -830,8 +831,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 
 #### FitBit
 
-| Name | Eyes | Description |
-| ---- | ---- | ----------- |
+No known alternatives.
 
 - *Due to Google's  [recent acquisition of FitBit](https://outline.com/tsJCYN), it is recommended to avoid using FitBit. Instead, check out this [list of smart watches](https://asteroidos.org/install/) supported by Asteroid OS (See Wear OS in [Operating systems](#operating-systems)). Thanks @ribtoks*
 
@@ -935,6 +935,7 @@ Everything you need to become a Privacy Wizard.
   - *The Great Hack (2019)* - Documentary about the Facebook–Cambridge Analytica data scandal. Thanks @woutfeys
   - *Mr. Robot* - Hacker-drama starring Rami Malek. Producers hired actual hackers as consultants to ensure the show is as accurate as possible; real-world tools used in the show.
   - *Silicon Valley* - Satirical tech comedy about a compression startup struggling to take off in Silicon Valley, California.
+  - *Shoshana Zuboff on surveillance capitalism | VPRO Documentary* - [Invidious instance](https://yewtu.be/watch?v=hIXhnWUmMvw) and [Hooktube](https://hooktube.com/watch?v=hIXhnWUmMvw)
 - Podcasts:
   - [Darknet Diaries](https://darknetdiaries.com/) (by Jack Rhysider) - Highlights real-life hackers and their stories. Covers privacy topics a fair bit.
   - [The WAN Show](https://linustechtips.libsyn.com/) (Linus Tech Tips) - Not specifically privacy, but they cover all sorts of tech news.

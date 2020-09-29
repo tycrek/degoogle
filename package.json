@@ -19,7 +19,7 @@
   "dependencies": {
     "fs-extra": "^9.0.0",
     "moment": "^2.26.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "qs": "^6.9.4",
     "yaml": "^1.10.0"
   }

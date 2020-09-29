@@ -6,6 +6,7 @@
   - *The Great Hack (2019)* - Documentary about the Facebook–Cambridge Analytica data scandal. Thanks @woutfeys
   - *Mr. Robot* - Hacker-drama starring Rami Malek. Producers hired actual hackers as consultants to ensure the show is as accurate as possible; real-world tools used in the show.
   - *Silicon Valley* - Satirical tech comedy about a compression startup struggling to take off in Silicon Valley, California.
+  - *Shoshana Zuboff on surveillance capitalism | VPRO Documentary* - [Invidious instance](https://yewtu.be/watch?v=hIXhnWUmMvw) and [Hooktube](https://hooktube.com/watch?v=hIXhnWUmMvw)
 - Podcasts:
   - [Darknet Diaries](https://darknetdiaries.com/) (by Jack Rhysider) - Highlights real-life hackers and their stories. Covers privacy topics a fair bit.
   - [The WAN Show](https://linustechtips.libsyn.com/) (Linus Tech Tips) - Not specifically privacy, but they cover all sorts of tech news.
