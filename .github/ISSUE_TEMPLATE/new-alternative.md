@@ -13,8 +13,8 @@ assignees: ''
 
 ### Checklist
 
-- [ ] **I have read the rules outlined in [CONTRIBUTING.md](https://github.com/tycrek/degoogle/blob/master/CONTRIBUTING.md)**
-- [ ] **Include my name in [CONTRIBUTORS.md](https://github.com/tycrek/degoogle/blob/master/CONTRIBUTORS.md)**
+- [ ] **I have read the rules outlined in [CONTRIBUTING.md](../blob/master/CONTRIBUTING.md)**
+- [ ] **Include my name in [CONTRIBUTORS.md](../blob/master/CONTRIBUTORS.md)**
 - [ ] **I am affiliated with this alternative**
 
 ### Details
