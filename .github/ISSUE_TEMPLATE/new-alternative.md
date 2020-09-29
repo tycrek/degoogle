@@ -8,14 +8,13 @@ assignees: ''
 ---
 
 [//]: # ( Fill out to the best of your ability. )
-[//]: # ( If an item is not applicable, such as HTTPS for an App, feel free to leave it blank. )
-[//]: # ( Mark off checkbox items by putting an x in between the [ ] without spaces, i.e. `[x]` )
+[//]: # ( If an item is not applicable, feel free to remove the line. )
 
-### Checklist
-
-- [ ] **I have read the rules outlined in [CONTRIBUTING.md](../blob/master/CONTRIBUTING.md)**
-- [ ] **Include my name in [CONTRIBUTORS.md](../blob/master/CONTRIBUTORS.md)**
-- [ ] **I am affiliated with this alternative**
+| Checklist |   |
+| --------- | - |
+| **I have read the guidelines in [CONTRIBUTING.md]** | yes/no |
+| Include my name in [CONTRIBUTORS.md]                | yes/no |
+| I am affiliated with this alternative               | yes/no |
 
 ### Details
 
@@ -44,3 +43,6 @@ assignees: ''
 - **Extras**
   - .onion address: .onion address
   - Warrant canary: yes/no [Link to canary](https://warrant.canary.url)
+
+[CONTRIBUTING.md]: ../blob/master/CONTRIBUTING.md
+[CONTRIBUTORS.md]: ../blob/master/CONTRIBUTORS.md
