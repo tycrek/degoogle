@@ -50,7 +50,7 @@ web based products:
       url: https://infinitysearch.co/
       eyes: 5
       text: |
-        Infinity Search is a privacy metasearch engine that does not log any information about its users. In terms of privacy, it works the same way as DuckDuckGo. It is free to use and is funded by non-tracking advertisements and affiliate links. It is also completely open source.
+        Infinity Search is a privacy metasearch engine that does not log any information about its users. In terms of privacy, it works the same way as DuckDuckGo. It is free to use and is funded by non-tracking advertisements and affiliate links. It is also completely open-source.
     - name: Runnaroo
       url: https://www.runnaroo.com/
       eyes: 5
@@ -92,7 +92,7 @@ web based products:
       url: https://lbry.com/
       eyes: null
       text: |
-        A decentralized platform for distributing and supporting creators's work. It aims to be Open, Community driven "digital marketplace". It can be used in a similar way to YouTube: browsing, subscribing to channels, there is a mechanism to send "tips" to creators. Looks up videos based on a blockchain and is open source and uncensored. It already has some "larger" creators like Minutephysics, Veritasium, Barnacules and Lunduke.
+        A decentralized platform for distributing and supporting creators's work. It aims to be Open, Community driven "digital marketplace". It can be used in a similar way to YouTube: browsing, subscribing to channels, there is a mechanism to send "tips" to creators. Looks up videos based on a blockchain and is open-source and uncensored. It already has some "larger" creators like Minutephysics, Veritasium, Barnacules and Lunduke.
     - name: US.TV
       url: https://us.tv/
       eyes: null
@@ -119,7 +119,7 @@ web based products:
       url: https://miniflux.app/
       eyes: null
       text: |
-        Miniflux is a minimalist and opinionated feed reader. Completely open source, along with automatically removing pixel trackers.
+        Miniflux is a minimalist and opinionated feed reader. Completely open-source, along with automatically removing pixel trackers.
   groups:
     - title: Groups
     - notes:
@@ -156,7 +156,7 @@ web based products:
       url: https://www.nextcloud.com/
       eyes: null
       text: |
-        Nextcloud 19 now has Community Document Server and **[ONLYOFFICE](https://www.onlyoffice.com/)** apps integrated which allows self hosted instances of docs/sheets/slides. Users are able to edit documents in real time. Thanks @k3tan172 and @plutocrat
+        Nextcloud 19 now has Community Document Server and **[ONLYOFFICE](https://www.onlyoffice.com/)** apps integrated which allows self-hosted instances of docs/sheets/slides. Users are able to edit documents in real time. Thanks @k3tan172 and @plutocrat
   blogger and sites:
     - title: Blogger/Sites
     - name: Joomla
@@ -245,7 +245,7 @@ web based products:
       url: https://goaccess.io/
       eyes: null
       text: |
-        An open source web server analysis tool. Installs on your web server (ideally), but works just as well if you download your logs someplace else. Interactive; cursor around in the report and see what's going on. Can generate HTML reports. Can also generate realtime interactive HTML reports if you run it in server mode. Lightweight, only requires UTF-8 support and ncurses (ncursesw, if you want a UTF-8 enabled console). Available in the default package repositories of multiple Linux distros. Thanks @virtadpt
+        An open-source web server analysis tool. Installs on your web server (ideally), but works just as well if you download your logs someplace else. Interactive; cursor around in the report and see what's going on. Can generate HTML reports. Can also generate realtime interactive HTML reports if you run it in server mode. Lightweight, only requires UTF-8 support and ncurses (ncursesw, if you want a UTF-8 enabled console). Available in the default package repositories of multiple Linux distros. Thanks @virtadpt
     - name: Offen
       url: https://www.offen.dev/
       eyes: null
@@ -388,7 +388,7 @@ web based products:
       url: https://calligra.org/
       eyes: null
       text: |
-        Calligra Suite is an office and graphic art suite by KDE. It is available for desktop PCs, tablet computers, and smartphones. It contains applications for word processing, spreadsheets, presentation, vector graphics, and editing databases. (Free and Open Source Software)
+        Calligra Suite is an office and graphic art suite by KDE. It is available for desktop PCs, tablet computers, and smartphones. It contains applications for word processing, spreadsheets, presentation, vector graphics, and editing databases. (Free and Open-source Software)
   domains:
     - title: Domains
     - name: Njalla
@@ -643,7 +643,7 @@ web based products:
       url: https://popcorntime.sh/faq
       eyes: null
       text: |
-        Open source software for desktop and mobile that let you easily stream movie/TV torrents. **Be careful if your country or ISP has policies against torrenting, a VPN is recommended.** Thanks @je-vv
+        Open-source software for desktop and mobile that let you easily stream movie/TV torrents. **Be careful if your country or ISP has policies against torrenting, a VPN is recommended.** Thanks @je-vv
     - name: Nuclear Music Player
       url: https://nuclear.js.org/
       eyes: null
@@ -665,7 +665,7 @@ web based products:
       url:  https://brick.im
       eyes: 9
       text: |
-        Open source fonts that work in a very similar way to Google fonts. Most of the fonts render nicer than Google Fonts.
+        Open-source fonts that work in a very similar way to Google fonts. Most of the fonts render nicer than Google Fonts.
   classroom:
     - title: Classroom
     - name: Moodle
@@ -677,12 +677,12 @@ web based products:
       url: https://www.ilias.de/en/
       eyes: null
       text: |
-        Another self-hosted open source classroom software. Thanks again to @jankapunkt
+        Another self-hosted open-source classroom software. Thanks again to @jankapunkt
     - name: Canvas
       url: https://www.instructure.com/canvas
       eyes: null
       text: |
-        Paid service by Instructure. Also available as a [self-hosted, open source option](https://github.com/instructure/canvas-lms). To ensure privacy, use the self-hosted option.
+        Paid service by Instructure. Also available as a [self-hosted, open-source option](https://github.com/instructure/canvas-lms). To ensure privacy, use the self-hosted option.
   maps:
     - title: Maps/Street View
     - name: OpenStreetMap
@@ -816,7 +816,7 @@ operating systems:
       url: https://osmc.tv/
       eyes: null
       text: |
-        Free, open source media center OS. Kodi is pre-installed. Thanks to @g4rret and @lgiard for clarifying the difference between Kodi and OSMC!
+        Free, open-source media center OS. Kodi is pre-installed. Thanks to @g4rret and @lgiard for clarifying the difference between Kodi and OSMC!
 desktop applications:
   chrome:
     - title: Chrome
@@ -992,7 +992,7 @@ mobile applications:
       fdroid: net.sourceforge.opencamera
       eyes: null
       text: |
-        Open source camera for Android. Thanks @je-vv
+        Open-source camera for Android. Thanks @je-vv
   clock:
     - title: Clock
     - name: Clock +
@@ -1029,7 +1029,7 @@ mobile applications:
       eyes: null
       fdroid: opencontacts.open.com.opencontacts
       text: |
-        Open source contacts. (thanks u/consentio)
+        Open-source contacts. (thanks u/consentio)
     - name: EteSync
       url: https://www.etesync.com
       fdroid: com.etesync.syncadapter
@@ -1385,7 +1385,7 @@ mobile applications:
       fdroid: org.blokada.alarm
       eyes: null
       text: |
-        From the website: "If you want to efficiently block ads, trackers, malware, save on your data plan, speed up your device and protect your privacy with just one application, then Blokada is for you. It is free, secure and open source." Uses internal VPN on Android to block ads.
+        From the website: "If you want to efficiently block ads, trackers, malware, save on your data plan, speed up your device and protect your privacy with just one application, then Blokada is for you. It is free, secure and open-source." Uses internal VPN on Android to block ads.
     - name: TrackerControl
       url: https://github.com/OxfordHCC/tracker-control-android
       fdroid: net.kollnig.missioncontrol.fdroid
