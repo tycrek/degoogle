@@ -1,12 +1,3 @@
----
-name: New pull request
-about: Create a new pull request
-title: ''
-labels: ''
-assignees: ''
-
----
-
 [//]: # ( Every alternative in your pull request MUST have an linked issue)
 
 ### Checklist
