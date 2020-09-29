@@ -1,7 +1,6 @@
 ---
 name: Other
-about: Anything else that does not fit the other templates. Blank issues are also
-  permitted.
+about: Anything else that does not fit the other templates. Blank issues are not permitted.
 title: "[OTHER]"
 labels: 'other'
 assignees: ''
