@@ -152,11 +152,6 @@ web based products:
         Emails you when your selected keywords are mentioned on Reddit, Hacker News, or Lobsters.
   gsuite:
     - title: G Suite (enterprise cloud)
-    - name: Zoho
-      url: https://www.zoho.com/
-      eyes: null
-      text: |
-        Zoho was included in 2018's thread as well, and they've only improved since then. They offer a full enterprise business suite that can easily rival G Suite or MS Office 365. *Better description wanted*
     - name: Nextcloud
       url: https://www.nextcloud.com/
       eyes: null
@@ -315,11 +310,6 @@ web based products:
       eyes: 14
       text: |
         Open-source calendar using "sabre/dav" (open-source WebDAV, CardDAV, and CalDAV). They mention privacy quite a bit on their site. Very large number of features, and supports nearly every device: Windows, iOS, Linux, Android, BlackBerry, SailFish, and also a webapp for browsers.
-    - name: Zoho
-      url: https://www.zoho.com/
-      eyes: null
-      text: |
-        I mentioned Zoho above for G Suite, so here they are again.
     - name: EteSync
       url: https://www.etesync.com
       eyes: null
@@ -524,11 +514,6 @@ web based products:
       eyes: null
       text: |
         One of the top privacy-focused email providers. Servers are in Switzerland in an underground guarded bunker that they claim can "survive a nuclear attack".
-    - name: Zoho Mail
-      url: https://www.zoho.com/mail/
-      eyes: null
-      text: |
-        Zoho comes back yet again with a mail solution.
     - name: Tutanota
       url: https://tutanota.com/
       eyes: 14
@@ -607,11 +592,6 @@ web based products:
       eyes: null
       text: |
         Encrypted note storage with loads of features. Offers a web app as well as downloads for most operating systems. Has a paid plan, but the free tier has many useful features as well.
-    - name: Zoho Notebook
-      url: https://www.zoho.com/notebook/
-      eyes: null
-      text: |
-        A notebook from Zoho. Also available on Android.
     - name: Turtl
       url: https://turtlapp.com/
       eyes: null
@@ -1145,11 +1125,6 @@ mobile applications:
       eyes: 14
       text: |
         Client available from F-Droid.
-    - name: Zoho Mail
-      url: https://www.zoho.com/mail/ios-android-apps.html
-      eyes: null
-      text: |
-        Also on the Play Store but other stores may work too.
     - name: Disroot
       url: https://disroot.org/
       fdroid: org.disroot.disrootapp
