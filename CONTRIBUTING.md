@@ -17,4 +17,5 @@
 
 ## Pull requests
 
-1. All pull requests **must** have an issue linked for discussion. Pull requests can become cluttered very quickly and are not a good place for discussion.
+1. All pull requests regarding alternatives must have an issue linked for discussion. Pull requests can become cluttered very quickly and are not a good place for discussion.
+2. If your PR is a quick fix or doesn't warrant an issue, an issue is not required, but it should be clear why the issue isn't required.
