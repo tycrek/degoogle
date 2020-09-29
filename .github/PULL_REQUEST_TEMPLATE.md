@@ -1,8 +1,11 @@
 [//]: # ( Every alternative in your pull request MUST have an linked issue)
 
-### Checklist
+| Checklist |   |
+| --------- | - |
+| **I have read the rules outlined in [CONTRIBUTING.md]** | yes/no |
+| Include my name in [CONTRIBUTORS.md] (or I have added myself in this PR) | yes/no |
+| Any alternatives in this PR have a linked issue | yes/no |
+| I am affiliated with this alternative (if applicable) | yes/no |
 
-- [ ] **I have read the rules outlined in [CONTRIBUTING.md](../blob/master/CONTRIBUTING.md)**
-- [ ] **Include my name in [CONTRIBUTORS.md](../blob/master/CONTRIBUTORS.md) (or I have added myself in this PR)**
-- [ ] **Any alternatives in this PR have a linked issue**
-- [ ] **I am affiliated with this alternative (if applicable)**
+[CONTRIBUTING.md]: ../blob/master/CONTRIBUTING.md
+[CONTRIBUTORS.md]: ../blob/master/CONTRIBUTORS.md
