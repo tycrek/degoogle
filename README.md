@@ -60,6 +60,10 @@ If you want to help out with the project, here are some ideas (submit **Issues**
 
 When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md](https://github.com/tycrek/degoogle/blob/master/CONTRIBUTING.md)**.
 
+### Hacktoberfest
+
+Any PR's opened from **October 1st 2020** to **October 31st 2020** can be eligile for **[Hacktoberfest](https://hacktoberfest.digitalocean.com/)**. To be eligible, you **must** follow [CONTRIBUTING.md](https://github.com/tycrek/degoogle/blob/master/CONTRIBUTING.md). If you wish to use your PR for Hacktoberfest, make sure you remember to add the `Hacktoberfest` label.
+
 # Browser extensions
 
 | Name | Description |
