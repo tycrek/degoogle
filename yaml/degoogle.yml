@@ -143,6 +143,11 @@ web based products:
       eyes: null
       text: |
         A developer-focused, privacy-obsessed ad network from the fine folks at Read the Docs. Source code can be [on GitHub](https://github.com/readthedocs/ethical-ad-server).
+    - name: Carbon ads 
+      url: https://www.carbonads.net/
+      eyes: null 
+      text: | 
+        A privacy respecting ad platfor targeting developers & tech marketers
   alerts:
     - title: Google Alerts
     - name: F5Bot
