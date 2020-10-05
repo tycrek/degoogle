@@ -256,6 +256,11 @@ web based products:
       eyes: null
       text: |
         A simple, easy to use, open-source/self-hosted web analytics solution.
+    - name: Kindmetrics
+      url: https://kindmetrics.io
+      eyes: "5/14"
+      text: |
+        A open source analytics tool. Landing page and company is based in Sweden, CDN in EU, Servers on Digitalocean (USA) datacenter in Germany.
   photos:
     - title: Photos
     - name: Photoprism
