@@ -743,7 +743,12 @@ operating systems:
       url: https://github.com/GrapheneOS
       eyes: null
       text: |
-        Open-source Android-based OS with an emphasis on security and privacy. Features advanced hardening and privacy protections throughout the system. [Continuation](https://old.reddit.com/r/CopperheadOS/comments/b6muvh/androidhardening_project_renamed_to_grapheneos/) of [CopperheadOS](https://old.reddit.com/r/CopperheadOS/comments/8qdnn3/goodbye/).
+        Open-source Android-based OS with an emphasis on security and privacy. Features advanced hardening and privacy protections throughout the system.
+    - name: CopperheadOS
+      url: https://copperhead.co/android
+      eyes: 5-eyes
+      text: |
+        A security and privacy focused mobile operating system compatible with Android apps. Available as Google-free secure Android on the latest secure android phone.
     - name: postmarketOS
       url: https://postmarketos.org/
       eyes: null
