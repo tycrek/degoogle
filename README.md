@@ -20,7 +20,7 @@
 
 ### *I don't have anything to hide, but I don't have anything to show you either.*
 
-![Updated](https://img.shields.io/static/v1?label=updated&message=October%202nd%202020&color=388E3C&style=flat-square)
+![Updated](https://img.shields.io/static/v1?label=updated&message=October%206th%202020&color=388E3C&style=flat-square)
 
 ![GitHub](https://img.shields.io/github/license/tycrek/degoogle?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/tycrek/degoogle?style=flat-square)
@@ -445,7 +445,8 @@ No known alternatives.
 | [Ubuntu Touch](https://ubuntu-touch.io/) |  | Ubuntu, but for phones. |
 | [LineageOS](https://www.lineageos.org/) | **5-eyes** | Open-source and based on Android, but without the crap. |
 | [SailfishOS](https://sailfishos.org/) |  | Privacy-focused mobile OS by Jolla with a proprietary UI and Android compatibility layer on top of an open-source Mer GNU/Linux base. |
-| [GrapheneOS](https://github.com/GrapheneOS) |  | Open-source Android-based OS with an emphasis on security and privacy. Features advanced hardening and privacy protections throughout the system. [Continuation](https://old.reddit.com/r/CopperheadOS/comments/b6muvh/androidhardening_project_renamed_to_grapheneos/) of [CopperheadOS](https://old.reddit.com/r/CopperheadOS/comments/8qdnn3/goodbye/). |
+| [GrapheneOS](https://github.com/GrapheneOS) |  | Open-source Android-based OS with an emphasis on security and privacy. Features advanced hardening and privacy protections throughout the system. |
+| [CopperheadOS](https://copperhead.co/android) | **5-eyes-eyes** | A security and privacy focused mobile operating system compatible with Android apps. Available as Google-free secure Android on the latest secure android phone. |
 | [postmarketOS](https://postmarketos.org/) |  | Open-source mobile Linux OS. Can install different user interfaces such as [Plasma Mobile](https://www.plasma-mobile.org/). Thanks @okias |
 | [Replicant](https://replicant.us/) | **5-eyes** | Free Android distribution. Puts the emphasis on "freedom and privacy/security". |
 
