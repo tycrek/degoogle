@@ -6,9 +6,7 @@ const fs = require('fs-extra');
 const moment = require('moment');
 const YAML = require('yaml');
 
-// A hacky sort of "class" to contain methods for each section
 const BUILD_SECTION = {
-    // TODO: Make more of these YAML-based functions
     header: () => readFile('md/_header.md').replace('{{DATE}}', moment().format('MMMM Do YYYY').replace(/ /g, '%20')),
     index: () => readFile('md/_index.md'),
     contributing: () => readFile('md/_contributing.md'),
@@ -100,9 +98,13 @@ function generateCategorySection(header, data) {
  * @param {Array} data
  */
 function generateServiceSection(data) {
-    // Start the section with an <h4> header and the start of a Markdown table
-    let serviceSection = `#### ${data[0].title + os.EOL + os.EOL}| Name | Eyes | Description |${os.EOL}| ---- | ---- | ----------- |${os.EOL}`;
+    // Start the section with an <h4> header
+    let serviceSection = `#### ${data[0].title + os.EOL + os.EOL}`;
     let notes = os.EOL + '';
+    // If there is data to be displayed, add the start of a Markdown table
+    let tableHeader = `| Name | Eyes | Description |${os.EOL}| ---- | ---- | ----------- |${os.EOL}`;
+    if (data.filter(d => 'name' in d).length == 0) tableHeader = `No known alternatives.${os.EOL}`;
+    serviceSection = serviceSection.concat(tableHeader);
     // Iterate over each alternative service and add it to the table
     data.forEach(item => {
         // If the object has length one, it's either title or note
@@ -114,13 +116,13 @@ function generateServiceSection(data) {
             let name = `[${item.name}](${item.url})`;
             let eyes = item.eyes ? `**${item.eyes}-eyes**` : '';
             let text = item.text.trim();
-            
+
             // Append the F-Droid badge to the name
             if (item.fdroid) name = name.concat(' ' + fdroidLink(item.fdroid));
-    
+
             // Build the row
             let tableItem = `| ${name} | ${eyes} | ${text} |`;
-    
+
             // Add the row to the table
             serviceSection = serviceSection.concat(tableItem + os.EOL);
         }
@@ -142,6 +144,7 @@ function fdroidLink(appId) {
  * @param {String} link URL to extension WITHOUT trailing slash
  */
 function addonLink(link) {
+    if (!link.includes('addons.mozilla.org')) return '';
     let addonId = link.split('/')[link.split('/').length - 1]
     return `![Mozilla Add-on](https://img.shields.io/amo/users/${addonId}?style=flat-square)`;
 }

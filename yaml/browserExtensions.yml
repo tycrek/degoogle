@@ -95,6 +95,10 @@
   text: |
     An artware browser add-on to protect privacy in web-search. By issuing randomized queries to common search-engines, TrackMeNot obfuscates your search profile and registers your discontent with surreptitious tracking.
 - name: Redirect AMP to HTML
-  url: https://addons.mozilla.org/en-US/firefox/addon/amp2html/?src=external-addonsbadge-daniel.priv.no
+  url: https://addons.mozilla.org/en-US/firefox/addon/amp2html
   text: |
     This web extension enables users to choose to opt-out of using Accelerated Mobile Pages (AMP) and choose to use the standard web instead.
+- name: ghacks-user.js
+  url: https://github.com/ghacksuserjs/ghacks-user.js/
+  text: |
+    This is not an extension, instead it is a Firefox `user.js` config file. This file is a template which aims to provide as much privacy and enhanced security as possible, and to reduce tracking and fingerprinting as much as possible - while minimizing any loss of functionality and breakage (but it will happen).

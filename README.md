@@ -20,7 +20,7 @@
 
 ### *I don't have anything to hide, but I don't have anything to show you either.*
 
-![Updated](https://img.shields.io/static/v1?label=updated&message=August%204th%202020&color=388E3C&style=flat-square)
+![Updated](https://img.shields.io/static/v1?label=updated&message=October%206th%202020&color=388E3C&style=flat-square)
 
 ![GitHub](https://img.shields.io/github/license/tycrek/degoogle?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/tycrek/degoogle?style=flat-square)
@@ -60,6 +60,10 @@ If you want to help out with the project, here are some ideas (submit **Issues**
 
 When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md](https://github.com/tycrek/degoogle/blob/master/CONTRIBUTING.md)**.
 
+### Hacktoberfest
+
+Any PR's opened from **October 1st 2020** to **October 31st 2020** can be eligile for **[Hacktoberfest](https://hacktoberfest.digitalocean.com/)**. To be eligible, you **must** follow [CONTRIBUTING.md](https://github.com/tycrek/degoogle/blob/master/CONTRIBUTING.md). If you wish to use your PR for Hacktoberfest, make sure you remember to add the `Hacktoberfest` label.
+
 # Browser extensions
 
 | Name | Description |
@@ -88,7 +92,8 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | [Temporary Containers](https://addons.mozilla.org/en-US/firefox/addon/temporary-containers) ![Mozilla Add-on](https://img.shields.io/amo/users/temporary-containers?style=flat-square) | Open tabs, websites, and links in automatically managed disposable containers. Containers isolate data websites store (cookies, storage, and more) from each other, enhancing your privacy and security while you browse. |
 | [uMatrix](https://addons.mozilla.org/en-US/firefox/addon/umatrix) ![Mozilla Add-on](https://img.shields.io/amo/users/umatrix?style=flat-square) | Point & click to forbid/allow any class of requests made by your browser. Use it to block scripts, iframes, ads, facebook, etc. |
 | [TrackMeNot](https://addons.mozilla.org/en-US/firefox/addon/trackmenot) ![Mozilla Add-on](https://img.shields.io/amo/users/trackmenot?style=flat-square) | An artware browser add-on to protect privacy in web-search. By issuing randomized queries to common search-engines, TrackMeNot obfuscates your search profile and registers your discontent with surreptitious tracking. |
-| [Redirect AMP to HTML](https://addons.mozilla.org/en-US/firefox/addon/amp2html/?src=external-addonsbadge-daniel.priv.no) ![Mozilla Add-on](https://img.shields.io/amo/users/?src=external-addonsbadge-daniel.priv.no?style=flat-square) | This web extension enables users to choose to opt-out of using Accelerated Mobile Pages (AMP) and choose to use the standard web instead. |
+| [Redirect AMP to HTML](https://addons.mozilla.org/en-US/firefox/addon/amp2html) ![Mozilla Add-on](https://img.shields.io/amo/users/amp2html?style=flat-square) | This web extension enables users to choose to opt-out of using Accelerated Mobile Pages (AMP) and choose to use the standard web instead. |
+| [ghacks-user.js](https://github.com/ghacksuserjs/ghacks-user.js/)  | This is not an extension, instead it is a Firefox `user.js` config file. This file is a template which aims to provide as much privacy and enhanced security as possible, and to reduce tracking and fingerprinting as much as possible - while minimizing any loss of functionality and breakage (but it will happen). |
 
 
 # Replacements/alternatives
@@ -96,15 +101,18 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 ### *Disclaimer*
 
 1. Only **privacy/security** focused alternatives will be suggested.
-2. Many replacements are based off [this Wikipedia article (List of Google products)](https://en.wikipedia.org/wiki/List_of_Google_products)
+2. Many replacements are based off [this Wikipedia article (List of Google products)][wiki]
 3. Products from companies such as Microsoft, Apple, Yahoo, Amazon, etc. will *not* be recommended unless there is a very good reason to. This includes companies/apps/services they own.
 4. Controversial services will have a disclaimer attached if needed.
-5. 5-eyes, 9-eyes, and 14-eyes services **will** be listed, and marked as such. This means the company, not the server IP.
-    - **5**: Australia, Canada, New Zealand, UK, USA
-    - **9**: Denmark, France, Netherlands, Norway
-    - **14**: Germany, Belgium, Italy, Sweden, Spain
-    - [What are 5-eyes, 9-eyes, and 14-eyes?](https://www.privacytools.io/providers/#ukusa)
+5. [5-eyes, 9-eyes, and 14-eyes][eyes] services will be listed and marked as such. Both the location the company is registered and the server IP are taken into consideration.
+    | Eyes | Countries |
+    | :--: | :---------: |
+    | **5** | Australia, Canada, New Zealand, UK, USA |
+    | **9** | Denmark, France, Netherlands, Norway |
+    | **14** | Germany, Belgium, Italy, Sweden, Spain |
 
+[wiki]: https://en.wikipedia.org/wiki/List_of_Google_products
+[eyes]: https://www.privacytools.io/providers/#ukusa
 
 ## Web-based products
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
@@ -122,7 +130,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | [Mojeek](https://www.mojeek.com/) | **5-eyes** | Unlike other privacy search engines which act as a "middle man" between you and Google/Bing/Yahoo, Mojeek has their own crawler and index. The results aren't as complete as some of the others, but it is still impressive and they are actively building their index to include more results with better accuracy. |
 | [Ekoru](https://ekoru.org/) |  | Privacy focused search engine that also aims to clean up the oceans. Thanks @mynamesleon |
 | [Cyberd](https://cyber.page/) |  | Decentralized Google. A web 3 alternative for the Google search engine. In Beta testing mode. Uses IPFS and Tendermint consensus for security and economic incentives. Please see their [ELI-5 FAQ](https://github.com/cybercongress/congress/blob/master/ecosystem/ELI-5%20FAQ.md) for more info. |
-| [Infinity Search](https://infinitysearch.co/) | **5-eyes** | Infinity Search is a privacy metasearch engine that does not log any information about its users. In terms of privacy, it works the same way as DuckDuckGo. It is free to use and is funded by non-tracking advertisements and affiliate links. It is also completely open source. |
+| [Infinity Search](https://infinitysearch.co/) | **5-eyes** | Infinity Search is a privacy metasearch engine that does not log any information about its users. In terms of privacy, it works the same way as DuckDuckGo. It is free to use and is funded by non-tracking advertisements and affiliate links. It is also completely open-source. |
 | [Runnaroo](https://www.runnaroo.com/) | **5-eyes** | "Runnaroo was built from the ground up to provide an all around better search experience." Thanks @codingepaduli |
 
 
@@ -137,8 +145,9 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | [Bit.tube](https://bit.tube/) |  | Appears to be a crypto-powered decentralized video sharing service. (thanks u/rudolf323) |
 | [Invidious](https://invidio.us/) |  | An [open-source](https://github.com/omarroth/invidious) front-end alternative to YouTube. Seems to work pretty well from my experience so far, and it hasn't triggered *anything* on my adblocker/privacy extensions. Also offers downloads in many formats for videos (including `.vtt` subtitles). |
 | [Hooktube](https://hooktube.com/) |  | A slightly better way to use actual YouTube. (Use as a "last resort") |
-| [LBRY](https://lbry.com/) |  | A decentralized platform for distributing and supporting creators's work. It aims to be Open, Community driven "digital marketplace". It can be used in a similar way to YouTube: browsing, subscribing to channels, there is a mechanism to send "tips" to creators. Looks up videos based on a blockchain and is open source and uncensored. It already has some "larger" creators like Minutephysics, Veritasium, Barnacules and Lunduke. |
+| [LBRY](https://lbry.com/) |  | A decentralized platform for distributing and supporting creators's work. It aims to be Open, Community driven "digital marketplace". It can be used in a similar way to YouTube: browsing, subscribing to channels, there is a mechanism to send "tips" to creators. Looks up videos based on a blockchain and is open-source and uncensored. It already has some "larger" creators like Minutephysics, Veritasium, Barnacules and Lunduke. |
 | [US.TV](https://us.tv/) |  | PeerTube instance hosted by Epik.com. |
+| [FreeTube](https://github.com/FreeTubeApp/FreeTube) |  | Open-source desktop YouTube client that uses the Invidio.us API to serve content. |
 
 
 
@@ -148,14 +157,13 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | ---- | ---- | ----------- |
 | [Local newspaper](https://en.wikipedia.org/wiki/Category:Lists_of_newspapers_by_country) |  | Support independent and qualitative journalism in your community. |
 | [AllSides](https://www.allsides.com/unbiased-balanced-news) |  | Unbiased news source (primarily for US politics). Thanks @jeanofthedead |
-| [Miniflux](https://miniflux.app/) |  | Miniflux is a minimalist and opinionated feed reader. Completely open source, along with automatically removing pixel trackers. |
+| [Miniflux](https://miniflux.app/) |  | Miniflux is a minimalist and opinionated feed reader. Completely open-source, along with automatically removing pixel trackers. |
 
 
 
 #### Groups
 
-| Name | Eyes | Description |
-| ---- | ---- | ----------- |
+No known alternatives.
 
 - *Use other forum sites relating to specific topics. This is a very broad service.*
 
@@ -165,6 +173,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [DeepL](https://deepl.com/) | **14-eyes** | DeepL is an artifical intelligence translation service. **Please keep in mind DeepL tracks the text you translate unless you purchase Pro**. See sections 4 & 5 of their [privacy policy](https://www.deepl.com/privacy.html) for more information. Thanks u/TheCy-FiJuggernaut |
+| [Apertium](https://apertium.org/) |  | A free, open-source translation system. [Source repo](https://github.com/apertium/apertium) has some useful CLI tools. |
 
 
 
@@ -188,8 +197,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
-| [Zoho](https://www.zoho.com/) |  | Zoho was included in 2018's thread as well, and they've only improved since then. They offer a full enterprise business suite that can easily rival G Suite or MS Office 365. *Better description wanted* |
-| [Nextcloud](https://www.nextcloud.com/) |  | Nextcloud 18 now has Community Document Server and **[ONLYOFFICE](https://www.onlyoffice.com/)** apps integrated which allows self hosted instances of docs/sheets/slides. Users are able to edit documents in real time. Thanks @k3tan172 and @plutocrat |
+| [Nextcloud](https://www.nextcloud.com/) |  | Nextcloud 19 now has Community Document Server and **[ONLYOFFICE](https://www.onlyoffice.com/)** apps integrated which allows self-hosted instances of docs/sheets/slides. Users are able to edit documents in real time. Thanks @k3tan172 and @plutocrat |
 
 
 
@@ -204,6 +212,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | [Noblogs](https://noblogs.org/) | **9-eyes** | A privacy/security focused blogging platform. |
 | [Ghost](https://ghost.org/) |  | Open-source modern CMS. Boasts "over 19x faster than WordPress". Thanks @peterge1998 |
 | [Bear](https://bearblog.dev/) | **5-eyes** | Free, no-nonsense, super-fast blogging. No javascript, no stylesheets, no trackers. Just your words. |
+| [Simpleblogs](https://simpleblogs.org/) |  | FLOSS blogging platform with a focus on privacy. Easy to self-host (standard rails app, ships with AWS deployment scripts. AWS is not required). Access restricted to accounts which you create and hand out. Good for private blogs but not for commercial/public blogging. |
 
 
 
@@ -219,7 +228,9 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | [Toasted Analytics](https://toastedanalytics.com/) | **5-eyes** | Simple, privacy friendly analytics with event tracking. Paid only (with free trial) |
 | [Shynet](https://github.com/milesmcc/shynet) |  | Shynet is a self-hosted analytics tool that doesn't make use of cookies. It is privacy focused and fully open-source. Thanks @woutfeys |
 | [Supabase](https://supabase.io/) |  | Supabase is an opensource alternative to Firebase. As of right now you can use their hosting plan for free as it's in alpha, or you can self host ([note on self hosting](https://github.com/supabase/supabase/issues/85#issuecomment-636010946)). Thanks @woutfeys |
-| [GoAccess](https://goaccess.io/) |  | An open source web server analysis tool. Installs on your web server (ideally), but works just as well if you download your logs someplace else. Interactive; cursor around in the report and see what's going on. Can generate HTML reports. Can also generate realtime interactive HTML reports if you run it in server mode. Lightweight, only requires UTF-8 support and ncurses (ncursesw, if you want a UTF-8 enabled console). Available in the default package repositories of multiple Linux distros. Thanks @virtadpt |
+| [GoAccess](https://goaccess.io/) |  | An open-source web server analysis tool. Installs on your web server (ideally), but works just as well if you download your logs someplace else. Interactive; cursor around in the report and see what's going on. Can generate HTML reports. Can also generate realtime interactive HTML reports if you run it in server mode. Lightweight, only requires UTF-8 support and ncurses (ncursesw, if you want a UTF-8 enabled console). Available in the default package repositories of multiple Linux distros. Thanks @virtadpt |
+| [Offen](https://www.offen.dev/) |  | Open-source and self-hosted, Offen is a fair and lightweight web analytics alternative that treats operators and users as equal parties. |
+| [Umami](https://umami.is/) |  | A simple, easy to use, open-source/self-hosted web analytics solution. |
 
 
 
@@ -232,6 +243,8 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | [Piwigo](https://piwigo.org/) | **9-eyes** | (self-hosted) - Self-hosted and open-source cloud photo manager. You can also sign up for an ["as a service" account](https://piwigo.com). |
 | [JottaCloud](https://jottacloud.com/) | **9-eyes** | Norway based cloud storage provider with free and paid plans. Thanks @mynamesleon |
 | [Cryptee](https://crypt.ee/) |  | Encrypted photo storage in a simple solution similar to Google Photos. |
+| [PhotoStructure](https://photostructure.com/) |  | Self-hosted photo and video manager. Cross-platform (macOS, Windows, Linux, Docker). Scales to millions of assets, with automatic organization, auto-transcoding, and advanced de-duplication. |
+| [Lychee](https://lycheeorg.github.io/) |  | An open-source self-hosted photo-management tool that includes built-in support for videos. Thanks @m0yP |
 
 
 
@@ -242,10 +255,10 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | [Lightning Calendar (Thunderbird)](https://www.thunderbird.net/en-US/calendar/) |  | Developed by Mozilla Foundation and open-source. Integrates into Thunderbird and SeaMonkey. |
 | [Tutanota Calendar](https://tutanota.com/calendar/) | **14-eyes** | Developed by Tutanota. Free cross-platform encrypted calendar. Allows importing of other Calendar files. Can't be synced to other calendar software. |
 | [Fruux](https://fruux.com/) | **14-eyes** | Open-source calendar using "sabre/dav" (open-source WebDAV, CardDAV, and CalDAV). They mention privacy quite a bit on their site. Very large number of features, and supports nearly every device: Windows, iOS, Linux, Android, BlackBerry, SailFish, and also a webapp for browsers. |
-| [Zoho](https://www.zoho.com/) |  | I mentioned Zoho above for G Suite, so here they are again. |
 | [EteSync](https://www.etesync.com) |  | Secure, end-to-end encrypted, and open-source sync for your contacts, calendars and tasks. |
 | [Baïkal](https://sabre.io/baikal/) |  | a lightweight CalDAV+CardDAV server. It offers an extensive web interface with easy management of users, address books and calendars. It is fast and simple to install and only needs a basic php capable server. The data can be stored in a MySQL or a SQLite database. Thanks @mahdi1234 |
 | [Nextcloud](https://nextcloud.com/) |  | Nextcloud also offers a calendar solution using CalDAV and CardDAV. Thanks @mahdi1234 for pointing this out. |
+| [Radicale](https://radicale.org/) |  | Self-hosted calendar server written in Python. WebUI for desktop, CalDav/CardDav for mobile sync. Can use a reverse proxy with Nginx for HTTPS. |
 
 
 
@@ -267,10 +280,10 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [LibreOffice](https://www.libreoffice.org/) |  | Open-source offline document suites. |
-| [Apache OpenOffice](https://www.openoffice.org/) |  | Open-source offline document suites. |
 | [LyX](https://www.lyx.org/) |  | It's an open-source (and offline) document processor using TeX/LaTeX. It's different than Docs or Word but amazing, once you get used to it. Thanks @Glitchy-Tozier |
 | [ONLYOFFICE](https://www.onlyoffice.com/download-desktop.aspx) |  | Offline version of ONLYOFFICE, an open-source private cloud replacement for Google Docs'suite and Office 360. Also available as a self contained rich application. Thanks @PalmoliveDev |
 | [Cryptee](https://crypt.ee/) |  | Offline version of Cryptee for web. Runs as a progressive web app. Works most modern phone browsers (Chrome, Opera or Firefox on Android; Safari on iOS). Also works in desktop browsers that support PWA (the website lists that only Chrome works, but [others will work](https://github.com/tycrek/degoogle/issues/160#issuecomment-643066320) too. |
+| [Calligra](https://calligra.org/) |  | Calligra Suite is an office and graphic art suite by KDE. It is available for desktop PCs, tablet computers, and smartphones. It contains applications for word processing, spreadsheets, presentation, vector graphics, and editing databases. (Free and Open-source Software) |
 
 
 
@@ -278,8 +291,9 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
-| [Njalla](https://njal.la/) | **14-eyes** | Privacy-focused domain registration. Competitive pricing and a large list of available domain extensions. They also offer VPS hosting. Built by people who built The Pirate Bay among others. (thanks u/brais33 and u/HumbleBasis6) |
+| [Njalla](https://njal.la/) | **14-eyes** | Privacy-focused domain registration. Competitive pricing and a large list of available domain extensions. They also offer VPS hosting. Built by people who built The Pirate Bay among others. (thanks u/brais33 and u/HumbleBasis6). Note: some users may have issues with them [legally owning your domain](https://news.ycombinator.com/item?id=14177597). |
 | [Porkbun](https://porkbun.com/) | **5-eyes** | Domain registration with free WHOIS privacy. |
+| [Orangewebsite](https://www.orangewebsite.com/) |  | An Iceland-based freedom of speech web hosting provider. They never actually ask for your name, at least when you pay in Bitcoin. |
 
 
 
@@ -292,7 +306,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | [Syncthing](https://syncthing.net/) | **9-eyes** | An interesting take on cloud storage: decentralized. Peer-to-peer between only your devices. Software is open-source and available on GitHub. |
 | [Sia](https://sia.tech/) |  | Fully decentralized cloud storage. |
 | [Tresorit](https://tresorit.com/) |  | Primarily meant for businesses, but offers a free version for individuals as well. (thanks u/xNick26) |
-| [Sync](https://www.sync.com) |  | End-to-end encrypted Google Drive/Dropbox replacement. |
+| [Sync](https://www.sync.com) | **5-eyes** | End-to-end encrypted Google Drive/Dropbox replacement. |
 | [JottaCloud](https://jottacloud.com/en/) | **9-eyes** | Norway based cloud storage provider with free and paid plans. Thanks @mynamesleon |
 | [Armored](https://armored.net/) | **9-eyes** | Nextcloud instance hosted by Epik.com. Paid plans with 30-day trial. Servers in a "secure bunker" in Norway. Supports other Nextcloud features such as Nextcloud Talk. |
 | [seafile](https://www.seafile.com) |  | Open-source and self-hosted file sync&share solution. |
@@ -307,21 +321,21 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | [Signal](https://signal.org/) | **5-eyes** | Whistleblower and privacy advocate Edward Snowden recommends Signal. |
 | [Tox](https://tox.chat/) |  | Tox is unique as it uses P2P technology to ensure the network *never* goes down, as long as there are users to keep it alive. They specifically say on the website "Tox has no central servers that can be raided, shut down, or forced to turn over data". |
 | [Wire](https://wire.com/en/) | **5-eyes** | Uses end-to-end encryption. Looks to be more of a corporate service with tiered plans. |
-| [Riot](https://about.riot.im/) | **5-eyes** | Open-source privacy-focused chat service with end-to-end encryption. They offer webapps, desktop apps, iOS, and Android (Play Store and F-Droid). Uses the "Matrix" protocol for decentralized communication. It is 100% free and open-source with no paid plans. |
+| [Element](https://element.io/) | **5-eyes** | Open-source privacy-focused chat service with end-to-end encryption. They offer webapps, desktop apps, iOS, and Android (Play Store and F-Droid). Uses the "Matrix" protocol for decentralized communication. It is 100% free and open-source with no paid plans. |
 | [Threema](https://threema.ch/en) |  | Swiss-based GDPR-compliant instant messenger. Has apps for both iOS and Android. Unlike Signal, no phone number is required (nor is an email) to sign up. End-to-end encrypted. Thanks to @nathanvogel |
 | [Keybase](https://keybase.io/) | **5-eyes** | encrypted chat like Signal with features like Slack. Does not require a phone number to sign up. Also has file storage. **Note:** Keybase was acquired by Zoom, Inc. in May 2020 ([Keybase blog](https://keybase.io/blog/keybase-joins-zoom), [Zoom blog](https://blog.zoom.us/wordpress/2020/05/07/zoom-acquires-keybase-and-announces-goal-of-developing-the-most-broadly-used-enterprise-end-to-end-encryption-offering/)). Thanks @notpushkin & @multimob. |
-| [Jitsi](https://jitsi.org/) | **5-eyes** | Jitsi is an open-source secure video conferencing platform. No account is needed to use it, simply enter a Room Name to join or host a meeting. The host is able to kick rogue users from the call. Works directly in your browser, with apps available for iOS and Android. It is not necessary to self-host, but self-hosting is an option for those who wish to. Very low latency and easy to set up. A free public server is available at (https://meet.jit.si) (**5-eyes** server) |
+| [Jitsi](https://jitsi.org/) | **5-eyes** | Jitsi is an open-source secure video conferencing platform. No account is needed to use it, simply enter a Room Name to join or host a meeting. The host is able to kick rogue users from the call. Works directly in your browser, with apps available for iOS and Android. It is not necessary to self-host, but self-hosting is an option for those who wish to. Very low latency and easy to set up. A free public server is available at [meet.jit.si](https://meet.jit.si). (**5-eyes** server) |
 
 - *See [this article](https://outline.com/BK8f7h) for why I didn't include WhatsApp and why you should NOT use it (if someone has a better Outline link, that would be much appreciated).*
 - *I have also **removed** Telegram. See [Issue #29](https://github.com/tycrek/degoogle/issues/29) from @arsv.*
 
 
-#### Gmail
+#### Gmail (mail service)
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
+| [Forward Email](https://forwardemail.net/) |  | Forward Email is a free and open-source email forwarding service focused on a user's right to privacy. |
 | [Protonmail](https://protonmail.com/) |  | One of the top privacy-focused email providers. Servers are in Switzerland in an underground guarded bunker that they claim can "survive a nuclear attack". |
-| [Zoho Mail](https://www.zoho.com/mail/) |  | Zoho comes back yet again with a mail solution. |
 | [Tutanota](https://tutanota.com/) | **14-eyes** | Open-source. Also one of the top privacy-focused email providers. Located in Germany. |
 | [Posteo](https://posteo.de/en) | **14-eyes** | Completely anonymous mail provider located in Germany. |
 | [mailbox.org](https://mailbox.org/en/) | **14-eyes** | Paid email provider, also located in Germany. |
@@ -329,12 +343,12 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | [StartMail](https://www.startmail.com/en/) | **9-eyes** | Operated by the same people who run StartPage. |
 | [SimpleLogin](https://simplelogin.io/) |  | Open-source, self-hosted, and privacy focused email forwarding service. |
 | [Migadu](https://www.migadu.com/en/index.html) |  | Paid email provider, located in Switzerland. Focus on privacy. |
-| [FastMail](https://fastmail.com/) | **5-eyes** | Paid email provider, located in Australia and US. |
+| [Fastmail](https://fastmail.com/) | **5-eyes** | Paid email provider, located in Australia and US. |
 | [Runbox](https://runbox.com/why-runbox/privacy-protection/) | **9-eyes** | Privacy focusued email provider. Thanks @petertorelli |
 | [nextCloud](https://help.nextcloud.com/t/nextcloud-mail-server/157) |  | Now also provides an email service (self-hosted). Thanks @je-vv |
 | [Anonymize.com Email](https://anonymize.com/) |  | Paid secure email service provided by Epik.com. |
 | [Thexyz](https://www.thexyz.com/) | **5-eyes** | Thexyz is a Canadian company offering privacy-conscious business email. Premium webmail costs USD $2.95 per month. |
-| [Mailfence](https://www.mailfence.com) | **14-eyes** | A secure and private email provider much like Protonmail and Tutanota. There are no google analytics nor hidden cookies. There are options to pay anonymously via cryptocurrency. It features a wide array of collaboration tools, such as groups, calendar, contacts, documents with editing space. Offers free, paid, and freemium plans. Can pay with cryptocurrency and has a [warrant canary]https://blog.mailfence.com/transparency-report-and-warrant-canary/). Thanks @resto1231 |
+| [Mailfence](https://www.mailfence.com) | **14-eyes** | A secure and private email provider much like Protonmail and Tutanota. There are no google analytics nor hidden cookies. There are options to pay anonymously via cryptocurrency. It features a wide array of collaboration tools, such as groups, calendar, contacts, documents with editing space. Offers free, paid, and freemium plans. Can pay with cryptocurrency and has a [warrant canary](https://blog.mailfence.com/transparency-report-and-warrant-canary/). Thanks @resto1231 |
 
 - *This is just for the Gmail service, not a client*
 
@@ -345,7 +359,6 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | ---- | ---- | ----------- |
 | [Joplin](https://joplinapp.org/) |  | Open-source notes/todo app. Available for Windows, macOS, Linux, Android, and iOS. Also offers a terminal version. It can import Evernote `.enex` files if you use that. It can also sync with Nextcloud (mentioned above). |
 | [Standard Notes](https://standardnotes.org/) [![F-Droid](https://img.shields.io/f-droid/v/com.standardnotes?style=flat-square)](https://f-droid.org/en/packages/com.standardnotes/) |  | Encrypted note storage with loads of features. Offers a web app as well as downloads for most operating systems. Has a paid plan, but the free tier has many useful features as well. |
-| [Zoho Notebook](https://www.zoho.com/notebook/) |  | A notebook from Zoho. Also available on Android. |
 | [Turtl](https://turtlapp.com/) |  | Encrypted collaborative notebook with possibility of running your own server. |
 | [QOwnNotes](https://www.qownnotes.org/) |  | Open-source file editor with Markdown support. (thanks u/maqp2) |
 | [EteSync](https://www.etesync.com) |  | Secure, end-to-end encrypted, and open-source sync for your contacts, calendars and tasks. |
@@ -361,7 +374,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | [Funkwhale](https://funkwhale.audio/) |  | Self-hosted, decentralized music service. Provide your own audio. (thanks u/DashEquals) |
 | [Airsonic](https://airsonic.github.io/) |  | Self-hosted open-source media streamer. Has features for transcoding audio on-the-fly for "virtually any audio format". You can also set bandwidth limits if you need to. Looks very powerful. |
 | [Music Player Daemon](https://www.musicpd.org/) |  | A "flexible, powerful, server-side application for playing music". |
-| [Popcorn Time](https://popcorntime.sh/faq) |  | Open source software for desktop and mobile that let you easily stream movie/TV torrents. **Be careful if your country or ISP has policies against torrenting, a VPN is recommended.** Thanks @je-vv |
+| [Popcorn Time](https://popcorntime.sh/faq) |  | Open-source software for desktop and mobile that let you easily stream movie/TV torrents. **Be careful if your country or ISP has policies against torrenting, a VPN is recommended.** Thanks @je-vv |
 | [Nuclear Music Player](https://nuclear.js.org/) |  | Streaming music player that finds music from free sources automatically. |
 
 - *I can no longer recommend [Emby](https://emby.media/) as they are [no longer open-source](https://www.linuxuprising.com/2018/12/jellyfin-free-software-emby-media.html).*
@@ -374,7 +387,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | ---- | ---- | ----------- |
 | [Open Font Library](https://fontlibrary.org/) | **5-eyes** | Lots of Serif and Sans-Serif fonts that can be directly embedded into a website. |
 | [google webfonts helper](https://google-webfonts-helper.herokuapp.com/fonts) | **5-eyes** | Hassle-free way for webmasters to self-host open-source fonts from Google Fonts |
-| [Brick](https://brick.im) | **9-eyes** | Open source fonts that work in a very similar way to Google fonts. Most of the fonts render nicer than Google Fonts. |
+| [Brick](https://brick.im) | **9-eyes** | Open-source fonts that work in a very similar way to Google fonts. Most of the fonts render nicer than Google Fonts. |
 
 
 
@@ -383,8 +396,8 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [Moodle](https://moodle.org/) |  | Self-hosted Classroom software for schools. Very powerful. Thanks @jankapunkt |
-| [ILIAS](https://www.ilias.de/en/) |  | Another self-hosted open source classroom software. Thanks again to @jankapunkt |
-| [Canvas](https://www.instructure.com/canvas) |  | Paid service by Instructure. Also available as a [self-hosted, open source option](https://github.com/instructure/canvas-lms). To ensure privacy, use the self-hosted option. |
+| [ILIAS](https://www.ilias.de/en/) |  | Another self-hosted open-source classroom software. Thanks again to @jankapunkt |
+| [Canvas](https://www.instructure.com/canvas) |  | Paid service by Instructure. Also available as a [self-hosted, open-source option](https://github.com/instructure/canvas-lms). To ensure privacy, use the self-hosted option. |
 
 
 
@@ -395,7 +408,6 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | [OpenStreetMap](https://www.openstreetmap.org/) | **9-eyes** | Collaborative project to create a free, editable map of the world (from Wikipedia). Completely crowdsourced. Very strong alternative to Maps. |
 | [Qwant Maps](https://www.qwant.com/maps/) |  | Maps from the makers of Qwant search engine. Thanks @mynamesleon |
 | [Benmaps](https://benmaps.fr) |  | Another maps alternative based on OpenStreetMap. Thanks @dimqua |
-| [Mapillary](https://www.mapillary.com/app/) | **14-eyes** | Crowdsourced street-level imagery built on top of OpenStreetMap. Open source. Includes map data generated with object recognition software. Coverage is lacking in many cities but can always be improved upon. **Note:** Recently [partnered with Facebook](https://blog.mapillary.com/news/2020/06/18/Mapillary-joins-Facebook.html) (thanks @mahdi1234) |
 
 
 
@@ -409,8 +421,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 
 #### Trends
 
-| Name | Eyes | Description |
-| ---- | ---- | ----------- |
+No known alternatives.
 
 
 
@@ -433,8 +444,9 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | ---- | ---- | ----------- |
 | [Ubuntu Touch](https://ubuntu-touch.io/) |  | Ubuntu, but for phones. |
 | [LineageOS](https://www.lineageos.org/) | **5-eyes** | Open-source and based on Android, but without the crap. |
-| [SailfishOS](https://sailfishos.org/) |  | *Help requested!* |
-| [GrapheneOS](https://github.com/GrapheneOS) |  | Previously known as [CopperheadOS](https://old.reddit.com/r/CopperheadOS/comments/8qdnn3/goodbye/). It has now evolved into [GrapheneOS](https://old.reddit.com/r/CopperheadOS/comments/b6muvh/androidhardening_project_renamed_to_grapheneos/) |
+| [SailfishOS](https://sailfishos.org/) |  | Privacy-focused mobile OS by Jolla with a proprietary UI and Android compatibility layer on top of an open-source Mer GNU/Linux base. |
+| [GrapheneOS](https://github.com/GrapheneOS) |  | Open-source Android-based OS with an emphasis on security and privacy. Features advanced hardening and privacy protections throughout the system. |
+| [CopperheadOS](https://copperhead.co/android) | **5-eyes-eyes** | A security and privacy focused mobile operating system compatible with Android apps. Available as Google-free secure Android on the latest secure android phone. |
 | [postmarketOS](https://postmarketos.org/) |  | Open-source mobile Linux OS. Can install different user interfaces such as [Plasma Mobile](https://www.plasma-mobile.org/). Thanks @okias |
 | [Replicant](https://replicant.us/) | **5-eyes** | Free Android distribution. Puts the emphasis on "freedom and privacy/security". |
 
@@ -452,6 +464,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | [Knoppix](http://www.knopper.net/knoppix/index-en.html) |  | Another Live OS, runs from CD/DVD/USB. Can also be installed if desired. |
 | [Parrot OS](https://parrotsec.org/) |  | Debian-based and privacy focused. Fully sandboxed. (thanks u/Safe_Airport) |
 | [PureOS](https://pureos.net/) | **5-eyes** | The OS of Purism Laptops (mentioned in the Hardware section). Very clean UI. *Editor note: I could not get this working on a UEFI Dell laptop. The group behind PureOS does not provide any UEFI support.* |
+| [GhostBSD](https://ghostbsd.org/) |  | This is a secure open-source OS based on FreeBSD, preconfigured to be a sane desktop environment for all users. |
 | [Any other form of Linux](https://www.linuxfoundation.org/) |  | [Ubuntu](https://www.ubuntu.com/); [Debian](https://www.debian.org/); [Mint](https://linuxmint.com/); [Fedora](https://getfedora.org/); [Arch](https://www.archlinux.org/) or [Manjaro](https://manjaro.org/) (Manjaro is objectively much easier to get running than Arch); [Trisquel](https://trisquel.info/);  [Gentoo](https://www.gentoo.org/); [Alpine](https://www.alpinelinux.org/) (thanks u/privacyfreak555); [etc etc etc](https://en.wikipedia.org/wiki/List_of_Linux_distributions) |
 
 
@@ -466,8 +479,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 
 #### Android Auto
 
-| Name | Eyes | Description |
-| ---- | ---- | ----------- |
+No known alternatives.
 
 
 
@@ -476,7 +488,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [Kodi](https://kodi.tv/) |  | It's incredibly powerful and backed by one of the strongest communities around. Tons of plugins to do nearly anything you want. Software installs on nearly any platform. |
-| [OSMC](https://osmc.tv/) |  | Free, open source media center OS. Kodi is pre-installed. Thanks to @g4rret and @lgiard for clarifying the difference between Kodi and OSMC! |
+| [OSMC](https://osmc.tv/) |  | Free, open-source media center OS. Kodi is pre-installed. Thanks to @g4rret and @lgiard for clarifying the difference between Kodi and OSMC! |
 
 
 
@@ -526,7 +538,6 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [F-Droid](https://f-droid.org/) |  | Catalogue of FOSS apps for Android. Easy to install and keeps track of updates. Also has a browser version if you don't want to install the app. |
-| [Aptoide](https://www.aptoide.com/) |  | Marketplace for Android apps. Publishers/developers manage their own stores rather than a centralized market such as Google Play Store. |
 | [Yalp Store (fork)](https://github.com/kiliakin/YalpStore) [![F-Droid](https://img.shields.io/f-droid/v/com.github.kiliakin.yalpstore?style=flat-square)](https://f-droid.org/en/packages/com.github.kiliakin.yalpstore/) |  | Yalp downloads Play Store apps as APK files. Helpful if you want to stay away from the Play Store, but require an app that is only available there. This version is a fork of the original project that is no longer active. Thank @onlyjob |
 | [APKMirror](https://www.apkmirror.com/) |  | An online library of user-uploaded APK files. Helpful if you need a specific older version of an app or don't want to download it through Google Play. |
 | [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore) [![F-Droid](https://img.shields.io/f-droid/v/com.aurora.store?style=flat-square)](https://f-droid.org/en/packages/com.aurora.store/) |  | Aurora Store is ~~simply a fork of the Yalp Store~~ no longer a fork of Yalp, but is now its own project (see their [readme](https://gitlab.com/AuroraOSS/AuroraStore/blob/master/README.md)). **Update:** Removed note on using microG as Aurora Store [does not use it](https://gitlab.com/AuroraOSS/AuroraStore/-/blob/master/README.md#L77). Thanks @notpushkin |
@@ -573,7 +584,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
-| [Open Camera](https://opencamera.sourceforge.io/) [![F-Droid](https://img.shields.io/f-droid/v/net.sourceforge.opencamera?style=flat-square)](https://f-droid.org/en/packages/net.sourceforge.opencamera/) |  | Open source camera for Android. Thanks @je-vv |
+| [Open Camera](https://opencamera.sourceforge.io/) [![F-Droid](https://img.shields.io/f-droid/v/net.sourceforge.opencamera?style=flat-square)](https://f-droid.org/en/packages/net.sourceforge.opencamera/) |  | Open-source camera for Android. Thanks @je-vv |
 
 
 
@@ -593,7 +604,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | ---- | ---- | ----------- |
 | [Fruux (mobile app)](https://fruux.com/) |  | Fruux *also* provides a contacts app. |
 | [Simple Contacts](https://github.com/SimpleMobileTools/Simple-Contacts) [![F-Droid](https://img.shields.io/f-droid/v/com.simplemobiletools.contacts.pro?style=flat-square)](https://f-droid.org/en/packages/com.simplemobiletools.contacts.pro/) |  | Open-source. Part of the [Simple Mobile Tools](https://github.com/SimpleMobileTools) project. |
-| [Open Contacts](https://gitlab.com/sultanahamer/OpenContacts/-/blob/HEAD/README.md) [![F-Droid](https://img.shields.io/f-droid/v/opencontacts.open.com.opencontacts?style=flat-square)](https://f-droid.org/en/packages/opencontacts.open.com.opencontacts/) |  | Open source contacts. (thanks u/consentio) |
+| [Open Contacts](https://gitlab.com/sultanahamer/OpenContacts/-/blob/HEAD/README.md) [![F-Droid](https://img.shields.io/f-droid/v/opencontacts.open.com.opencontacts?style=flat-square)](https://f-droid.org/en/packages/opencontacts.open.com.opencontacts/) |  | Open-source contacts. (thanks u/consentio) |
 | [EteSync](https://www.etesync.com) [![F-Droid](https://img.shields.io/f-droid/v/com.etesync.syncadapter?style=flat-square)](https://f-droid.org/en/packages/com.etesync.syncadapter/) |  | Secure, end-to-end encrypted, and open-source sync for your contacts, calendars and tasks. |
 
 
@@ -631,15 +642,16 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 
 
 
-#### Gmail
+#### Gmail (smartphone app)
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [Protonmail](https://protonmail.com/support/knowledge-base/android/) |  | Can be downloaded from the Play Store, but may work with one of the store replacements above (such as Yalp). |
 | [Tutanota](https://www.tutanota.com/) [![F-Droid](https://img.shields.io/f-droid/v/de.tutao.tutanota?style=flat-square)](https://f-droid.org/en/packages/de.tutao.tutanota/) | **14-eyes** | Client available from F-Droid. |
-| [Zoho Mail](https://www.zoho.com/mail/ios-android-apps.html) |  | Also on the Play Store but other stores may work too. |
 | [Disroot](https://disroot.org/) [![F-Droid](https://img.shields.io/f-droid/v/org.disroot.disrootapp?style=flat-square)](https://f-droid.org/en/packages/org.disroot.disrootapp/) |  | Available from F-Droid. |
-| [Posteo](https://posteo.de/) | **14-eyes** | Any **open-source mail client** such as: [K-9 Mail](https://k9mail.github.io/) and [FairEmail](https://email.faircode.eu/). Both are available on F-Droid. |
+| [K-9 Mail](https://k9mail.github.io/) [![F-Droid](https://img.shields.io/f-droid/v/com.fsck.k9?style=flat-square)](https://f-droid.org/en/packages/com.fsck.k9/) |  | Available on F-Droid. |
+| [FairEmail](https://email.faircode.eu/) [![F-Droid](https://img.shields.io/f-droid/v/eu.faircode.email?style=flat-square)](https://f-droid.org/en/packages/eu.faircode.email/) |  | Available on F-Droid. |
+| [DeltaChat](https://delta.chat/) [![F-Droid](https://img.shields.io/f-droid/v/com.b44t.messenger?style=flat-square)](https://f-droid.org/en/packages/com.b44t.messenger/) |  | An email app with a chat-based UI and privacy support with autocrypt. |
 | [Mailbox.org](https://mailbox.org/) | **14-eyes** | Mailbox.org provides IMAP settings for Android/iOS and an iOS profile. Thanks @avasts Issue #45 |
 
 
@@ -655,6 +667,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | [Carnet](https://github.com/PhieF/CarnetDocumentation) [![F-Droid](https://img.shields.io/f-droid/v/com.spisoft.quicknote?style=flat-square)](https://f-droid.org/en/packages/com.spisoft.quicknote/) |  | I had some trouble finding info on this one. Looks like it has pretty seamless/painless ownCloud and NextCloud integration. Also available on F-Droid. |
 | [Markor](https://gsantner.net/project/markor.html) [![F-Droid](https://img.shields.io/f-droid/v/net.gsantner.markor?style=flat-square)](https://f-droid.org/en/packages/net.gsantner.markor/) |  | Open-source notes/to-do app for Android. Supports Markdown editing. Available on F-Droid. App is 100% offline, as stated on the [GitHub README](https://github.com/gsantner/markor#privacy). |
 | [Orgzly](http://orgzly.com/) [![F-Droid](https://img.shields.io/f-droid/v/com.orgzly?style=flat-square)](https://f-droid.org/en/packages/com.orgzly/) |  | Open-source. Notes are stored in the plain-text [Org mode](https://orgmode.org/) format. Supports searching, metadata, and manual sync with Dropbox or local directory, which can be synced using e.g. Syncthing. |
+| [Notally](https://github.com/OmGodse/Notally) |  | A beautiful, light and minimalistic notes app with no trackers, ads or analytics of any kind. Not on F-Droid, but available from [this alternative market](https://apt.izzysoft.de/fdroid/index/apk/com.omgodse.notally). |
 
 
 
@@ -688,8 +701,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 
 #### Pay
 
-| Name | Eyes | Description |
-| ---- | ---- | ----------- |
+No known alternatives.
 
 - *Realistically, there most likely is not a privacy friendly alternative to Google Pay. Get a wallet with RFID protection and keep your cards with you.*
 
@@ -699,7 +711,6 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [NewPipe](https://newpipe.schabi.org/) [![F-Droid](https://img.shields.io/f-droid/v/org.schabi.newpipe?style=flat-square)](https://f-droid.org/en/packages/org.schabi.newpipe/) |  | Powerful open-source YouTube alternative. Supports audio only; background playback; picture-in-picture; no ads. |
-| [FreeTube](https://github.com/FreeTubeApp/FreeTube) |  | Open-source YouTube client that uses the Invidio.us API to serve content. Not on F-Droid, but you can download the APK from GitHub. (thanks u/wesaphzt) |
 | [YouTube Vanced](https://forum.xda-developers.com/android/apps-games/app-youtube-vanced-edition-t3758757) |  | Please read the XDA post before deciding to use this. |
 
 
@@ -731,8 +742,8 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | ---- | ---- | ----------- |
 | [Keybase](https://keybase.io/) | **5-eyes** | encrypted chat like Signal with features like Slack. Does not require a phone number to sign up. Also has file storage. **Note:** Keybase was acquired by Zoom, Inc. in May 2020 ([Keybase blog](https://keybase.io/blog/keybase-joins-zoom), [Zoom blog](https://blog.zoom.us/wordpress/2020/05/07/zoom-acquires-keybase-and-announces-goal-of-developing-the-most-broadly-used-enterprise-end-to-end-encryption-offering/)). Thanks @notpushkin & @multimob. |
 | [Conversations](https://conversations.im/) [![F-Droid](https://img.shields.io/f-droid/v/eu.siacs.conversations?style=flat-square)](https://f-droid.org/en/packages/eu.siacs.conversations/) | **14-eyes** | An open-source Android Jabber/XMPP client. It's a paid app on Google Play, but you can also [build it from source](https://github.com/siacs/Conversations) for free if you want to. |
-| [Riot](https://github.com/vector-im/riot-android) [![F-Droid](https://img.shields.io/f-droid/v/im.vector.alpha?style=flat-square)](https://f-droid.org/en/packages/im.vector.alpha/) | **5-eyes** | Android app - The open-source Android client for Riot. |
-| [Jitsi Meet (F-Droid)](https://meet.jit.si/) [![F-Droid](https://img.shields.io/f-droid/v/org.jitsi.meet?style=flat-square)](https://f-droid.org/en/packages/org.jitsi.meet/) |  | Jitsi is an open-source secure video conferencing platform. No account is needed to use it, simply enter a Room Name to join or host a meeting. The host is able to kick rogue users from the call. Works directly in your browser, with apps available for iOS and Android. It is not necessary to self-host, but self-hosting is an option for those who wish to. Very low latency and easy to set up. A free public server is available at (https://meet.jit.si) (**5-eyes** server) |
+| [Element](https://github.com/vector-im/element-android) [![F-Droid](https://img.shields.io/f-droid/v/im.vector.app?style=flat-square)](https://f-droid.org/en/packages/im.vector.app/) | **5-eyes** | Android app - The open-source Android client for Element. |
+| [Jitsi Meet (F-Droid)](https://meet.jit.si/) [![F-Droid](https://img.shields.io/f-droid/v/org.jitsi.meet?style=flat-square)](https://f-droid.org/en/packages/org.jitsi.meet/) |  | Jitsi is an open-source secure video conferencing platform. No account is needed to use it, simply enter a Room Name to join or host a meeting. The host is able to kick rogue users from the call. Works directly in your browser, with apps available for iOS and Android. It is not necessary to self-host, but self-hosting is an option for those who wish to. Very low latency and easy to set up. A free public server is available at [meet.jit.si](https://meet.jit.si). (**5-eyes** server) |
 
 
 
@@ -740,7 +751,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
-| [Jitsi Meet (F-Droid)](https://meet.jit.si/) [![F-Droid](https://img.shields.io/f-droid/v/org.jitsi.meet?style=flat-square)](https://f-droid.org/en/packages/org.jitsi.meet/) |  | Jitsi is an open-source secure video conferencing platform. No account is needed to use it, simply enter a Room Name to join or host a meeting. The host is able to kick rogue users from the call. Works directly in your browser, with apps available for iOS and Android. It is not necessary to self-host, but self-hosting is an option for those who wish to. Very low latency and easy to set up. A free public server is available at (https://meet.jit.si) (**5-eyes** server) |
+| [Jitsi Meet (F-Droid)](https://meet.jit.si/) [![F-Droid](https://img.shields.io/f-droid/v/org.jitsi.meet?style=flat-square)](https://f-droid.org/en/packages/org.jitsi.meet/) |  | Jitsi is an open-source secure video conferencing platform. No account is needed to use it, simply enter a Room Name to join or host a meeting. The host is able to kick rogue users from the call. Works directly in your browser, with apps available for iOS and Android. It is not necessary to self-host, but self-hosting is an option for those who wish to. Very low latency and easy to set up. A free public server is available at [meet.jit.si](https://meet.jit.si). (**5-eyes** server) |
 
 
 
@@ -765,8 +776,8 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
-| [Shade Launcher](https://github.com/amirzaidi/Shade) |  | Open-source Android launcher styled after the Google Pixel launcher. No F-Droid, but you can download the APK from GitHub. |
-| [ZimLX](https://github.com/otakuhqz/ZimLX) [![F-Droid](https://img.shields.io/f-droid/v/org.zimmob.zimlx?style=flat-square)](https://f-droid.org/en/packages/org.zimmob.zimlx/) |  | Open-source launcher. Active development with lots of nice features. |
+| [Shade Launcher](https://github.com/amirzaidi/Shade) |  | Open-source Android launcher styled after the Google Pixel launcher. Available to download from an [alternative F-Droid](https://apt.izzysoft.de/fdroid/index/apk/amirz.shade), APK Mirror, or GitHub Releases. |
+| [Omega](https://github.com/otakuhqz/omega) |  | Open-source launcher. Active development with lots of nice features. Downloads available from GitHub. Previously known as ZimLX which has since been replaced by Omega. |
 | [Lawnchair](https://lawnchair.app/) [![F-Droid](https://img.shields.io/f-droid/v/ch.deletescape.lawnchair.plah?style=flat-square)](https://f-droid.org/en/packages/ch.deletescape.lawnchair.plah/) |  | Another open-source launcher, also built to look similar to Google's launcher (it is built off AOSP Launcher3). Available from F-Droid and also APKMirror. (thanks u/droidonomy) |
 | [KISS Launcher](https://kisslauncher.com/) [![F-Droid](https://img.shields.io/f-droid/v/fr.neamar.kiss?style=flat-square)](https://f-droid.org/en/packages/fr.neamar.kiss/) |  | Fast, open-source and small launcher. KISS mainly relies on an app-search-bar, which makes it very easy to open up apps quickly. Thanks @Glitchy-Tozier |
 
@@ -776,7 +787,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
-| [Blokada](https://blokada.org/) [![F-Droid](https://img.shields.io/f-droid/v/org.blokada.alarm?style=flat-square)](https://f-droid.org/en/packages/org.blokada.alarm/) |  | From the website: "If you want to efficiently block ads, trackers, malware, save on your data plan, speed up your device and protect your privacy with just one application, then Blokada is for you. It is free, secure and open source." Uses internal VPN on Android to block ads. |
+| [Blokada](https://blokada.org/) [![F-Droid](https://img.shields.io/f-droid/v/org.blokada.alarm?style=flat-square)](https://f-droid.org/en/packages/org.blokada.alarm/) |  | From the website: "If you want to efficiently block ads, trackers, malware, save on your data plan, speed up your device and protect your privacy with just one application, then Blokada is for you. It is free, secure and open-source." Uses internal VPN on Android to block ads. |
 | [TrackerControl](https://github.com/OxfordHCC/tracker-control-android) [![F-Droid](https://img.shields.io/f-droid/v/net.kollnig.missioncontrol.fdroid?style=flat-square)](https://f-droid.org/en/packages/net.kollnig.missioncontrol.fdroid/) |  | From the GitHub README: Allows users to monitor and control the widespread, ongoing, hidden data collection in mobile apps about user behaviour ("tracking"). To detect tracking, TrackerControl checks all network traffic against the Disconnect blocklist, used and trusted by the Mozilla Firefox browser. Thanks @E5dZEUpc3BKaJrHnQVZd5zE |
 
 
@@ -825,8 +836,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 
 #### FitBit
 
-| Name | Eyes | Description |
-| ---- | ---- | ----------- |
+No known alternatives.
 
 - *Due to Google's  [recent acquisition of FitBit](https://outline.com/tsJCYN), it is recommended to avoid using FitBit. Instead, check out this [list of smart watches](https://asteroidos.org/install/) supported by Asteroid OS (See Wear OS in [Operating systems](#operating-systems)). Thanks @ribtoks*
 
@@ -870,8 +880,9 @@ Everything you need to become a Privacy Wizard.
 - [Guide for Linux users](https://github.com/wesaphzt/block-all-google) on blocking everything Google at the network level. This can and probably will break other alternatives that rely on Google to serve content. Thanks u/wesaphzt
 - u/wesaphzt also provided [this](https://github.com/pyllyukko/user.js), [this](https://ffprofile.com/), and [this](https://www.privacytools.io/browsers/#about_config) for hardening Firefox.
 - Check out [WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) and [this tutorial](https://github.com/adolfintel/Windows10-Privacy) for even more Windows 10 tips (thanks u/rudolf323)
-- [Virustotal](https://www.virustotal.com/) let's you upload files and it scans it against multiple antivirus software at once. Very helpful for checking false negatives. Website uses Google Analytics.
+- [VirusTotal](https://www.virustotal.com/) lets you upload files and scans them against multiple antivirus programs at once. Very helpful for checking false negatives. Unfortunately Alphabet Inc owns VirusTotal but there are no good alternatives.
 - Did you read the [wiki](https://old.reddit.com/r/privacy/wiki/index) yet? Go do that.
+
 
 ## Books 
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
@@ -930,9 +941,10 @@ Everything you need to become a Privacy Wizard.
   - *The Great Hack (2019)* - Documentary about the Facebook–Cambridge Analytica data scandal. Thanks @woutfeys
   - *Mr. Robot* - Hacker-drama starring Rami Malek. Producers hired actual hackers as consultants to ensure the show is as accurate as possible; real-world tools used in the show.
   - *Silicon Valley* - Satirical tech comedy about a compression startup struggling to take off in Silicon Valley, California.
+  - *Shoshana Zuboff on surveillance capitalism | VPRO Documentary* - [Invidious instance](https://yewtu.be/watch?v=hIXhnWUmMvw) and [Hooktube](https://hooktube.com/watch?v=hIXhnWUmMvw)
 - Podcasts:
   - [Darknet Diaries](https://darknetdiaries.com/) (by Jack Rhysider) - Highlights real-life hackers and their stories. Covers privacy topics a fair bit.
-  - The WAN Show (Linus Tech Tips) - Not specifically privacy, but they cover all sorts of tech news.
+  - [The WAN Show](https://linustechtips.libsyn.com/) (Linus Tech Tips) - Not specifically privacy, but they cover all sorts of tech news.
   - [The Privacy, Security, & OSINT Show](https://inteltechniques.com/podcast.html) - "This weekly podcast presents ideas to help you become digitally invisible, stay secure from cyber threats, and make you a better online investigator."
   - [Security Now!](https://www.grc.com/SecurityNow.htm) - "TechTV's Leo Laporte and I spend somewhat shy of two hours each week to discuss important issues of personal computer security." (Thanks u/Abaddon182)
 - Other:

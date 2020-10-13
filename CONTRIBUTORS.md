@@ -50,6 +50,16 @@ GitHub:
 - [@codingepaduli](https://github.com/codingepaduli)
 - [@kdkasad](https://github.com/kdkasad)
 - [@resto1231](https://githgithub.com/resto1231)
+- [@kdrag0n](https://github.com/kdrag0n)
+- [@ianschmitz](https://github.com/ianschmitz)
+- [@mythmakerseven](https://github.com/mythmakerseven)
+- [@SuperSandro2000](https://github.com/superSandro2000)
+- [@honorsea](https://github.com/honorsea)
+- [@chanana](https://github.com/chanana)
+- [@m0yP](https://github.com/m0yP)
+- [@mceachen](https://github.com/mceachen)
+- [@adam-sroka](https://github.com/adam-sroka)
+- [@m0yP](https://github.com/m0yP)
 
 Reddit:
 
