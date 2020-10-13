@@ -947,4 +947,3 @@ It's a shame that Google, with their immense resources, power, and influence, do
 Hopefully this guide can serve as a starting point for those new to privacy, or be a good refresher for the experts.
 
 Good luck and stay safe!
-
