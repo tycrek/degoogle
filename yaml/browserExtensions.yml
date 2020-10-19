@@ -86,10 +86,6 @@
   url: https://addons.mozilla.org/en-US/firefox/addon/temporary-containers
   text: |
     Open tabs, websites, and links in automatically managed disposable containers. Containers isolate data websites store (cookies, storage, and more) from each other, enhancing your privacy and security while you browse.
-- name: uMatrix
-  url: https://addons.mozilla.org/en-US/firefox/addon/umatrix
-  text: |
-    Point & click to forbid/allow any class of requests made by your browser. Use it to block scripts, iframes, ads, facebook, etc.
 - name: TrackMeNot
   url: https://addons.mozilla.org/en-US/firefox/addon/trackmenot
   text: |

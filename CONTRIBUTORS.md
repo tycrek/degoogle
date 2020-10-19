@@ -60,6 +60,7 @@ GitHub:
 - [@mceachen](https://github.com/mceachen)
 - [@adam-sroka](https://github.com/adam-sroka)
 - [@m0yP](https://github.com/m0yP)
+- [@freddy-m](https://github.com/freddy-m)
 
 Reddit:
 
