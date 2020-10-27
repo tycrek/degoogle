@@ -66,10 +66,6 @@
   url: https://addons.mozilla.org/en-US/firefox/addon/link-cleaner
   text: |
     Clean URLs that are about to be visited: removes utm_* parameters; on item pages of aliexpress and amazon, removes tracking parameters; skip redirect pages of facebook, steam and reddit
-- name: Neat URL
-  url: https://addons.mozilla.org/en-US/firefox/addon/neat-url
-  text: |
-    Remove garbage from URLs.
 - name: Privacy-Oriented Origin Policy
   url: https://addons.mozilla.org/en-US/firefox/addon/privacy-oriented-origin-policy
   text: |
