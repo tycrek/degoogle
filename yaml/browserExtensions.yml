@@ -30,10 +30,6 @@
   url: https://addons.mozilla.org/en-US/firefox/addon/minerblock-origin
   text: |
     MinerBlock is an efficient browser extension that focuses on blocking browser-based cryptocurrency miners all over the web. This extension uses two different approaches to block miners. The first one is based on blocking requests/scripts loaded from a blacklist, this is the traditional approach adopted by most ad-blockers and other mining blockers. The other approach which makes MinerBlock more efficient against cryptojacking is detecting potential mining behavior inside loaded scripts and kills them immediately. This makes the extension able to block inline scripts as well as miners running through proxies. Source code available on [GitHub](https://github.com/xd4rker/MinerBlock).
-- name: Terms of Service; Didn't Read
-  url: https://addons.mozilla.org/en-US/firefox/addon/terms-of-service-didnt-read
-  text: |
-    “I have read and agree to the Terms” is the biggest lie on the web. We aim to fix that. “Terms of Service; Didn't Read” is a user rights initiative to rate and label website terms & privacy policies, from very good (class A) to very bad (class E). This extension informs you instantly of your rights online by showing an unintrusive icon in the toolbar. You can click on this icon to get summaries from the [Terms of Service; Didn't Read](https://tosdr.org/) initiative.
 - name: ClearURLS
   url: https://addons.mozilla.org/en-US/firefox/addon/clearurls
   text: |
