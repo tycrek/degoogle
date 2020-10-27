@@ -6,10 +6,6 @@
   url: https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17
   text: |
     Privacy Badger automatically learns to block invisible trackers. Instead of keeping lists of what to block, Privacy Badger learns by watching which domains appear to be tracking you as you browse the Web.
-- name: Decentraleyes
-  url: https://addons.mozilla.org/en-US/firefox/addon/decentraleyes
-  text: |
-    Protects you against tracking through "free", centralized, content delivery. It prevents a lot of requests from reaching networks like Google Hosted Libraries, and serves local files to keep sites from breaking. Complements regular content blockers.
 - name: HTTPS Everywhere
   url: https://addons.mozilla.org/en-US/firefox/addon/https-everywhere
   text: |
