@@ -766,6 +766,11 @@ operating systems:
         Free Android distribution. Puts the emphasis on "freedom and privacy/security".
   chromeos:
     - title: Chrome OS
+    - name: GalliumOS
+      url: https://galliumos.org/
+      eyes: null
+      text: |
+         "A fast and lightweight Linux distro for ChromeOS devices". Based on Xubuntu.
     - name: Qubes OS
       url: https://www.qubes-os.org/
       eyes: null
