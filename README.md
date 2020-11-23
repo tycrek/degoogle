@@ -708,6 +708,7 @@ No known alternatives.
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [Piwigo Android](https://github.com/Piwigo/Piwigo-Android) |  | You need to have Piwigo set up first. |
+| [Stingle Photos](https://stingle.org/) | **5-eyes** | A convenient, easy to use Gallery/Camera application with Backup and Sync functionality for your photos and videos which seamlessly provides strong security, privacy and encryption. All photos and videos are encrypted prior to being stored and backed up, so they are secure at rest, in transit and on cloud storage. |
 
 
 
