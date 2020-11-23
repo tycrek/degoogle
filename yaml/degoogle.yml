@@ -128,7 +128,7 @@ web based products:
       url: https://www.sympa.org/
       eyes: null
       text: |
-        Sympa is an open source mailing list manager. It provides advanced features with a rich and secure web interface.
+        Sympa is an open-source mailing list manager. It provides advanced features with a rich and secure web interface.
     - name: GNU Mailman
       url: https://list.org/
       eyes: null
@@ -138,12 +138,12 @@ web based products:
       url: https://discourse.group/
       eyes: 5
       text: |
-        Discourse is the 100% open source discussion platform built for the next decade of the Internet. Use it as a mailing list, discussion forum, or long-form chat room.
+        Discourse is the 100% open-source discussion platform built for the next decade of the Internet. Use it as a mailing list, discussion forum, or long-form chat room.
     - name: Groups.io
       url: https://groups.io/
       eyes: 5
       text: |
-        a privacy focused email list system that does not track you, nor your members. It is not open source. Data is hosted on one central server but the server is encrypted. It has modern email group features such as a wiki, integrations, and RSS import support.
+        a privacy focused email list system that does not track you, nor your members. It is not open-source. Data is hosted on one central server but the server is encrypted. It has modern email group features such as a wiki, integrations, and RSS import support.
   translate:
     - title: Translate
     - name: DeepL
@@ -285,7 +285,7 @@ web based products:
       url: https://kindmetrics.io
       eyes: "5/14"
       text: |
-        A open source analytics tool. Landing page and company is based in Sweden, CDN in EU, Servers on Digitalocean (USA) datacenter in Germany.
+        A open-source analytics tool. Landing page and company is based in Sweden, CDN in EU, Servers on Digitalocean (USA) datacenter in Germany.
     - name: userTrack
       url: https://www.usertrack.net/
       eyes: null
@@ -564,7 +564,7 @@ web based products:
       url: https://www.mumble.info/
       eyes: null
       text: |
-        A free, open source, low latency, high quality voice chat application.
+        A free, open-source, low latency, high quality voice chat application.
   gmail:
     - title: Gmail (mail service)
     - notes:
@@ -728,7 +728,7 @@ web based products:
       url: https://www.tribler.org/
       eyes: null
       text: |
-        Open source peer-to-peer file sharing that provides a "Youtube"-like streaming experience. Tribler uses Tor-like onion routing to protect the privacy of its users.
+        Open-source peer-to-peer file sharing that provides a "Youtube"-like streaming experience. Tribler uses Tor-like onion routing to protect the privacy of its users.
   fonts:
     - title: Fonts
     - name: Open Font Library
