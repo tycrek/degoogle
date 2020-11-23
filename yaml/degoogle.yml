@@ -540,6 +540,11 @@ web based products:
       eyes: 5
       text: |
         Audio / Video Calls, Conferences, Messaging app with peer-to-peer and end-to-end encrypted communications.
+    - name: Mumble
+      url: https://www.mumble.info/
+      eyes: null
+      text: |
+        A free, open source, low latency, high quality voice chat application.
   gmail:
     - title: Gmail (mail service)
     - notes:
@@ -1400,6 +1405,12 @@ mobile applications:
       eyes: 5
       text: |
         Audio / Video Calls, Conferences, Messaging app with peer-to-peer and end-to-end encrypted communications.
+    - name: Mumla (client for Mumble)
+      url: https://mumla-app.gitlab.io/
+      froid: se.lublin.mumla
+      eyes: null
+      text: |
+        Third-party Android client for Mumble.
   duo:
     - title: Duo (video calls)
     - name: Jitsi Meet (F-Droid)
