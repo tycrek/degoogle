@@ -286,6 +286,11 @@ web based products:
       eyes: null
       text: |
         Self-hosted alternative to Google Analytics, similar to Matomo but cheaper for premium features. Includes user segments, heatmaps, session recordings and A/B testing.
+    - name: Piwik Pro
+      url: https://piwik.pro/
+      eyes: 5
+      text: |
+        An analytics suite with a focus on user privacy and data security.
   photos:
     - title: Photos
     - name: Photoprism
