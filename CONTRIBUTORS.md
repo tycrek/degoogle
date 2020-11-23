@@ -62,6 +62,7 @@ GitHub:
 - [@m0yP](https://github.com/m0yP)
 - [@freddy-m](https://github.com/freddy-m)
 - [@Cristy94](https://github.com/Cristy94)
+- [@rkingett](https://github.com/rkingett)
 
 Reddit:
 

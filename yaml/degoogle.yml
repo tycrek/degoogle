@@ -139,6 +139,11 @@ web based products:
       eyes: 5
       text: |
         Discourse is the 100% open source discussion platform built for the next decade of the Internet. Use it as a mailing list, discussion forum, or long-form chat room.
+    - name: Groups.io
+      url: https://groups.io/
+      eyes: 5
+      text: |
+        a privacy focused email list system that does not track you, nor your members. It is not open source. Data is hosted on one central server but the server is encrypted. It has modern email group features such as a wiki, integrations, and RSS import support.
   translate:
     - title: Translate
     - name: DeepL
