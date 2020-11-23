@@ -513,7 +513,7 @@ web based products:
       url: https://protonmail.com/
       eyes: null
       text: |
-        One of the top privacy-focused email providers. Servers are in Switzerland in an underground guarded bunker that they claim can "survive a nuclear attack". Note: Read ([this] https://privacy-watchdog.io/protonmails-criminal-history/) article regarding potential privacy concerns.
+        One of the top privacy-focused email providers. Servers are in Switzerland in an underground guarded bunker that they claim can "survive a nuclear attack".
     - name: Tutanota
       url: https://tutanota.com/
       eyes: 14
