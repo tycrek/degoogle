@@ -60,6 +60,12 @@ GitHub:
 - [@mceachen](https://github.com/mceachen)
 - [@adam-sroka](https://github.com/adam-sroka)
 - [@m0yP](https://github.com/m0yP)
+- [@freddy-m](https://github.com/freddy-m)
+- [@Cristy94](https://github.com/Cristy94)
+- [@rkingett](https://github.com/rkingett)
+- [@komape](https://github.com/komape)
+- [@jefersonralmeida](https://github.com/jefersonralmeida)
+- [@codedust](https://github.com/codedust)
 
 Reddit:
 

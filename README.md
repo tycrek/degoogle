@@ -20,7 +20,7 @@
 
 ### *I don't have anything to hide, but I don't have anything to show you either.*
 
-![Updated](https://img.shields.io/static/v1?label=updated&message=October%202nd%202020&color=388E3C&style=flat-square)
+![Updated](https://img.shields.io/static/v1?label=updated&message=November%2023rd%202020&color=388E3C&style=flat-square)
 
 ![GitHub](https://img.shields.io/github/license/tycrek/degoogle?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/tycrek/degoogle?style=flat-square)
@@ -60,9 +60,6 @@ If you want to help out with the project, here are some ideas (submit **Issues**
 
 When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md](https://github.com/tycrek/degoogle/blob/master/CONTRIBUTING.md)**.
 
-### Hacktoberfest
-
-Any PR's opened from **October 1st 2020** to **October 31st 2020** can be eligile for **[Hacktoberfest](https://hacktoberfest.digitalocean.com/)**. To be eligible, you **must** follow [CONTRIBUTING.md](https://github.com/tycrek/degoogle/blob/master/CONTRIBUTING.md). If you wish to use your PR for Hacktoberfest, make sure you remember to add the `Hacktoberfest` label.
 
 # Browser extensions
 
@@ -70,13 +67,11 @@ Any PR's opened from **October 1st 2020** to **October 31st 2020** can be eligil
 | ---- | ----------- |
 | [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin) ![Mozilla Add-on](https://img.shields.io/amo/users/ublock-origin?style=flat-square) | uBlock Origin is not an "ad blocker", it's a wide-spectrum content blocker with CPU and memory efficiency as a primary feature. |
 | [Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17) ![Mozilla Add-on](https://img.shields.io/amo/users/privacy-badger17?style=flat-square) | Privacy Badger automatically learns to block invisible trackers. Instead of keeping lists of what to block, Privacy Badger learns by watching which domains appear to be tracking you as you browse the Web. |
-| [Decentraleyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes) ![Mozilla Add-on](https://img.shields.io/amo/users/decentraleyes?style=flat-square) | Protects you against tracking through "free", centralized, content delivery. It prevents a lot of requests from reaching networks like Google Hosted Libraries, and serves local files to keep sites from breaking. Complements regular content blockers. |
 | [HTTPS Everywhere](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere) ![Mozilla Add-on](https://img.shields.io/amo/users/https-everywhere?style=flat-square) | Many sites on the web offer some limited support for encryption over HTTPS, but make it difficult to use. For instance, they may default to unencrypted HTTP, or fill encrypted pages with links that go back to the unencrypted site. The HTTPS Everywhere extension fixes these problems by rewriting all requests to these sites to HTTPS. |
 | [Cookie AutoDelete](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete) ![Mozilla Add-on](https://img.shields.io/amo/users/cookie-autodelete?style=flat-square) | Control your cookies! This WebExtension is inspired by Self Destructing Cookies. When a tab closes, any cookies not being used are automatically deleted. Whitelist the ones you trust while deleting the rest. Support for Container Tabs. |
 | [DDG Privacy Essentials](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox) ![Mozilla Add-on](https://img.shields.io/amo/users/duckduckgo-for-firefox?style=flat-square) | Privacy, simplified. Our add-on provides the privacy essentials you need to seamlessly take control of your personal information, no matter where the internet takes you: tracker blocking, smarter encryption, DuckDuckGo private search, and more. |
 | [I don't care about cookies](https://addons.mozilla.org/en-US/firefox/addon/i-dont-care-about-cookies) ![Mozilla Add-on](https://img.shields.io/amo/users/i-dont-care-about-cookies?style=flat-square) | This add-on will remove cookie warnings from almost all websites! You can report any website which still warns you about cookies: make a right click and choose 'Report a cookie warning' from the menu. |
 | [minerBlock](https://addons.mozilla.org/en-US/firefox/addon/minerblock-origin) ![Mozilla Add-on](https://img.shields.io/amo/users/minerblock-origin?style=flat-square) | MinerBlock is an efficient browser extension that focuses on blocking browser-based cryptocurrency miners all over the web. This extension uses two different approaches to block miners. The first one is based on blocking requests/scripts loaded from a blacklist, this is the traditional approach adopted by most ad-blockers and other mining blockers. The other approach which makes MinerBlock more efficient against cryptojacking is detecting potential mining behavior inside loaded scripts and kills them immediately. This makes the extension able to block inline scripts as well as miners running through proxies. Source code available on [GitHub](https://github.com/xd4rker/MinerBlock). |
-| [Terms of Service; Didn't Read](https://addons.mozilla.org/en-US/firefox/addon/terms-of-service-didnt-read) ![Mozilla Add-on](https://img.shields.io/amo/users/terms-of-service-didnt-read?style=flat-square) | “I have read and agree to the Terms” is the biggest lie on the web. We aim to fix that. “Terms of Service; Didn't Read” is a user rights initiative to rate and label website terms & privacy policies, from very good (class A) to very bad (class E). This extension informs you instantly of your rights online by showing an unintrusive icon in the toolbar. You can click on this icon to get summaries from the [Terms of Service; Didn't Read](https://tosdr.org/) initiative. |
 | [ClearURLS](https://addons.mozilla.org/en-US/firefox/addon/clearurls) ![Mozilla Add-on](https://img.shields.io/amo/users/clearurls?style=flat-square) | This extension will automatically remove tracking elements from URLs to help protect your privacy when browse through the Internet. |
 | [Cloud Firewall](https://addons.mozilla.org/en-US/firefox/addon/cloud-firewall) ![Mozilla Add-on](https://img.shields.io/amo/users/cloud-firewall?style=flat-square) | Block connections to pages and web resources hosted in major cloud services if the user wishes to do so. Supports blocking Google, Amazon, Facebook, Apple, Microsoft and Cloudflare. |
 | [CSS Exfil Protection](https://addons.mozilla.org/en-US/firefox/addon/css-exfil-protection) ![Mozilla Add-on](https://img.shields.io/amo/users/css-exfil-protection?style=flat-square) | CSS Exfil is a method attackers can use to steal data from web pages using Cascading Style Sheets (CSS). This plugin sanitizes and blocks any CSS rules which may be designed to steal data. |
@@ -86,14 +81,12 @@ Any PR's opened from **October 1st 2020** to **October 31st 2020** can be eligil
 | [Google search link fix (also Yandex)](https://addons.mozilla.org/en-US/firefox/addon/google-search-link-fix) ![Mozilla Add-on](https://img.shields.io/amo/users/google-search-link-fix?style=flat-square) | This extension prevents Google and Yandex search pages from modifying search result links when you click them. This is useful when copying links but it also helps privacy by preventing the search engines from recording your clicks. |
 | [HTTPZ](https://addons.mozilla.org/en-US/firefox/addon/httpz) ![Mozilla Add-on](https://img.shields.io/amo/users/httpz?style=flat-square) | HTTPZ is meant to be unobtrusive and lightweight, it respects your privacy, and is free of trans fats. Additionally, it is very configurable, and should be slightly more secure than some of the alternatives out there, since it has a couple of built-in defenses against SSL-stripping attacks. |
 | [Link Cleaner](https://addons.mozilla.org/en-US/firefox/addon/link-cleaner) ![Mozilla Add-on](https://img.shields.io/amo/users/link-cleaner?style=flat-square) | Clean URLs that are about to be visited: removes utm_* parameters; on item pages of aliexpress and amazon, removes tracking parameters; skip redirect pages of facebook, steam and reddit |
-| [Neat URL](https://addons.mozilla.org/en-US/firefox/addon/neat-url) ![Mozilla Add-on](https://img.shields.io/amo/users/neat-url?style=flat-square) | Remove garbage from URLs. |
 | [Privacy-Oriented Origin Policy](https://addons.mozilla.org/en-US/firefox/addon/privacy-oriented-origin-policy) ![Mozilla Add-on](https://img.shields.io/amo/users/privacy-oriented-origin-policy?style=flat-square) | Prevent Firefox from sending Origin headers when they are least likely to be necessary, to protect your privacy. |
 | [Skip Redirect](https://addons.mozilla.org/en-US/firefox/addon/skip-redirect) ![Mozilla Add-on](https://img.shields.io/amo/users/skip-redirect?style=flat-square) | Some web pages use intermediary pages before redirecting to a final page. This add-on tries to extract the final url from the intermediary url and goes there straight away if successful. |
 | [Temporary Containers](https://addons.mozilla.org/en-US/firefox/addon/temporary-containers) ![Mozilla Add-on](https://img.shields.io/amo/users/temporary-containers?style=flat-square) | Open tabs, websites, and links in automatically managed disposable containers. Containers isolate data websites store (cookies, storage, and more) from each other, enhancing your privacy and security while you browse. |
-| [uMatrix](https://addons.mozilla.org/en-US/firefox/addon/umatrix) ![Mozilla Add-on](https://img.shields.io/amo/users/umatrix?style=flat-square) | Point & click to forbid/allow any class of requests made by your browser. Use it to block scripts, iframes, ads, facebook, etc. |
 | [TrackMeNot](https://addons.mozilla.org/en-US/firefox/addon/trackmenot) ![Mozilla Add-on](https://img.shields.io/amo/users/trackmenot?style=flat-square) | An artware browser add-on to protect privacy in web-search. By issuing randomized queries to common search-engines, TrackMeNot obfuscates your search profile and registers your discontent with surreptitious tracking. |
 | [Redirect AMP to HTML](https://addons.mozilla.org/en-US/firefox/addon/amp2html) ![Mozilla Add-on](https://img.shields.io/amo/users/amp2html?style=flat-square) | This web extension enables users to choose to opt-out of using Accelerated Mobile Pages (AMP) and choose to use the standard web instead. |
-| [ghacks-user.js](https://github.com/ghacksuserjs/ghacks-user.js/)  | This is not an extension, instead it is a Firefox `user.js` config file. This file is a template which aims to provide as much privacy and enhanced security as possible, and to reduce tracking and fingerprinting as much as possible - while minimizing any loss of functionality and breakage (but it will happen). |
+| [user.js](https://github.com/arkenfox/user.js)  | This is not an extension, instead it is a Firefox `user.js` config file. This file is a template which aims to provide as much privacy and enhanced security as possible, and to reduce tracking and fingerprinting as much as possible - while minimizing any loss of functionality and breakage (but it will happen). |
 
 
 # Replacements/alternatives
@@ -163,7 +156,12 @@ Any PR's opened from **October 1st 2020** to **October 31st 2020** can be eligil
 
 #### Groups
 
-No known alternatives.
+| Name | Eyes | Description |
+| ---- | ---- | ----------- |
+| [Sympa](https://www.sympa.org/) |  | Sympa is an open source mailing list manager. It provides advanced features with a rich and secure web interface. |
+| [GNU Mailman](https://list.org/) |  | Mailman is free software for managing electronic mail discussion and e-newsletter lists. Mailman is integrated with the web, making it easy for users to manage their accounts and for list owners to administer their lists. Mailman supports built-in archiving, automatic bounce processing, content filtering, digest delivery, spam filters, and more. |
+| [Discourse](https://discourse.group/) | **5-eyes** | Discourse is the 100% open source discussion platform built for the next decade of the Internet. Use it as a mailing list, discussion forum, or long-form chat room. |
+| [Groups.io](https://groups.io/) | **5-eyes** | a privacy focused email list system that does not track you, nor your members. It is not open source. Data is hosted on one central server but the server is encrypted. It has modern email group features such as a wiki, integrations, and RSS import support. |
 
 - *Use other forum sites relating to specific topics. This is a very broad service.*
 
@@ -198,6 +196,7 @@ No known alternatives.
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [Nextcloud](https://www.nextcloud.com/) |  | Nextcloud 19 now has Community Document Server and **[ONLYOFFICE](https://www.onlyoffice.com/)** apps integrated which allows self-hosted instances of docs/sheets/slides. Users are able to edit documents in real time. Thanks @k3tan172 and @plutocrat |
+| [Open-Xchange](https://www.open-xchange.com) |  | A secure hosted email and productivity platform, designed for providers of all sizes to offer their customers email, calendar, storage, encryption and more. |
 
 
 
@@ -231,6 +230,8 @@ No known alternatives.
 | [GoAccess](https://goaccess.io/) |  | An open-source web server analysis tool. Installs on your web server (ideally), but works just as well if you download your logs someplace else. Interactive; cursor around in the report and see what's going on. Can generate HTML reports. Can also generate realtime interactive HTML reports if you run it in server mode. Lightweight, only requires UTF-8 support and ncurses (ncursesw, if you want a UTF-8 enabled console). Available in the default package repositories of multiple Linux distros. Thanks @virtadpt |
 | [Offen](https://www.offen.dev/) |  | Open-source and self-hosted, Offen is a fair and lightweight web analytics alternative that treats operators and users as equal parties. |
 | [Umami](https://umami.is/) |  | A simple, easy to use, open-source/self-hosted web analytics solution. |
+| [userTrack](https://www.usertrack.net/) |  | Self-hosted alternative to Google Analytics, similar to Matomo but cheaper for premium features. Includes user segments, heatmaps, session recordings and A/B testing. |
+| [Piwik Pro](https://piwik.pro/) | **5-eyes** | An analytics suite with a focus on user privacy and data security. |
 
 
 
@@ -259,6 +260,7 @@ No known alternatives.
 | [Baïkal](https://sabre.io/baikal/) |  | a lightweight CalDAV+CardDAV server. It offers an extensive web interface with easy management of users, address books and calendars. It is fast and simple to install and only needs a basic php capable server. The data can be stored in a MySQL or a SQLite database. Thanks @mahdi1234 |
 | [Nextcloud](https://nextcloud.com/) |  | Nextcloud also offers a calendar solution using CalDAV and CardDAV. Thanks @mahdi1234 for pointing this out. |
 | [Radicale](https://radicale.org/) |  | Self-hosted calendar server written in Python. WebUI for desktop, CalDav/CardDav for mobile sync. Can use a reverse proxy with Nginx for HTTPS. |
+| [Mailfence Calendar](https://www.mailfence.com) | **14-eyes** | Supports vCal/iCal import, export and can be accessed by using CalDAV. Users can share their calendars with group members and can also create polls. |
 
 
 
@@ -311,6 +313,8 @@ No known alternatives.
 | [Armored](https://armored.net/) | **9-eyes** | Nextcloud instance hosted by Epik.com. Paid plans with 30-day trial. Servers in a "secure bunker" in Norway. Supports other Nextcloud features such as Nextcloud Talk. |
 | [seafile](https://www.seafile.com) |  | Open-source and self-hosted file sync&share solution. |
 | [Cozy Cloud](https://cozy.io/) | **9-eyes** | French based cloud storage provider with free and paid plans. Can also be self-hosted. Open-Source. And it also offers a collaborative notes editor. |
+| [Mailfence Documents](https://www.mailfence.com) | **14-eyes** | Documents can be accessed using WebDAV or edited online. Users can drag and drop files in folders and categorize them with tags. |
+| [Filecloud Community Edition](https://www.getfilecloud.com/filecloud-community-edition/) |  | Powerful, secure Dropbox-like enterprise class file sharing and sync solution for home or business. |
 
 
 
@@ -325,6 +329,8 @@ No known alternatives.
 | [Threema](https://threema.ch/en) |  | Swiss-based GDPR-compliant instant messenger. Has apps for both iOS and Android. Unlike Signal, no phone number is required (nor is an email) to sign up. End-to-end encrypted. Thanks to @nathanvogel |
 | [Keybase](https://keybase.io/) | **5-eyes** | encrypted chat like Signal with features like Slack. Does not require a phone number to sign up. Also has file storage. **Note:** Keybase was acquired by Zoom, Inc. in May 2020 ([Keybase blog](https://keybase.io/blog/keybase-joins-zoom), [Zoom blog](https://blog.zoom.us/wordpress/2020/05/07/zoom-acquires-keybase-and-announces-goal-of-developing-the-most-broadly-used-enterprise-end-to-end-encryption-offering/)). Thanks @notpushkin & @multimob. |
 | [Jitsi](https://jitsi.org/) | **5-eyes** | Jitsi is an open-source secure video conferencing platform. No account is needed to use it, simply enter a Room Name to join or host a meeting. The host is able to kick rogue users from the call. Works directly in your browser, with apps available for iOS and Android. It is not necessary to self-host, but self-hosting is an option for those who wish to. Very low latency and easy to set up. A free public server is available at [meet.jit.si](https://meet.jit.si). (**5-eyes** server) |
+| [Jami](https://jami.net/) | **5-eyes** | Audio / Video Calls, Conferences, Messaging app with peer-to-peer and end-to-end encrypted communications. |
+| [Mumble](https://www.mumble.info/) |  | A free, open source, low latency, high quality voice chat application. |
 
 - *See [this article](https://outline.com/BK8f7h) for why I didn't include WhatsApp and why you should NOT use it (if someone has a better Outline link, that would be much appreciated).*
 - *I have also **removed** Telegram. See [Issue #29](https://github.com/tycrek/degoogle/issues/29) from @arsv.*
@@ -349,6 +355,7 @@ No known alternatives.
 | [Anonymize.com Email](https://anonymize.com/) |  | Paid secure email service provided by Epik.com. |
 | [Thexyz](https://www.thexyz.com/) | **5-eyes** | Thexyz is a Canadian company offering privacy-conscious business email. Premium webmail costs USD $2.95 per month. |
 | [Mailfence](https://www.mailfence.com) | **14-eyes** | A secure and private email provider much like Protonmail and Tutanota. There are no google analytics nor hidden cookies. There are options to pay anonymously via cryptocurrency. It features a wide array of collaboration tools, such as groups, calendar, contacts, documents with editing space. Offers free, paid, and freemium plans. Can pay with cryptocurrency and has a [warrant canary](https://blog.mailfence.com/transparency-report-and-warrant-canary/). Thanks @resto1231 |
+| [CTemplar](https://ctemplar.com/) |  | Privacy-focused email provider located in Iceland. |
 
 - *This is just for the Gmail service, not a client*
 
@@ -363,6 +370,7 @@ No known alternatives.
 | [QOwnNotes](https://www.qownnotes.org/) |  | Open-source file editor with Markdown support. (thanks u/maqp2) |
 | [EteSync](https://www.etesync.com) |  | Secure, end-to-end encrypted, and open-source sync for your contacts, calendars and tasks. |
 | [GitJournal](https://gitjournal.io/) |  | Your Markdown notes stores in any Git Repo. Available for both Android (Play Store) and iOS. |
+| [Nextcloud Notes](https://apps.nextcloud.com/apps/notes) |  | A distraction free notes taking app for Nextcloud. It provides categories for better organization and supports formatting using Markdown syntax. Notes are saved as files in your Nextcloud, so you can view and edit them with every Nextcloud client. |
 
 
 
@@ -376,6 +384,7 @@ No known alternatives.
 | [Music Player Daemon](https://www.musicpd.org/) |  | A "flexible, powerful, server-side application for playing music". |
 | [Popcorn Time](https://popcorntime.sh/faq) |  | Open-source software for desktop and mobile that let you easily stream movie/TV torrents. **Be careful if your country or ISP has policies against torrenting, a VPN is recommended.** Thanks @je-vv |
 | [Nuclear Music Player](https://nuclear.js.org/) |  | Streaming music player that finds music from free sources automatically. |
+| [Tribler](https://www.tribler.org/) |  | Open source peer-to-peer file sharing that provides a "Youtube"-like streaming experience. Tribler uses Tor-like onion routing to protect the privacy of its users. |
 
 - *I can no longer recommend [Emby](https://emby.media/) as they are [no longer open-source](https://www.linuxuprising.com/2018/12/jellyfin-free-software-emby-media.html).*
 - *Thanks to u/eA8KESARaW6iqCpHsbE4 for suggesting Jellyfin and pointing out that Emby isn't open-source.*
@@ -445,7 +454,8 @@ No known alternatives.
 | [Ubuntu Touch](https://ubuntu-touch.io/) |  | Ubuntu, but for phones. |
 | [LineageOS](https://www.lineageos.org/) | **5-eyes** | Open-source and based on Android, but without the crap. |
 | [SailfishOS](https://sailfishos.org/) |  | Privacy-focused mobile OS by Jolla with a proprietary UI and Android compatibility layer on top of an open-source Mer GNU/Linux base. |
-| [GrapheneOS](https://github.com/GrapheneOS) |  | Open-source Android-based OS with an emphasis on security and privacy. Features advanced hardening and privacy protections throughout the system. [Continuation](https://old.reddit.com/r/CopperheadOS/comments/b6muvh/androidhardening_project_renamed_to_grapheneos/) of [CopperheadOS](https://old.reddit.com/r/CopperheadOS/comments/8qdnn3/goodbye/). |
+| [GrapheneOS](https://github.com/GrapheneOS) |  | Open-source Android-based OS with an emphasis on security and privacy. Features advanced hardening and privacy protections throughout the system. |
+| [CopperheadOS](https://copperhead.co/android) | **5-eyes-eyes** | A security and privacy focused mobile operating system compatible with Android apps. Available as Google-free secure Android on the latest secure android phone. |
 | [postmarketOS](https://postmarketos.org/) |  | Open-source mobile Linux OS. Can install different user interfaces such as [Plasma Mobile](https://www.plasma-mobile.org/). Thanks @okias |
 | [Replicant](https://replicant.us/) | **5-eyes** | Free Android distribution. Puts the emphasis on "freedom and privacy/security". |
 
@@ -457,6 +467,7 @@ No known alternatives.
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
+| [GalliumOS](https://galliumos.org/) |  | "A fast and lightweight Linux distro for ChromeOS devices". Based on Xubuntu. |
 | [Qubes OS](https://www.qubes-os.org/) |  | "A reasonably secure operating system", at least according to their website. Edward Snowden recommends it. |
 | [Subgraph OS](https://subgraph.com/index.en.html) |  | A desktop computing and communications platform that is designed to be resistant to network-borne exploit and malware attacks. |
 | [Tails](https://tails.boum.org/) |  | For the uber-paranoid. Runs live and the entire OS is routed through Tor right from boot. Built on Debian. |
@@ -667,6 +678,7 @@ No known alternatives.
 | [Markor](https://gsantner.net/project/markor.html) [![F-Droid](https://img.shields.io/f-droid/v/net.gsantner.markor?style=flat-square)](https://f-droid.org/en/packages/net.gsantner.markor/) |  | Open-source notes/to-do app for Android. Supports Markdown editing. Available on F-Droid. App is 100% offline, as stated on the [GitHub README](https://github.com/gsantner/markor#privacy). |
 | [Orgzly](http://orgzly.com/) [![F-Droid](https://img.shields.io/f-droid/v/com.orgzly?style=flat-square)](https://f-droid.org/en/packages/com.orgzly/) |  | Open-source. Notes are stored in the plain-text [Org mode](https://orgmode.org/) format. Supports searching, metadata, and manual sync with Dropbox or local directory, which can be synced using e.g. Syncthing. |
 | [Notally](https://github.com/OmGodse/Notally) |  | A beautiful, light and minimalistic notes app with no trackers, ads or analytics of any kind. Not on F-Droid, but available from [this alternative market](https://apt.izzysoft.de/fdroid/index/apk/com.omgodse.notally). |
+| [Nextcloud Notes for Android](https://github.com/stefan-niedermann/nextcloud-notes) [![F-Droid](https://img.shields.io/f-droid/v/it.niedermann.owncloud.notes?style=flat-square)](https://f-droid.org/en/packages/it.niedermann.owncloud.notes/) |  | An android client for Nextcloud Notes App. |
 
 
 
@@ -677,7 +689,7 @@ No known alternatives.
 | [Maps](https://gitlab.com/axet/omim/-/blob/HEAD/README.md) [![F-Droid](https://img.shields.io/f-droid/v/com.github.axet.maps?style=flat-square)](https://f-droid.org/en/packages/com.github.axet.maps/) |  | Open-source navigation app based on MAPS.ME. Searching for addresses doesn't always work and finding businesses can be a slight hassle, but overall one of the better apps I've used. |
 | [OsmAnd](https://osmand.net/) [![F-Droid](https://img.shields.io/f-droid/v/net.osmand.plus?style=flat-square)](https://f-droid.org/en/packages/net.osmand.plus/) |  | OpenStreetMap for Android. (thanks u/masao77). As OsmAnd is primarily crowdsourced, many regions may not be totally accurate. If you would like to help improve OpenStreetMap and OsmAnd, check out [StreetComplete](https://wiki.openstreetmap.org/wiki/StreetComplete) (available from [F-Droid](https://f-droid.org/en/packages/de.westnordost.streetcomplete/). |
 | [Transportr](https://transportr.app/) |  | Primarily European, this is an open-source public transport app. Thanks to @lgiard |
-| [Offi or Oeffi](https://oeffi.schildbach.de/) |  | Another recommendation from @lgiard, this app is also for public transport. |
+| [Öffi (Offi)](https://oeffi.schildbach.de/) [![F-Droid](https://img.shields.io/f-droid/v/de.schildbach.oeffi?style=flat-square)](https://f-droid.org/en/packages/de.schildbach.oeffi/) |  | Öffi is a public transport Android app (also shows delays and replacement bus service for more and more transport authorities in Europe and beyond) - similar to Transportr |
 
 
 
@@ -743,6 +755,8 @@ No known alternatives.
 | [Conversations](https://conversations.im/) [![F-Droid](https://img.shields.io/f-droid/v/eu.siacs.conversations?style=flat-square)](https://f-droid.org/en/packages/eu.siacs.conversations/) | **14-eyes** | An open-source Android Jabber/XMPP client. It's a paid app on Google Play, but you can also [build it from source](https://github.com/siacs/Conversations) for free if you want to. |
 | [Element](https://github.com/vector-im/element-android) [![F-Droid](https://img.shields.io/f-droid/v/im.vector.app?style=flat-square)](https://f-droid.org/en/packages/im.vector.app/) | **5-eyes** | Android app - The open-source Android client for Element. |
 | [Jitsi Meet (F-Droid)](https://meet.jit.si/) [![F-Droid](https://img.shields.io/f-droid/v/org.jitsi.meet?style=flat-square)](https://f-droid.org/en/packages/org.jitsi.meet/) |  | Jitsi is an open-source secure video conferencing platform. No account is needed to use it, simply enter a Room Name to join or host a meeting. The host is able to kick rogue users from the call. Works directly in your browser, with apps available for iOS and Android. It is not necessary to self-host, but self-hosting is an option for those who wish to. Very low latency and easy to set up. A free public server is available at [meet.jit.si](https://meet.jit.si). (**5-eyes** server) |
+| [Jami](https://jami.net/) [![F-Droid](https://img.shields.io/f-droid/v/cx.ring?style=flat-square)](https://f-droid.org/en/packages/cx.ring/) | **5-eyes** | Audio / Video Calls, Conferences, Messaging app with peer-to-peer and end-to-end encrypted communications. |
+| [Mumla (client for Mumble)](https://mumla-app.gitlab.io/) |  | Third-party Android client for Mumble. |
 
 
 
@@ -751,6 +765,7 @@ No known alternatives.
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [Jitsi Meet (F-Droid)](https://meet.jit.si/) [![F-Droid](https://img.shields.io/f-droid/v/org.jitsi.meet?style=flat-square)](https://f-droid.org/en/packages/org.jitsi.meet/) |  | Jitsi is an open-source secure video conferencing platform. No account is needed to use it, simply enter a Room Name to join or host a meeting. The host is able to kick rogue users from the call. Works directly in your browser, with apps available for iOS and Android. It is not necessary to self-host, but self-hosting is an option for those who wish to. Very low latency and easy to set up. A free public server is available at [meet.jit.si](https://meet.jit.si). (**5-eyes** server) |
+| [Jami](https://jami.net/) [![F-Droid](https://img.shields.io/f-droid/v/cx.ring?style=flat-square)](https://f-droid.org/en/packages/cx.ring/) | **5-eyes** | Audio / Video Calls, Conferences, Messaging app with peer-to-peer and end-to-end encrypted communications. |
 
 
 

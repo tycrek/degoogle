@@ -6,10 +6,6 @@
   url: https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17
   text: |
     Privacy Badger automatically learns to block invisible trackers. Instead of keeping lists of what to block, Privacy Badger learns by watching which domains appear to be tracking you as you browse the Web.
-- name: Decentraleyes
-  url: https://addons.mozilla.org/en-US/firefox/addon/decentraleyes
-  text: |
-    Protects you against tracking through "free", centralized, content delivery. It prevents a lot of requests from reaching networks like Google Hosted Libraries, and serves local files to keep sites from breaking. Complements regular content blockers.
 - name: HTTPS Everywhere
   url: https://addons.mozilla.org/en-US/firefox/addon/https-everywhere
   text: |
@@ -30,10 +26,6 @@
   url: https://addons.mozilla.org/en-US/firefox/addon/minerblock-origin
   text: |
     MinerBlock is an efficient browser extension that focuses on blocking browser-based cryptocurrency miners all over the web. This extension uses two different approaches to block miners. The first one is based on blocking requests/scripts loaded from a blacklist, this is the traditional approach adopted by most ad-blockers and other mining blockers. The other approach which makes MinerBlock more efficient against cryptojacking is detecting potential mining behavior inside loaded scripts and kills them immediately. This makes the extension able to block inline scripts as well as miners running through proxies. Source code available on [GitHub](https://github.com/xd4rker/MinerBlock).
-- name: Terms of Service; Didn't Read
-  url: https://addons.mozilla.org/en-US/firefox/addon/terms-of-service-didnt-read
-  text: |
-    “I have read and agree to the Terms” is the biggest lie on the web. We aim to fix that. “Terms of Service; Didn't Read” is a user rights initiative to rate and label website terms & privacy policies, from very good (class A) to very bad (class E). This extension informs you instantly of your rights online by showing an unintrusive icon in the toolbar. You can click on this icon to get summaries from the [Terms of Service; Didn't Read](https://tosdr.org/) initiative.
 - name: ClearURLS
   url: https://addons.mozilla.org/en-US/firefox/addon/clearurls
   text: |
@@ -70,10 +62,6 @@
   url: https://addons.mozilla.org/en-US/firefox/addon/link-cleaner
   text: |
     Clean URLs that are about to be visited: removes utm_* parameters; on item pages of aliexpress and amazon, removes tracking parameters; skip redirect pages of facebook, steam and reddit
-- name: Neat URL
-  url: https://addons.mozilla.org/en-US/firefox/addon/neat-url
-  text: |
-    Remove garbage from URLs.
 - name: Privacy-Oriented Origin Policy
   url: https://addons.mozilla.org/en-US/firefox/addon/privacy-oriented-origin-policy
   text: |
@@ -86,10 +74,6 @@
   url: https://addons.mozilla.org/en-US/firefox/addon/temporary-containers
   text: |
     Open tabs, websites, and links in automatically managed disposable containers. Containers isolate data websites store (cookies, storage, and more) from each other, enhancing your privacy and security while you browse.
-- name: uMatrix
-  url: https://addons.mozilla.org/en-US/firefox/addon/umatrix
-  text: |
-    Point & click to forbid/allow any class of requests made by your browser. Use it to block scripts, iframes, ads, facebook, etc.
 - name: TrackMeNot
   url: https://addons.mozilla.org/en-US/firefox/addon/trackmenot
   text: |
@@ -98,7 +82,7 @@
   url: https://addons.mozilla.org/en-US/firefox/addon/amp2html
   text: |
     This web extension enables users to choose to opt-out of using Accelerated Mobile Pages (AMP) and choose to use the standard web instead.
-- name: ghacks-user.js
-  url: https://github.com/ghacksuserjs/ghacks-user.js/
+- name: user.js
+  url: https://github.com/arkenfox/user.js
   text: |
     This is not an extension, instead it is a Firefox `user.js` config file. This file is a template which aims to provide as much privacy and enhanced security as possible, and to reduce tracking and fingerprinting as much as possible - while minimizing any loss of functionality and breakage (but it will happen).

@@ -124,6 +124,26 @@ web based products:
     - title: Groups
     - notes:
       - Use other forum sites relating to specific topics. This is a very broad service.
+    - name: Sympa
+      url: https://www.sympa.org/
+      eyes: null
+      text: |
+        Sympa is an open source mailing list manager. It provides advanced features with a rich and secure web interface.
+    - name: GNU Mailman
+      url: https://list.org/
+      eyes: null
+      text: |
+        Mailman is free software for managing electronic mail discussion and e-newsletter lists. Mailman is integrated with the web, making it easy for users to manage their accounts and for list owners to administer their lists. Mailman supports built-in archiving, automatic bounce processing, content filtering, digest delivery, spam filters, and more.
+    - name: Discourse
+      url: https://discourse.group/
+      eyes: 5
+      text: |
+        Discourse is the 100% open source discussion platform built for the next decade of the Internet. Use it as a mailing list, discussion forum, or long-form chat room.
+    - name: Groups.io
+      url: https://groups.io/
+      eyes: 5
+      text: |
+        a privacy focused email list system that does not track you, nor your members. It is not open source. Data is hosted on one central server but the server is encrypted. It has modern email group features such as a wiki, integrations, and RSS import support.
   translate:
     - title: Translate
     - name: DeepL
@@ -157,6 +177,11 @@ web based products:
       eyes: null
       text: |
         Nextcloud 19 now has Community Document Server and **[ONLYOFFICE](https://www.onlyoffice.com/)** apps integrated which allows self-hosted instances of docs/sheets/slides. Users are able to edit documents in real time. Thanks @k3tan172 and @plutocrat
+    - name: Open-Xchange
+      url: https://www.open-xchange.com
+      eyes: null
+      text: |
+        A secure hosted email and productivity platform, designed for providers of all sizes to offer their customers email, calendar, storage, encryption and more.
   blogger and sites:
     - title: Blogger/Sites
     - name: Joomla
@@ -261,6 +286,16 @@ web based products:
       eyes: "5/14"
       text: |
         A open source analytics tool. Landing page and company is based in Sweden, CDN in EU, Servers on Digitalocean (USA) datacenter in Germany.
+    - name: userTrack
+      url: https://www.usertrack.net/
+      eyes: null
+      text: |
+        Self-hosted alternative to Google Analytics, similar to Matomo but cheaper for premium features. Includes user segments, heatmaps, session recordings and A/B testing.
+    - name: Piwik Pro
+      url: https://piwik.pro/
+      eyes: 5
+      text: |
+        An analytics suite with a focus on user privacy and data security.
   photos:
     - title: Photos
     - name: Photoprism
@@ -335,6 +370,11 @@ web based products:
       eyes: null
       text: |
         Self-hosted calendar server written in Python. WebUI for desktop, CalDav/CardDav for mobile sync. Can use a reverse proxy with Nginx for HTTPS.
+    - name: Mailfence Calendar
+      url: https://www.mailfence.com
+      eyes: 14
+      text: |
+        Supports vCal/iCal import, export and can be accessed by using CalDAV. Users can share their calendars with group members and can also create polls.
   docs:
     - title: Docs/Sheets/Slides (cloud)
     - name: CryptPad
@@ -463,6 +503,16 @@ web based products:
       eyes: 9
       text: |
         French based cloud storage provider with free and paid plans. Can also be self-hosted. Open-Source. And it also offers a collaborative notes editor.
+    - name: Mailfence Documents
+      url: https://www.mailfence.com
+      eyes: 14
+      text: |
+        Documents can be accessed using WebDAV or edited online. Users can drag and drop files in folders and categorize them with tags.
+    - name: Filecloud Community Edition
+      url: https://www.getfilecloud.com/filecloud-community-edition/
+      eyes: null
+      text: |
+        Powerful, secure Dropbox-like enterprise class file sharing and sync solution for home or business.
   hangouts:
     - title: Hangouts (text/video messaging)
     - notes:
@@ -505,6 +555,16 @@ web based products:
       eyes: 5
       text: |
         Jitsi is an open-source secure video conferencing platform. No account is needed to use it, simply enter a Room Name to join or host a meeting. The host is able to kick rogue users from the call. Works directly in your browser, with apps available for iOS and Android. It is not necessary to self-host, but self-hosting is an option for those who wish to. Very low latency and easy to set up. A free public server is available at [meet.jit.si](https://meet.jit.si). (**5-eyes** server)
+    - name: Jami
+      url: https://jami.net/
+      eyes: 5
+      text: |
+        Audio / Video Calls, Conferences, Messaging app with peer-to-peer and end-to-end encrypted communications.
+    - name: Mumble
+      url: https://www.mumble.info/
+      eyes: null
+      text: |
+        A free, open source, low latency, high quality voice chat application.
   gmail:
     - title: Gmail (mail service)
     - notes:
@@ -584,6 +644,11 @@ web based products:
       eyes: 14
       text: |
         A secure and private email provider much like Protonmail and Tutanota. There are no google analytics nor hidden cookies. There are options to pay anonymously via cryptocurrency. It features a wide array of collaboration tools, such as groups, calendar, contacts, documents with editing space. Offers free, paid, and freemium plans. Can pay with cryptocurrency and has a [warrant canary](https://blog.mailfence.com/transparency-report-and-warrant-canary/). Thanks @resto1231
+    - name: CTemplar
+      url: https://ctemplar.com/
+      eyes: null
+      text: |
+        Privacy-focused email provider located in Iceland.
   keep:
     - title: Keep
     - name: Joplin
@@ -617,6 +682,11 @@ web based products:
       eyes: null
       text: |
         Your Markdown notes stores in any Git Repo. Available for both Android (Play Store) and iOS.
+    - name: Nextcloud Notes
+      url: https://apps.nextcloud.com/apps/notes
+      eyes: null
+      text: |
+        A distraction free notes taking app for Nextcloud. It provides categories for better organization and supports formatting using Markdown syntax. Notes are saved as files in your Nextcloud, so you can view and edit them with every Nextcloud client.
   music tv movies:
     - title: Play Music, Movies, & TV
     - notes:
@@ -654,6 +724,11 @@ web based products:
       eyes: null
       text: |
         Streaming music player that finds music from free sources automatically.
+    - name: Tribler
+      url: https://www.tribler.org/
+      eyes: null
+      text: |
+        Open source peer-to-peer file sharing that provides a "Youtube"-like streaming experience. Tribler uses Tor-like onion routing to protect the privacy of its users.
   fonts:
     - title: Fonts
     - name: Open Font Library
@@ -748,7 +823,12 @@ operating systems:
       url: https://github.com/GrapheneOS
       eyes: null
       text: |
-        Open-source Android-based OS with an emphasis on security and privacy. Features advanced hardening and privacy protections throughout the system. [Continuation](https://old.reddit.com/r/CopperheadOS/comments/b6muvh/androidhardening_project_renamed_to_grapheneos/) of [CopperheadOS](https://old.reddit.com/r/CopperheadOS/comments/8qdnn3/goodbye/).
+        Open-source Android-based OS with an emphasis on security and privacy. Features advanced hardening and privacy protections throughout the system.
+    - name: CopperheadOS
+      url: https://copperhead.co/android
+      eyes: 5-eyes
+      text: |
+        A security and privacy focused mobile operating system compatible with Android apps. Available as Google-free secure Android on the latest secure android phone.
     - name: postmarketOS
       url: https://postmarketos.org/
       eyes: null
@@ -761,6 +841,11 @@ operating systems:
         Free Android distribution. Puts the emphasis on "freedom and privacy/security".
   chromeos:
     - title: Chrome OS
+    - name: GalliumOS
+      url: https://galliumos.org/
+      eyes: null
+      text: |
+         "A fast and lightweight Linux distro for ChromeOS devices". Based on Xubuntu.
     - name: Qubes OS
       url: https://www.qubes-os.org/
       eyes: null
@@ -1206,6 +1291,12 @@ mobile applications:
       eyes: null
       text: |
         A beautiful, light and minimalistic notes app with no trackers, ads or analytics of any kind. Not on F-Droid, but available from [this alternative market](https://apt.izzysoft.de/fdroid/index/apk/com.omgodse.notally).
+    - name: Nextcloud Notes for Android
+      url: https://github.com/stefan-niedermann/nextcloud-notes
+      fdroid: it.niedermann.owncloud.notes
+      eyes: null
+      text: |
+        An android client for Nextcloud Notes App.
   maps and waze:
     - title: Maps/Waze
     - name: Maps
@@ -1225,11 +1316,12 @@ mobile applications:
       eyes: null
       text: |
         Primarily European, this is an open-source public transport app. Thanks to @lgiard
-    - name: Offi or Oeffi
+    - name: Öffi (Offi)
       url: https://oeffi.schildbach.de/
+      fdroid: de.schildbach.oeffi
       eyes: null
       text: |
-        Another recommendation from @lgiard, this app is also for public transport.
+        Öffi is a public transport Android app (also shows delays and replacement bus service for more and more transport authorities in Europe and beyond) - similar to Transportr
   news:
     - title: News
     - name: Flym
@@ -1338,6 +1430,18 @@ mobile applications:
       eyes: null
       text: |
         Jitsi is an open-source secure video conferencing platform. No account is needed to use it, simply enter a Room Name to join or host a meeting. The host is able to kick rogue users from the call. Works directly in your browser, with apps available for iOS and Android. It is not necessary to self-host, but self-hosting is an option for those who wish to. Very low latency and easy to set up. A free public server is available at [meet.jit.si](https://meet.jit.si). (**5-eyes** server)
+    - name: Jami
+      url: https://jami.net/
+      fdroid: cx.ring
+      eyes: 5
+      text: |
+        Audio / Video Calls, Conferences, Messaging app with peer-to-peer and end-to-end encrypted communications.
+    - name: Mumla (client for Mumble)
+      url: https://mumla-app.gitlab.io/
+      froid: se.lublin.mumla
+      eyes: null
+      text: |
+        Third-party Android client for Mumble.
   duo:
     - title: Duo (video calls)
     - name: Jitsi Meet (F-Droid)
@@ -1346,6 +1450,12 @@ mobile applications:
       eyes: null
       text: |
         Jitsi is an open-source secure video conferencing platform. No account is needed to use it, simply enter a Room Name to join or host a meeting. The host is able to kick rogue users from the call. Works directly in your browser, with apps available for iOS and Android. It is not necessary to self-host, but self-hosting is an option for those who wish to. Very low latency and easy to set up. A free public server is available at [meet.jit.si](https://meet.jit.si). (**5-eyes** server)
+    - name: Jami
+      url: https://jami.net/
+      fdroid: cx.ring
+      eyes: 5
+      text: |
+        Audio / Video Calls, Conferences, Messaging app with peer-to-peer and end-to-end encrypted communications.
   assistant:
     - title: Assistant
     - name: Mycroft Android
