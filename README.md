@@ -160,7 +160,11 @@ Any PR's opened from **October 1st 2020** to **October 31st 2020** can be eligib
 
 #### Groups
 
-No known alternatives.
+| Name | Eyes | Description |
+| ---- | ---- | ----------- |
+| [Sympa](https://www.sympa.org/) |  | Sympa is an open source mailing list manager. It provides advanced features with a rich and secure web interface. |
+| [GNU Mailman](https://list.org/) |  | Mailman is free software for managing electronic mail discussion and e-newsletter lists. Mailman is integrated with the web, making it easy for users to manage their accounts and for list owners to administer their lists. Mailman supports built-in archiving, automatic bounce processing, content filtering, digest delivery, spam filters, and more. |
+| [Discourse](https://discourse.group/) | **5-eyes** | Discourse is the 100% open source discussion platform built for the next decade of the Internet. Use it as a mailing list, discussion forum, or long-form chat room. |
 
 - *Use other forum sites relating to specific topics. This is a very broad service.*
 
