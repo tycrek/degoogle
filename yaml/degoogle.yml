@@ -124,6 +124,21 @@ web based products:
     - title: Groups
     - notes:
       - Use other forum sites relating to specific topics. This is a very broad service.
+    - name: Sympa
+      url: https://www.sympa.org/
+      eyes: null
+      text: |
+        Sympa is an open source mailing list manager. It provides advanced features with a rich and secure web interface.
+    - name: GNU Mailman
+      url: https://list.org/
+      eyes: null
+      text: |
+        Mailman is free software for managing electronic mail discussion and e-newsletter lists. Mailman is integrated with the web, making it easy for users to manage their accounts and for list owners to administer their lists. Mailman supports built-in archiving, automatic bounce processing, content filtering, digest delivery, spam filters, and more.
+    - name: Discourse
+      url: https://discourse.group/
+      eyes: 5
+      text: |
+        Discourse is the 100% open source discussion platform built for the next decade of the Internet. Use it as a mailing list, discussion forum, or long-form chat room.
   translate:
     - title: Translate
     - name: DeepL
