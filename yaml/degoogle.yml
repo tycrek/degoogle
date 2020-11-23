@@ -503,6 +503,11 @@ web based products:
       eyes: 14
       text: |
         Documents can be accessed using WebDAV or edited online. Users can drag and drop files in folders and categorize them with tags.
+    - name: Filecloud Community Edition
+      url: https://www.getfilecloud.com/filecloud-community-edition/
+      eyes: null
+      text: |
+        Powerful, secure Dropbox-like enterprise class file sharing and sync solution for home or business.
   hangouts:
     - title: Hangouts (text/video messaging)
     - notes:
