@@ -231,6 +231,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | [Offen](https://www.offen.dev/) |  | Open-source and self-hosted, Offen is a fair and lightweight web analytics alternative that treats operators and users as equal parties. |
 | [Umami](https://umami.is/) |  | A simple, easy to use, open-source/self-hosted web analytics solution. |
 | [userTrack](https://www.usertrack.net/) |  | Self-hosted alternative to Google Analytics, similar to Matomo but cheaper for premium features. Includes user segments, heatmaps, session recordings and A/B testing. |
+| [Piwik Pro](https://piwik.pro/) | **5-eyes** | An analytics suite with a focus on user privacy and data security. |
 
 
 
@@ -259,6 +260,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | [Baïkal](https://sabre.io/baikal/) |  | a lightweight CalDAV+CardDAV server. It offers an extensive web interface with easy management of users, address books and calendars. It is fast and simple to install and only needs a basic php capable server. The data can be stored in a MySQL or a SQLite database. Thanks @mahdi1234 |
 | [Nextcloud](https://nextcloud.com/) |  | Nextcloud also offers a calendar solution using CalDAV and CardDAV. Thanks @mahdi1234 for pointing this out. |
 | [Radicale](https://radicale.org/) |  | Self-hosted calendar server written in Python. WebUI for desktop, CalDav/CardDav for mobile sync. Can use a reverse proxy with Nginx for HTTPS. |
+| [Mailfence Calendar](https://www.mailfence.com) | **14-eyes** | Supports vCal/iCal import, export and can be accessed by using CalDAV. Users can share their calendars with group members and can also create polls. |
 
 
 
@@ -311,6 +313,8 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | [Armored](https://armored.net/) | **9-eyes** | Nextcloud instance hosted by Epik.com. Paid plans with 30-day trial. Servers in a "secure bunker" in Norway. Supports other Nextcloud features such as Nextcloud Talk. |
 | [seafile](https://www.seafile.com) |  | Open-source and self-hosted file sync&share solution. |
 | [Cozy Cloud](https://cozy.io/) | **9-eyes** | French based cloud storage provider with free and paid plans. Can also be self-hosted. Open-Source. And it also offers a collaborative notes editor. |
+| [Mailfence Documents](https://www.mailfence.com) | **14-eyes** | Documents can be accessed using WebDAV or edited online. Users can drag and drop files in folders and categorize them with tags. |
+| [Filecloud Community Edition](https://www.getfilecloud.com/filecloud-community-edition/) |  | Powerful, secure Dropbox-like enterprise class file sharing and sync solution for home or business. |
 
 
 
@@ -326,6 +330,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | [Keybase](https://keybase.io/) | **5-eyes** | encrypted chat like Signal with features like Slack. Does not require a phone number to sign up. Also has file storage. **Note:** Keybase was acquired by Zoom, Inc. in May 2020 ([Keybase blog](https://keybase.io/blog/keybase-joins-zoom), [Zoom blog](https://blog.zoom.us/wordpress/2020/05/07/zoom-acquires-keybase-and-announces-goal-of-developing-the-most-broadly-used-enterprise-end-to-end-encryption-offering/)). Thanks @notpushkin & @multimob. |
 | [Jitsi](https://jitsi.org/) | **5-eyes** | Jitsi is an open-source secure video conferencing platform. No account is needed to use it, simply enter a Room Name to join or host a meeting. The host is able to kick rogue users from the call. Works directly in your browser, with apps available for iOS and Android. It is not necessary to self-host, but self-hosting is an option for those who wish to. Very low latency and easy to set up. A free public server is available at [meet.jit.si](https://meet.jit.si). (**5-eyes** server) |
 | [Jami](https://jami.net/) | **5-eyes** | Audio / Video Calls, Conferences, Messaging app with peer-to-peer and end-to-end encrypted communications. |
+| [Mumble](https://www.mumble.info/) |  | A free, open source, low latency, high quality voice chat application. |
 
 - *See [this article](https://outline.com/BK8f7h) for why I didn't include WhatsApp and why you should NOT use it (if someone has a better Outline link, that would be much appreciated).*
 - *I have also **removed** Telegram. See [Issue #29](https://github.com/tycrek/degoogle/issues/29) from @arsv.*
@@ -365,6 +370,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | [QOwnNotes](https://www.qownnotes.org/) |  | Open-source file editor with Markdown support. (thanks u/maqp2) |
 | [EteSync](https://www.etesync.com) |  | Secure, end-to-end encrypted, and open-source sync for your contacts, calendars and tasks. |
 | [GitJournal](https://gitjournal.io/) |  | Your Markdown notes stores in any Git Repo. Available for both Android (Play Store) and iOS. |
+| [Nextcloud Notes](https://apps.nextcloud.com/apps/notes) |  | A distraction free notes taking app for Nextcloud. It provides categories for better organization and supports formatting using Markdown syntax. Notes are saved as files in your Nextcloud, so you can view and edit them with every Nextcloud client. |
 
 
 
@@ -670,6 +676,7 @@ No known alternatives.
 | [Markor](https://gsantner.net/project/markor.html) [![F-Droid](https://img.shields.io/f-droid/v/net.gsantner.markor?style=flat-square)](https://f-droid.org/en/packages/net.gsantner.markor/) |  | Open-source notes/to-do app for Android. Supports Markdown editing. Available on F-Droid. App is 100% offline, as stated on the [GitHub README](https://github.com/gsantner/markor#privacy). |
 | [Orgzly](http://orgzly.com/) [![F-Droid](https://img.shields.io/f-droid/v/com.orgzly?style=flat-square)](https://f-droid.org/en/packages/com.orgzly/) |  | Open-source. Notes are stored in the plain-text [Org mode](https://orgmode.org/) format. Supports searching, metadata, and manual sync with Dropbox or local directory, which can be synced using e.g. Syncthing. |
 | [Notally](https://github.com/OmGodse/Notally) |  | A beautiful, light and minimalistic notes app with no trackers, ads or analytics of any kind. Not on F-Droid, but available from [this alternative market](https://apt.izzysoft.de/fdroid/index/apk/com.omgodse.notally). |
+| [Nextcloud Notes for Android](https://github.com/stefan-niedermann/nextcloud-notes) [![F-Droid](https://img.shields.io/f-droid/v/it.niedermann.owncloud.notes?style=flat-square)](https://f-droid.org/en/packages/it.niedermann.owncloud.notes/) |  | An android client for Nextcloud Notes App. |
 
 
 
@@ -747,6 +754,7 @@ No known alternatives.
 | [Element](https://github.com/vector-im/element-android) [![F-Droid](https://img.shields.io/f-droid/v/im.vector.app?style=flat-square)](https://f-droid.org/en/packages/im.vector.app/) | **5-eyes** | Android app - The open-source Android client for Element. |
 | [Jitsi Meet (F-Droid)](https://meet.jit.si/) [![F-Droid](https://img.shields.io/f-droid/v/org.jitsi.meet?style=flat-square)](https://f-droid.org/en/packages/org.jitsi.meet/) |  | Jitsi is an open-source secure video conferencing platform. No account is needed to use it, simply enter a Room Name to join or host a meeting. The host is able to kick rogue users from the call. Works directly in your browser, with apps available for iOS and Android. It is not necessary to self-host, but self-hosting is an option for those who wish to. Very low latency and easy to set up. A free public server is available at [meet.jit.si](https://meet.jit.si). (**5-eyes** server) |
 | [Jami](https://jami.net/) [![F-Droid](https://img.shields.io/f-droid/v/cx.ring?style=flat-square)](https://f-droid.org/en/packages/cx.ring/) | **5-eyes** | Audio / Video Calls, Conferences, Messaging app with peer-to-peer and end-to-end encrypted communications. |
+| [Mumla (client for Mumble)](https://mumla-app.gitlab.io/) |  | Third-party Android client for Mumble. |
 
 
 
