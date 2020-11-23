@@ -384,6 +384,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | [Music Player Daemon](https://www.musicpd.org/) |  | A "flexible, powerful, server-side application for playing music". |
 | [Popcorn Time](https://popcorntime.sh/faq) |  | Open-source software for desktop and mobile that let you easily stream movie/TV torrents. **Be careful if your country or ISP has policies against torrenting, a VPN is recommended.** Thanks @je-vv |
 | [Nuclear Music Player](https://nuclear.js.org/) |  | Streaming music player that finds music from free sources automatically. |
+| [Tribler](https://www.tribler.org/) |  | Open source peer-to-peer file sharing that provides a "Youtube"-like streaming experience. Tribler uses Tor-like onion routing to protect the privacy of its users. |
 
 - *I can no longer recommend [Emby](https://emby.media/) as they are [no longer open-source](https://www.linuxuprising.com/2018/12/jellyfin-free-software-emby-media.html).*
 - *Thanks to u/eA8KESARaW6iqCpHsbE4 for suggesting Jellyfin and pointing out that Emby isn't open-source.*
@@ -687,7 +688,7 @@ No known alternatives.
 | [Maps](https://gitlab.com/axet/omim/-/blob/HEAD/README.md) [![F-Droid](https://img.shields.io/f-droid/v/com.github.axet.maps?style=flat-square)](https://f-droid.org/en/packages/com.github.axet.maps/) |  | Open-source navigation app based on MAPS.ME. Searching for addresses doesn't always work and finding businesses can be a slight hassle, but overall one of the better apps I've used. |
 | [OsmAnd](https://osmand.net/) [![F-Droid](https://img.shields.io/f-droid/v/net.osmand.plus?style=flat-square)](https://f-droid.org/en/packages/net.osmand.plus/) |  | OpenStreetMap for Android. (thanks u/masao77). As OsmAnd is primarily crowdsourced, many regions may not be totally accurate. If you would like to help improve OpenStreetMap and OsmAnd, check out [StreetComplete](https://wiki.openstreetmap.org/wiki/StreetComplete) (available from [F-Droid](https://f-droid.org/en/packages/de.westnordost.streetcomplete/). |
 | [Transportr](https://transportr.app/) |  | Primarily European, this is an open-source public transport app. Thanks to @lgiard |
-| [Offi or Oeffi](https://oeffi.schildbach.de/) |  | Another recommendation from @lgiard, this app is also for public transport. |
+| [Öffi (Offi)](https://oeffi.schildbach.de/) [![F-Droid](https://img.shields.io/f-droid/v/de.schildbach.oeffi?style=flat-square)](https://f-droid.org/en/packages/de.schildbach.oeffi/) |  | Öffi is a public transport Android app (also shows delays and replacement bus service for more and more transport authorities in Europe and beyond) - similar to Transportr |
 
 
 
