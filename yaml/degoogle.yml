@@ -124,6 +124,12 @@ web based products:
     - title: Groups
     - notes:
       - Use other forum sites relating to specific topics. This is a very broad service.
+    - name: Sympa
+      url: https://www.sympa.org/
+    - name: GNU Mailman
+      url: https://list.org/
+    - name: Discourse
+      url: https://discourse.group/
   translate:
     - title: Translate
     - name: DeepL
