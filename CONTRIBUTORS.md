@@ -63,6 +63,7 @@ GitHub:
 - [@freddy-m](https://github.com/freddy-m)
 - [@Cristy94](https://github.com/Cristy94)
 - [@rkingett](https://github.com/rkingett)
+- [@komape](https://github.com/komape)
 
 Reddit:
 

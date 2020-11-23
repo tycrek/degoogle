@@ -177,6 +177,11 @@ web based products:
       eyes: null
       text: |
         Nextcloud 19 now has Community Document Server and **[ONLYOFFICE](https://www.onlyoffice.com/)** apps integrated which allows self-hosted instances of docs/sheets/slides. Users are able to edit documents in real time. Thanks @k3tan172 and @plutocrat
+    - name: Open-Xchange
+      url: https://www.open-xchange.com
+      eyes: null
+      text: |
+        A secure hosted email and productivity platform, designed for providers of all sizes to offer their customers email, calendar, storage, encryption and more.
   blogger and sites:
     - title: Blogger/Sites
     - name: Joomla
