@@ -158,10 +158,10 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
-| [Sympa](https://www.sympa.org/) |  | Sympa is an open source mailing list manager. It provides advanced features with a rich and secure web interface. |
+| [Sympa](https://www.sympa.org/) |  | Sympa is an open-source mailing list manager. It provides advanced features with a rich and secure web interface. |
 | [GNU Mailman](https://list.org/) |  | Mailman is free software for managing electronic mail discussion and e-newsletter lists. Mailman is integrated with the web, making it easy for users to manage their accounts and for list owners to administer their lists. Mailman supports built-in archiving, automatic bounce processing, content filtering, digest delivery, spam filters, and more. |
-| [Discourse](https://discourse.group/) | **5-eyes** | Discourse is the 100% open source discussion platform built for the next decade of the Internet. Use it as a mailing list, discussion forum, or long-form chat room. |
-| [Groups.io](https://groups.io/) | **5-eyes** | a privacy focused email list system that does not track you, nor your members. It is not open source. Data is hosted on one central server but the server is encrypted. It has modern email group features such as a wiki, integrations, and RSS import support. |
+| [Discourse](https://discourse.group/) | **5-eyes** | Discourse is the 100% open-source discussion platform built for the next decade of the Internet. Use it as a mailing list, discussion forum, or long-form chat room. |
+| [Groups.io](https://groups.io/) | **5-eyes** | a privacy focused email list system that does not track you, nor your members. It is not open-source. Data is hosted on one central server but the server is encrypted. It has modern email group features such as a wiki, integrations, and RSS import support. |
 
 - *Use other forum sites relating to specific topics. This is a very broad service.*
 
@@ -230,7 +230,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | [GoAccess](https://goaccess.io/) |  | An open-source web server analysis tool. Installs on your web server (ideally), but works just as well if you download your logs someplace else. Interactive; cursor around in the report and see what's going on. Can generate HTML reports. Can also generate realtime interactive HTML reports if you run it in server mode. Lightweight, only requires UTF-8 support and ncurses (ncursesw, if you want a UTF-8 enabled console). Available in the default package repositories of multiple Linux distros. Thanks @virtadpt |
 | [Offen](https://www.offen.dev/) |  | Open-source and self-hosted, Offen is a fair and lightweight web analytics alternative that treats operators and users as equal parties. |
 | [Umami](https://umami.is/) |  | A simple, easy to use, open-source/self-hosted web analytics solution. |
-| [Kindmetrics](https://kindmetrics.io) | **5/14-eyes** | A open source analytics tool. Landing page and company is based in Sweden, CDN in EU, Servers on Digitalocean (USA) datacenter in Germany. |
+| [Kindmetrics](https://kindmetrics.io) | **5/14-eyes** | A open-source analytics tool. Landing page and company is based in Sweden, CDN in EU, Servers on Digitalocean (USA) datacenter in Germany. |
 | [userTrack](https://www.usertrack.net/) |  | Self-hosted alternative to Google Analytics, similar to Matomo but cheaper for premium features. Includes user segments, heatmaps, session recordings and A/B testing. |
 | [Piwik Pro](https://piwik.pro/) | **5-eyes** | An analytics suite with a focus on user privacy and data security. |
 
@@ -331,7 +331,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | [Keybase](https://keybase.io/) | **5-eyes** | encrypted chat like Signal with features like Slack. Does not require a phone number to sign up. Also has file storage. **Note:** Keybase was acquired by Zoom, Inc. in May 2020 ([Keybase blog](https://keybase.io/blog/keybase-joins-zoom), [Zoom blog](https://blog.zoom.us/wordpress/2020/05/07/zoom-acquires-keybase-and-announces-goal-of-developing-the-most-broadly-used-enterprise-end-to-end-encryption-offering/)). Thanks @notpushkin & @multimob. |
 | [Jitsi](https://jitsi.org/) | **5-eyes** | Jitsi is an open-source secure video conferencing platform. No account is needed to use it, simply enter a Room Name to join or host a meeting. The host is able to kick rogue users from the call. Works directly in your browser, with apps available for iOS and Android. It is not necessary to self-host, but self-hosting is an option for those who wish to. Very low latency and easy to set up. A free public server is available at [meet.jit.si](https://meet.jit.si). (**5-eyes** server) |
 | [Jami](https://jami.net/) | **5-eyes** | Audio / Video Calls, Conferences, Messaging app with peer-to-peer and end-to-end encrypted communications. |
-| [Mumble](https://www.mumble.info/) |  | A free, open source, low latency, high quality voice chat application. |
+| [Mumble](https://www.mumble.info/) |  | A free, open-source, low latency, high quality voice chat application. |
 
 - *See [this article](https://outline.com/BK8f7h) for why I didn't include WhatsApp and why you should NOT use it (if someone has a better Outline link, that would be much appreciated).*
 - *I have also **removed** Telegram. See [Issue #29](https://github.com/tycrek/degoogle/issues/29) from @arsv.*
@@ -385,7 +385,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | [Music Player Daemon](https://www.musicpd.org/) |  | A "flexible, powerful, server-side application for playing music". |
 | [Popcorn Time](https://popcorntime.sh/faq) |  | Open-source software for desktop and mobile that let you easily stream movie/TV torrents. **Be careful if your country or ISP has policies against torrenting, a VPN is recommended.** Thanks @je-vv |
 | [Nuclear Music Player](https://nuclear.js.org/) |  | Streaming music player that finds music from free sources automatically. |
-| [Tribler](https://www.tribler.org/) |  | Open source peer-to-peer file sharing that provides a "Youtube"-like streaming experience. Tribler uses Tor-like onion routing to protect the privacy of its users. |
+| [Tribler](https://www.tribler.org/) |  | Open-source peer-to-peer file sharing that provides a "Youtube"-like streaming experience. Tribler uses Tor-like onion routing to protect the privacy of its users. |
 
 - *I can no longer recommend [Emby](https://emby.media/) as they are [no longer open-source](https://www.linuxuprising.com/2018/12/jellyfin-free-software-emby-media.html).*
 - *Thanks to u/eA8KESARaW6iqCpHsbE4 for suggesting Jellyfin and pointing out that Emby isn't open-source.*
