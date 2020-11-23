@@ -467,6 +467,7 @@ No known alternatives.
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
+| [GalliumOS](https://galliumos.org/) |  | "A fast and lightweight Linux distro for ChromeOS devices". Based on Xubuntu. |
 | [Qubes OS](https://www.qubes-os.org/) |  | "A reasonably secure operating system", at least according to their website. Edward Snowden recommends it. |
 | [Subgraph OS](https://subgraph.com/index.en.html) |  | A desktop computing and communications platform that is designed to be resistant to network-borne exploit and malware attacks. |
 | [Tails](https://tails.boum.org/) |  | For the uber-paranoid. Runs live and the entire OS is routed through Tor right from boot. Built on Debian. |
