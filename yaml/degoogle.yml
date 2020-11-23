@@ -365,6 +365,11 @@ web based products:
       eyes: null
       text: |
         Self-hosted calendar server written in Python. WebUI for desktop, CalDav/CardDav for mobile sync. Can use a reverse proxy with Nginx for HTTPS.
+    - name: Mailfence Calendar
+      url: https://www.mailfence.com
+      eyes: 14
+      text: |
+        Supports vCal/iCal import, export and can be accessed by using CalDAV. Users can share their calendars with group members and can also create polls.
   docs:
     - title: Docs/Sheets/Slides (cloud)
     - name: CryptPad
@@ -493,6 +498,11 @@ web based products:
       eyes: 9
       text: |
         French based cloud storage provider with free and paid plans. Can also be self-hosted. Open-Source. And it also offers a collaborative notes editor.
+    - name: Mailfence Documents
+      url: https://www.mailfence.com
+      eyes: 14
+      text: |
+        Documents can be accessed using WebDAV or edited online. Users can drag and drop files in folders and categorize them with tags.
   hangouts:
     - title: Hangouts (text/video messaging)
     - notes:
