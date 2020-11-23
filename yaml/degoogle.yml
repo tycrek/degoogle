@@ -719,6 +719,11 @@ web based products:
       eyes: null
       text: |
         Streaming music player that finds music from free sources automatically.
+    - name: Tribler
+      url: https://www.tribler.org/
+      eyes: null
+      text: |
+        Open source peer-to-peer file sharing that provides a "Youtube"-like streaming experience. Tribler uses Tor-like onion routing to protect the privacy of its users.
   fonts:
     - title: Fonts
     - name: Open Font Library

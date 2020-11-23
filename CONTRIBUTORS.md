@@ -65,6 +65,7 @@ GitHub:
 - [@rkingett](https://github.com/rkingett)
 - [@komape](https://github.com/komape)
 - [@jefersonralmeida](https://github.com/jefersonralmeida)
+- [@codedust](https://github.com/codedust)
 
 Reddit:
 
