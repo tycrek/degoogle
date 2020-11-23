@@ -1306,11 +1306,12 @@ mobile applications:
       eyes: null
       text: |
         Primarily European, this is an open-source public transport app. Thanks to @lgiard
-    - name: Offi or Oeffi
+    - name: Öffi (Offi)
       url: https://oeffi.schildbach.de/
+      fdroid: de.schildbach.oeffi
       eyes: null
       text: |
-        Another recommendation from @lgiard, this app is also for public transport.
+        Öffi is a public transport Android app (also shows delays and replacement bus service for more and more transport authorities in Europe and beyond) - similar to Transportr
   news:
     - title: News
     - name: Flym
