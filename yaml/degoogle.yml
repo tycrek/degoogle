@@ -652,6 +652,11 @@ web based products:
       eyes: null
       text: |
         Your Markdown notes stores in any Git Repo. Available for both Android (Play Store) and iOS.
+    - name: Nextcloud Notes
+      url: https://apps.nextcloud.com/apps/notes
+      eyes: null
+      text: |
+        A distraction free notes taking app for Nextcloud. It provides categories for better organization and supports formatting using Markdown syntax. Notes are saved as files in your Nextcloud, so you can view and edit them with every Nextcloud client.
   music tv movies:
     - title: Play Music, Movies, & TV
     - notes:
@@ -1246,6 +1251,12 @@ mobile applications:
       eyes: null
       text: |
         A beautiful, light and minimalistic notes app with no trackers, ads or analytics of any kind. Not on F-Droid, but available from [this alternative market](https://apt.izzysoft.de/fdroid/index/apk/com.omgodse.notally).
+    - name: Nextcloud Notes for Android
+      url: https://github.com/stefan-niedermann/nextcloud-notes
+      fdroid: it.niedermann.owncloud.notes
+      eyes: null
+      text: |
+        An android client for Nextcloud Notes App.
   maps and waze:
     - title: Maps/Waze
     - name: Maps
