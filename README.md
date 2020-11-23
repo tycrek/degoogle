@@ -232,7 +232,7 @@ When contributing, **please follow the rules outlined in [CONTRIBUTING.md](https
 | [Umami](https://umami.is/) |  | A simple, easy to use, open-source/self-hosted web analytics solution. |
 | [Kindmetrics](https://kindmetrics.io) | **5/14-eyes** | A open-source analytics tool. Landing page and company is based in Sweden, CDN in EU, Servers on Digitalocean (USA) datacenter in Germany. |
 | [userTrack](https://www.usertrack.net/) |  | Self-hosted alternative to Google Analytics, similar to Matomo but cheaper for premium features. Includes user segments, heatmaps, session recordings and A/B testing. |
-| [Piwik Pro](https://piwik.pro/) | **5-eyes** | An analytics suite with a focus on user privacy and data security. |
+| [Piwik PRO](https://piwik.pro/) | **5-eyes** | An analytics suite with a focus on user privacy and data security. |
 
 
 
