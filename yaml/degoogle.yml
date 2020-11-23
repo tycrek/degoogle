@@ -291,7 +291,7 @@ web based products:
       eyes: null
       text: |
         Self-hosted alternative to Google Analytics, similar to Matomo but cheaper for premium features. Includes user segments, heatmaps, session recordings and A/B testing.
-    - name: Piwik Pro
+    - name: Piwik PRO
       url: https://piwik.pro/
       eyes: 5
       text: |
