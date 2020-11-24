@@ -1451,7 +1451,7 @@ mobile applications:
       url: https://briarproject.org/
       eyes: null
       text: |
-        An open source app which supports Peer-to-Peer encrypted messaging. No phone number required for signing up. If the internet’s down, Briar can sync via Bluetooth or Wi-Fi, keeping the information flowing in a crisis. If the internet’s up, Briar can sync via the Tor network, protecting users and their relationships from surveillance.
+        An open source app which supports Peer-to-Peer encrypted messaging. No phone number required for signing up. If the internet’s down, Briar can sync via Bluetooth or Wi-Fi, keeping the information flowing in a crisis. If the internet’s up, Briar can sync via the Tor network, protecting users and their relationships from surveillance. Can install through a [third-party F-Droid repo](https://briarproject.org/installing-briar-via-f-droid/).
   duo:
     - title: Duo (video calls)
     - name: Jitsi Meet (F-Droid)
