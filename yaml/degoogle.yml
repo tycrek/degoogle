@@ -565,6 +565,11 @@ web based products:
       eyes: null
       text: |
         A free, [open-source](https://github.com/mumble-voip), low latency, high quality voice chat application.
+    - name: Session
+      url: https://getsession.org/
+      eyes: null
+      text: |
+        [Open-source](https://github.com/loki-project?type=source). It is an end-to-end encrypted messenger that removes sensitive metadata collection. No phone number required to create an account.
   gmail:
     - title: Gmail (mail service)
     - notes:
@@ -1451,7 +1456,12 @@ mobile applications:
       url: https://briarproject.org/
       eyes: null
       text: |
-        An open source app which supports Peer-to-Peer encrypted messaging. No phone number required for signing up. If the internet’s down, Briar can sync via Bluetooth or Wi-Fi, keeping the information flowing in a crisis. If the internet’s up, Briar can sync via the Tor network, protecting users and their relationships from surveillance. Can install through a [third-party F-Droid repo](https://briarproject.org/installing-briar-via-f-droid/).
+        An [open-source](https://code.briarproject.org/briar/briar/tree/master) app which supports Peer-to-Peer encrypted messaging. No phone number required for signing up. If the internet’s down, Briar can sync via Bluetooth or Wi-Fi, keeping the information flowing in a crisis. If the internet’s up, Briar can sync via the Tor network, protecting users and their relationships from surveillance. Can install through a [third-party F-Droid repo](https://briarproject.org/installing-briar-via-f-droid/).
+    - name: Session
+      url: https://getsession.org/
+      eyes: null
+      text: |
+        [Open-source](https://github.com/loki-project?type=source). It is an end-to-end encrypted messenger that removes sensitive metadata collection. No phone number required to create an account. Can be downloaded from the Play Store or as an APK file from GitHub. Also has apps for iOS and Desktop.
   duo:
     - title: Duo (video calls)
     - name: Jitsi Meet (F-Droid)
