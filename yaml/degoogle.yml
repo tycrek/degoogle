@@ -1447,6 +1447,11 @@ mobile applications:
       eyes: null
       text: |
         Third-party Android client for Mumble.
+    - name: Briar
+      url: https://briarproject.org/
+      eyes: null
+      text: |
+        An open source app which supports Peer-to-Peer encrypted messaging. No phone number required for signing up. If the internet’s down, Briar can sync via Bluetooth or Wi-Fi, keeping the information flowing in a crisis. If the internet’s up, Briar can sync via the Tor network, protecting users and their relationships from surveillance.
   duo:
     - title: Duo (video calls)
     - name: Jitsi Meet (F-Droid)
