@@ -844,6 +844,11 @@ operating systems:
       eyes: 5
       text: |
         Free Android distribution. Puts the emphasis on "freedom and privacy/security".
+    - name: CalyxOS
+      url: https://calyxos.org/
+      eyes: null
+      text: |
+        [Open-source](https://gitlab.com/CalyxOS) Android-based OS with an emphasis on security and privacy. Provides good combination of privacy and security together with usability. Optional support for MicroG.
   chromeos:
     - title: Chrome OS
     - name: GalliumOS
