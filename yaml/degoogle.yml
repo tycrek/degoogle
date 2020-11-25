@@ -654,6 +654,11 @@ web based products:
       eyes: null
       text: |
         Privacy-focused email provider located in Iceland.
+    - name: Anonaddy
+      url: https://anonaddy.com/
+      eyes: 9
+      text: |
+        [Open-source](https://github.com/anonaddy/anonaddy) Anonymous forwarding email service. Forwarded email can be encrypted (OpenPGP) to prevent Google from reading it. Accepts cryptocurrencies (including Monero).
   keep:
     - title: Keep
     - name: Joplin
