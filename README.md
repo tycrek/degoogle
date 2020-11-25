@@ -20,7 +20,7 @@
 
 ### *I don't have anything to hide, but I don't have anything to show you either.*
 
-![Updated](https://img.shields.io/static/v1?label=updated&message=November%2024th%202020&color=388E3C&style=flat-square)
+![Updated](https://img.shields.io/static/v1?label=updated&message=November%2025th%202020&color=388E3C&style=flat-square)
 
 ![GitHub](https://img.shields.io/github/license/tycrek/degoogle?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/tycrek/degoogle?style=flat-square)
@@ -358,6 +358,7 @@ When contributing, **please follow the rules outlined in [CONTRIBUTING.md](https
 | [Thexyz](https://www.thexyz.com/) | **5-eyes** | Thexyz is a Canadian company offering privacy-conscious business email. Premium webmail costs USD $2.95 per month. |
 | [Mailfence](https://www.mailfence.com) | **14-eyes** | A secure and private email provider much like Protonmail and Tutanota. There are no google analytics nor hidden cookies. There are options to pay anonymously via cryptocurrency. It features a wide array of collaboration tools, such as groups, calendar, contacts, documents with editing space. Offers free, paid, and freemium plans. Can pay with cryptocurrency and has a [warrant canary](https://blog.mailfence.com/transparency-report-and-warrant-canary/). Thanks @resto1231 |
 | [CTemplar](https://ctemplar.com/) |  | Privacy-focused email provider located in Iceland. |
+| [Anonaddy](https://anonaddy.com/) | **9-eyes** | [Open-source](https://github.com/anonaddy/anonaddy) Anonymous forwarding email service. Forwarded email can be encrypted (OpenPGP) to prevent Google from reading it. Accepts cryptocurrencies (including Monero). |
 
 - *This is just for the Gmail service, not a client*
 
@@ -460,6 +461,7 @@ No known alternatives.
 | [CopperheadOS](https://copperhead.co/android) | **5-eyes-eyes** | A security and privacy focused mobile operating system compatible with Android apps. Available as Google-free secure Android on the latest secure android phone. |
 | [postmarketOS](https://postmarketos.org/) |  | [Open-source](https://gitlab.com/postmarketOS) mobile Linux OS. Can install different user interfaces such as [Plasma Mobile](https://www.plasma-mobile.org/). Thanks @okias |
 | [Replicant](https://replicant.us/) | **5-eyes** | Free Android distribution. Puts the emphasis on "freedom and privacy/security". |
+| [CalyxOS](https://calyxos.org/) |  | [Open-source](https://gitlab.com/CalyxOS) Android-based OS with an emphasis on security and privacy. Provides good combination of privacy and security together with usability. Optional support for MicroG. |
 
 - *You'll either need a rooted device with an unlocked bootloader, or a specific device depending on which OS you like.*
 - *Please see Issue #55 for details on /e/.*
