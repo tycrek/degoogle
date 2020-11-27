@@ -67,6 +67,7 @@ GitHub:
 - [@jefersonralmeida](https://github.com/jefersonralmeida)
 - [@codedust](https://github.com/codedust)
 - [@shivasagarrao](https://github.com/shivasagarrao)
+- [@0xflotus](https://github.com/0xflotus)
 
 Reddit:
 
