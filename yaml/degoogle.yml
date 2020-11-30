@@ -170,6 +170,11 @@ web based products:
       eyes: 5
       text: |
         Emails you when your selected keywords are mentioned on Reddit, Hacker News, or Lobsters.
+    - name: Notifier for Reddit
+      url: https://notifierforreddit.com/
+      eyes: 5
+      text: |
+        Notifies you when your searched for text occurs on Reddit.
   gsuite:
     - title: G Suite (enterprise cloud)
     - name: Nextcloud
