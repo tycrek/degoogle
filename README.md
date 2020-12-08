@@ -20,7 +20,7 @@
 
 ### *I don't have anything to hide, but I don't have anything to show you either.*
 
-![Updated](https://img.shields.io/static/v1?label=updated&message=November%2025th%202020&color=388E3C&style=flat-square)
+![Updated](https://img.shields.io/static/v1?label=updated&message=December%208th%202020&color=388E3C&style=flat-square)
 
 ![GitHub](https://img.shields.io/github/license/tycrek/degoogle?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/tycrek/degoogle?style=flat-square)
@@ -170,7 +170,7 @@ When contributing, **please follow the rules outlined in [CONTRIBUTING.md](https
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
-| [DeepL](https://deepl.com/) | **14-eyes** | DeepL is an artificial intelligence translation service. **Please keep in mind DeepL tracks the text you translate unless you purchase Pro**. See sections 4 & 5 of their [privacy policy](https://www.deepl.com/privacy.html) for more information. Thanks u/TheCy-FiJuggernaut |
+| [DeepL](https://deepl.com/) | **14-eyes** | DeepL is an artifical intelligence translation service. **Please keep in mind DeepL tracks the text you translate unless you purchase Pro**. See sections 4 & 5 of their [privacy policy](https://www.deepl.com/privacy.html) for more information. Thanks u/TheCy-FiJuggernaut |
 | [Apertium](https://apertium.org/) |  | A free, [open-source](https://github.com/apertium/apertium) translation system. |
 
 
@@ -352,7 +352,7 @@ When contributing, **please follow the rules outlined in [CONTRIBUTING.md](https
 | [SimpleLogin](https://simplelogin.io/) |  | [Open-source](https://github.com/simple-login/), self-hosted, and privacy focused email forwarding service. |
 | [Migadu](https://www.migadu.com/en/index.html) |  | Paid email provider, located in Switzerland. Focus on privacy. |
 | [Fastmail](https://fastmail.com/) | **5-eyes** | Paid email provider, located in Australia and US. |
-| [Runbox](https://runbox.com/why-runbox/privacy-protection/) | **9-eyes** | Privacy focused email provider. Thanks @petertorelli |
+| [Runbox](https://runbox.com/why-runbox/privacy-protection/) | **9-eyes** | Privacy focusued email provider. Thanks @petertorelli |
 | [nextCloud](https://help.nextcloud.com/t/nextcloud-mail-server/157) |  | Now also provides an email service (self-hosted). Thanks @je-vv |
 | [Anonymize.com Email](https://anonymize.com/) |  | Paid secure email service provided by Epik.com. |
 | [Thexyz](https://www.thexyz.com/) | **5-eyes** | Thexyz is a Canadian company offering privacy-conscious business email. Premium webmail costs USD $2.95 per month. |
@@ -980,3 +980,7 @@ It's a shame that Google, with their immense resources, power, and influence, do
 Hopefully this guide can serve as a starting point for those new to privacy, or be a good refresher for the experts.
 
 Good luck and stay safe!
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/tycrek/degoogle.svg)](https://starchart.cc/tycrek/degoogle)
