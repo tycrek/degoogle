@@ -629,6 +629,14 @@ web based products:
       eyes: 9
       text: |
         Privacy focusued email provider. Thanks @petertorelli
+    - name: NextCloud
+      url: https://help.nextcloud.com/t/nextcloud-mail-server/157
+      eyes: null
+      text: |
+        Nextcloud provides webmail interface that can be used to access email from various provider. 
+        https://github.com/nextcloud/mail
+        https://github.com/pierre-alain-b/rainloop-nextcloud
+        Thanks @je-vv
     - name: Anonymize.com Email
       url: https://anonymize.com/
       eyes: null
