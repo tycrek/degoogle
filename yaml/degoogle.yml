@@ -629,11 +629,6 @@ web based products:
       eyes: 9
       text: |
         Privacy focusued email provider. Thanks @petertorelli
-    - name: nextCloud
-      url: https://help.nextcloud.com/t/nextcloud-mail-server/157
-      eyes: null
-      text: |
-        Now also provides an email service (self-hosted). Thanks @je-vv
     - name: Anonymize.com Email
       url: https://anonymize.com/
       eyes: null
