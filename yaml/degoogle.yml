@@ -354,7 +354,7 @@ web based products:
       url: https://www.etesync.com
       eyes: null
       text: |
-        Secure, end-to-end encrypted, and [open-source](https://www.etesync.com/) sync for your contacts, calendars and tasks.
+        Secure, end-to-end encrypted, and [open-source](https://github.com/etesync) sync for your contacts, calendars, tasks and notes.
     - name: Baïkal
       url: https://sabre.io/baikal/
       eyes: null
@@ -686,7 +686,7 @@ web based products:
       url: https://www.etesync.com
       eyes: null
       text: |
-        Secure, end-to-end encrypted, and [open-source](https://github.com/etesync) sync for your contacts, calendars and tasks.
+        Secure, end-to-end encrypted, and [open-source](https://github.com/etesync) sync for your contacts, calendars, tasks and notes.
     - name: GitJournal
       url: https://gitjournal.io/
       eyes: null
@@ -1090,6 +1090,12 @@ mobile applications:
       eyes: null
       text: |
         [Open-source](https://github.com/SimpleMobileTools/Simple-Calendar). Part of the [Simple Mobile Tools](https://github.com/SimpleMobileTools) project.
+    - name: EteSync
+      url: https://www.etesync.com
+      fdroid: com.etesync.syncadapter
+      eyes: null
+      text: |
+        Secure, end-to-end encrypted, and [open-source](https://github.com/etesync) sync for your contacts, calendars, tasks and notes.
   camera:
     - title: Camera
     - name: Open Camera
@@ -1140,7 +1146,7 @@ mobile applications:
       fdroid: com.etesync.syncadapter
       eyes: null
       text: |
-        Secure, end-to-end encrypted, and [open-source](https://github.com/etesync) sync for your contacts, calendars and tasks.
+        Secure, end-to-end encrypted, and [open-source](https://github.com/etesync) sync for your contacts, calendars, tasks and notes.
   messages:
     - title: Android Messages (specifically SMS/MMS, not IM)
     - name: QKSMS
@@ -1312,6 +1318,12 @@ mobile applications:
       eyes: null
       text: |
         An android client for Nextcloud Notes App.
+    - name: EteSync
+      url: https://www.etesync.com
+      fdroid: com.etesync.notes
+      eyes: null
+      text: |
+        Secure, end-to-end encrypted, and [open-source](https://github.com/etesync) sync for your contacts, calendars, tasks and notes.
   maps and waze:
     - title: Maps/Waze
     - name: Maps
