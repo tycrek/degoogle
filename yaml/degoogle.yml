@@ -15,7 +15,8 @@ web based products:
       url: https://searx.me/
       eyes: null
       text: |
-        [Open-source](https://github.com/asciimoo/searx) (thanks for clarification u/Sheezdudeln) privacy search engine. Domain hosted in Germany.
+        Open-source (thanks for clarification u/Sheezdudeln) privacy search engine. Domain hosted in Germany.
+      repo: https://github.com/asciimoo/searx
     - name: MetaGer
       url: https://metager.org/about
       eyes: 14
@@ -50,7 +51,8 @@ web based products:
       url: https://infinitysearch.co/
       eyes: 5
       text: |
-        Infinity Search is a privacy metasearch engine that does not log any information about its users. In terms of privacy, it works the same way as DuckDuckGo. It is free to use and is funded by non-tracking advertisements and affiliate links. It is also completely [open-source](https://gitlab.com/infinitysearch/infinity-search).
+        Infinity Search is a privacy metasearch engine that does not log any information about its users. In terms of privacy, it works the same way as DuckDuckGo. It is free to use and is funded by non-tracking advertisements and affiliate links. It is also completely open-source.
+      repo: https://gitlab.com/infinitysearch/infinity-search
     - name: Runnaroo
       url: https://www.runnaroo.com/
       eyes: 5
@@ -82,7 +84,8 @@ web based products:
       url: https://invidio.us/
       eyes: null
       text: |
-        An [open-source](https://github.com/omarroth/invidious) front-end alternative to YouTube. Seems to work pretty well from my experience so far, and it hasn't triggered *anything* on my adblocker/privacy extensions. Also offers downloads in many formats for videos (including `.vtt` subtitles).
+        An open-source front-end alternative to YouTube. Seems to work pretty well from my experience so far, and it hasn't triggered *anything* on my adblocker/privacy extensions. Also offers downloads in many formats for videos (including `.vtt` subtitles).
+      repo: https://github.com/omarroth/invidious
     - name: Hooktube
       url: https://hooktube.com/
       eyes: null
@@ -92,7 +95,8 @@ web based products:
       url: https://lbry.com/
       eyes: null
       text: |
-        A decentralized platform for distributing and supporting creators's work. It aims to be Open, Community driven "digital marketplace". It can be used in a similar way to YouTube: browsing, subscribing to channels, there is a mechanism to send "tips" to creators. Looks up videos based on a blockchain and is [open-source](https://github.com/lbryio) and uncensored. It already has some "larger" creators like Minutephysics, Veritasium, Barnacules and Lunduke.
+        A decentralized platform for distributing and supporting creators's work. It aims to be Open, Community driven "digital marketplace". It can be used in a similar way to YouTube: browsing, subscribing to channels, there is a mechanism to send "tips" to creators. Looks up videos based on a blockchain and is open-source and uncensored. It already has some "larger" creators like Minutephysics, Veritasium, Barnacules and Lunduke.
+      repo: https://github.com/lbryio
     - name: US.TV
       url: https://us.tv/
       eyes: null
@@ -102,12 +106,14 @@ web based products:
       url: https://freetubeapp.io/
       eyes: null
       text: |
-        [Open-source](https://github.com/FreeTubeApp/FreeTube) desktop YouTube client that uses the Invidio.us API to serve content.
+        Open-source desktop YouTube client that uses the Invidio.us API to serve content.
+      repo: https://github.com/FreeTubeApp/FreeTube
     - name: youtube-local
       url: https://github.com/user234683/youtube-local
       eyes: null
       text: |
-        [Open-source](https://github.com/user234683/youtube-local) browser-based client for watching Youtube anonymously and with greater page performance. Non-video requests can be routed through Tor. Optionally the videos can be routed through Tor as well. Can be used without Javascript. No server software installation required. Uses self-hosted subscriptions and playlists.
+        Open-source browser-based client for watching Youtube anonymously and with greater page performance. Non-video requests can be routed through Tor. Optionally the videos can be routed through Tor as well. Can be used without Javascript. No server software installation required. Uses self-hosted subscriptions and playlists.
+      repo: https://github.com/user234683/youtube-local
   news:
     - title: News
     - name: Local newspaper
@@ -124,7 +130,8 @@ web based products:
       url: https://miniflux.app/
       eyes: null
       text: |
-        Miniflux is a minimalist and opinionated feed reader. Completely [open-source](https://github.com/miniflux), along with automatically removing pixel trackers.
+        Miniflux is a minimalist and opinionated feed reader. Completely open-source, along with automatically removing pixel trackers.
+      repo: https://github.com/miniflux
   groups:
     - title: Groups
     - notes:
@@ -133,7 +140,8 @@ web based products:
       url: https://www.sympa.org/
       eyes: null
       text: |
-        Sympa is an [open-source](https://github.com/sympa-community/sympa) mailing list manager. It provides advanced features with a rich and secure web interface.
+        Sympa is an open-source mailing list manager. It provides advanced features with a rich and secure web interface.
+      repo: https://github.com/sympa-community/sympa
     - name: GNU Mailman
       url: https://list.org/
       eyes: null
@@ -143,7 +151,8 @@ web based products:
       url: https://discourse.group/
       eyes: 5
       text: |
-        Discourse is the 100% [open-source](https://github.com/discourse/discourse) discussion platform built for the next decade of the Internet. Use it as a mailing list, discussion forum, or long-form chat room.
+        Discourse is the 100% open-source discussion platform built for the next decade of the Internet. Use it as a mailing list, discussion forum, or long-form chat room.
+      repo: https://github.com/discourse/discourse
     - name: Groups.io
       url: https://groups.io/
       eyes: 5
@@ -160,12 +169,14 @@ web based products:
       url: https://apertium.org/
       eyes: null
       text: |
-        A free, [open-source](https://github.com/apertium/apertium) translation system.
+        A free, open-source translation system.
+      repo: https://github.com/apertium/apertium
     - name: LibreTranslate
       url: https://libretranslate.com/
       eyes: null
       text: |
-        A free and [open-source](https://github.com/uav4geo/LibreTranslate) machine-translation API which can be self-hosted.
+        A free and open-source machine-translation API which can be self-hosted.
+      repo: https://github.com/uav4geo/LibreTranslate
   ads:
     - title: Google Ads/AdMob/AdSense
     - name: EthicalAds
@@ -196,14 +207,16 @@ web based products:
       url: https://sandstorm.io/
       eyes: null
       text: |
-        An [open-source](https://github.com/sandstorm-io/sandstorm) self-hosted web hosting platform for a wide set of web applications, including Etherpad (collaborative text editing), Radicale (calendar), Lychee (image hosting), Wekan (Kanban)
+        An open-source self-hosted web hosting platform for a wide set of web applications, including Etherpad (collaborative text editing), Radicale (calendar), Lychee (image hosting), Wekan (Kanban)
+      repo: https://github.com/sandstorm-io/sandstorm
   blogger and sites:
     - title: Blogger/Sites
     - name: Joomla
       url: https://www.joomla.org/
       eyes: null
       text: |
-        Self-hosted and [open-source](https://github.com/joomla) content management system (CMS).
+        Self-hosted and open-source content management system (CMS).
+      repo: https://github.com/joomla
     - name: Write.as
       url: https://write.as/
       eyes: null
@@ -213,12 +226,14 @@ web based products:
       url: https://wordpress.org/
       eyes: null
       text: |
-        The [open-source](https://code.trac.wordpress.org/browser/wordpress-sources) version of WordPress. A very popular tool and a recognized name.
+        The open-source version of WordPress. A very popular tool and a recognized name.
+      repo: https://code.trac.wordpress.org/browser/wordpress-sources
     - name: concrete5
       url: https://www.concrete5.org/
       eyes: 5
       text: |
-        [Open-source](https://github.com/concrete5) CMS.
+        Open-source CMS.
+      repo: https://github.com/concrete5
     - name: Noblogs
       url: https://noblogs.org/
       eyes: 9
@@ -228,7 +243,8 @@ web based products:
       url: https://ghost.org/
       eyes: null
       text: |
-        [Open-source](https://github.com/TryGhost/Ghost) modern CMS. Boasts "over 19x faster than WordPress". Thanks @peterge1998
+        Open-source modern CMS. Boasts "over 19x faster than WordPress". Thanks @peterge1998
+      repo: https://github.com/TryGhost/Ghost
     - name: Bear
       url: https://bearblog.dev/
       eyes: 5
@@ -245,7 +261,8 @@ web based products:
       url: https://matomo.org/
       eyes: "9/14"
       text: |
-        (Matomo/parent company) - [Open-source](https://github.com/matomo-org/matomo) analytics platform. (thanks u/Newblik)
+        (Matomo/parent company) - Open-source analytics platform. (thanks u/Newblik)
+      repo: https://github.com/matomo-org/matomo
     - name: Fathom
       url: https://usefathom.com/
       eyes: 5
@@ -255,12 +272,14 @@ web based products:
       url: https://plausible.io/
       eyes: 5
       text: |
-        [Open-source](https://github.com/plausible/analytics), privacy-focused web analytics.
+        Open-source, privacy-focused web analytics.
+      repo: https://github.com/plausible/analytics
     - name: GoatCounter
       url: https://www.goatcounter.com/
       eyes: 14
       text: |
-        Simple web statistics. No tracking of personal data. [Open-source](https://github.com/zgoat/goatcounter) and may be self-hosted. Free for non-commercial use; paid plans available.
+        Simple web statistics. No tracking of personal data. open-source and may be self-hosted. Free for non-commercial use; paid plans available.
+      repo: https://github.com/zgoat/goatcounter
     - name: Simple Analytics
       url: https://simpleanalytics.com/
       eyes: 9
@@ -275,7 +294,8 @@ web based products:
       url: https://github.com/milesmcc/shynet
       eyes: null
       text: |
-        Shynet is a self-hosted analytics tool that doesn't make use of cookies. It is privacy focused and fully [open-source](https://github.com/milesmcc/shynet). Thanks @woutfeys
+        Shynet is a self-hosted analytics tool that doesn't make use of cookies. It is privacy focused and fully open-source. Thanks @woutfeys
+      repo: https://github.com/milesmcc/shynet
     - name: Supabase
       url: https://supabase.io/
       eyes: null
@@ -285,22 +305,26 @@ web based products:
       url: https://goaccess.io/
       eyes: null
       text: |
-        An [open-source](https://github.com/allinurl/goaccess) web server analysis tool. Installs on your web server (ideally), but works just as well if you download your logs someplace else. Interactive; cursor around in the report and see what's going on. Can generate HTML reports. Can also generate realtime interactive HTML reports if you run it in server mode. Lightweight, only requires UTF-8 support and ncurses (ncursesw, if you want a UTF-8 enabled console). Available in the default package repositories of multiple Linux distros. Thanks @virtadpt
+        An open-source web server analysis tool. Installs on your web server (ideally), but works just as well if you download your logs someplace else. Interactive; cursor around in the report and see what's going on. Can generate HTML reports. Can also generate realtime interactive HTML reports if you run it in server mode. Lightweight, only requires UTF-8 support and ncurses (ncursesw, if you want a UTF-8 enabled console). Available in the default package repositories of multiple Linux distros. Thanks @virtadpt
+      repo: https://github.com/allinurl/goaccess
     - name: Offen
       url: https://www.offen.dev/
       eyes: null
       text: |
-        [Open-source](https://github.com/offen/offen) and self-hosted, Offen is a fair and lightweight web analytics alternative that treats operators and users as equal parties.
+        Open-source and self-hosted, Offen is a fair and lightweight web analytics alternative that treats operators and users as equal parties.
+      repo: https://github.com/offen/offen
     - name: Umami
       url: https://umami.is/
       eyes: null
       text: |
-        A simple, easy to use, [open-source](https://github.com/mikecao/umami)/self-hosted web analytics solution.
+        A simple, easy to use, open-source/self-hosted web analytics solution.
+      repo: https://github.com/mikecao/umami
     - name: Kindmetrics
       url: https://kindmetrics.io
       eyes: "5/14"
       text: |
-        An [open-source](https://github.com/kindmetrics) analytics tool. Landing page and company is based in Sweden, CDN in EU, Servers on Digitalocean (USA) datacenter in Germany.
+        An open-source analytics tool. Landing page and company is based in Sweden, CDN in EU, Servers on Digitalocean (USA) datacenter in Germany.
+      repo: https://github.com/kindmetrics
     - name: userTrack
       url: https://www.usertrack.net/
       eyes: null
@@ -322,17 +346,20 @@ web based products:
       url: https://photoprism.pro/
       eyes: null
       text: |
-        Self-hosted and [open-source](https://github.com/photoprism/photoprism) Personal Photo Management powered by Go and Google TensorFlow.
+        Self-hosted and open-source Personal Photo Management powered by Go and Google TensorFlow.
+      repo: https://github.com/photoprism/photoprism
     - name: ownPhotos
       url: https://github.com/hooram/ownphotos
       eyes: null
       text: |
-        Self-hosted and [open-source](https://github.com/hooram/ownphotos) Google Photos alternative.
+        Self-hosted and open-source Google Photos alternative.
+      repo: https://github.com/hooram/ownphotos
     - name: Piwigo
       url: https://piwigo.org/
       eyes: 9
       text: |
-        Self-hosted and [open-source](https://github.com/Piwigo) cloud photo manager. You can also sign up for an ["as a service" account](https://piwigo.com).
+        Self-hosted and open-source cloud photo manager. You can also sign up for an ["as a service" account](https://piwigo.com).
+      repo: https://github.com/Piwigo
     - name: JottaCloud
       url: https://jottacloud.com/
       eyes: 9
@@ -352,14 +379,16 @@ web based products:
       url: https://lycheeorg.github.io/
       eyes: null
       text: |
-        An [open-source](https://github.com/LycheeOrg/Lychee) self-hosted photo-management tool that includes built-in support for videos. Thanks @m0yP
+        An open-source self-hosted photo-management tool that includes built-in support for videos. Thanks @m0yP
+      repo: https://github.com/LycheeOrg/Lychee
   calendar:
     - title: Calendar
     - name: Lightning Calendar (Thunderbird)
       url: https://www.thunderbird.net/en-US/calendar/
       eyes: null
       text: |
-        Developed by Mozilla Foundation and [open-source](https://www.thunderbird.net/en-US/get-involved/). Integrates into Thunderbird and SeaMonkey.
+        Developed by Mozilla Foundation and open-source. Integrates into Thunderbird and SeaMonkey.
+      repo: https://www.thunderbird.net/en-US/get-involved
     - name: Tutanota Calendar
       url: https://tutanota.com/calendar/
       eyes: 14
@@ -369,12 +398,14 @@ web based products:
       url: https://fruux.com/
       eyes: 14
       text: |
-        [Open-source](https://fruux.com/opensource/) calendar using "sabre/dav" (FOSS WebDAV, CardDAV, and CalDAV). They mention privacy quite a bit on their site. Very large number of features, and supports nearly every device: Windows, iOS, Linux, Android, BlackBerry, SailFish, and also a webapp for browsers.
+        Open-source calendar using "sabre/dav" (FOSS WebDAV, CardDAV, and CalDAV). They mention privacy quite a bit on their site. Very large number of features, and supports nearly every device: Windows, iOS, Linux, Android, BlackBerry, SailFish, and also a webapp for browsers.
+      repo: https://fruux.com/opensource
     - name: EteSync
       url: https://www.etesync.com
       eyes: null
       text: |
-        Secure, end-to-end encrypted, and [open-source](https://github.com/etesync) sync for your contacts, calendars, tasks and notes.
+        Secure, end-to-end encrypted, and open-source sync for your contacts, calendars, tasks and notes.
+      repo: https://github.com/etesync
     - name: Baïkal
       url: https://sabre.io/baikal/
       eyes: null
@@ -401,17 +432,20 @@ web based products:
       url: https://cryptpad.fr/
       eyes: 9
       text: |
-        [Open-source](https://github.com/xwiki-labs/cryptpad) "zero knowledge" collaborative cloud editor. They offer Rich Text, Code, Presentation, Sheet (beta), Poll, Kanban, Whiteboard, and CryptDrive. 100% Client side encryption. Tons of useful features.
+        Open-source "zero knowledge" collaborative cloud editor. They offer Rich Text, Code, Presentation, Sheet (beta), Poll, Kanban, Whiteboard, and CryptDrive. 100% Client side encryption. Tons of useful features.
+      repo: https://github.com/xwiki-labs/cryptpad
     - name: Etherpad
       url: https://etherpad.org/
       eyes: null
       text: |
-        Self-hosted collaborative editor. Does not use the browser. Not the greatest interface, but it's [open-source](https://github.com/ether) and you have full control over who can see your data.
+        Self-hosted collaborative editor. Does not use the browser. Not the greatest interface, but it's open-source and you have full control over who can see your data.
+      repo: https://github.com/ether
     - name: Cryptee
       url: https://crypt.ee/
       eyes: null
       text: |
-        [Open-source](https://github.com/cryptee) and privacy focused photo and document storage/editing. Based in Estonia, so your files are outside the reach of any 14-eyes country. They don't even require an email address to sign up.
+        Open-source and privacy focused photo and document storage/editing. Based in Estonia, so your files are outside the reach of any 14-eyes country. They don't even require an email address to sign up.
+      repo: https://github.com/cryptee
     - name: LibreOffice Online
       url: https://www.libreoffice.org/download/libreoffice-online/
       eyes: 14
@@ -421,7 +455,8 @@ web based products:
       url: https://www.onlyoffice.com
       eyes: null
       text: |
-        [Open-source](https://github.com/ONLYOFFICE/) private cloud replacement for Google Docs'suite and Office 360. Also available as a self contained rich application.
+        Open-source private cloud replacement for Google Docs'suite and Office 360. Also available as a self contained rich application.
+      repo: https://github.com/ONLYOFFICE
     - name: Arcane Office
       url: https://arcaneoffice.com/
       eyes: null
@@ -433,17 +468,20 @@ web based products:
       url: https://www.libreoffice.org/
       eyes: null
       text: |
-        [Open-source](https://www.libreoffice.org/about-us/source-code/) offline document suites.
+        Open-source offline document suites.
+      repo: https://www.libreoffice.org/about-us/source-code
     - name: LyX
       url: https://www.lyx.org/
       eyes: null
       text: |
-        It's an [open-source](https://www.lyx.org/Development) (and offline) document processor using TeX/LaTeX. It's different than Docs or Word but amazing, once you get used to it.
+        It's an open-source (and offline) document processor using TeX/LaTeX. It's different than Docs or Word but amazing, once you get used to it.
+      repo: https://www.lyx.org/Development
     - name: ONLYOFFICE
       url: https://www.onlyoffice.com/
       eyes: null
       text: |
-        Offline version of ONLYOFFICE, an [open-source](https://github.com/ONLYOFFICE/) private cloud replacement for Google Docs'suite and Office 360. Also available as a self contained rich application. Thanks @PalmoliveDev
+        Offline version of ONLYOFFICE, an open-source private cloud replacement for Google Docs'suite and Office 360. Also available as a self contained rich application. Thanks @PalmoliveDev
+      repo: https://github.com/ONLYOFFICE
     - name: Cryptee
       url: https://crypt.ee/
       eyes: null
@@ -453,7 +491,8 @@ web based products:
       url: https://calligra.org/
       eyes: null
       text: |
-        Calligra Suite is an office and graphic art suite by KDE. It is available for desktop PCs, tablet computers, and smartphones. It contains applications for word processing, spreadsheets, presentation, vector graphics, and editing databases. (Free and [Open-source](https://calligra.org/get-involved/) Software)
+        Calligra Suite is an office and graphic art suite by KDE. It is available for desktop PCs, tablet computers, and smartphones. It contains applications for word processing, spreadsheets, presentation, vector graphics, and editing databases. (Free and open-source Software)
+      repo: https://calligra.org/get-involved
   domains:
     - title: Domains
     - name: Njalla
@@ -472,7 +511,8 @@ web based products:
       url: https://owncloud.org/
       eyes: null
       text: |
-        [Open-source](https://github.com/owncloud) and self-hosted. Provide your own storage.
+        Open-source and self-hosted. Provide your own storage.
+      repo: https://github.com/owncloud
     - name: Nextcloud
       url: https://nextcloud.com/
       eyes: null
@@ -482,7 +522,8 @@ web based products:
       url: https://syncthing.net/
       eyes: 9
       text: |
-        An [open-source](https://github.com/syncthing/) continuous file synchronization program. It synchronizes files between two or more computers in real time, safely protected from prying eyes. Your data is your data alone and you deserve to choose where it is stored, whether it is shared with some third party, and how it's transmitted over the internet.
+        An open-source continuous file synchronization program. It synchronizes files between two or more computers in real time, safely protected from prying eyes. Your data is your data alone and you deserve to choose where it is stored, whether it is shared with some third party, and how it's transmitted over the internet.
+      repo: https://github.com/syncthing
     - name: Sia
       url: https://sia.tech/
       eyes: null
@@ -507,12 +548,14 @@ web based products:
       url: https://www.seafile.com
       eyes: null
       text: |
-        [Open-source](https://github.com/haiwen/seafile) and self-hosted file sync&share solution.
+        Open-source and self-hosted file sync&share solution.
+      repo: https://github.com/haiwen/seafile
     - name: Cozy Cloud
       url: https://cozy.io/
       eyes: 9
       text: |
-        French based cloud storage provider with free and paid plans. Can also be self-hosted and is [open-Source](https://github.com/cozy/cozy-stack). And it also offers a collaborative notes editor.
+        French based cloud storage provider with free and paid plans. Can also be self-hosted and is open-source. And it also offers a collaborative notes editor.
+      repo: https://github.com/cozy/cozy-stack
     - name: Mailfence Documents
       url: https://www.mailfence.com
       eyes: 14
@@ -534,7 +577,8 @@ web based products:
       url: https://signal.org/
       eyes: 5
       text: |
-        (Open-source)[https://github.com/signalapp] secure messaging. Whistleblower and privacy advocate Edward Snowden recommends Signal.
+        Open-source secure messaging. Whistleblower and privacy advocate Edward Snowden recommends Signal.
+      repo: https://github.com/signalapp
     - name: Tox
       url: https://tox.chat/
       eyes: null
@@ -549,7 +593,8 @@ web based products:
       url: https://element.io/
       eyes: 5
       text: |
-        [Open-source](https://github.com/vector-im/) privacy-focused chat service with end-to-end encryption. They offer webapps, desktop apps, iOS, and Android (Play Store and F-Droid). Uses the "Matrix" protocol for decentralized communication.
+        Open-source privacy-focused chat service with end-to-end encryption. They offer webapps, desktop apps, iOS, and Android (Play Store and F-Droid). Uses the "Matrix" protocol for decentralized communication.
+      repo: https://github.com/vector-im
     - name: Threema
       url: https://threema.ch/en
       eyes: null
@@ -564,7 +609,8 @@ web based products:
       url: https://jitsi.org/
       eyes: 5
       text: |
-        Jitsi is an [open-source](https://github.com/jitsi) secure video conferencing platform. No account is needed to use it, simply enter a Room Name to join or host a meeting. The host is able to kick rogue users from the call. Works directly in your browser, with apps available for iOS and Android. It is not necessary to self-host, but self-hosting is an option for those who wish to. Very low latency and easy to set up. A free public server is available at [meet.jit.si](https://meet.jit.si). (**5-eyes** server)
+        Jitsi is an open-source secure video conferencing platform. No account is needed to use it, simply enter a Room Name to join or host a meeting. The host is able to kick rogue users from the call. Works directly in your browser, with apps available for iOS and Android. It is not necessary to self-host, but self-hosting is an option for those who wish to. Very low latency and easy to set up. A free public server is available at [meet.jit.si](https://meet.jit.si). (**5-eyes** server)
+      repo: https://github.com/jitsi
     - name: Jami
       url: https://jami.net/
       eyes: 5
@@ -574,12 +620,14 @@ web based products:
       url: https://www.mumble.info/
       eyes: null
       text: |
-        A free, [open-source](https://github.com/mumble-voip), low latency, high quality voice chat application.
+        A free, open-source, low latency, high quality voice chat application.
+      repo: https://github.com/mumble-voip
     - name: Session
       url: https://getsession.org/
       eyes: null
       text: |
-        [Open-source](https://github.com/loki-project?type=source). It is an end-to-end encrypted messenger that removes sensitive metadata collection. No phone number required to create an account.
+        Open-source. It is an end-to-end encrypted messenger that removes sensitive metadata collection. No phone number required to create an account.
+      repo: https://github.com/loki-project?type=source
   gmail:
     - title: Gmail (mail service)
     - notes:
@@ -588,7 +636,8 @@ web based products:
       url: https://forwardemail.net/
       eyes: null
       text: |
-        A free and [open-source](https://github.com/forwardemail) email forwarding service focused on a user's right to privacy.
+        A free and open-source email forwarding service focused on a user's right to privacy.
+      repo: https://github.com/forwardemail
     - name: Protonmail
       url: https://protonmail.com/
       eyes: null
@@ -598,7 +647,8 @@ web based products:
       url: https://tutanota.com/
       eyes: 14
       text: |
-        [Open-source](https://github.com/tutao/tutanota) and one one of the top rated privacy-focused email providers. Located in Germany.
+        Open-source and one one of the top rated privacy-focused email providers. Located in Germany.
+      repo: https://github.com/tutao/tutanota
     - name: Posteo
       url: https://posteo.de/en
       eyes: 14
@@ -623,7 +673,8 @@ web based products:
       url: https://simplelogin.io/
       eyes: null
       text: |
-        [Open-source](https://github.com/simple-login/), self-hosted, and privacy focused email forwarding service.
+        Open-source, self-hosted, and privacy focused email forwarding service.
+      repo: https://github.com/simple-login
     - name: Migadu
       url: https://www.migadu.com/en/index.html
       eyes: 9
@@ -668,19 +719,22 @@ web based products:
       url: https://anonaddy.com/
       eyes: 9
       text: |
-        [Open-source](https://github.com/anonaddy/anonaddy) Anonymous forwarding email service. Forwarded email can be encrypted (OpenPGP) to prevent Google from reading it. Accepts cryptocurrencies (including Monero).
+        Open-source Anonymous forwarding email service. Forwarded email can be encrypted (OpenPGP) to prevent Google from reading it. Accepts cryptocurrencies (including Monero).
+      repo: https://github.com/anonaddy/anonaddy
     - name: Mail-in-a-Box
       url: https://mailinabox.email/
       eyes: null
       text: |
-        [Open-source](https://github.com/mail-in-a-box/mailinabox) self-hosted easy-to-deploy mail server in a box.
+        Open-source self-hosted easy-to-deploy mail server in a box.
+      repo: https://github.com/mail-in-a-box/mailinabox
   keep:
     - title: Keep
     - name: Joplin
       url: https://joplinapp.org/
       eyes: null
       text: |
-        [Open-source](https://github.com/laurent22/joplin) notes/todo app. Available for Windows, macOS, Linux, Android, and iOS. Also offers a terminal version. It can import Evernote `.enex` files if you use that. It can also sync with Nextcloud (mentioned above).
+        Open-source notes/todo app. Available for Windows, macOS, Linux, Android, and iOS. Also offers a terminal version. It can import Evernote `.enex` files if you use that. It can also sync with Nextcloud (mentioned above).
+      repo: https://github.com/laurent22/joplin
     - name: Standard Notes
       url: https://standardnotes.org/
       fdroid: com.standardnotes
@@ -696,12 +750,14 @@ web based products:
       url: https://www.qownnotes.org/
       eyes: null
       text: |
-        [Open-source](https://github.com/pbek/QOwnNotes) file editor with Markdown support. (thanks u/maqp2)
+        Open-source file editor with Markdown support. (thanks u/maqp2)
+      repo: https://github.com/pbek/QOwnNotes
     - name: EteSync
       url: https://www.etesync.com
       eyes: null
       text: |
-        Secure, end-to-end encrypted, and [open-source](https://github.com/etesync) sync for your contacts, calendars, tasks and notes.
+        Secure, end-to-end encrypted, and open-source sync for your contacts, calendars, tasks and notes.
+      repo: https://github.com/etesync
     - name: GitJournal
       url: https://gitjournal.io/
       eyes: null
@@ -716,7 +772,8 @@ web based products:
       url: https://tiddlywiki.com/
       eyes: null
       text: |
-        An [open-source](https://github.com/Jermolene/TiddlyWiki5) personal note-taking system that can run in the browser as a single HTML file or as a NodeJS application. It can be stored locally on a hard drive or removable drive, self-hosted on one's own server, or use various web-based storage options.
+        An open-source personal note-taking system that can run in the browser as a single HTML file or as a NodeJS application. It can be stored locally on a hard drive or removable drive, self-hosted on one's own server, or use various web-based storage options.
+      repo: https://github.com/Jermolene/TiddlyWiki5
   music tv movies:
     - title: Play Music, Movies, & TV
     - notes:
@@ -728,7 +785,8 @@ web based products:
       url: https://jellyfin.org/
       eyes: null
       text: |
-        [Open-source](https://github.com/jellyfin) alternative to the Play media services. You do need to provide your own content, however. In active development with frequent updates (to the source, that is).
+        Open-source alternative to the Play media services. You do need to provide your own content, however. In active development with frequent updates (to the source, that is).
+      repo: https://github.com/jellyfin
     - name: Funkwhale
       url: https://funkwhale.audio/
       eyes: null
@@ -738,7 +796,8 @@ web based products:
       url: https://airsonic.github.io/
       eyes: null
       text: |
-        Self-hosted [open-source](https://github.com/airsonic/airsonic) media streamer. Has features for transcoding audio on-the-fly for "virtually any audio format". You can also set bandwidth limits if you need to. Looks very powerful.
+        Self-hosted open-source media streamer. Has features for transcoding audio on-the-fly for "virtually any audio format". You can also set bandwidth limits if you need to. Looks very powerful.
+      repo: https://github.com/airsonic/airsonic
     - name: Music Player Daemon
       url: https://www.musicpd.org/
       eyes: null
@@ -748,7 +807,8 @@ web based products:
       url: https://popcorntime.sh/
       eyes: null
       text: |
-        [Open-source](https://github.com/popcorn-official) software for desktop and mobile that let you easily stream movie/TV torrents. **Be careful if your country or ISP has policies against torrenting, a VPN is recommended.** Thanks @je-vv
+        Open-source software for desktop and mobile that let you easily stream movie/TV torrents. **Be careful if your country or ISP has policies against torrenting, a VPN is recommended.** Thanks @je-vv
+      repo: https://github.com/popcorn-official
     - name: Nuclear Music Player
       url: https://nuclear.js.org/
       eyes: null
@@ -758,12 +818,14 @@ web based products:
       url: https://www.tribler.org/
       eyes: null
       text: |
-        [Open-source](https://github.com/Tribler/tribler) peer-to-peer file sharing that provides a "Youtube"-like streaming experience. Tribler uses Tor-like onion routing to protect the privacy of its users.
+        Open-source peer-to-peer file sharing that provides a "Youtube"-like streaming experience. Tribler uses Tor-like onion routing to protect the privacy of its users.
+      repo: https://github.com/Tribler/tribler
     - name: Ampache
       url: http://ampache.org/
       eyes: null
       text: |
-        [Open-source](https://github.com/ampache/ampache) and self-hosted web based media manager and media server. API available to allow usage on various platforms. On-the-fly transcoding available. Supports both music and video.
+        Open-source and self-hosted web based media manager and media server. API available to allow usage on various platforms. On-the-fly transcoding available. Supports both music and video.
+      repo: https://github.com/ampache/ampache
   fonts:
     - title: Fonts
     - name: Open Font Library
@@ -775,29 +837,34 @@ web based products:
       url: https://google-webfonts-helper.herokuapp.com/fonts
       eyes: 5
       text: |
-        Hassle-free way for webmasters to self-host [open-source](https://github.com/majodev/google-webfonts-helper) fonts from Google Fonts
+        Hassle-free way for webmasters to self-host open-source fonts from Google Fonts
+      repo: https://github.com/majodev/google-webfonts-helper
     - name: Brick
       url:  https://brick.im
       eyes: 9
       text: |
-        [Open-source](https://github.com/alfredxing/brick) fonts that work in a very similar way to Google fonts. Most of the fonts render nicer than Google Fonts.
+        Open-source fonts that work in a very similar way to Google fonts. Most of the fonts render nicer than Google Fonts.
+      repo: https://github.com/alfredxing/brick
   classroom:
     - title: Classroom
     - name: Moodle
       url: https://moodle.org/
       eyes: null
       text: |
-        Self-hosted [open-source](https://github.com/moodle/moodle) Classroom software for schools. Very powerful. Thanks @jankapunkt
+        Self-hosted open-source Classroom software for schools. Very powerful. Thanks @jankapunkt
+      repo: https://github.com/moodle/moodle
     - name: ILIAS
       url: https://www.ilias.de/en/
       eyes: null
       text: |
-        Another self-hosted [open-source](https://github.com/ILIAS-eLearning/ILIAS) classroom software. Thanks again to @jankapunkt
+        Another self-hosted open-source classroom software. Thanks again to @jankapunkt
+      repo: https://github.com/ILIAS-eLearning/ILIAS
     - name: Canvas
       url: https://www.instructure.com/canvas
       eyes: null
       text: |
-        Paid service by Instructure. Also available as a self-hosted, [open-source](https://github.com/instructure/canvas-lms) option. To ensure privacy, use the self-hosted option.
+        Paid service by Instructure. Also available as a self-hosted, open-source option. To ensure privacy, use the self-hosted option.
+      repo: https://github.com/instructure/canvas-lms
   maps:
     - title: Maps/Street View
     - name: OpenStreetMap
@@ -821,7 +888,8 @@ web based products:
       url: https://transportr.app/
       eyes: null
       text: |
-        An [open-source](https://github.com/grote/Transportr) Transit app on Android that takes information from several providers (e.g Deutsche Bahn in Germany) and enables you to use them in the app. Visualises the routes on an online OpenStreetMap map. Works in most of Western-Europe, as well as the USA, Australia, Canada, New Zealand, Brazil, Nicaragua, Costa Rica, the UAE and Ghana. **Beware: most information-providers only have beta or alpha support, it may be a good idea to keep a second app as a fallback option**
+        An open-source Transit app on Android that takes information from several providers (e.g Deutsche Bahn in Germany) and enables you to use them in the app. Visualises the routes on an online OpenStreetMap map. Works in most of Western-Europe, as well as the USA, Australia, Canada, New Zealand, Brazil, Nicaragua, Costa Rica, the UAE and Ghana. **Beware: most information-providers only have beta or alpha support, it may be a good idea to keep a second app as a fallback option**
+      repo: https://github.com/grote/Transportr
   trends:
     - title: Trends
   forms:
@@ -848,22 +916,26 @@ operating systems:
       url: https://www.lineageos.org/
       eyes: 5
       text: |
-        [Open-source](https://github.com/lineageos) and based on Android, but without the crap.
+        Open-source and based on Android, but without the crap.
+      repo: https://github.com/lineageos
     - name: SailfishOS
       url: https://sailfishos.org/
       eyes: null
       text: |
-        Privacy-focused mobile OS by Jolla with a proprietary UI and Android compatibility layer on top of an [open-source](http://releases.sailfishos.org/sources/) Mer GNU/Linux base.
+        Privacy-focused mobile OS by Jolla with a proprietary UI and Android compatibility layer on top of an open-source Mer GNU/Linux base.
+      repo: http://releases.sailfishos.org/sources
     - name: GrapheneOS
       url: https://grapheneos.org/
       eyes: null
       text: |
-        [Open-source](https://github.com/GrapheneOS) Android-based OS with an emphasis on security and privacy. Features advanced hardening and privacy protections throughout the system.
+        Open-source Android-based OS with an emphasis on security and privacy. Features advanced hardening and privacy protections throughout the system.
+      repo: https://github.com/GrapheneOS
     - name: postmarketOS
       url: https://postmarketos.org/
       eyes: null
       text: |
-        [Open-source](https://gitlab.com/postmarketOS) mobile Linux OS. Can install different user interfaces such as [Plasma Mobile](https://www.plasma-mobile.org/). Thanks @okias
+        Open-source mobile Linux OS. Can install different user interfaces such as [Plasma Mobile](https://www.plasma-mobile.org/). Thanks @okias
+      repo: https://gitlab.com/postmarketOS
     - name: Replicant
       url: https://replicant.us/
       eyes: 5
@@ -873,7 +945,8 @@ operating systems:
       url: https://calyxos.org/
       eyes: null
       text: |
-        [Open-source](https://gitlab.com/CalyxOS) Android-based OS with an emphasis on security and privacy. Provides good combination of privacy and security together with usability. Optional support for MicroG.
+        Open-source Android-based OS with an emphasis on security and privacy. Provides good combination of privacy and security together with usability. Optional support for MicroG.
+      repo: https://gitlab.com/CalyxOS
   chromeos:
     - title: Chrome OS
     - name: GalliumOS
@@ -915,7 +988,8 @@ operating systems:
       url: https://ghostbsd.org/
       eyes: null
       text: |
-        This is a secure [open-source](https://github.com/GhostBSD) OS based on FreeBSD, preconfigured to be a sane desktop environment for all users.
+        This is a secure open-source OS based on FreeBSD, preconfigured to be a sane desktop environment for all users.
+      repo: https://github.com/GhostBSD
     - name: Any other form of Linux
       url: https://www.linuxfoundation.org/
       eyes: null
@@ -927,7 +1001,8 @@ operating systems:
       url: https://asteroidos.org/
       eyes: 14
       text: |
-        The cleanest (and only) [open-source](https://github.com/AsteroidOS/) alternative for Wear OS. Make sure you buy a watch that supports it!
+        The cleanest (and only) open-source alternative for Wear OS. Make sure you buy a watch that supports it!
+      repo: https://github.com/AsteroidOS
   android auto:
     - title: Android Auto
   android tv:
@@ -941,7 +1016,8 @@ operating systems:
       url: https://osmc.tv/
       eyes: null
       text: |
-        Free, [open-source](https://github.com/osmc/osmc) media center OS. Kodi is pre-installed. Thanks to @g4rret and @lgiard for clarifying the difference between Kodi and OSMC!
+        Free, open-source media center OS. Kodi is pre-installed. Thanks to @g4rret and @lgiard for clarifying the difference between Kodi and OSMC!
+      repo: https://github.com/osmc/osmc
 desktop applications:
   chrome:
     - title: Chrome
@@ -988,17 +1064,20 @@ desktop applications:
       url: https://www.vim.org/
       eyes: null
       text: |
-        [Open-source](https://github.com/vim/vim) text editor. Thanks @moon-chilled
+        Open-source text editor. Thanks @moon-chilled
+      repo: https://github.com/vim/vim
     - name: Emacs
       url: https://www.gnu.org/software/emacs/
       eyes: null
       text: |
-        Another [open-source](https://github.com/emacs-mirror/emacs) text editor. Thanks @moon-chilled
+        Another open-source text editor. Thanks @moon-chilled
+      repo: https://github.com/emacs-mirror/emacs
     - name: Atom
       url: https://atom.io/
       eyes: null
       text: |
-        Atom is a free and [open-source](https://github.com/atom/atom) text and source code editor for macOS, Linux, and Microsoft Windows with support for plug-ins written in Node.js, and embedded Git Control, developed by GitHub. Atom is a desktop application built using web technologies. (From [Wikipedia](https://en.wikipedia.org/wiki/Atom_(text_editor))) Thanks @woutfeys
+        Atom is a free and open-source text and source code editor for macOS, Linux, and Microsoft Windows with support for plug-ins written in Node.js, and embedded Git Control, developed by GitHub. Atom is a desktop application built using web technologies. (From [Wikipedia](https://en.wikipedia.org/wiki/Atom_(text_editor))) Thanks @woutfeys
+      repo: https://github.com/atom/atom
 mobile applications:
   play store:
     - title: Play Store
@@ -1059,7 +1138,8 @@ mobile applications:
       url: https://www.bromite.org/
       eyes: null
       text: |
-        Privacy-focused/[open-source](https://github.com/bromite/bromite) build of Chromium with built-in ad blocking. (thanks u/SupremeLisper)
+        Privacy-focused/open-source build of Chromium with built-in ad blocking. (thanks u/SupremeLisper)
+      repo: https://github.com/bromite/bromite
   calculator:
     - title: Calculator
     - name: Simple Calculator
@@ -1072,13 +1152,15 @@ mobile applications:
       url: https://github.com/tranleduy2000/ncalc
       eyes: null
       text: |
-        [Open-source](https://github.com/tranleduy2000/ncalc) feature-rich calculator. App itself is no longer in development, but the developer does [encourage pull requests](https://github.com/tranleduy2000/ncalc#calculator-n---powerful-calculator-for-android). I've used it frequently and it works great. Not on F-Droid, but a 3rd party play store can probably find it; or the APK's are available as releases on GitHub. You can also compile from source.
+        Open-source feature-rich calculator. App itself is no longer in development, but the developer does [encourage pull requests](https://github.com/tranleduy2000/ncalc#calculator-n---powerful-calculator-for-android). I've used it frequently and it works great. Not on F-Droid, but a 3rd party play store can probably find it; or the APK's are available as releases on GitHub. You can also compile from source.
+      repo: https://github.com/tranleduy2000/ncalc
     - name: Calculator++
       url: https://github.com/Bubu/android-calculatorpp
       fdroid: org.solovyev.android.calculator
       eyes: null
       text: |
-        [Open-source](https://github.com/Bubu/android-calculatorpp) calculator packed with features. Thanks @ghost
+        Open-source calculator packed with features. Thanks @ghost
+      repo: https://github.com/Bubu/android-calculatorpp
   calendar:
     - title: Calendar
     - name: DAVx⁵
@@ -1086,7 +1168,8 @@ mobile applications:
       fdroid: at.bitfire.davdroid
       eyes: null
       text: |
-        DAVx⁵ is an [open-source](https://gitlab.com/bitfireAT/davx5-ose) CalDAV/CardDAV suite and sync app for Android.
+        DAVx⁵ is an open-source CalDAV/CardDAV suite and sync app for Android.
+      repo: https://gitlab.com/bitfireAT/davx5-ose
     - name: ICSx⁵
       url: https://icsx5.bitfire.at/
       fdroid: at.bitfire.icsdroid
@@ -1103,19 +1186,22 @@ mobile applications:
       fdroid: ws.xsoh.etar
       eyes: null
       text: |
-        [Open-source](https://github.com/xsoh/Etar-Calendar) material design Calendar that integrates with the Android Calendar API. Can integrate with CalDAV/CardDAV servers.
+        Open-source material design Calendar that integrates with the Android Calendar API. Can integrate with CalDAV/CardDAV servers.
+      repo: https://github.com/xsoh/Etar-Calendar
     - name: Simple Calendar
       url: https://github.com/SimpleMobileTools/Simple-Calendar
       fdroid: com.simplemobiletools.calendar.pro
       eyes: null
       text: |
-        [Open-source](https://github.com/SimpleMobileTools/Simple-Calendar). Part of the [Simple Mobile Tools](https://github.com/SimpleMobileTools) project.
+        Open-source. Part of the [Simple Mobile Tools](https://github.com/SimpleMobileTools) project.
+      repo: https://github.com/SimpleMobileTools/Simple-Calendar
     - name: EteSync
       url: https://www.etesync.com
       fdroid: com.etesync.syncadapter
       eyes: null
       text: |
-        Secure, end-to-end encrypted, and [open-source](https://github.com/etesync) sync for your contacts, calendars, tasks and notes.
+        Secure, end-to-end encrypted, and open-source sync for your contacts, calendars, tasks and notes.
+      repo: https://github.com/etesync
   camera:
     - title: Camera
     - name: Open Camera
@@ -1123,7 +1209,8 @@ mobile applications:
       fdroid: net.sourceforge.opencamera
       eyes: null
       text: |
-        [Open-source](https://sourceforge.net/p/opencamera/code/ci/master/tree/) camera for Android. Thanks @je-vv
+        Open-source camera for Android. Thanks @je-vv
+      repo: https://sourceforge.net/p/opencamera/code/ci/master/tree
   clock:
     - title: Clock
     - name: Clock +
@@ -1131,7 +1218,8 @@ mobile applications:
       fdroid: com.philliphsu.clock2
       eyes: null
       text: |
-        [Open-source](https://github.com/philliphsu/ClockPlus) Alarm clock, timer, and stop watch.
+        Open-source Alarm clock, timer, and stop watch.
+      repo: https://github.com/philliphsu/ClockPlus
     - name: Simple Alarm Clock
       url: https://github.com/yuriykulikov/AlarmClock
       eyes: null
@@ -1147,7 +1235,8 @@ mobile applications:
       fdroid: me.jfenn.alarmio
       eyes: null
       text: |
-        An [open-source](https://github.com/fennifith/Alarmio) simple alarm clock that implements many useful features while following regular design standards to ensure that it is quick and intuitive to use.
+        An open-source simple alarm clock that implements many useful features while following regular design standards to ensure that it is quick and intuitive to use.
+      repo: https://github.com/fennifith/Alarmio
   contacts:
     - title: Contacts
     - name: Fruux (mobile app)
@@ -1160,19 +1249,22 @@ mobile applications:
       fdroid: com.simplemobiletools.contacts.pro
       eyes: null
       text: |
-        [Open-source](https://github.com/SimpleMobileTools/Simple-Contacts). Part of the [Simple Mobile Tools](https://github.com/SimpleMobileTools) project.
+        Open-source. Part of the [Simple Mobile Tools](https://github.com/SimpleMobileTools) project.
+      repo: https://github.com/SimpleMobileTools/Simple-Contacts
     - name: Open Contacts
       url: https://gitlab.com/sultanahamer/OpenContacts/-/blob/HEAD/README.md
       eyes: null
       fdroid: opencontacts.open.com.opencontacts
       text: |
-        [Open-source](https://gitlab.com/sultanahamer/OpenContacts/) contacts. (thanks u/consentio)
+        Open-source contacts. (thanks u/consentio)
+      repo: https://gitlab.com/sultanahamer/OpenContacts
     - name: EteSync
       url: https://www.etesync.com
       fdroid: com.etesync.syncadapter
       eyes: null
       text: |
-        Secure, end-to-end encrypted, and [open-source](https://github.com/etesync) sync for your contacts, calendars, tasks and notes.
+        Secure, end-to-end encrypted, and open-source sync for your contacts, calendars, tasks and notes.
+      repo: https://github.com/etesync
   messages:
     - title: Android Messages (specifically SMS/MMS, not IM)
     - name: QKSMS
@@ -1180,19 +1272,21 @@ mobile applications:
       fdroid: com.moez.QKSMS
       eyes: null
       text: |
-        [Open-source](https://github.com/moezbhatti/qksms). Very clean and feature rich SMS app. Available on F-Droid.
+        Open-source. Very clean and feature rich SMS app. Available on F-Droid.
+      repo: https://github.com/moezbhatti/qksms
     - name: Silence.im
       url: https://silence.im/
       fdroid: org.smssecure.smssecure
       eyes: null
       text: |
-        [Open-source](https://silence.im/contribute/) and utilizes Signal's encryption protocol. Seamlessly works with SMS. End-to-end encryption with other Silence users. Available on F-Droid.
+        Open-source and utilizes Signal's encryption protocol. Seamlessly works with SMS. End-to-end encryption with other Silence users. Available on F-Droid.
+      repo: https://silence.im/contribute
     - name: Signal
       url: https://signal.org/
       eyes: null
       text: |
-        [Open-source](https://github.com/signalapp). Signal possesses SMS/MMS capabilities on Android. Using it as your default SMS app has the advantage of having your SMS and your online-messaging-service integrated within one app. Doing so will also show stats within the app of how many messages you send are encrypted, and offers to send invites to your contacts.
-        Thanks @Glitchy-Tozier for suggesting it be listing as SMS/MMS alternative.
+        Open-source. Signal possesses SMS/MMS capabilities on Android. Using it as your default SMS app has the advantage of having your SMS and your online-messaging-service integrated within one app. Doing so will also show stats within the app of how many messages you send are encrypted, and offers to send invites to your contacts.<br/><br/>Thanks @Glitchy-Tozier for suggesting it be listing as SMS/MMS alternative.
+      repo: https://github.com/signalapp
   gboard:
     - title: Gboard (Google Keyboard)
     - name: AnySoftKeyboard
@@ -1200,30 +1294,35 @@ mobile applications:
       fdroid: com.menny.android.anysoftkeyboard
       eyes: null
       text: |
-        [Open-source](https://github.com/AnySoftKeyboard/AnySoftKeyboard) keyboard. Available on F-Droid.
+        Open-source keyboard. Available on F-Droid.
+      repo: https://github.com/AnySoftKeyboard/AnySoftKeyboard
     - name: Hacker's Keyboard
       url: https://github.com/klausw/hackerskeyboard
       fdroid: org.pocketworkstation.pckeyboard
       eyes: null
       text: |
-        Also [open-source](https://github.com/klausw/hackerskeyboard). Very useful for developers or sysadmins on the go.
+        Also open-source. Very useful for developers or sysadmins on the go.
+      repo: https://github.com/klausw/hackerskeyboard
     - name: kboard
       url: https://github.com/adgad/kboard
       fdroid: com.adgad.kboard
       eyes: null
       text: |
-        [Open-source](https://github.com/adgad/kboard). Has features for phrases, "lenny faces", macros and more. **Note**: Project [appears to be abandoned](https://github.com/adgad/kboard/issues/16).
+        Open-source. Has features for phrases, "lenny faces", macros and more. **Note**: Project [appears to be abandoned](https://github.com/adgad/kboard/issues/16).
+      repo: https://github.com/adgad/kboard
     - name: Simple Keyboard
       url: https://github.com/rkkr/simple-keyboard
       fdroid: rkr.simplekeyboard.inputmethod
       eyes: null
       text: |
-        [Open-source](https://github.com/rkkr/simple-keyboard) keyboard.
+        Open-source keyboard.
+      repo: https://github.com/rkkr/simple-keyboard
     - name: Indic Keyboard
       url: https://gitlab.com/indicproject/indic-keyboard
       eyes: null
       text: |
-        [Open-source](https://gitlab.com/indicproject/indic-keyboard) keyboard that supports many languages that other keyboards sometimes don't support. Not on F-Droid, but can be built from source or possibly through a Play Store alternative.
+        Open-source keyboard that supports many languages that other keyboards sometimes don't support. Not on F-Droid, but can be built from source or possibly through a Play Store alternative.
+      repo: https://gitlab.com/indicproject/indic-keyboard
     - name: OpenBoard
       url: https://github.com/dslul/openboard
       fdroid: org.dslul.openboard.inputmethod.latin
@@ -1235,13 +1334,15 @@ mobile applications:
       fdroid: dev.patrickgold.florisboard
       eyes: null
       text: |
-        An [open-source](https://github.com/florisboard/florisboard) keyboard aimed at providing you with an easy way to type while respecting your privacy (this project is currently in alpha stage).
+        An open-source keyboard aimed at providing you with an easy way to type while respecting your privacy (this project is currently in alpha stage).
+      repo: https://github.com/florisboard/florisboard
     - name: 8VIM
       url: https://www.8vim.com/
       fdroid: inc.flide.vi8
       eyes: null
       text: |
-        [Open-source](https://github.com/flide/8VIM). A "text editor inside a keyboard, drawing it's inspiration from 8pen and Vim."
+        Open-source. A "text editor inside a keyboard, drawing it's inspiration from 8pen and Vim."
+      repo: https://github.com/flide/8VIM
   drive:
     - title: Drive
     - name: ownCloud Android
@@ -1311,7 +1412,8 @@ mobile applications:
       fdroid: com.farmerbb.notepad
       eyes: null
       text: |
-        [Open-source](https://github.com/farmerbb/Notepad). Supports Markdown and HTML. Very clean and feature-rich. *Offline only*.
+        Open-source. Supports Markdown and HTML. Very clean and feature-rich. *Offline only*.
+      repo: https://github.com/farmerbb/Notepad
     - name: Joplin
       url: https://github.com/laurent22/joplin
       eyes: null
@@ -1327,7 +1429,8 @@ mobile applications:
       fdroid: it.feio.android.omninotes.foss
       eyes: null
       text: |
-        Very feature rich, [open-source](https://github.com/federicoiosue/Omni-Notes), material design notes app. Very active development. Available on F-Droid.
+        Very feature rich, open-source, material design notes app. Very active development. Available on F-Droid.
+      repo: https://github.com/federicoiosue/Omni-Notes
     - name: Carnet
       url: https://github.com/PhieF/CarnetDocumentation
       fdroid: com.spisoft.quicknote
@@ -1339,13 +1442,15 @@ mobile applications:
       fdroid: net.gsantner.markor
       eyes: null
       text: |
-        [Open-source](https://github.com/gsantner/markor) notes/to-do app for Android. Supports Markdown editing. Available on F-Droid. App is 100% offline, as stated on the [GitHub README](https://github.com/gsantner/markor#privacy).
+        Open-source notes/to-do app for Android. Supports Markdown editing. Available on F-Droid. App is 100% offline, as stated on the [GitHub README](https://github.com/gsantner/markor#privacy).
+      repo: https://github.com/gsantner/markor
     - name: Orgzly
       url: http://orgzly.com/
       fdroid: com.orgzly
       eyes: null
       text: |
-        [Open-source](https://github.com/orgzly). Notes are stored in the plain-text [Org mode](https://orgmode.org/) format. Supports searching, metadata, and manual sync with Dropbox or local directory, which can be synced using e.g. Syncthing.
+        Open-source. Notes are stored in the plain-text [Org mode](https://orgmode.org/) format. Supports searching, metadata, and manual sync with Dropbox or local directory, which can be synced using e.g. Syncthing.
+      repo: https://github.com/orgzly
     - name: Notally
       url: https://github.com/OmGodse/Notally
       fdroid: com.omgodse.notally
@@ -1363,7 +1468,8 @@ mobile applications:
       fdroid: com.etesync.notes
       eyes: null
       text: |
-        Secure, end-to-end encrypted, and [open-source](https://github.com/etesync) sync for your contacts, calendars, tasks and notes.
+        Secure, end-to-end encrypted, and open-source sync for your contacts, calendars, tasks and notes.
+      repo: https://github.com/etesync
   maps and waze:
     - title: Maps/Waze
     - name: Maps
@@ -1371,7 +1477,8 @@ mobile applications:
       fdroid: com.github.axet.maps
       eyes: null
       text: |
-        [Open-source](https://gitlab.com/axet/omim) navigation app based on MAPS.ME. Searching for addresses doesn't always work and finding businesses can be a slight hassle, but overall one of the better apps I've used.
+        Open-source navigation app based on MAPS.ME. Searching for addresses doesn't always work and finding businesses can be a slight hassle, but overall one of the better apps I've used.
+      repo: https://gitlab.com/axet/omim
     - name: OsmAnd
       url: https://osmand.net/
       fdroid: net.osmand.plus
@@ -1382,7 +1489,8 @@ mobile applications:
       url: https://transportr.app/
       eyes: null
       text: |
-        Primarily European, this is an [open-source](https://transportr.app/contribute/) public transport app. Thanks to @lgiard
+        Primarily European, this is an open-source public transport app. Thanks to @lgiard
+      repo: https://transportr.app/contribute
     - name: Öffi (Offi)
       url: https://oeffi.schildbach.de/
       fdroid: de.schildbach.oeffi
@@ -1396,7 +1504,8 @@ mobile applications:
       fdroid: net.frju.flym
       eyes: null
       text: |
-        [Open-source](https://github.com/FredJul/Flym) Material Design RSS reader.
+        Open-source Material Design RSS reader.
+      repo: https://github.com/FredJul/Flym
     - name: Feeder
       url: https://gitlab.com/spacecowboy/Feeder/-/blob/master/README.md
       fdroid: com.nononsenseapps.feeder
@@ -1427,7 +1536,8 @@ mobile applications:
       fdroid: org.schabi.newpipe
       eyes: null
       text: |
-        Powerful [open-source](https://github.com/TeamNewPipe/NewPipe/) YouTube alternative. Supports audio only; background playback; picture-in-picture; no ads.
+        Powerful open-source YouTube alternative. Supports audio only; background playback; picture-in-picture; no ads.
+      repo: https://github.com/TeamNewPipe/NewPipe
     - name: YouTube Vanced
       url: https://forum.xda-developers.com/android/apps-games/app-youtube-vanced-edition-t3758757
       eyes: null
@@ -1440,7 +1550,8 @@ mobile applications:
       fdroid: org.shadowice.flocke.andotp
       eyes: null
       text: |
-        [Open-source](https://github.com/andOTP/andOTP) 2FA app.
+        Open-source 2FA app.
+      repo: https://github.com/andOTP/andOTP
     - name: FreeOTP+
       url: https://github.com/helloworld1/FreeOTPPlus
       fdroid: org.liberty.android.freeotpplus
@@ -1452,17 +1563,20 @@ mobile applications:
       fdroid: com.beemdevelopment.aegis
       eyes: null
       text: |
-        [Open-source](https://github.com/beemdevelopment/Aegis) 2FA for Android. Available on F-Droid.
+        Open-source 2FA for Android. Available on F-Droid.
+      repo: https://github.com/beemdevelopment/Aegis
     - name: Authenticator
       url: https://mattrubin.me/authenticator/
       eyes: null
       text: |
-        **iOS** - [Open-source](https://github.com/mattrubin/Authenticator) 2FA for iOS. (thanks u/SomeoneWannaBe)
+        **iOS** - Open-source 2FA for iOS. (thanks u/SomeoneWannaBe)
+      repo: https://github.com/mattrubin/Authenticator
     - name: Tofu
       url: https://tofuauth.com
       eyes: null
       text: |
-        **iOS** - [Open-source](https://github.com/calleerlandsson/tofu) 2FA for iOS.
+        **iOS** - Open-source 2FA for iOS.
+      repo: https://github.com/calleerlandsson/tofu
   play music movies tv:
     - title: Play Music/Play Movies & TV
     - name: Audinaut
@@ -1470,19 +1584,22 @@ mobile applications:
       fdroid: net.nullsum.audinaut
       eyes: null
       text: |
-        An [open-source](https://github.com/nvllsvm/Audinaut) Airsonic client for Android.
+        An open-source Airsonic client for Android.
+      repo: https://github.com/nvllsvm/Audinaut
     - name: MALP
       url: https://gitlab.com/gateship-one/malp/-/blob/master/README.md
       fdroid: org.gateshipone.malp
       eyes: null
       text: |
-        An [open-source](https://gitlab.com/gateship-one/malp/) Android client for MPD. Available on F-Droid.
+        An open-source Android client for MPD. Available on F-Droid.
+      repo: https://gitlab.com/gateship-one/malp
     - name: Shuttle+
       url: https://github.com/timusus/Shuttle
       fdroid: com.simplecity.amp_pro
       eyes: null
       text: |
-        [Open-source](https://github.com/timusus/Shuttle) local music player for Android. Available on F-Droid or by [direct download](https://github.com/timusus/Shuttle/releases).
+        Open-source local music player for Android. Available on F-Droid or by [direct download](https://github.com/timusus/Shuttle/releases).
+      repo: https://github.com/timusus/Shuttle
   hangouts:
     - title: Hangouts
     - name: Keybase
@@ -1495,19 +1612,22 @@ mobile applications:
       fdroid: eu.siacs.conversations
       eyes: 14
       text: |
-        An [open-source](https://github.com/inputmice/Conversations) Android Jabber/XMPP client. It's a paid app on Google Play, but you can also [build it from source](https://github.com/siacs/Conversations) for free if you want to.
+        An open-source Android Jabber/XMPP client. It's a paid app on Google Play, but you can also [build it from source](https://github.com/siacs/Conversations) for free if you want to.
+      repo: https://github.com/inputmice/Conversations
     - name: Element
       url: https://github.com/vector-im/element-android
       fdroid: im.vector.app
       eyes: 5
       text: |
-        Android app - The [open-source](https://github.com/vector-im/element-android) Android client for Element.
+        Android app - The open-source Android client for Element.
+      repo: https://github.com/vector-im/element-android
     - name: Jitsi Meet (F-Droid)
       url: https://meet.jit.si/
       fdroid: org.jitsi.meet
       eyes: null
       text: |
-        Jitsi is an [open-source](https://github.com/jitsi) secure video conferencing platform. No account is needed to use it, simply enter a Room Name to join or host a meeting. The host is able to kick rogue users from the call. Works directly in your browser, with apps available for iOS and Android. It is not necessary to self-host, but self-hosting is an option for those who wish to. Very low latency and easy to set up. A free public server is available at [meet.jit.si](https://meet.jit.si). (**5-eyes** server)
+        Jitsi is an open-source secure video conferencing platform. No account is needed to use it, simply enter a Room Name to join or host a meeting. The host is able to kick rogue users from the call. Works directly in your browser, with apps available for iOS and Android. It is not necessary to self-host, but self-hosting is an option for those who wish to. Very low latency and easy to set up. A free public server is available at [meet.jit.si](https://meet.jit.si). (**5-eyes** server)
+      repo: https://github.com/jitsi
     - name: Jami
       url: https://jami.net/
       fdroid: cx.ring
@@ -1524,12 +1644,14 @@ mobile applications:
       url: https://briarproject.org/
       eyes: null
       text: |
-        An [open-source](https://code.briarproject.org/briar/briar/tree/master) app which supports Peer-to-Peer encrypted messaging. No phone number required for signing up. If the internet’s down, Briar can sync via Bluetooth or Wi-Fi, keeping the information flowing in a crisis. If the internet’s up, Briar can sync via the Tor network, protecting users and their relationships from surveillance. Can install through a [third-party F-Droid repo](https://briarproject.org/installing-briar-via-f-droid/).
+        An open-source app which supports Peer-to-Peer encrypted messaging. No phone number required for signing up. If the internet’s down, Briar can sync via Bluetooth or Wi-Fi, keeping the information flowing in a crisis. If the internet’s up, Briar can sync via the Tor network, protecting users and their relationships from surveillance. Can install through a [third-party F-Droid repo](https://briarproject.org/installing-briar-via-f-droid/).
+      repo: https://code.briarproject.org/briar/briar/tree/master
     - name: Session
       url: https://getsession.org/
       eyes: null
       text: |
-        [Open-source](https://github.com/loki-project?type=source). It is an end-to-end encrypted messenger that removes sensitive metadata collection. No phone number required to create an account. Can be downloaded from the Play Store or as an APK file from GitHub. Also has apps for iOS and Desktop.
+        Open-source. It is an end-to-end encrypted messenger that removes sensitive metadata collection. No phone number required to create an account. Can be downloaded from the Play Store or as an APK file from GitHub. Also has apps for iOS and Desktop.
+      repo: https://github.com/loki-project?type=source
   duo:
     - title: Duo (video calls)
     - name: Jitsi Meet (F-Droid)
@@ -1537,7 +1659,8 @@ mobile applications:
       fdroid: org.jitsi.meet
       eyes: null
       text: |
-        Jitsi is an [open-source](https://github.com/jitsi) secure video conferencing platform. No account is needed to use it, simply enter a Room Name to join or host a meeting. The host is able to kick rogue users from the call. Works directly in your browser, with apps available for iOS and Android. It is not necessary to self-host, but self-hosting is an option for those who wish to. Very low latency and easy to set up. A free public server is available at [meet.jit.si](https://meet.jit.si). (**5-eyes** server)
+        Jitsi is an open-source secure video conferencing platform. No account is needed to use it, simply enter a Room Name to join or host a meeting. The host is able to kick rogue users from the call. Works directly in your browser, with apps available for iOS and Android. It is not necessary to self-host, but self-hosting is an option for those who wish to. Very low latency and easy to set up. A free public server is available at [meet.jit.si](https://meet.jit.si). (**5-eyes** server)
+      repo: https://github.com/jitsi
     - name: Jami
       url: https://jami.net/
       fdroid: cx.ring
@@ -1555,7 +1678,8 @@ mobile applications:
       url: https://github.com/FultonBrowne/Ara-android
       eyes: null
       text: |
-        [Open-source](https://github.com/FultonBrowne/Ara-android) virtual assistant for Android. Can replace Google Assistant (home button functionality) on most devices. Either uses the authors server by default, or you can [run your own server](https://github.com/FultonBrowne/Ara-Server). Thanks @FultonBrowne (author of Ara)
+        Open-source virtual assistant for Android. Can replace Google Assistant (home button functionality) on most devices. Either uses the authors server by default, or you can [run your own server](https://github.com/FultonBrowne/Ara-Server). Thanks @FultonBrowne (author of Ara)
+      repo: https://github.com/FultonBrowne/Ara-android
   play services framework:
     - title: Play Services Framework
     - name: microG
@@ -1569,24 +1693,28 @@ mobile applications:
       url: https://github.com/amirzaidi/Shade
       eyes: null
       text: |
-        [Open-source](https://github.com/amirzaidi/Shade) Android launcher styled after the Google Pixel launcher. Available to download from an [alternative F-Droid](https://apt.izzysoft.de/fdroid/index/apk/amirz.shade), APK Mirror, or GitHub Releases.
+        Open-source Android launcher styled after the Google Pixel launcher. Available to download from an [alternative F-Droid](https://apt.izzysoft.de/fdroid/index/apk/amirz.shade), APK Mirror, or GitHub Releases.
+      repo: https://github.com/amirzaidi/Shade
     - name: Omega
       url: https://github.com/otakuhqz/omega
       eyes: null
       text: |
-        [Open-source](https://github.com/otakuhqz/omega) launcher. Active development with lots of nice features. Downloads available from GitHub. Previously known as ZimLX which has since been replaced by Omega.
+        Open-source launcher. Active development with lots of nice features. Downloads available from GitHub. Previously known as ZimLX which has since been replaced by Omega.
+      repo: https://github.com/otakuhqz/omega
     - name: Lawnchair
       url: https://lawnchair.app/
       fdroid: ch.deletescape.lawnchair.plah
       eyes: null
       text: |
-        Another [open-source](https://github.com/LawnchairLauncher/Lawnchair) launcher, also built to look similar to Google's launcher (it is built off AOSP Launcher3). Available from F-Droid and also APKMirror. (thanks u/droidonomy)
+        Another open-source launcher, also built to look similar to Google's launcher (it is built off AOSP Launcher3). Available from F-Droid and also APKMirror. (thanks u/droidonomy)
+      repo: https://github.com/LawnchairLauncher/Lawnchair
     - name: KISS Launcher
       url: https://kisslauncher.com/
       fdroid: fr.neamar.kiss
       eyes: null
       text: |
-        Fast, [open-source](https://github.com/Neamar/KISS) and small launcher. KISS mainly relies on an app-search-bar, which makes it very easy to open up apps quickly.
+        Fast, open-source and small launcher. KISS mainly relies on an app-search-bar, which makes it very easy to open up apps quickly.
+      repo: https://github.com/Neamar/KISS
   other:
     - title: "*Other*"
     - name: Blokada
@@ -1594,7 +1722,8 @@ mobile applications:
       fdroid: org.blokada.alarm
       eyes: null
       text: |
-        From the website: "If you want to efficiently block ads, trackers, malware, save on your data plan, speed up your device and protect your privacy with just one application, then Blokada is for you. It is free, secure and [open-source](https://github.com/blokadaorg/blokada)." Uses internal VPN on Android to block ads.
+        From the website: "If you want to efficiently block ads, trackers, malware, save on your data plan, speed up your device and protect your privacy with just one application, then Blokada is for you. It is free, secure and open-source." Uses internal VPN on Android to block ads.
+      repo: https://github.com/blokadaorg/blokada
     - name: TrackerControl
       url: https://github.com/OxfordHCC/tracker-control-android
       fdroid: net.kollnig.missioncontrol.fdroid
@@ -1649,12 +1778,14 @@ hardware:
       url: https://mycroft.ai/
       eyes: 5
       text: |
-        [Open-source](https://github.com/MycroftAI) virtual personal assistant. Can be run on a Raspberry Pi. (thanks u/Kentto7)
+        Open-source virtual personal assistant. Can be run on a Raspberry Pi. (thanks u/Kentto7)
+      repo: https://github.com/MycroftAI
     - name: Home Assistant
       url: https://www.home-assistant.io/
       eyes: null
       text: |
-        [Open-source](https://github.com/home-assistant/) home automation. (thanks u/bilange)
+        Open-source home automation. (thanks u/bilange)
+      repo: https://github.com/home-assistant
   fitbit:
     - title: FitBit
     - notes:
