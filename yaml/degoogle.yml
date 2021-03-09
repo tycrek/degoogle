@@ -187,6 +187,11 @@ web based products:
       eyes: null
       text: |
         A secure hosted email and productivity platform, designed for providers of all sizes to offer their customers email, calendar, storage, encryption and more.
+    - name: Sandstorm
+      url: https://sandstorm.io/
+      eyes: null
+      text: |
+        An [open-source](https://github.com/sandstorm-io/sandstorm) self-hosted web hosting platform for a wide set of web applications, including Etherpad (collaborative text editing), Radicale (calendar), Lychee (image hosting), Wekan (Kanban)
   blogger and sites:
     - title: Blogger/Sites
     - name: Joomla
