@@ -629,11 +629,11 @@ web based products:
       eyes: 9
       text: |
         Privacy focusued email provider. Thanks @petertorelli
-    - name: nextCloud
+    - name: NextCloud
       url: https://help.nextcloud.com/t/nextcloud-mail-server/157
       eyes: null
       text: |
-        Now also provides an email service (self-hosted). Thanks @je-vv
+        Nextcloud provides a [webmail interface](https://github.com/nextcloud/mail) that can be used to access email from various providers. Thanks @je-vv
     - name: Anonymize.com Email
       url: https://anonymize.com/
       eyes: null
