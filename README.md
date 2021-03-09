@@ -651,6 +651,8 @@ Thanks @Glitchy-Tozier for suggesting it be listing as SMS/MMS alternative. |
 | [Simple Keyboard](https://github.com/rkkr/simple-keyboard) [![F-Droid](https://img.shields.io/f-droid/v/rkr.simplekeyboard.inputmethod?style=flat-square)](https://f-droid.org/en/packages/rkr.simplekeyboard.inputmethod/) |  | [Open-source](https://github.com/rkkr/simple-keyboard) keyboard. |
 | [Indic Keyboard](https://gitlab.com/indicproject/indic-keyboard) |  | [Open-source](https://gitlab.com/indicproject/indic-keyboard) keyboard that supports many languages that other keyboards sometimes don't support. Not on F-Droid, but can be built from source or possibly through a Play Store alternative. |
 | [OpenBoard](https://github.com/dslul/openboard) [![F-Droid](https://img.shields.io/f-droid/v/org.dslul.openboard.inputmethod.latin?style=flat-square)](https://f-droid.org/en/packages/org.dslul.openboard.inputmethod.latin/) |  | New 100% FOSS keyboard, based on AOSP. Similar to "Simple Keyboard". |
+| [FlorisBoard](https://github.com/florisboard/florisboard) [![F-Droid](https://img.shields.io/f-droid/v/dev.patrickgold.florisboard?style=flat-square)](https://f-droid.org/en/packages/dev.patrickgold.florisboard/) |  | An [open-source](https://github.com/florisboard/florisboard) keyboard aimed at providing you with an easy way to type while respecting your privacy (tThis project is currently in alpha stage). |
+| [8VIM](https://www.8vim.com/) [![F-Droid](https://img.shields.io/f-droid/v/inc.flide.vi8?style=flat-square)](https://f-droid.org/en/packages/inc.flide.vi8/) |  | [Open-source](https://github.com/flide/8VIM). A "text editor inside a keyboard, drawing it's inspiration from 8pen and Vim." |
 
 
 
@@ -672,7 +674,7 @@ Thanks @Glitchy-Tozier for suggesting it be listing as SMS/MMS alternative. |
 | [Tutanota](https://www.tutanota.com/) [![F-Droid](https://img.shields.io/f-droid/v/de.tutao.tutanota?style=flat-square)](https://f-droid.org/en/packages/de.tutao.tutanota/) | **14-eyes** | Client available from F-Droid. |
 | [Disroot](https://disroot.org/) [![F-Droid](https://img.shields.io/f-droid/v/org.disroot.disrootapp?style=flat-square)](https://f-droid.org/en/packages/org.disroot.disrootapp/) |  | Available from F-Droid. |
 | [K-9 Mail](https://k9mail.github.io/) [![F-Droid](https://img.shields.io/f-droid/v/com.fsck.k9?style=flat-square)](https://f-droid.org/en/packages/com.fsck.k9/) |  | Available on F-Droid. |
-| [FairEmail](https://email.faircode.eu/) [![F-Droid](https://img.shields.io/f-droid/v/eu.faircode.email?style=flat-square)](https://f-droid.org/en/packages/eu.faircode.email/) |  | Available on F-Droid. |
+| [FairEmail](https://email.faircode.eu/) [![F-Droid](https://img.shields.io/f-droid/v/eu.faircode.email?style=flat-square)](https://f-droid.org/en/packages/eu.faircode.email/) |  | Available on F-Droid. You can (optionally) pay a 1-time fee to unlock some premium features (and support the developer). |
 | [DeltaChat](https://delta.chat/) [![F-Droid](https://img.shields.io/f-droid/v/com.b44t.messenger?style=flat-square)](https://f-droid.org/en/packages/com.b44t.messenger/) |  | An email app with a chat-based UI and privacy support with autocrypt. |
 | [Mailbox.org](https://mailbox.org/) | **14-eyes** | Mailbox.org provides IMAP settings for Android/iOS and an iOS profile. Thanks @avasts Issue #45 |
 
