@@ -1137,6 +1137,12 @@ mobile applications:
       eyes: null
       text: |
         Developer states that he had "spent a night out with the boys and drank a bit too much but needed to be up in the morning". So, he made the loudest alarm clock possible based off an emergency alarm from when he was in the military. This app doesn't mess around, use it wisely.
+    - name: Alarmio
+      url: https://github.com/fennifith/Alarmio
+      fdroid: me.jfenn.alarmio
+      eyes: null
+      text: |
+        An [open-source](https://github.com/fennifith/Alarmio) simple alarm clock that implements many useful features while following regular design standards to ensure that it is quick and intuitive to use.
   contacts:
     - title: Contacts
     - name: Fruux (mobile app)
