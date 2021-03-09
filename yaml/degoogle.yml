@@ -1636,7 +1636,7 @@ mobile applications:
         Audio / Video Calls, Conferences, Messaging app with peer-to-peer and end-to-end encrypted communications.
     - name: Mumla (client for Mumble)
       url: https://mumla-app.gitlab.io/
-      froid: se.lublin.mumla
+      fdroid: se.lublin.mumla
       eyes: null
       text: |
         Third-party Android client for Mumble.
