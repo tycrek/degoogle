@@ -1235,7 +1235,7 @@ mobile applications:
       fdroid: dev.patrickgold.florisboard
       eyes: null
       text: |
-        An [open-source](https://github.com/florisboard/florisboard) keyboard aimed at providing you with an easy way to type while respecting your privacy (tThis project is currently in alpha stage).
+        An [open-source](https://github.com/florisboard/florisboard) keyboard aimed at providing you with an easy way to type while respecting your privacy (this project is currently in alpha stage).
     - name: 8VIM
       url: https://www.8vim.com/
       fdroid: inc.flide.vi8
