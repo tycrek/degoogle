@@ -1309,9 +1309,10 @@ mobile applications:
         [Open-source](https://github.com/orgzly). Notes are stored in the plain-text [Org mode](https://orgmode.org/) format. Supports searching, metadata, and manual sync with Dropbox or local directory, which can be synced using e.g. Syncthing.
     - name: Notally
       url: https://github.com/OmGodse/Notally
+      fdroid: com.omgodse.notally
       eyes: null
       text: |
-        A beautiful, light and minimalistic notes app with no trackers, ads or analytics of any kind. Not on F-Droid, but available from [this alternative market](https://apt.izzysoft.de/fdroid/index/apk/com.omgodse.notally).
+        A beautiful, light and minimalistic notes app with no trackers, ads or analytics of any kind.
     - name: Nextcloud Notes for Android
       url: https://github.com/stefan-niedermann/nextcloud-notes
       fdroid: it.niedermann.owncloud.notes
