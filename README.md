@@ -349,7 +349,7 @@ When contributing, **please follow the rules outlined in [CONTRIBUTING.md](https
 | [Disroot](https://disroot.org/) | **9-eyes** | Decentralized email service. |
 | [StartMail](https://www.startmail.com/en/) | **9-eyes** | Operated by the same people who run StartPage. |
 | [SimpleLogin](https://simplelogin.io/) |  | [Open-source](https://github.com/simple-login/), self-hosted, and privacy focused email forwarding service. |
-| [Migadu](https://www.migadu.com/en/index.html) |  | Paid email provider, located in Switzerland. Focus on privacy. |
+| [Migadu](https://www.migadu.com/en/index.html) | **9-eyes** | Paid email provider, located in Switzerland. Focus on privacy. |
 | [Fastmail](https://fastmail.com/) | **5-eyes** | Paid email provider, located in Australia and US. |
 | [Runbox](https://runbox.com/why-runbox/privacy-protection/) | **9-eyes** | Privacy focusued email provider. Thanks @petertorelli |
 | [NextCloud](https://help.nextcloud.com/t/nextcloud-mail-server/157) |  | Nextcloud provides a [webmail interface](https://github.com/nextcloud/mail) that can be used to access email from various providers. Thanks @je-vv |
