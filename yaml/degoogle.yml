@@ -1280,7 +1280,7 @@ mobile applications:
       fdroid: eu.faircode.email
       eyes: null
       text: |
-        Available on F-Droid.
+        Available on F-Droid. You can (optionally) pay a 1-time fee to unlock some premium features (and support the developer).
     - name: DeltaChat
       url: https://delta.chat/
       fdroid: com.b44t.messenger
