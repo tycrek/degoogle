@@ -19,3 +19,4 @@ Official mirrors are the main sources and are maintained by me (@tycrek). Commun
 ## Non-english mirrors
 
 - [German/Deutsch](https://github.com/arentro/degoogle_german) from [@arentro](https://github.com/arentro)
+- [Turkish/Türk](https://github.com/melikechan/degoogle-turkish) from [@melikechan](https://github.com/melikechan)
