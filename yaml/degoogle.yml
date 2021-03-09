@@ -611,7 +611,7 @@ web based products:
         [Open-source](https://github.com/simple-login/), self-hosted, and privacy focused email forwarding service.
     - name: Migadu
       url: https://www.migadu.com/en/index.html
-      eyes: null
+      eyes: 9
       text: |
         Paid email provider, located in Switzerland. Focus on privacy.
     - name: Fastmail
