@@ -488,11 +488,6 @@ web based products:
       eyes: 9
       text: |
         Norway based cloud storage provider with free and paid plans. Thanks @mynamesleon
-    - name: Armored
-      url: https://armored.net/
-      eyes: 9
-      text: |
-        Nextcloud instance hosted by Epik.com. Paid plans with 30-day trial. Servers in a "secure bunker" in Norway. Supports other Nextcloud features such as Nextcloud Talk.
     - name: seafile
       url: https://www.seafile.com
       eyes: null
