@@ -70,6 +70,7 @@ GitHub:
 - [@trexx](https://github.com/trexx)
 - [@anthonynsimon](https://github.com/anthonynsimon)
 - [@timbuening](https://github.com/timbuening)
+- [@infectormp](https://github.com/infectormp)
 
 Reddit:
 

@@ -161,6 +161,11 @@ web based products:
       eyes: null
       text: |
         A free, [open-source](https://github.com/apertium/apertium) translation system.
+    - name: LibreTranslate
+      url: https://libretranslate.com/
+      eyes: null
+      text: |
+        A free and [open-source](https://github.com/uav4geo/LibreTranslate) machine-translation API which can be self-hosted.
   ads:
     - title: Google Ads/AdMob/AdSense
     - name: EthicalAds
