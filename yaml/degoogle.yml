@@ -633,10 +633,7 @@ web based products:
       url: https://help.nextcloud.com/t/nextcloud-mail-server/157
       eyes: null
       text: |
-        Nextcloud provides webmail interface that can be used to access email from various provider. 
-        https://github.com/nextcloud/mail
-        https://github.com/pierre-alain-b/rainloop-nextcloud
-        Thanks @je-vv
+        Nextcloud provides a [webmail interface](https://github.com/nextcloud/mail) that can be used to access email from various providers. Thanks @je-vv
     - name: Anonymize.com Email
       url: https://anonymize.com/
       eyes: null
