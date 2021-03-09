@@ -306,6 +306,11 @@ web based products:
       eyes: 5
       text: |
         An analytics suite with a focus on user privacy and data security.
+    - name: Panelbear
+      url: https://panelbear.com/
+      eyes: 14
+      text: |
+        Privacy-focused analytics + web performance monitoring.
   photos:
     - title: Photos
     - name: Photoprism
