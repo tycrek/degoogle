@@ -103,6 +103,11 @@ web based products:
       eyes: null
       text: |
         [Open-source](https://github.com/FreeTubeApp/FreeTube) desktop YouTube client that uses the Invidio.us API to serve content.
+    - name: youtube-local
+      url: https://github.com/user234683/youtube-local
+      eyes: null
+      text: |
+        Browser-based client for watching Youtube anonymously and with greater page performance. Non-video requests can be routed through Tor. Optionally the videos can be routed through Tor as well. Can be used without Javascript. No server software installation required. Uses self-hosted subscriptions and playlists.
   news:
     - title: News
     - name: Local newspaper
