@@ -353,7 +353,7 @@ When contributing, **please follow the rules outlined in [CONTRIBUTING.md](https
 | [Migadu](https://www.migadu.com/en/index.html) |  | Paid email provider, located in Switzerland. Focus on privacy. |
 | [Fastmail](https://fastmail.com/) | **5-eyes** | Paid email provider, located in Australia and US. |
 | [Runbox](https://runbox.com/why-runbox/privacy-protection/) | **9-eyes** | Privacy focusued email provider. Thanks @petertorelli |
-| [nextCloud](https://help.nextcloud.com/t/nextcloud-mail-server/157) |  | Now also provides an email service (self-hosted). Thanks @je-vv |
+| [NextCloud](https://help.nextcloud.com/t/nextcloud-mail-server/157) |  | Nextcloud provides a [webmail interface](https://github.com/nextcloud/mail) that can be used to access email from various providers. Thanks @je-vv |
 | [Anonymize.com Email](https://anonymize.com/) |  | Paid secure email service provided by Epik.com. |
 | [Thexyz](https://www.thexyz.com/) | **5-eyes** | Thexyz is a Canadian company offering privacy-conscious business email. Premium webmail costs USD $2.95 per month. |
 | [Mailfence](https://www.mailfence.com) | **14-eyes** | A secure and private email provider much like Protonmail and Tutanota. There are no google analytics nor hidden cookies. There are options to pay anonymously via cryptocurrency. It features a wide array of collaboration tools, such as groups, calendar, contacts, documents with editing space. Offers free, paid, and freemium plans. Can pay with cryptocurrency and has a [warrant canary](https://blog.mailfence.com/transparency-report-and-warrant-canary/). Thanks @resto1231 |
