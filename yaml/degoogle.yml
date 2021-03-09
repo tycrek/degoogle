@@ -1230,6 +1230,12 @@ mobile applications:
       eyes: null
       text: |
         New 100% FOSS keyboard, based on AOSP. Similar to "Simple Keyboard".
+    - name: FlorisBoard
+      url: https://github.com/florisboard/florisboard
+      fdroid: dev.patrickgold.florisboard
+      eyes: null
+      text: |
+        An [open-source](https://github.com/florisboard/florisboard) keyboard aimed at providing you with an easy way to type while respecting your privacy (tThis project is currently in alpha stage).
   drive:
     - title: Drive
     - name: ownCloud Android
