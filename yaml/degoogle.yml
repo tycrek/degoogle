@@ -519,7 +519,7 @@ web based products:
       url: https://signal.org/
       eyes: 5
       text: |
-        Whistleblower and privacy advocate Edward Snowden recommends Signal.
+        (Open-source)[https://github.com/signalapp] secure messaging. Whistleblower and privacy advocate Edward Snowden recommends Signal.
     - name: Tox
       url: https://tox.chat/
       eyes: null
@@ -544,7 +544,7 @@ web based products:
       url: https://keybase.io/
       eyes: 5
       text: |
-        encrypted chat like Signal with features like Slack. Does not require a phone number to sign up. Also has file storage. **Note:** Keybase was acquired by Zoom, Inc. in May 2020 ([Keybase blog](https://keybase.io/blog/keybase-joins-zoom), [Zoom blog](https://blog.zoom.us/wordpress/2020/05/07/zoom-acquires-keybase-and-announces-goal-of-developing-the-most-broadly-used-enterprise-end-to-end-encryption-offering/)). Thanks @notpushkin & @multimob.
+        Encrypted chat like Signal with features like Slack. Does not require a phone number to sign up. Also has file storage. **Note:** Keybase was acquired by Zoom, Inc. in May 2020 ([Keybase blog](https://keybase.io/blog/keybase-joins-zoom), [Zoom blog](https://blog.zoom.us/wordpress/2020/05/07/zoom-acquires-keybase-and-announces-goal-of-developing-the-most-broadly-used-enterprise-end-to-end-encryption-offering/)). Thanks @notpushkin & @multimob.
     - name: Jitsi
       url: https://jitsi.org/
       eyes: 5
@@ -1160,7 +1160,7 @@ mobile applications:
       url: https://signal.org/
       eyes: null
       text: |
-        Signal possesses SMS/MMS capabilities on Android. Using it as your default SMS app has the advantage of having your SMS and your online-messaging-service integrated within one app. Doing so will also show stats within the app of how many messages you send are encrypted, and offers to send invites to your contacts. Thanks @Glitchy-Tozier for suggesting it be listing as SMS/MMS alternative.
+        [Open-source](https://github.com/signalapp). Signal possesses SMS/MMS capabilities on Android. Using it as your default SMS app has the advantage of having your SMS and your online-messaging-service integrated within one app. Doing so will also show stats within the app of how many messages you send are encrypted, and offers to send invites to your contacts. Thanks @Glitchy-Tozier for suggesting it be listing as SMS/MMS alternative.
   gboard:
     - title: Gboard (Google Keyboard)
     - name: AnySoftKeyboard
