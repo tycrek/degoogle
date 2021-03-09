@@ -311,7 +311,6 @@ When contributing, **please follow the rules outlined in [CONTRIBUTING.md](https
 | [Tresorit](https://tresorit.com/) |  | Primarily meant for businesses, but offers a free version for individuals as well. (thanks u/xNick26) |
 | [Sync](https://www.sync.com) | **5-eyes** | End-to-end encrypted Google Drive/Dropbox replacement. |
 | [JottaCloud](https://jottacloud.com/en/) | **9-eyes** | Norway based cloud storage provider with free and paid plans. Thanks @mynamesleon |
-| [Armored](https://armored.net/) | **9-eyes** | Nextcloud instance hosted by Epik.com. Paid plans with 30-day trial. Servers in a "secure bunker" in Norway. Supports other Nextcloud features such as Nextcloud Talk. |
 | [seafile](https://www.seafile.com) |  | [Open-source](https://github.com/haiwen/seafile) and self-hosted file sync&share solution. |
 | [Cozy Cloud](https://cozy.io/) | **9-eyes** | French based cloud storage provider with free and paid plans. Can also be self-hosted and is [open-Source](https://github.com/cozy/cozy-stack). And it also offers a collaborative notes editor. |
 | [Mailfence Documents](https://www.mailfence.com) | **14-eyes** | Documents can be accessed using WebDAV or edited online. Users can drag and drop files in folders and categorize them with tags. |
