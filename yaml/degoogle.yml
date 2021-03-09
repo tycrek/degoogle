@@ -702,6 +702,11 @@ web based products:
       eyes: null
       text: |
         A distraction free notes taking app for Nextcloud. It provides categories for better organization and supports formatting using Markdown syntax. Notes are saved as files in your Nextcloud, so you can view and edit them with every Nextcloud client.
+    - name: TiddlyWiki
+      url: https://tiddlywiki.com/
+      eyes: null
+      text: |
+        An [open-source](https://github.com/Jermolene/TiddlyWiki5) personal note-taking system that can run in the browser as a single HTML file or as a NodeJS application. It can be stored locally on a hard drive or removable drive, self-hosted on one's own server, or use various web-based storage options.
   music tv movies:
     - title: Play Music, Movies, & TV
     - notes:
