@@ -142,6 +142,7 @@ When contributing, **please follow the rules outlined in [CONTRIBUTING.md](https
 | [LBRY](https://lbry.com/) |  | A decentralized platform for distributing and supporting creators's work. It aims to be Open, Community driven "digital marketplace". It can be used in a similar way to YouTube: browsing, subscribing to channels, there is a mechanism to send "tips" to creators. Looks up videos based on a blockchain and is [open-source](https://github.com/lbryio) and uncensored. It already has some "larger" creators like Minutephysics, Veritasium, Barnacules and Lunduke. |
 | [US.TV](https://us.tv/) |  | PeerTube instance hosted by Epik.com. |
 | [FreeTube](https://freetubeapp.io/) |  | [Open-source](https://github.com/FreeTubeApp/FreeTube) desktop YouTube client that uses the Invidio.us API to serve content. |
+| [youtube-local](https://github.com/user234683/youtube-local) |  | [Open-source](https://github.com/user234683/youtube-local) browser-based client for watching Youtube anonymously and with greater page performance. Non-video requests can be routed through Tor. Optionally the videos can be routed through Tor as well. Can be used without Javascript. No server software installation required. Uses self-hosted subscriptions and playlists. |
 
 
 
@@ -359,6 +360,7 @@ When contributing, **please follow the rules outlined in [CONTRIBUTING.md](https
 | [Mailfence](https://www.mailfence.com) | **14-eyes** | A secure and private email provider much like Protonmail and Tutanota. There are no google analytics nor hidden cookies. There are options to pay anonymously via cryptocurrency. It features a wide array of collaboration tools, such as groups, calendar, contacts, documents with editing space. Offers free, paid, and freemium plans. Can pay with cryptocurrency and has a [warrant canary](https://blog.mailfence.com/transparency-report-and-warrant-canary/). Thanks @resto1231 |
 | [CTemplar](https://ctemplar.com/) |  | Privacy-focused email provider located in Iceland. |
 | [Anonaddy](https://anonaddy.com/) | **9-eyes** | [Open-source](https://github.com/anonaddy/anonaddy) Anonymous forwarding email service. Forwarded email can be encrypted (OpenPGP) to prevent Google from reading it. Accepts cryptocurrencies (including Monero). |
+| [Mail-in-a-Box](https://mailinabox.email/) |  | [Open-source](https://github.com/mail-in-a-box/mailinabox) self-hosted easy-to-deploy mail server in a box. |
 
 - *This is just for the Gmail service, not a client*
 
@@ -388,6 +390,7 @@ When contributing, **please follow the rules outlined in [CONTRIBUTING.md](https
 | [Popcorn Time](https://popcorntime.sh/) |  | [Open-source](https://github.com/popcorn-official) software for desktop and mobile that let you easily stream movie/TV torrents. **Be careful if your country or ISP has policies against torrenting, a VPN is recommended.** Thanks @je-vv |
 | [Nuclear Music Player](https://nuclear.js.org/) |  | Streaming music player that finds music from free sources automatically. |
 | [Tribler](https://www.tribler.org/) |  | [Open-source](https://github.com/Tribler/tribler) peer-to-peer file sharing that provides a "Youtube"-like streaming experience. Tribler uses Tor-like onion routing to protect the privacy of its users. |
+| [Ampache](http://ampache.org/) |  | [Open-source](https://github.com/ampache/ampache) and self-hosted web based media manager and media server. API available to allow usage on various platforms. On-the-fly transcoding available. Supports both music and video. |
 
 - *I can no longer recommend [Emby](https://emby.media/) as they are [no longer open source](https://www.linuxuprising.com/2018/12/jellyfin-free-software-emby-media.html).*
 - *Thanks to u/eA8KESARaW6iqCpHsbE4 for suggesting Jellyfin and pointing out that Emby isn't open source.*
@@ -752,6 +755,7 @@ No known alternatives.
 | ---- | ---- | ----------- |
 | [Audinaut](https://github.com/nvllsvm/Audinaut) [![F-Droid](https://img.shields.io/f-droid/v/net.nullsum.audinaut?style=flat-square)](https://f-droid.org/en/packages/net.nullsum.audinaut/) |  | An [open-source](https://github.com/nvllsvm/Audinaut) Airsonic client for Android. |
 | [MALP](https://gitlab.com/gateship-one/malp/-/blob/master/README.md) [![F-Droid](https://img.shields.io/f-droid/v/org.gateshipone.malp?style=flat-square)](https://f-droid.org/en/packages/org.gateshipone.malp/) |  | An [open-source](https://gitlab.com/gateship-one/malp/) Android client for MPD. Available on F-Droid. |
+| [Shuttle+](https://github.com/timusus/Shuttle) [![F-Droid](https://img.shields.io/f-droid/v/com.simplecity.amp_pro?style=flat-square)](https://f-droid.org/en/packages/com.simplecity.amp_pro/) |  | [Open-source](https://github.com/timusus/Shuttle) local music player for Android. Available on F-Droid or by [direct download](https://github.com/timusus/Shuttle/releases). |
 
 
 
