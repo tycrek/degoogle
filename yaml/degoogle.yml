@@ -418,7 +418,7 @@ web based products:
       url: https://www.lyx.org/
       eyes: null
       text: |
-        It's an [open-source](https://www.lyx.org/Development) (and offline) document processor using TeX/LaTeX. It's different than Docs or Word but amazing, once you get used to it. Thanks @Glitchy-Tozier
+        It's an [open-source](https://www.lyx.org/Development) (and offline) document processor using TeX/LaTeX. It's different than Docs or Word but amazing, once you get used to it.
     - name: ONLYOFFICE
       url: https://www.onlyoffice.com/
       eyes: null
@@ -1197,7 +1197,7 @@ mobile applications:
       fdroid: org.dslul.openboard.inputmethod.latin
       eyes: null
       text: |
-        New 100% FOSS keyboard, based on AOSP. Similar to "Simple Keyboard". Thanks @Glitchy-Tozier
+        New 100% FOSS keyboard, based on AOSP. Similar to "Simple Keyboard".
   drive:
     - title: Drive
     - name: ownCloud Android
@@ -1536,7 +1536,7 @@ mobile applications:
       fdroid: fr.neamar.kiss
       eyes: null
       text: |
-        Fast, [open-source](https://github.com/Neamar/KISS) and small launcher. KISS mainly relies on an app-search-bar, which makes it very easy to open up apps quickly. Thanks @Glitchy-Tozier
+        Fast, [open-source](https://github.com/Neamar/KISS) and small launcher. KISS mainly relies on an app-search-bar, which makes it very easy to open up apps quickly.
   other:
     - title: "*Other*"
     - name: Blokada
