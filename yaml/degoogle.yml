@@ -659,6 +659,11 @@ web based products:
       eyes: 9
       text: |
         [Open-source](https://github.com/anonaddy/anonaddy) Anonymous forwarding email service. Forwarded email can be encrypted (OpenPGP) to prevent Google from reading it. Accepts cryptocurrencies (including Monero).
+    - name: Mail-in-a-Box
+      url: https://mailinabox.email/
+      eyes: null
+      text: |
+        [Open-source](https://github.com/mail-in-a-box/mailinabox) self-hosted easy-to-deploy mail server in a box.
   keep:
     - title: Keep
     - name: Joplin
