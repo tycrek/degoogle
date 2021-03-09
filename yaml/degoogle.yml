@@ -1236,6 +1236,12 @@ mobile applications:
       eyes: null
       text: |
         An [open-source](https://github.com/florisboard/florisboard) keyboard aimed at providing you with an easy way to type while respecting your privacy (tThis project is currently in alpha stage).
+    - name: 8VIM
+      url: https://www.8vim.com/
+      fdroid: inc.flide.vi8
+      eyes: null
+      text: |
+        [Open-source](https://github.com/flide/8VIM). A "text editor inside a keyboard, drawing it's inspiration from 8pen and Vim."
   drive:
     - title: Drive
     - name: ownCloud Android
