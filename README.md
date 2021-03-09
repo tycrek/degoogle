@@ -297,7 +297,6 @@ When contributing, **please follow the rules outlined in [CONTRIBUTING.md](https
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [Njalla](https://njal.la/) | **14-eyes** | Privacy-focused domain registration. Competitive pricing and a large list of available domain extensions. They also offer VPS hosting. Built by people who built The Pirate Bay among others. (thanks u/brais33 and u/HumbleBasis6). Note: some users may have issues with them [legally owning your domain](https://news.ycombinator.com/item?id=14177597). |
-| [Porkbun](https://porkbun.com/) | **5-eyes** | Domain registration with free WHOIS privacy. |
 | [Orangewebsite](https://www.orangewebsite.com/) |  | An Iceland-based freedom of speech web hosting provider. They never actually ask for your name, at least when you pay in Bitcoin. |
 
 
@@ -461,7 +460,6 @@ No known alternatives.
 | [LineageOS](https://www.lineageos.org/) | **5-eyes** | [Open-source](https://github.com/lineageos) and based on Android, but without the crap. |
 | [SailfishOS](https://sailfishos.org/) |  | Privacy-focused mobile OS by Jolla with a proprietary UI and Android compatibility layer on top of an [open-source](http://releases.sailfishos.org/sources/) Mer GNU/Linux base. |
 | [GrapheneOS](https://grapheneos.org/) |  | [Open-source](https://github.com/GrapheneOS) Android-based OS with an emphasis on security and privacy. Features advanced hardening and privacy protections throughout the system. |
-| [CopperheadOS](https://copperhead.co/android) | **5-eyes-eyes** | A security and privacy focused mobile operating system compatible with Android apps. Available as Google-free secure Android on the latest secure android phone. |
 | [postmarketOS](https://postmarketos.org/) |  | [Open-source](https://gitlab.com/postmarketOS) mobile Linux OS. Can install different user interfaces such as [Plasma Mobile](https://www.plasma-mobile.org/). Thanks @okias |
 | [Replicant](https://replicant.us/) | **5-eyes** | Free Android distribution. Puts the emphasis on "freedom and privacy/security". |
 | [CalyxOS](https://calyxos.org/) |  | [Open-source](https://gitlab.com/CalyxOS) Android-based OS with an emphasis on security and privacy. Provides good combination of privacy and security together with usability. Optional support for MicroG. |
