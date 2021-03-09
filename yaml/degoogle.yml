@@ -1160,7 +1160,8 @@ mobile applications:
       url: https://signal.org/
       eyes: null
       text: |
-        [Open-source](https://github.com/signalapp). Signal possesses SMS/MMS capabilities on Android. Using it as your default SMS app has the advantage of having your SMS and your online-messaging-service integrated within one app. Doing so will also show stats within the app of how many messages you send are encrypted, and offers to send invites to your contacts. Thanks @Glitchy-Tozier for suggesting it be listing as SMS/MMS alternative.
+        [Open-source](https://github.com/signalapp). Signal possesses SMS/MMS capabilities on Android. Using it as your default SMS app has the advantage of having your SMS and your online-messaging-service integrated within one app. Doing so will also show stats within the app of how many messages you send are encrypted, and offers to send invites to your contacts.
+        Thanks @Glitchy-Tozier for suggesting it be listing as SMS/MMS alternative.
   gboard:
     - title: Gboard (Google Keyboard)
     - name: AnySoftKeyboard
