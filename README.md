@@ -20,7 +20,7 @@
 
 ### *I don't have anything to hide, but I don't have anything to show you either.*
 
-![Updated](https://img.shields.io/static/v1?label=updated&message=December%208th%202020&color=388E3C&style=flat-square)
+![Updated](https://img.shields.io/static/v1?label=updated&message=March%209th%202021&color=388E3C&style=flat-square)
 
 ![GitHub](https://img.shields.io/github/license/tycrek/degoogle?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/tycrek/degoogle?style=flat-square)
@@ -257,7 +257,7 @@ When contributing, **please follow the rules outlined in [CONTRIBUTING.md](https
 | [Lightning Calendar (Thunderbird)](https://www.thunderbird.net/en-US/calendar/) |  | Developed by Mozilla Foundation and [open-source](https://www.thunderbird.net/en-US/get-involved/). Integrates into Thunderbird and SeaMonkey. |
 | [Tutanota Calendar](https://tutanota.com/calendar/) | **14-eyes** | Developed by Tutanota. Free cross-platform encrypted calendar. Allows importing of other Calendar files. Can't be synced to other calendar software. |
 | [Fruux](https://fruux.com/) | **14-eyes** | [Open-source](https://fruux.com/opensource/) calendar using "sabre/dav" (FOSS WebDAV, CardDAV, and CalDAV). They mention privacy quite a bit on their site. Very large number of features, and supports nearly every device: Windows, iOS, Linux, Android, BlackBerry, SailFish, and also a webapp for browsers. |
-| [EteSync](https://www.etesync.com) |  | Secure, end-to-end encrypted, and [open-source](https://www.etesync.com/) sync for your contacts, calendars and tasks. |
+| [EteSync](https://www.etesync.com) |  | Secure, end-to-end encrypted, and [open-source](https://github.com/etesync) sync for your contacts, calendars, tasks and notes. |
 | [Baïkal](https://sabre.io/baikal/) |  | a lightweight CalDAV+CardDAV server. It offers an extensive web interface with easy management of users, address books and calendars. It is fast and simple to install and only needs a basic php capable server. The data can be stored in a MySQL or a SQLite database. Thanks @mahdi1234 |
 | [Nextcloud](https://nextcloud.com/) |  | Nextcloud also offers a calendar solution using CalDAV and CardDAV. Thanks @mahdi1234 for pointing this out. |
 | [Radicale](https://radicale.org/) |  | Self-hosted calendar server written in Python. WebUI for desktop, CalDav/CardDav for mobile sync. Can use a reverse proxy with Nginx for HTTPS. |
@@ -371,7 +371,7 @@ When contributing, **please follow the rules outlined in [CONTRIBUTING.md](https
 | [Standard Notes](https://standardnotes.org/) [![F-Droid](https://img.shields.io/f-droid/v/com.standardnotes?style=flat-square)](https://f-droid.org/en/packages/com.standardnotes/) |  | Encrypted note storage with loads of features. Offers a web app as well as downloads for most operating systems. Has a paid plan, but the free tier has many useful features as well. |
 | [Turtl](https://turtlapp.com/) |  | Encrypted collaborative notebook with possibility of running your own server. |
 | [QOwnNotes](https://www.qownnotes.org/) |  | [Open-source](https://github.com/pbek/QOwnNotes) file editor with Markdown support. (thanks u/maqp2) |
-| [EteSync](https://www.etesync.com) |  | Secure, end-to-end encrypted, and [open-source](https://github.com/etesync) sync for your contacts, calendars and tasks. |
+| [EteSync](https://www.etesync.com) |  | Secure, end-to-end encrypted, and [open-source](https://github.com/etesync) sync for your contacts, calendars, tasks and notes. |
 | [GitJournal](https://gitjournal.io/) |  | Your Markdown notes stores in any Git Repo. Available for both Android (Play Store) and iOS. |
 | [Nextcloud Notes](https://apps.nextcloud.com/apps/notes) |  | A distraction free notes taking app for Nextcloud. It provides categories for better organization and supports formatting using Markdown syntax. Notes are saved as files in your Nextcloud, so you can view and edit them with every Nextcloud client. |
 
@@ -591,6 +591,7 @@ No known alternatives.
 | [Fruux (mobile app)](https://fruux.com/) |  | Same service from above provides an Android app. |
 | [Etar](https://github.com/xsoh/Etar-Calendar) [![F-Droid](https://img.shields.io/f-droid/v/ws.xsoh.etar?style=flat-square)](https://f-droid.org/en/packages/ws.xsoh.etar/) |  | [Open-source](https://github.com/xsoh/Etar-Calendar) material design Calendar that integrates with the Android Calendar API. Can integrate with CalDAV/CardDAV servers. |
 | [Simple Calendar](https://github.com/SimpleMobileTools/Simple-Calendar) [![F-Droid](https://img.shields.io/f-droid/v/com.simplemobiletools.calendar.pro?style=flat-square)](https://f-droid.org/en/packages/com.simplemobiletools.calendar.pro/) |  | [Open-source](https://github.com/SimpleMobileTools/Simple-Calendar). Part of the [Simple Mobile Tools](https://github.com/SimpleMobileTools) project. |
+| [EteSync](https://www.etesync.com) [![F-Droid](https://img.shields.io/f-droid/v/com.etesync.syncadapter?style=flat-square)](https://f-droid.org/en/packages/com.etesync.syncadapter/) |  | Secure, end-to-end encrypted, and [open-source](https://github.com/etesync) sync for your contacts, calendars, tasks and notes. |
 
 
 
@@ -619,7 +620,7 @@ No known alternatives.
 | [Fruux (mobile app)](https://fruux.com/) |  | Fruux *also* provides a contacts app. |
 | [Simple Contacts](https://github.com/SimpleMobileTools/Simple-Contacts) [![F-Droid](https://img.shields.io/f-droid/v/com.simplemobiletools.contacts.pro?style=flat-square)](https://f-droid.org/en/packages/com.simplemobiletools.contacts.pro/) |  | [Open-source](https://github.com/SimpleMobileTools/Simple-Contacts). Part of the [Simple Mobile Tools](https://github.com/SimpleMobileTools) project. |
 | [Open Contacts](https://gitlab.com/sultanahamer/OpenContacts/-/blob/HEAD/README.md) [![F-Droid](https://img.shields.io/f-droid/v/opencontacts.open.com.opencontacts?style=flat-square)](https://f-droid.org/en/packages/opencontacts.open.com.opencontacts/) |  | [Open-source](https://gitlab.com/sultanahamer/OpenContacts/) contacts. (thanks u/consentio) |
-| [EteSync](https://www.etesync.com) [![F-Droid](https://img.shields.io/f-droid/v/com.etesync.syncadapter?style=flat-square)](https://f-droid.org/en/packages/com.etesync.syncadapter/) |  | Secure, end-to-end encrypted, and [open-source](https://github.com/etesync) sync for your contacts, calendars and tasks. |
+| [EteSync](https://www.etesync.com) [![F-Droid](https://img.shields.io/f-droid/v/com.etesync.syncadapter?style=flat-square)](https://f-droid.org/en/packages/com.etesync.syncadapter/) |  | Secure, end-to-end encrypted, and [open-source](https://github.com/etesync) sync for your contacts, calendars, tasks and notes. |
 
 
 
@@ -683,6 +684,7 @@ No known alternatives.
 | [Orgzly](http://orgzly.com/) [![F-Droid](https://img.shields.io/f-droid/v/com.orgzly?style=flat-square)](https://f-droid.org/en/packages/com.orgzly/) |  | [Open-source](https://github.com/orgzly). Notes are stored in the plain-text [Org mode](https://orgmode.org/) format. Supports searching, metadata, and manual sync with Dropbox or local directory, which can be synced using e.g. Syncthing. |
 | [Notally](https://github.com/OmGodse/Notally) |  | A beautiful, light and minimalistic notes app with no trackers, ads or analytics of any kind. Not on F-Droid, but available from [this alternative market](https://apt.izzysoft.de/fdroid/index/apk/com.omgodse.notally). |
 | [Nextcloud Notes for Android](https://github.com/stefan-niedermann/nextcloud-notes) [![F-Droid](https://img.shields.io/f-droid/v/it.niedermann.owncloud.notes?style=flat-square)](https://f-droid.org/en/packages/it.niedermann.owncloud.notes/) |  | An android client for Nextcloud Notes App. |
+| [EteSync](https://www.etesync.com) [![F-Droid](https://img.shields.io/f-droid/v/com.etesync.notes?style=flat-square)](https://f-droid.org/en/packages/com.etesync.notes/) |  | Secure, end-to-end encrypted, and [open-source](https://github.com/etesync) sync for your contacts, calendars, tasks and notes. |
 
 
 
