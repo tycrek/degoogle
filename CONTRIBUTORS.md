@@ -68,6 +68,7 @@ GitHub:
 - [@codedust](https://github.com/codedust)
 - [@shivasagarrao](https://github.com/shivasagarrao)
 - [@0xflotus](https://github.com/0xflotus)
+- [@J053Fabi0](https://github.com/J053Fabi0)
 
 Reddit:
 

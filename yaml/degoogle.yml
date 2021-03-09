@@ -1439,6 +1439,12 @@ mobile applications:
       eyes: null
       text: |
         An [open-source](https://gitlab.com/gateship-one/malp/) Android client for MPD. Available on F-Droid.
+    - name: Shuttle+
+      url: https://github.com/timusus/Shuttle
+      fdroid: com.simplecity.amp_pro
+      eyes: null
+      text: |
+        [Open-source](https://github.com/timusus/Shuttle) local music player for Android. Available on F-Droid or by [direct download](https://github.com/timusus/Shuttle/releases).
   hangouts:
     - title: Hangouts
     - name: Keybase
