@@ -18,7 +18,7 @@ assignees: ''
 
 ### Details
 
-- **Alternative name**: Enter name here. Required
+- **Alternative name**: enter name here. Required
 - **Reason**: detail why this alternative should be removed. Include any relevant links
 
 [CONTRIBUTING.md]: ../blob/master/CONTRIBUTING.md

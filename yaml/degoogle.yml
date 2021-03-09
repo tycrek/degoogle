@@ -103,6 +103,11 @@ web based products:
       eyes: null
       text: |
         [Open-source](https://github.com/FreeTubeApp/FreeTube) desktop YouTube client that uses the Invidio.us API to serve content.
+    - name: youtube-local
+      url: https://github.com/user234683/youtube-local
+      eyes: null
+      text: |
+        [Open-source](https://github.com/user234683/youtube-local) browser-based client for watching Youtube anonymously and with greater page performance. Non-video requests can be routed through Tor. Optionally the videos can be routed through Tor as well. Can be used without Javascript. No server software installation required. Uses self-hosted subscriptions and playlists.
   news:
     - title: News
     - name: Local newspaper
@@ -156,6 +161,11 @@ web based products:
       eyes: null
       text: |
         A free, [open-source](https://github.com/apertium/apertium) translation system.
+    - name: LibreTranslate
+      url: https://libretranslate.com/
+      eyes: null
+      text: |
+        A free and [open-source](https://github.com/uav4geo/LibreTranslate) machine-translation API which can be self-hosted.
   ads:
     - title: Google Ads/AdMob/AdSense
     - name: EthicalAds
@@ -182,6 +192,11 @@ web based products:
       eyes: null
       text: |
         A secure hosted email and productivity platform, designed for providers of all sizes to offer their customers email, calendar, storage, encryption and more.
+    - name: Sandstorm
+      url: https://sandstorm.io/
+      eyes: null
+      text: |
+        An [open-source](https://github.com/sandstorm-io/sandstorm) self-hosted web hosting platform for a wide set of web applications, including Etherpad (collaborative text editing), Radicale (calendar), Lychee (image hosting), Wekan (Kanban)
   blogger and sites:
     - title: Blogger/Sites
     - name: Joomla
@@ -296,6 +311,11 @@ web based products:
       eyes: 5
       text: |
         An analytics suite with a focus on user privacy and data security.
+    - name: Panelbear
+      url: https://panelbear.com/
+      eyes: 14
+      text: |
+        Privacy-focused analytics + web performance monitoring.
   photos:
     - title: Photos
     - name: Photoprism
@@ -354,7 +374,7 @@ web based products:
       url: https://www.etesync.com
       eyes: null
       text: |
-        Secure, end-to-end encrypted, and [open-source](https://www.etesync.com/) sync for your contacts, calendars and tasks.
+        Secure, end-to-end encrypted, and [open-source](https://github.com/etesync) sync for your contacts, calendars, tasks and notes.
     - name: Baïkal
       url: https://sabre.io/baikal/
       eyes: null
@@ -418,7 +438,7 @@ web based products:
       url: https://www.lyx.org/
       eyes: null
       text: |
-        It's an [open-source](https://www.lyx.org/Development) (and offline) document processor using TeX/LaTeX. It's different than Docs or Word but amazing, once you get used to it. Thanks @Glitchy-Tozier
+        It's an [open-source](https://www.lyx.org/Development) (and offline) document processor using TeX/LaTeX. It's different than Docs or Word but amazing, once you get used to it.
     - name: ONLYOFFICE
       url: https://www.onlyoffice.com/
       eyes: null
@@ -441,11 +461,6 @@ web based products:
       eyes: 14
       text: |
         Privacy-focused domain registration. Competitive pricing and a large list of available domain extensions. They also offer VPS hosting. Built by people who built The Pirate Bay among others. (thanks u/brais33 and u/HumbleBasis6). Note: some users may have issues with them [legally owning your domain](https://news.ycombinator.com/item?id=14177597).
-    - name: Porkbun
-      url: https://porkbun.com/
-      eyes: 5
-      text: |
-        Domain registration with free WHOIS privacy.
     - name: Orangewebsite
       url: https://www.orangewebsite.com/
       eyes: null
@@ -488,11 +503,6 @@ web based products:
       eyes: 9
       text: |
         Norway based cloud storage provider with free and paid plans. Thanks @mynamesleon
-    - name: Armored
-      url: https://armored.net/
-      eyes: 9
-      text: |
-        Nextcloud instance hosted by Epik.com. Paid plans with 30-day trial. Servers in a "secure bunker" in Norway. Supports other Nextcloud features such as Nextcloud Talk.
     - name: seafile
       url: https://www.seafile.com
       eyes: null
@@ -524,7 +534,7 @@ web based products:
       url: https://signal.org/
       eyes: 5
       text: |
-        Whistleblower and privacy advocate Edward Snowden recommends Signal.
+        (Open-source)[https://github.com/signalapp] secure messaging. Whistleblower and privacy advocate Edward Snowden recommends Signal.
     - name: Tox
       url: https://tox.chat/
       eyes: null
@@ -549,7 +559,7 @@ web based products:
       url: https://keybase.io/
       eyes: 5
       text: |
-        encrypted chat like Signal with features like Slack. Does not require a phone number to sign up. Also has file storage. **Note:** Keybase was acquired by Zoom, Inc. in May 2020 ([Keybase blog](https://keybase.io/blog/keybase-joins-zoom), [Zoom blog](https://blog.zoom.us/wordpress/2020/05/07/zoom-acquires-keybase-and-announces-goal-of-developing-the-most-broadly-used-enterprise-end-to-end-encryption-offering/)). Thanks @notpushkin & @multimob.
+        Encrypted chat like Signal with features like Slack. Does not require a phone number to sign up. Also has file storage. **Note:** Keybase was acquired by Zoom, Inc. in May 2020 ([Keybase blog](https://keybase.io/blog/keybase-joins-zoom), [Zoom blog](https://blog.zoom.us/wordpress/2020/05/07/zoom-acquires-keybase-and-announces-goal-of-developing-the-most-broadly-used-enterprise-end-to-end-encryption-offering/)). Thanks @notpushkin & @multimob.
     - name: Jitsi
       url: https://jitsi.org/
       eyes: 5
@@ -616,7 +626,7 @@ web based products:
         [Open-source](https://github.com/simple-login/), self-hosted, and privacy focused email forwarding service.
     - name: Migadu
       url: https://www.migadu.com/en/index.html
-      eyes: null
+      eyes: 9
       text: |
         Paid email provider, located in Switzerland. Focus on privacy.
     - name: Fastmail
@@ -629,11 +639,11 @@ web based products:
       eyes: 9
       text: |
         Privacy focusued email provider. Thanks @petertorelli
-    - name: nextCloud
+    - name: NextCloud
       url: https://help.nextcloud.com/t/nextcloud-mail-server/157
       eyes: null
       text: |
-        Now also provides an email service (self-hosted). Thanks @je-vv
+        Nextcloud provides a [webmail interface](https://github.com/nextcloud/mail) that can be used to access email from various providers. Thanks @je-vv
     - name: Anonymize.com Email
       url: https://anonymize.com/
       eyes: null
@@ -659,6 +669,11 @@ web based products:
       eyes: 9
       text: |
         [Open-source](https://github.com/anonaddy/anonaddy) Anonymous forwarding email service. Forwarded email can be encrypted (OpenPGP) to prevent Google from reading it. Accepts cryptocurrencies (including Monero).
+    - name: Mail-in-a-Box
+      url: https://mailinabox.email/
+      eyes: null
+      text: |
+        [Open-source](https://github.com/mail-in-a-box/mailinabox) self-hosted easy-to-deploy mail server in a box.
   keep:
     - title: Keep
     - name: Joplin
@@ -686,7 +701,7 @@ web based products:
       url: https://www.etesync.com
       eyes: null
       text: |
-        Secure, end-to-end encrypted, and [open-source](https://github.com/etesync) sync for your contacts, calendars and tasks.
+        Secure, end-to-end encrypted, and [open-source](https://github.com/etesync) sync for your contacts, calendars, tasks and notes.
     - name: GitJournal
       url: https://gitjournal.io/
       eyes: null
@@ -697,6 +712,11 @@ web based products:
       eyes: null
       text: |
         A distraction free notes taking app for Nextcloud. It provides categories for better organization and supports formatting using Markdown syntax. Notes are saved as files in your Nextcloud, so you can view and edit them with every Nextcloud client.
+    - name: TiddlyWiki
+      url: https://tiddlywiki.com/
+      eyes: null
+      text: |
+        An [open-source](https://github.com/Jermolene/TiddlyWiki5) personal note-taking system that can run in the browser as a single HTML file or as a NodeJS application. It can be stored locally on a hard drive or removable drive, self-hosted on one's own server, or use various web-based storage options.
   music tv movies:
     - title: Play Music, Movies, & TV
     - notes:
@@ -739,6 +759,11 @@ web based products:
       eyes: null
       text: |
         [Open-source](https://github.com/Tribler/tribler) peer-to-peer file sharing that provides a "Youtube"-like streaming experience. Tribler uses Tor-like onion routing to protect the privacy of its users.
+    - name: Ampache
+      url: http://ampache.org/
+      eyes: null
+      text: |
+        [Open-source](https://github.com/ampache/ampache) and self-hosted web based media manager and media server. API available to allow usage on various platforms. On-the-fly transcoding available. Supports both music and video.
   fonts:
     - title: Fonts
     - name: Open Font Library
@@ -834,11 +859,6 @@ operating systems:
       eyes: null
       text: |
         [Open-source](https://github.com/GrapheneOS) Android-based OS with an emphasis on security and privacy. Features advanced hardening and privacy protections throughout the system.
-    - name: CopperheadOS
-      url: https://copperhead.co/android
-      eyes: 5-eyes
-      text: |
-        A security and privacy focused mobile operating system compatible with Android apps. Available as Google-free secure Android on the latest secure android phone.
     - name: postmarketOS
       url: https://postmarketos.org/
       eyes: null
@@ -1090,6 +1110,12 @@ mobile applications:
       eyes: null
       text: |
         [Open-source](https://github.com/SimpleMobileTools/Simple-Calendar). Part of the [Simple Mobile Tools](https://github.com/SimpleMobileTools) project.
+    - name: EteSync
+      url: https://www.etesync.com
+      fdroid: com.etesync.syncadapter
+      eyes: null
+      text: |
+        Secure, end-to-end encrypted, and [open-source](https://github.com/etesync) sync for your contacts, calendars, tasks and notes.
   camera:
     - title: Camera
     - name: Open Camera
@@ -1116,6 +1142,12 @@ mobile applications:
       eyes: null
       text: |
         Developer states that he had "spent a night out with the boys and drank a bit too much but needed to be up in the morning". So, he made the loudest alarm clock possible based off an emergency alarm from when he was in the military. This app doesn't mess around, use it wisely.
+    - name: Alarmio
+      url: https://github.com/fennifith/Alarmio
+      fdroid: me.jfenn.alarmio
+      eyes: null
+      text: |
+        An [open-source](https://github.com/fennifith/Alarmio) simple alarm clock that implements many useful features while following regular design standards to ensure that it is quick and intuitive to use.
   contacts:
     - title: Contacts
     - name: Fruux (mobile app)
@@ -1140,7 +1172,7 @@ mobile applications:
       fdroid: com.etesync.syncadapter
       eyes: null
       text: |
-        Secure, end-to-end encrypted, and [open-source](https://github.com/etesync) sync for your contacts, calendars and tasks.
+        Secure, end-to-end encrypted, and [open-source](https://github.com/etesync) sync for your contacts, calendars, tasks and notes.
   messages:
     - title: Android Messages (specifically SMS/MMS, not IM)
     - name: QKSMS
@@ -1159,7 +1191,8 @@ mobile applications:
       url: https://signal.org/
       eyes: null
       text: |
-        Signal possesses SMS/MMS capabilities on Android. Using it as your default SMS app has the advantage of having your SMS and your online-messaging-service integrated within one app. Doing so will also show stats within the app of how many messages you send are encrypted, and offers to send invites to your contacts. Thanks @Glitchy-Tozier for suggesting it be listing as SMS/MMS alternative.
+        [Open-source](https://github.com/signalapp). Signal possesses SMS/MMS capabilities on Android. Using it as your default SMS app has the advantage of having your SMS and your online-messaging-service integrated within one app. Doing so will also show stats within the app of how many messages you send are encrypted, and offers to send invites to your contacts.
+        Thanks @Glitchy-Tozier for suggesting it be listing as SMS/MMS alternative.
   gboard:
     - title: Gboard (Google Keyboard)
     - name: AnySoftKeyboard
@@ -1196,7 +1229,19 @@ mobile applications:
       fdroid: org.dslul.openboard.inputmethod.latin
       eyes: null
       text: |
-        New 100% FOSS keyboard, based on AOSP. Similar to "Simple Keyboard". Thanks @Glitchy-Tozier
+        New 100% FOSS keyboard, based on AOSP. Similar to "Simple Keyboard".
+    - name: FlorisBoard
+      url: https://github.com/florisboard/florisboard
+      fdroid: dev.patrickgold.florisboard
+      eyes: null
+      text: |
+        An [open-source](https://github.com/florisboard/florisboard) keyboard aimed at providing you with an easy way to type while respecting your privacy (tThis project is currently in alpha stage).
+    - name: 8VIM
+      url: https://www.8vim.com/
+      fdroid: inc.flide.vi8
+      eyes: null
+      text: |
+        [Open-source](https://github.com/flide/8VIM). A "text editor inside a keyboard, drawing it's inspiration from 8pen and Vim."
   drive:
     - title: Drive
     - name: ownCloud Android
@@ -1247,7 +1292,7 @@ mobile applications:
       fdroid: eu.faircode.email
       eyes: null
       text: |
-        Available on F-Droid.
+        Available on F-Droid. You can (optionally) pay a 1-time fee to unlock some premium features (and support the developer).
     - name: DeltaChat
       url: https://delta.chat/
       fdroid: com.b44t.messenger
@@ -1303,15 +1348,22 @@ mobile applications:
         [Open-source](https://github.com/orgzly). Notes are stored in the plain-text [Org mode](https://orgmode.org/) format. Supports searching, metadata, and manual sync with Dropbox or local directory, which can be synced using e.g. Syncthing.
     - name: Notally
       url: https://github.com/OmGodse/Notally
+      fdroid: com.omgodse.notally
       eyes: null
       text: |
-        A beautiful, light and minimalistic notes app with no trackers, ads or analytics of any kind. Not on F-Droid, but available from [this alternative market](https://apt.izzysoft.de/fdroid/index/apk/com.omgodse.notally).
+        A beautiful, light and minimalistic notes app with no trackers, ads or analytics of any kind.
     - name: Nextcloud Notes for Android
       url: https://github.com/stefan-niedermann/nextcloud-notes
       fdroid: it.niedermann.owncloud.notes
       eyes: null
       text: |
         An android client for Nextcloud Notes App.
+    - name: EteSync
+      url: https://www.etesync.com
+      fdroid: com.etesync.notes
+      eyes: null
+      text: |
+        Secure, end-to-end encrypted, and [open-source](https://github.com/etesync) sync for your contacts, calendars, tasks and notes.
   maps and waze:
     - title: Maps/Waze
     - name: Maps
@@ -1425,6 +1477,12 @@ mobile applications:
       eyes: null
       text: |
         An [open-source](https://gitlab.com/gateship-one/malp/) Android client for MPD. Available on F-Droid.
+    - name: Shuttle+
+      url: https://github.com/timusus/Shuttle
+      fdroid: com.simplecity.amp_pro
+      eyes: null
+      text: |
+        [Open-source](https://github.com/timusus/Shuttle) local music player for Android. Available on F-Droid or by [direct download](https://github.com/timusus/Shuttle/releases).
   hangouts:
     - title: Hangouts
     - name: Keybase
@@ -1528,7 +1586,7 @@ mobile applications:
       fdroid: fr.neamar.kiss
       eyes: null
       text: |
-        Fast, [open-source](https://github.com/Neamar/KISS) and small launcher. KISS mainly relies on an app-search-bar, which makes it very easy to open up apps quickly. Thanks @Glitchy-Tozier
+        Fast, [open-source](https://github.com/Neamar/KISS) and small launcher. KISS mainly relies on an app-search-bar, which makes it very easy to open up apps quickly.
   other:
     - title: "*Other*"
     - name: Blokada

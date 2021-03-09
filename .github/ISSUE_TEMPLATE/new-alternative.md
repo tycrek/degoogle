@@ -19,8 +19,8 @@ assignees: ''
 ### Details
 
 - **General**
-  - **Alternative name**: Alternative name here. Required
-  - **Alternative URL**: Alternative URL here. Required
+  - **Alternative name**: alternative name here. Required
+  - **Alternative URL**: alternative URL here. Required
   - **5/9/14 eyes**: yes/no/unknown
   - **Description**: detail why this alternative should be added
 - **FLOSS**
@@ -32,7 +32,7 @@ assignees: ''
 - **Encryption**
   - HTTPS: yes/no
   - E2EE: yes/no/optional
-  - Modern Encryption: yes/no
+  - Modern encryption: yes/no
 - **Transparency**
   - Public ownership: yes/no [Parent company name](https://parent.company.url)
   - 3rd-party audits: yes/no [Link to audit history](https://audit.history.url)
