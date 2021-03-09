@@ -744,6 +744,11 @@ web based products:
       eyes: null
       text: |
         [Open-source](https://github.com/Tribler/tribler) peer-to-peer file sharing that provides a "Youtube"-like streaming experience. Tribler uses Tor-like onion routing to protect the privacy of its users.
+    - name: Ampache
+      url: http://ampache.org/
+      eyes: null
+      text: |
+        [Open-source](https://github.com/ampache/ampache) and self-hosted web based media manager and media server. API available to allow usage on various platforms. On-the-fly transcoding available. Supports both music and video.
   fonts:
     - title: Fonts
     - name: Open Font Library

@@ -69,6 +69,7 @@ GitHub:
 - [@shivasagarrao](https://github.com/shivasagarrao)
 - [@0xflotus](https://github.com/0xflotus)
 - [@J053Fabi0](https://github.com/J053Fabi0)
+- [@trexx](https://github.com/trexx)
 
 Reddit:
 
