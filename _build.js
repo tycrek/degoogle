@@ -150,7 +150,7 @@ function repoLink(repo) {
     let repoURL = new URL(repo);
     let repoHost = path.basename(repoURL.hostname, path.extname(repoURL.hostname))
     if (repoHost.includes(".")) repoHost = path.extname(repoHost).replace(".", "")
-    return `[![Repo](https://img.shields.io/badge/open-source-blue?style=flat-square&logo=${repoHost})](${repo})`
+    return `[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=${repoHost})](${repo})`
 }
 
 /**
