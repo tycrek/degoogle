@@ -44,6 +44,7 @@ web based products:
         Privacy focused search engine that also aims to clean up the oceans. Thanks @mynamesleon
     - name: Cyberd
       url: https://cyber.page/
+      repo: https://github.com/cybercongress/cyb
       eyes: null
       text: |
         Decentralized Google. A web 3 alternative for the Google search engine. In Beta testing mode. Uses IPFS and Tendermint consensus for security and economic incentives. Please see their [ELI-5 FAQ](https://github.com/cybercongress/congress/blob/master/ecosystem/ELI-5%20FAQ.md) for more info.
@@ -181,9 +182,11 @@ web based products:
     - title: Google Ads/AdMob/AdSense
     - name: EthicalAds
       url: https://www.ethicalads.io/
+      repo: https://github.com/readthedocs/ethical-ad-server
       eyes: null
       text: |
-        A developer-focused, privacy-obsessed ad network from the fine folks at Read the Docs. Source code can be [on GitHub](https://github.com/readthedocs/ethical-ad-server).
+        A developer-focused, privacy-obsessed ad network from the fine folks at Read the Docs.
+        Source code can be found on GitHub.
   alerts:
     - title: Google Alerts
     - name: F5Bot
@@ -692,6 +695,7 @@ web based products:
         Privacy focusued email provider. Thanks @petertorelli
     - name: NextCloud
       url: https://help.nextcloud.com/t/nextcloud-mail-server/157
+      repo: https://github.com/nextcloud/mail
       eyes: null
       text: |
         Nextcloud provides a [webmail interface](https://github.com/nextcloud/mail) that can be used to access email from various providers. Thanks @je-vv
@@ -1023,6 +1027,7 @@ desktop applications:
     - title: Chrome
     - name: Ungoogled Chromium
       url: https://github.com/Eloston/ungoogled-chromium
+      repo: https://github.com/Eloston/ungoogled-chromium
       eyes: null
       text: |
         Chromium (which Chrome and countless other browsers are built on top of) is one of the cleanest and light-weight browsers available. This version cuts out all the Google crap.
@@ -1091,6 +1096,7 @@ mobile applications:
         Catalogue of FOSS apps for Android. Easy to install and keeps track of updates. Also has a browser version if you don't want to install the app.
     - name: Yalp Store (fork)
       url: https://github.com/kiliakin/YalpStore
+      repo: https://github.com/kiliakin/YalpStore
       fdroid: com.github.kiliakin.yalpstore
       eyes: null
       text: |
@@ -1102,6 +1108,7 @@ mobile applications:
         An online library of user-uploaded APK files. Helpful if you need a specific older version of an app or don't want to download it through Google Play.
     - name: Aurora Store
       url: https://gitlab.com/AuroraOSS/AuroraStore
+      repo: https://gitlab.com/AuroraOSS/AuroraStore
       fdroid: com.aurora.store
       eyes: null
       text: |
@@ -1113,11 +1120,13 @@ mobile applications:
         Uses the same library as F-Droid, but with a modern UI similar to that of the Play Store and the ability to view apps by popularity.
     - name: G-Droid
       url: https://gitlab.com/gdroid/gdroidclient/
+      repo: https://gitlab.com/gdroid/gdroidclient
       eyes: null
       text: |
         Also uses the F-Droid repo but with a different UI.
     - name: APKGrabber
       url: https://github.com/hemker/apkgrabber
+      repo: https://github.com/hemker/apkgrabber
       eyes: null
       text: |
         Fork of [APKUpdater](https://github.com/rumboalla/apkupdater). Both are great tools for avoiding app stores (on Android).
@@ -1144,6 +1153,7 @@ mobile applications:
     - title: Calculator
     - name: Simple Calculator
       url: https://github.com/SimpleMobileTools/Simple-Calculator
+      repo: https://github.com/SimpleMobileTools/Simple-Calculator
       fdroid: com.simplemobiletools.calculator
       eyes: null
       text: |
@@ -1222,11 +1232,13 @@ mobile applications:
       repo: https://github.com/philliphsu/ClockPlus
     - name: Simple Alarm Clock
       url: https://github.com/yuriykulikov/AlarmClock
+      repo: https://github.com/yuriykulikov/AlarmClock
       eyes: null
       text: |
         Exactly as it's name says; simple alarm clock yet adds many improvements over other apps. No dock mode or world clock.
     - name: Insane Alarm!
       url: https://github.com/RIAEvangelist/insane-alarm
+      repo: https://github.com/RIAEvangelist/insane-alarm
       eyes: null
       text: |
         Developer states that he had "spent a night out with the boys and drank a bit too much but needed to be up in the morning". So, he made the loudest alarm clock possible based off an emergency alarm from when he was in the military. This app doesn't mess around, use it wisely.
@@ -1325,6 +1337,7 @@ mobile applications:
       repo: https://gitlab.com/indicproject/indic-keyboard
     - name: OpenBoard
       url: https://github.com/dslul/openboard
+      repo: https://github.com/dslul/openboard
       fdroid: org.dslul.openboard.inputmethod.latin
       eyes: null
       text: |
@@ -1347,18 +1360,21 @@ mobile applications:
     - title: Drive
     - name: ownCloud Android
       url: https://github.com/owncloud/android
+      repo: https://github.com/owncloud/android
       fdroid: com.owncloud.android
       eyes: null
       text: |
         ownCloud Android client. Available on F-Droid.
     - name: Nextcloud Android
       url: https://github.com/nextcloud/android
+      repo: https://github.com/nextcloud/android
       fdroid: com.nextcloud.client
       eyes: null
       text: |
         Nextcloud Android client. Available on F-Droid.
     - name: Syncthing Android
       url: https://github.com/syncthing/syncthing-android
+      repo: https://github.com/syncthing/syncthing-android
       fdroid: com.nutomic.syncthingandroid
       eyes: null
       text: |
@@ -1416,6 +1432,7 @@ mobile applications:
       repo: https://github.com/farmerbb/Notepad
     - name: Joplin
       url: https://github.com/laurent22/joplin
+      repo: https://github.com/laurent22/joplin
       eyes: null
       text: |
         Scroll down on the GitHub page until you reach the Android download links. No F-Droid repo, but you can download the APK directly instead of using the Play Store.
@@ -1433,6 +1450,7 @@ mobile applications:
       repo: https://github.com/federicoiosue/Omni-Notes
     - name: Carnet
       url: https://github.com/PhieF/CarnetDocumentation
+      repo: https://github.com/CarnetApp/CarnetAndroid
       fdroid: com.spisoft.quicknote
       eyes: null
       text: |
@@ -1453,12 +1471,14 @@ mobile applications:
       repo: https://github.com/orgzly
     - name: Notally
       url: https://github.com/OmGodse/Notally
+      repo: https://github.com/OmGodse/Notally
       fdroid: com.omgodse.notally
       eyes: null
       text: |
         A beautiful, light and minimalistic notes app with no trackers, ads or analytics of any kind.
     - name: Nextcloud Notes for Android
       url: https://github.com/stefan-niedermann/nextcloud-notes
+      repo: https://github.com/stefan-niedermann/nextcloud-notes
       fdroid: it.niedermann.owncloud.notes
       eyes: null
       text: |
@@ -1508,6 +1528,7 @@ mobile applications:
       repo: https://github.com/FredJul/Flym
     - name: Feeder
       url: https://gitlab.com/spacecowboy/Feeder/-/blob/master/README.md
+      repo: https://gitlab.com/spacecowboy/Feeder
       fdroid: com.nononsenseapps.feeder
       eyes: null
       text: |
@@ -1516,6 +1537,7 @@ mobile applications:
     - title: Photos
     - name: Piwigo Android
       url: https://github.com/Piwigo/Piwigo-Android
+      repo: https://github.com/Piwigo/Piwigo-Android
       eyes: null
       text: |
         You need to have Piwigo set up first.
@@ -1554,6 +1576,7 @@ mobile applications:
       repo: https://github.com/andOTP/andOTP
     - name: FreeOTP+
       url: https://github.com/helloworld1/FreeOTPPlus
+      repo: https://github.com/helloworld1/FreeOTPPlus
       fdroid: org.liberty.android.freeotpplus
       eyes: null
       text: |
@@ -1595,11 +1618,11 @@ mobile applications:
       repo: https://gitlab.com/gateship-one/malp
     - name: Shuttle+
       url: https://github.com/timusus/Shuttle
+      repo: https://github.com/timusus/Shuttle
       fdroid: com.simplecity.amp_pro
       eyes: null
       text: |
-        Open-source local music player for Android. Available on F-Droid or by [direct download](https://github.com/timusus/Shuttle/releases).
-      repo: https://github.com/timusus/Shuttle
+        Open-source local music player for Android. Available on F-Droid or by direct download.
   hangouts:
     - title: Hangouts
     - name: Keybase
@@ -1609,11 +1632,12 @@ mobile applications:
         Encrypted chat like Signal with features like Slack. Does not require a phone number to sign up. Also has file storage. **Note:** Keybase was acquired by Zoom, Inc. in May 2020 ([Keybase blog](https://keybase.io/blog/keybase-joins-zoom), [Zoom blog](https://blog.zoom.us/wordpress/2020/05/07/zoom-acquires-keybase-and-announces-goal-of-developing-the-most-broadly-used-enterprise-end-to-end-encryption-offering/)). Thanks @notpushkin & @multimob.
     - name: Conversations
       url: https://conversations.im/
+      repo: https://github.com/iNPUTmice/Conversations
       fdroid: eu.siacs.conversations
       eyes: 14
       text: |
-        An open-source Android Jabber/XMPP client. It's a paid app on Google Play, but you can also [build it from source](https://github.com/siacs/Conversations) for free if you want to.
-      repo: https://github.com/inputmice/Conversations
+        An open-source Android Jabber/XMPP client. It's a paid app on Google Play, but you can also
+        build it from source for free if you want to.
     - name: Element
       url: https://github.com/vector-im/element-android
       fdroid: im.vector.app
@@ -1671,6 +1695,7 @@ mobile applications:
     - title: Assistant
     - name: Mycroft Android
       url: https://github.com/MycroftAI/Mycroft-Android
+      repo: https://github.com/MycroftAI/Mycroft-Android
       eyes: null
       text: |
         Android client for Mycroft. Must be built in IDE; no pre-built binaries are available.
