@@ -118,7 +118,10 @@ function generateServiceSection(data) {
             let text = item.text.trim();
 
             // Append the F-Droid badge to the name
-            if (item.fdroid) name = name.concat(' ' + fdroidLink(item.fdroid));
+            if (item.fdroid) name = name.concat('<br/>', fdroidLink(item.fdroid));
+
+            // Append the Repo badge to the name
+            if (item.repo) name = name.concat('<br/>', repoLink(item.repo));
 
             // Build the row
             let tableItem = `| ${name} | ${eyes} | ${text} |`;
@@ -136,7 +139,18 @@ function generateServiceSection(data) {
  * @param {String} appId The package identifier on F-Droid
  */
 function fdroidLink(appId) {
-    return `[![F-Droid](https://img.shields.io/f-droid/v/${appId}?style=flat-square)](https://f-droid.org/en/packages/${appId}/)`;
+    return `[![F-Droid](https://img.shields.io/f-droid/v/${appId}?style=flat-square&logo=f-droid)](https://f-droid.org/en/packages/${appId}/)`;
+}
+
+/**
+ * Returns a badge acting as a link to a source repository for an app.
+ * @param {String} repo The repository url
+ */
+function repoLink(repo) {
+    let repoURL = new URL(repo);
+    let repoHost = path.basename(repoURL.hostname, path.extname(repoURL.hostname))
+    if (repoHost.includes(".")) repoHost = path.extname(repoHost).replace(".", "")
+    return `[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=${repoHost})](${repo})`
 }
 
 /**
