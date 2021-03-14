@@ -20,7 +20,7 @@
 
 ### *I don't have anything to hide, but I don't have anything to show you either.*
 
-![Updated](https://img.shields.io/static/v1?label=updated&message=March%2011th%202021&color=388E3C&style=flat-square)
+![Updated](https://img.shields.io/static/v1?label=updated&message=March%2014th%202021&color=388E3C&style=flat-square)
 
 ![GitHub](https://img.shields.io/github/license/tycrek/degoogle?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/tycrek/degoogle?style=flat-square)
@@ -346,7 +346,7 @@ When contributing, **please follow the rules outlined in [CONTRIBUTING.md](https
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [Forward Email](https://forwardemail.net/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/forwardemail) |  | A free and open-source email forwarding service focused on a user's right to privacy. |
-| [Protonmail](https://protonmail.com/) |  | One of the top privacy-focused email providers. Servers are in Switzerland in an underground guarded bunker that they claim can "survive a nuclear attack". |
+| [Protonmail](https://protonmail.com/) |  | One of the top privacy-focused email providers. Servers are in Switzerland in an underground guarded bunker that they claim can "survive a nuclear attack". **Privacy note:** Please see [Issue #258](https://github.com/tycrek/degoogle/issues/258) for info on ProtonMail privacy & integrity concerns. |
 | [Tutanota](https://tutanota.com/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/tutao/tutanota) | **14-eyes** | Open-source and one one of the top rated privacy-focused email providers. Located in Germany. |
 | [Posteo](https://posteo.de/en) | **14-eyes** | Completely anonymous mail provider located in Germany. |
 | [mailbox.org](https://mailbox.org/en/) | **14-eyes** | Paid email provider, also located in Germany. |
