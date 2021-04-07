@@ -1824,6 +1824,12 @@ mobile applications:
       eyes: null
       text: >
         **iOS** - Open-source 2FA for iOS.
+    - name: Raivo OTP
+      url: https://github.com/raivo-otp
+      repo: https://github.com/raivo-otp/ios-application
+      eyes: null
+      text: >
+        **iOS** - Open-source 2FA for iOS.
   play music movies tv:
     - title: Play Music/Play Movies & TV
     - name: Audinaut
