@@ -759,7 +759,7 @@ No known alternatives.
 | [Aegis](https://getaegis.app/)<br/>[![F-Droid](https://img.shields.io/f-droid/v/com.beemdevelopment.aegis?style=flat-square&logo=f-droid)](https://f-droid.org/en/packages/com.beemdevelopment.aegis/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/beemdevelopment/Aegis) |  | Open-source 2FA for Android. Available on F-Droid. |
 | [Authenticator](https://mattrubin.me/authenticator/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/mattrubin/Authenticator) |  | **iOS** - Open-source 2FA for iOS. (thanks u/SomeoneWannaBe) |
 | [Tofu](https://tofuauth.com)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/calleerlandsson/tofu) |  | **iOS** - Open-source 2FA for iOS. |
-| [Raivo OTP](https://github.com/raivo-otp)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/raivo-otp/ios-application) |  | **iOS** - Open-source 2FA for iOS. |
+| [Raivo OTP](https://github.com/raivo-otp)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/raivo-otp/ios-application) |  | **(iOS)** A native, lightweight and secure one-time-password (OTP) client built for iOS. |
 
 
 
