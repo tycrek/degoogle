@@ -674,6 +674,13 @@ web based products:
       eyes: null
       text: >
         Powerful, secure Dropbox-like enterprise class file sharing and sync solution for home or business.
+    - name: Diode
+      url: https://diode.io/
+      eyes: null
+      text: >
+        For individuals and organizations who want to safeguard their digital sovereignty. It is a high
+        security, end-to-end encrypted solution for file sharing, collaboration, and backup that prioritizes
+        security and confidentiality.
   hangouts:
     - title: Hangouts (text/video messaging)
     - notes:
