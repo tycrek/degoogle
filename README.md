@@ -20,7 +20,7 @@
 
 ### *I don't have anything to hide, but I don't have anything to show you either.*
 
-![Updated](https://img.shields.io/static/v1?label=updated&message=March%2014th%202021&color=388E3C&style=flat-square)
+![Updated](https://img.shields.io/static/v1?label=updated&message=April%2017th%202021&color=388E3C&style=flat-square)
 
 ![GitHub](https://img.shields.io/github/license/tycrek/degoogle?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/tycrek/degoogle?style=flat-square)
@@ -304,6 +304,14 @@ When contributing, **please follow the rules outlined in [CONTRIBUTING.md](https
 
 
 
+#### Public DNS
+
+| Name | Eyes | Description |
+| ---- | ---- | ----------- |
+| [LibreDNS](https://libredns.gr/) | **14-eyes** | A public encrypted DNS service that people can use to maintain the secrecy of their DNS traffic, but also circumvent censorship. It already supports DNS over HTTPS & DNS over TLS. They also operate a number of [open-source projects](https://github.com/libreops/) |
+
+
+
 #### Drive
 
 | Name | Eyes | Description |
@@ -319,6 +327,7 @@ When contributing, **please follow the rules outlined in [CONTRIBUTING.md](https
 | [Cozy Cloud](https://cozy.io/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/cozy/cozy-stack) | **9-eyes** | French based cloud storage provider with free and paid plans. Can also be self-hosted and is open-source. And it also offers a collaborative notes editor. |
 | [Mailfence Documents](https://www.mailfence.com) | **14-eyes** | Documents can be accessed using WebDAV or edited online. Users can drag and drop files in folders and categorize them with tags. |
 | [Filecloud Community Edition](https://www.getfilecloud.com/filecloud-community-edition/) |  | Powerful, secure Dropbox-like enterprise class file sharing and sync solution for home or business. |
+| [Diode](https://diode.io/) |  | For individuals and organizations who want to safeguard their digital sovereignty. It is a high security, end-to-end encrypted solution for file sharing, collaboration, and backup that prioritizes security and confidentiality. |
 
 
 
