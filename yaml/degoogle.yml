@@ -599,6 +599,15 @@ web based products:
       text: >
         An Iceland-based freedom of speech web hosting provider. They never actually ask for your name,
         at least when you pay in Bitcoin.
+  dns:
+    - title: Public DNS
+    - name: LibreDNS
+      url: https://libredns.gr/
+      eyes: 14
+      text: >
+        A public encrypted DNS service that people can use to maintain the secrecy of their DNS traffic,
+        but also circumvent censorship. It already supports DNS over HTTPS & DNS over TLS. They also operate
+        a number of [open-source projects](https://github.com/libreops/)
   drive:
     - title: Drive
     - name: ownCloud
