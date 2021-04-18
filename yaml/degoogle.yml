@@ -16,9 +16,9 @@ web based products:
         [Issue #12](https://github.com/tycrek/degoogle/issues/12). Thanks @pydo, @ThijsRay, and @DatAres37.
         Also see [this comment in Issue #99](https://github.com/tycrek/degoogle/issues/99#issuecomment-616224650)
         from @danarel on Startpage.
-    - name: searx.me
-      url: https://searx.me/
-      repo: https://github.com/asciimoo/searx
+    - name: searx
+      url: https://searx.space/
+      repo: https://github.com/searx/searx
       eyes: null
       text: >
         Open-source (thanks for clarification u/Sheezdudeln) privacy search engine. Domain hosted in Germany.
