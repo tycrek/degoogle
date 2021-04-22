@@ -20,7 +20,7 @@
 
 ### *I don't have anything to hide, but I don't have anything to show you either.*
 
-![Updated](https://img.shields.io/static/v1?label=updated&message=April%2018th%202021&color=388E3C&style=flat-square)
+![Updated](https://img.shields.io/static/v1?label=updated&message=April%2022nd%202021&color=388E3C&style=flat-square)
 
 ![GitHub](https://img.shields.io/github/license/tycrek/degoogle?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/tycrek/degoogle?style=flat-square)
@@ -260,6 +260,7 @@ When contributing, **please follow the rules outlined in [CONTRIBUTING.md](https
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [Lightning Calendar (Thunderbird)](https://www.thunderbird.net/en-US/calendar/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=thunderbird)](https://www.thunderbird.net/en-US/get-involved) |  | Developed by Mozilla Foundation and open-source. Integrates into Thunderbird and SeaMonkey. |
+| [ProtonCalendar](https://calendar.protonmail.com/) |  | Developed by ProtonMail. Free plan only supports 1 calendar. Allows importing of other calendar files. Has an Android app. |
 | [Tutanota Calendar](https://tutanota.com/calendar/) | **14-eyes** | Developed by Tutanota. Free cross-platform encrypted calendar. Allows importing of other Calendar files. Can't be synced to other calendar software. |
 | [Fruux](https://fruux.com/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=fruux)](https://fruux.com/opensource) | **14-eyes** | Open-source calendar using "sabre/dav" (FOSS WebDAV, CardDAV, and CalDAV). They mention privacy quite a bit on their site. Very large number of features, and supports nearly every device: Windows, iOS, Linux, Android, BlackBerry, SailFish, and also a webapp for browsers. |
 | [EteSync](https://www.etesync.com)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/etesync) |  | Secure, end-to-end encrypted, and open-source sync for your contacts, calendars, tasks and notes. |
