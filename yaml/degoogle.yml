@@ -456,6 +456,12 @@ web based products:
       eyes: null
       text: >
         Developed by Mozilla Foundation and open-source. Integrates into Thunderbird and SeaMonkey.
+    - name: ProtonCalendar
+      url: https://calendar.protonmail.com/
+      eyes: null
+      text: >
+        Developed by ProtonMail. Free plan only supports 1 calendar. Allows importing of other
+        calendar files. Has an Android app.
     - name: Tutanota Calendar
       url: https://tutanota.com/calendar/
       eyes: 14
