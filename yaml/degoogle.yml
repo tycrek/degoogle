@@ -336,11 +336,11 @@ web based products:
       eyes: 9
       text: >
         Great analytics with privacy and simplicity in mind. Paid plans only (with free trials).
-    - name: Toasted Analytics
-      url: https://toastedanalytics.com/
+    - name: Alpina Web Analytics
+      url: https://alpina.io
       eyes: 5
       text: >
-        Simple, privacy friendly analytics with event tracking. Paid only (with free trial)
+        Simple, privacy-friendly analytics with event tracking, real-time dashboard and filters. No cookie or localstorage usage. Servers in EU. Paid only (with free trial)
     - name: Shynet
       url: https://github.com/milesmcc/shynet
       repo: https://github.com/milesmcc/shynet
