@@ -20,7 +20,7 @@
 
 ### *I don't have anything to hide, but I don't have anything to show you either.*
 
-![Updated](https://img.shields.io/static/v1?label=updated&message=April%2026th%202021&color=388E3C&style=flat-square)
+![Updated](https://img.shields.io/static/v1?label=updated&message=May%2011th%202021&color=388E3C&style=flat-square)
 
 ![GitHub](https://img.shields.io/github/license/tycrek/degoogle?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/tycrek/degoogle?style=flat-square)
@@ -116,7 +116,7 @@ When contributing, **please follow the rules outlined in [CONTRIBUTING.md](https
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [DuckDuckGo](https://duckduckgo.com/) | **5-eyes** | One of the best privacy-focused search engines. Domain is hosted in USA which could potentially be problematic for some. |
-| [Startpage](https://www.startpage.com/) | **9-eyes** | Another privacy search engine that claims to not track any of your data. They operate servers in both USA and Europe. Note: Startpage was recently acquired. See [Issue #12](https://github.com/tycrek/degoogle/issues/12). Thanks @pydo, @ThijsRay, and @DatAres37. Also see [this comment in Issue #99](https://github.com/tycrek/degoogle/issues/99#issuecomment-616224650) from @danarel on Startpage. |
+| [Startpage](https://www.startpage.com/) | **9-eyes** | Another privacy search engine that claims to not track any of your data. They operate servers in both USA and Europe. Note: Startpage was recently acquired. See [Issue \#12](https://github.com/tycrek/degoogle/issues/12). Thanks @pydo, @ThijsRay, and @DatAres37. Also see [this comment in Issue \#99](https://github.com/tycrek/degoogle/issues/99#issuecomment-616224650) from @danarel on Startpage. |
 | [searx](https://searx.space/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/searx/searx) |  | Open-source (thanks for clarification u/Sheezdudeln) privacy search engine. Domain hosted in Germany. |
 | [MetaGer](https://metager.org/about) | **14-eyes** | MetaGer is the search engine project from the registered nonprofit organization SUMA E.V. in Germany. |
 | [Qwant](https://www.qwant.com/) | **9-eyes** | Major improvements since 2018's guide. *would prefer better info other than an outdated reference* |
@@ -348,7 +348,7 @@ When contributing, **please follow the rules outlined in [CONTRIBUTING.md](https
 | [Session](https://getsession.org/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/loki-project?type=source) |  | Open-source. It is an end-to-end encrypted messenger that removes sensitive metadata collection. No phone number required to create an account. |
 
 - *See [this article](https://outline.com/BK8f7h) for why I didn't include WhatsApp and why you should NOT use it (if someone has a better Outline link, that would be much appreciated).*
-- *I have also **removed** Telegram. See [Issue*
+- *I have also **removed** Telegram. See [Issue \#29](https://github.com/tycrek/degoogle/issues/29) from @arsv.*
 
 
 #### Gmail (mail service)
@@ -356,7 +356,7 @@ When contributing, **please follow the rules outlined in [CONTRIBUTING.md](https
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [Forward Email](https://forwardemail.net/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/forwardemail) |  | A free and open-source email forwarding service focused on a user's right to privacy. |
-| [Protonmail](https://protonmail.com/) |  | One of the top privacy-focused email providers. Servers are in Switzerland in an underground guarded bunker that they claim can "survive a nuclear attack". **Privacy note:** Please see [Issue #258](https://github.com/tycrek/degoogle/issues/258) for info on ProtonMail privacy & integrity concerns. |
+| [Protonmail](https://protonmail.com/) |  | One of the top privacy-focused email providers. Servers are in Switzerland in an underground guarded bunker that they claim can "survive a nuclear attack". **Privacy note:** Please see [Issue \#258](https://github.com/tycrek/degoogle/issues/258) for info on ProtonMail privacy & integrity concerns. |
 | [Tutanota](https://tutanota.com/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/tutao/tutanota) | **14-eyes** | Open-source and one one of the top rated privacy-focused email providers. Located in Germany. |
 | [Posteo](https://posteo.de/en) | **14-eyes** | Completely anonymous mail provider located in Germany. |
 | [mailbox.org](https://mailbox.org/en/) | **14-eyes** | Paid email provider, also located in Germany. |
@@ -479,7 +479,7 @@ No known alternatives.
 | [CalyxOS](https://calyxos.org/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=gitlab)](https://gitlab.com/CalyxOS) |  | Open-source Android-based OS with an emphasis on security and privacy. Provides good combination of privacy and security together with usability. Optional support for MicroG. |
 
 - *You'll either need a rooted device with an unlocked bootloader, or a specific device depending on which OS you like.*
-- *Please see Issue*
+- *Please see [Issue \#55](https://github.com/tycrek/degoogle/issues/55) for details on /e/.*
 
 
 #### Chrome OS
@@ -532,7 +532,7 @@ No known alternatives.
 | ---- | ---- | ----------- |
 | [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/Eloston/ungoogled-chromium) |  | Chromium (which Chrome and countless other browsers are built on top of) is one of the cleanest and light-weight browsers available. This version cuts out all the Google crap. |
 | [Firefox](https://firefox.com/) |  | Built by Mozilla, "The Privacy Company". Huge extension library; great for privacy. |
-| [Waterfox](https://www.waterfox.net/) | **5-eyes** | Based on Firefox, but **64-bit only** with an emphasis on speed and privacy. Has a "classic" version built off older Firefox for legacy extension support and also an "alpha" version built off Quantum. It doesn't collect any telemetry and also removes Pocket from the alpha release. Project is run by [Alex Kontos](https://github.com/MrAlex94/) and is constantly in active development. Looks very clean and fast. Android versions are in the works too. **UPDATE:** @Nudin pointed out in Issue #85 that Waterfox is now [a part of System1](https://www.waterfox.net/blog/waterfox-has-joined-system1/). |
+| [Waterfox](https://www.waterfox.net/) | **5-eyes** | Based on Firefox, but **64-bit only** with an emphasis on speed and privacy. Has a "classic" version built off older Firefox for legacy extension support and also an "alpha" version built off Quantum. It doesn't collect any telemetry and also removes Pocket from the alpha release. Project is run by [Alex Kontos](https://github.com/MrAlex94/) and is constantly in active development. Looks very clean and fast. Android versions are in the works too. **UPDATE:** @Nudin pointed out in [Issue \#85](https://github.com/tycrek/degoogle/issues/85) that Waterfox is now [a part of System1](https://www.waterfox.net/blog/waterfox-has-joined-system1/). |
 | [Vivaldi](https://vivaldi.com/) |  | Privacy-focused browser. Appears to be very customizable and feature-rich. |
 | [Tor Browser](https://www.torproject.org/download/) |  | Firefox-based browser routed through the [Tor network](https://en.wikipedia.org/wiki/Tor_%28anonymity_network%29). Automatically has a few privacy extensions installed (such as HTTPS Everywhere). [Read this article](https://write.privacytools.io/my-thoughts-on-security/slicing-onions-part-1-myth-busting-tor) for more info on how it works and the benefits of using Tor. Available for Windows, Linux, macOS, and Android. |
 
@@ -685,7 +685,7 @@ No known alternatives.
 | [K-9 Mail](https://k9mail.github.io/)<br/>[![F-Droid](https://img.shields.io/f-droid/v/com.fsck.k9?style=flat-square&logo=f-droid)](https://f-droid.org/en/packages/com.fsck.k9/) |  | Available on F-Droid. |
 | [FairEmail](https://email.faircode.eu/)<br/>[![F-Droid](https://img.shields.io/f-droid/v/eu.faircode.email?style=flat-square&logo=f-droid)](https://f-droid.org/en/packages/eu.faircode.email/) |  | Available on F-Droid. You can (optionally) pay a 1-time fee to unlock some premium features (and support the developer). |
 | [DeltaChat](https://delta.chat/)<br/>[![F-Droid](https://img.shields.io/f-droid/v/com.b44t.messenger?style=flat-square&logo=f-droid)](https://f-droid.org/en/packages/com.b44t.messenger/) |  | An email app with a chat-based UI and privacy support with autocrypt. |
-| [Mailbox.org](https://mailbox.org/) | **14-eyes** | Mailbox.org provides IMAP settings for Android/iOS and an iOS profile. Thanks @avasts Issue #45 |
+| [Mailbox.org](https://mailbox.org/) | **14-eyes** | Mailbox.org provides IMAP settings for Android/iOS and an iOS profile. Thanks @avasts [Issue \#45](https://github.com/tycrek/degoogle/issues/45) |
 
 
 
