@@ -1,6 +1,6 @@
 # Contributing
 
-###### Last revised: April 17th, 2021
+###### Last revised: May 11th, 2021
 
 ## General rules
 
