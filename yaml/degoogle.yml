@@ -13,8 +13,8 @@ web based products:
       text: >
         Another privacy search engine that claims to not track any of your data. They operate servers
         in both USA and Europe. Note: Startpage was recently acquired. See
-        [Issue #12](https://github.com/tycrek/degoogle/issues/12). Thanks @pydo, @ThijsRay, and @DatAres37.
-        Also see [this comment in Issue #99](https://github.com/tycrek/degoogle/issues/99#issuecomment-616224650)
+        [Issue \#12](https://github.com/tycrek/degoogle/issues/12). Thanks @pydo, @ThijsRay, and @DatAres37.
+        Also see [this comment in Issue \#99](https://github.com/tycrek/degoogle/issues/99#issuecomment-616224650)
         from @danarel on Startpage.
     - name: searx
       url: https://searx.space/
@@ -693,7 +693,7 @@ web based products:
         - >
           See [this article](https://outline.com/BK8f7h) for why I didn't include WhatsApp and why you
           should NOT use it (if someone has a better Outline link, that would be much appreciated).
-        - I have also **removed** Telegram. See [Issue #29](https://github.com/tycrek/degoogle/issues/29) from @arsv.
+        - I have also **removed** Telegram. See [Issue \#29](https://github.com/tycrek/degoogle/issues/29) from @arsv.
     - name: Signal
       url: https://signal.org/
       repo: https://github.com/signalapp
@@ -780,7 +780,7 @@ web based products:
       text: >
         One of the top privacy-focused email providers. Servers are in Switzerland in an underground
         guarded bunker that they claim can "survive a nuclear attack".
-        **Privacy note:** Please see [Issue #258](https://github.com/tycrek/degoogle/issues/258) for
+        **Privacy note:** Please see [Issue \#258](https://github.com/tycrek/degoogle/issues/258) for
         info on ProtonMail privacy & integrity concerns.
     - name: Tutanota
       url: https://tutanota.com/
@@ -1078,7 +1078,7 @@ operating systems:
         - >
           You'll either need a rooted device with an unlocked bootloader, or a specific device
           depending on which OS you like.
-        - Please see Issue #55 for details on /e/.
+        - Please see [Issue \#55](https://github.com/tycrek/degoogle/issues/55) for details on /e/.
     - name: Ubuntu Touch
       url: https://ubuntu-touch.io/
       eyes: null
@@ -1231,7 +1231,7 @@ desktop applications:
         off Quantum. It doesn't collect any telemetry and also removes Pocket from the alpha release.
         Project is run by [Alex Kontos](https://github.com/MrAlex94/) and is constantly in active
         development. Looks very clean and fast. Android versions are in the works too.
-        **UPDATE:** @Nudin pointed out in Issue #85 that Waterfox is now
+        **UPDATE:** @Nudin pointed out in [Issue \#85](https://github.com/tycrek/degoogle/issues/85) that Waterfox is now
         [a part of System1](https://www.waterfox.net/blog/waterfox-has-joined-system1/).
     - name: Vivaldi
       url: https://vivaldi.com/
@@ -1651,7 +1651,7 @@ mobile applications:
       url: https://mailbox.org/
       eyes: 14
       text: >
-        Mailbox.org provides IMAP settings for Android/iOS and an iOS profile. Thanks @avasts Issue #45
+        Mailbox.org provides IMAP settings for Android/iOS and an iOS profile. Thanks @avasts [Issue \#45](https://github.com/tycrek/degoogle/issues/45)
   keep:
     - title: Keep (or any stock note-taking app)
     - name: Notepad
