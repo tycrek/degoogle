@@ -2031,7 +2031,7 @@ mobile applications:
       fdroid: org.blokada.alarm
       eyes: null
       text: >
-        From the website: If you want to efficiently block ads, trackers, malware, save on your data
+        From the website: "If you want to efficiently block ads, trackers, malware, save on your data
         plan, speed up your device and protect your privacy with just one application, then Blokada is
         for you. It is free, secure and open-source." Uses internal VPN on Android to block ads.
     - name: Nebulo
