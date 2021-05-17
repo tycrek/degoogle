@@ -2031,9 +2031,27 @@ mobile applications:
       fdroid: org.blokada.alarm
       eyes: null
       text: >
-        From the website: "If you want to efficiently block ads, trackers, malware, save on your data
+        From the website: If you want to efficiently block ads, trackers, malware, save on your data
         plan, speed up your device and protect your privacy with just one application, then Blokada is
         for you. It is free, secure and open-source." Uses internal VPN on Android to block ads.
+    - name: Nebulo
+      url: https://nebulo.app/
+      repo: https://github.com/Ch4t4r/Nebulo
+      fdroid: null
+      eyes: null
+      text: >
+        From GitHub README: "Nebulo is a free, open-source, no-root, light-weight dns-over-https,
+        dns-over-tls, and dns-over-http-over-quic client for Android with emphasis on privacy and security.
+        Nebulo is fast, highly-customizable, ad-free, efficient on the battery, contains
+        zero analytics / tracking.
+    - name: RethinkDNS + Firewall
+      url: https://rethinkfirewall.com/
+      repo: https://github.com/celzero/rethink-app
+      fdroid: com.celzero.bravedns
+      eyes: null
+      text: >
+        From the website: "Rethink DNS + Firewall is the easiest way to monitor app activity, circumvent
+        Internet censorship, block ads and trackers on your Android device."
     - name: TrackerControl
       url: https://github.com/OxfordHCC/tracker-control-android
       repo: https://github.com/OxfordHCC/tracker-control-android
