@@ -1283,6 +1283,28 @@ desktop applications:
         GitHub. Atom is a desktop application built using web technologies.
         (From [Wikipedia](https://en.wikipedia.org/wiki/Atom_(text_editor)))
         Thanks @woutfeys
+flutter:
+  - title: flutter cross platform development tool for iOS/Android etc. based on Dart
+  - name: Apache Cordova
+    url: https://cordova.apache.org/
+    eyes: null
+    text: >
+      Wraps web apps in a native wrapper so they can be installed via appstore and access native device capabilities via JavaScript
+  - name: Codename One
+    url: https://github.com/codenameone/CodenameOne
+    eyes: null
+    text: >
+      Native write once run anywhere cross platform tool for iOS/Android etc. using Java or Kotlin
+  - name: KMM - Kotlin Multiplatform
+    url: https://kotlinlang.org/docs/mobile/home.html
+    eyes: null
+    text: >
+      Native portability based cross platform tool for Kotlin developers targeting iOS/Android and a few others 
+  - name: QT
+    url: https://www.qt.io/
+    eyes: null
+    text: >
+      C++ based portability framework, the basis for KDE etc. 
 mobile applications:
   play store:
     - title: Play Store
