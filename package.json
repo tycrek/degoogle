@@ -1,20 +1,15 @@
 {
   "name": "degoogle",
   "version": "1.0.0",
-  "description": "1. [Contributing](#contributing)\r 2. [Browser extensions](#browser-extensions)\r 3. **[Replacements/alternatives](#replacementsalternatives)**\r     1. [Disclaimer](#disclaimer)\r     2. [Web-based products](#web-based-products)\r     3. [Operating systems](#operating-systems)\r     4. [Desktop applications](#desktop-applications)\r     5. [Mobile applications](#mobile-applications-mobile-apps-installable-from-stores)\r     6. [Hardware](#hardware)\r 4. [Useful links, tools, and advice](#useful-links-tools-and-advice)\r     1. [Resources](#resources)\r     1. [Books](#books)\r     1. [Blog posts](#blog-posts)\r     1. [News articles](#news-articles)\r 5. [The lighter side](#the-lighter-side)\r 6. [Closing remarks](#closing-remarks)",
+  "description": "A huge list of alternatives to Google products. Privacy tips, tricks, and links.",
   "main": "_build.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/tycrek/degoogle.git"
-  },
-  "author": "",
+  "repository": "github:tycrek/degoogle",
+  "author": "tycrek <t@tycrek.com> (https://tycrek.com/)",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/tycrek/degoogle/issues"
-  },
+  "bugs": "https://github.com/tycrek/degoogle/issues",
   "homepage": "https://github.com/tycrek/degoogle#readme",
   "dependencies": {
     "fs-extra": "^9.0.0",
