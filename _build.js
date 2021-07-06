@@ -24,7 +24,7 @@ const BUILD_SECTION = {
     news: () => generatePublications('News articles', 'news'),
     lighterSide: () => readFile('md/_lighterSide.md'),
     closingRemarks: () => readFile('md/_closingRemarks.md')
-}
+};
 
 // Button that brings the user to the top of the page
 const BACK_TO_TOP = '[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)';
@@ -34,7 +34,7 @@ const BACK_TO_TOP = '[![Back to top](https://img.shields.io/badge/Back%20to%20to
  */
 function __main__() {
     // dgSectionData will be join at the end and represents the full contents of README.md
-    let dgSectionData = [];
+    const dgSectionData = [];
 
     // Add all the sections
     dgSectionData.push(BUILD_SECTION.header());
@@ -56,7 +56,7 @@ function __main__() {
     dgSectionData.push(BUILD_SECTION.closingRemarks());
 
     // Write to the README file
-    fs.writeFileSync(path.join(__dirname, 'README.md'), dgSectionData.join(os.EOL + os.EOL));
+    fs.writeFileSync(path.join(__dirname, 'README.md'), dgSectionData.join(`${os.EOL}${os.EOL}`));
 
     console.log('Done!');
 }
@@ -85,10 +85,10 @@ function generateCategorySection(header, data) {
     if (!data) return '';
 
     // Set the header to HTML <h5>
-    let categorySection = '## ' + header + os.EOL + BACK_TO_TOP + os.EOL + os.EOL;
+    let categorySection = `## ${header}${os.EOL}${BACK_TO_TOP}${os.EOL}${os.EOL}`;
 
     // Generate service sections for this category
-    Object.keys(data).forEach((key) => categorySection = categorySection.concat(generateServiceSection(data[key]) + os.EOL + os.EOL));
+    Object.keys(data).forEach((key) => categorySection = categorySection.concat(`${generateServiceSection(data[key])}${os.EOL}${os.EOL}`));
 
     return categorySection;
 }
@@ -100,18 +100,26 @@ function generateCategorySection(header, data) {
 function generateServiceSection(data) {
     // Start the section with an <h4> header
     let serviceSection = `#### ${data[0].title + os.EOL + os.EOL}`;
+
+    // Prep section notes
     let notes = os.EOL + '';
+
     // If there is data to be displayed, add the start of a Markdown table
     let tableHeader = `| Name | Eyes | Description |${os.EOL}| ---- | ---- | ----------- |${os.EOL}`;
-    if (data.filter(d => 'name' in d).length == 0) tableHeader = `No known alternatives.${os.EOL}`;
+    if (data.filter((d) => 'name' in d).length === 0) tableHeader = `No known alternatives.${os.EOL}`;
+
+    // Add the header to the section body
     serviceSection = serviceSection.concat(tableHeader);
+
     // Iterate over each alternative service and add it to the table
-    data.forEach(item => {
+    data.forEach((item) => {
+
         // If the object has length one, it's either title or note
         if (Object.keys(item).length == 1) {
             if (!item.notes) return;
             else item.notes.forEach((note) => notes = notes.concat(`- *${note.trim()}*${os.EOL}`));
         } else {
+
             // Build the cells for the table
             let name = `[${item.name}](${item.url})`;
             let eyes = item.eyes ? `**${item.eyes}-eyes**` : '';
@@ -124,14 +132,13 @@ function generateServiceSection(data) {
             if (item.repo) name = name.concat('<br/>', repoLink(item.repo));
 
             // Build the row
-            let tableItem = `| ${name} | ${eyes} | ${text} |`;
+            let tableItem = `| ${name} | ${eyes} | ${text} |${os.EOL}`;
 
             // Add the row to the table
-            serviceSection = serviceSection.concat(tableItem + os.EOL);
+            serviceSection = serviceSection.concat(tableItem);
         }
     });
-
-    return serviceSection + notes;
+    return `${serviceSection}${notes}`;
 }
 
 /**
@@ -148,9 +155,9 @@ function fdroidLink(appId) {
  */
 function repoLink(repo) {
     let repoURL = new URL(repo);
-    let repoHost = path.basename(repoURL.hostname, path.extname(repoURL.hostname))
-    if (repoHost.includes(".")) repoHost = path.extname(repoHost).replace(".", "")
-    return `[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=${repoHost})](${repo})`
+    let repoHost = path.basename(repoURL.hostname, path.extname(repoURL.hostname));
+    if (repoHost.includes(".")) repoHost = path.extname(repoHost).replace(".", "");
+    return `[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=${repoHost})](${repo})`;
 }
 
 /**
@@ -159,7 +166,7 @@ function repoLink(repo) {
  */
 function addonLink(link) {
     if (!link.includes('addons.mozilla.org')) return '';
-    let addonId = link.split('/')[link.split('/').length - 1]
+    let addonId = link.split('/')[link.split('/').length - 1];
     return `![Mozilla Add-on](https://img.shields.io/amo/users/${addonId}?style=flat-square)`;
 }
 
@@ -168,7 +175,7 @@ function addonLink(link) {
  * @param {String|Number} date Date of publication
  */
 function dateBadge(date) {
-    return `![Published](https://img.shields.io/badge/${date.toString().replace(/\-/g, '--')}-informational?style=flat-square)`
+    return `![Published](https://img.shields.io/badge/${date.toString().replace(/\-/g, '--')}-informational?style=flat-square)`;
 }
 
 /**
@@ -177,16 +184,13 @@ function dateBadge(date) {
 function generateBrowserExtensions() {
     let extensions = `# Browser extensions${os.EOL + os.EOL}| Name | Description |${os.EOL}| ---- | ----------- |${os.EOL}`;
     let data = YAML.parse(fs.readFileSync(path.join(__dirname, 'yaml/browserExtensions.yml')).toString());
-    data.forEach(item => {
+    data.forEach((item) => {
         let name = `[${item.name}](${item.url})`;
         let text = item.text.trim();
         let badge = addonLink(item.url);
-
-        let tableItem = `| ${name + ' ' + badge} | ${text} |`;
-
-        extensions = extensions.concat(tableItem + os.EOL);
+        let tableItem = `| ${name + ' ' + badge} | ${text} |${os.EOL}`;
+        extensions = extensions.concat(tableItem);
     });
-
     return extensions;
 }
 
@@ -198,15 +202,12 @@ function generateBrowserExtensions() {
 function generatePublications(title, filename) {
     let publications = `## ${title} ${os.EOL + BACK_TO_TOP + os.EOL + os.EOL}| Title | Published | Author |${os.EOL}| ----- | --------- | ------ |${os.EOL}`;
     let data = YAML.parse(fs.readFileSync(path.join(__dirname, `yaml/${filename}.yml`)).toString());
-    data.forEach(item => {
+    data.forEach((item) => {
         let name = `[${item.title}](${item.url})`;
         let author = item.author.trim();
-
-        let tableItem = `| ${name} | ${dateBadge(item.date)} | ${author} |`;
-
-        publications = publications.concat(tableItem + os.EOL);
+        let tableItem = `| ${name} | ${dateBadge(item.date)} | ${author} |${os.EOL}`;
+        publications = publications.concat(tableItem);
     });
-
     return publications;
 }
 
