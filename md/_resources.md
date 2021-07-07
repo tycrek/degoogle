@@ -2,6 +2,7 @@
 
 Everything you need to become a Privacy Wizard.
 
+- [Databunker](https://databunker.org/) - Network-based, self-hosted, GDPR compliant, secure database for personal data or PII.
 - [Privacy Tools](https://www.privacytools.io/) (thanks u/yieldingTemporarily)
 - [ethical.net](https://ethical.net/) (thanks u/yieldingTemporarily)
 - [Go FOSS](https://www.gofoss.today/) - Another guide on ditching big-tech, with a focus on seven core areas.
