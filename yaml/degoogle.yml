@@ -1097,6 +1097,13 @@ operating systems:
       text: >
         Privacy-focused mobile OS by Jolla with a proprietary UI and Android compatibility layer on
         top of an open-source Mer GNU/Linux base.
+    - name: CopperheadOS
+      url: https://copperhead.co/android/
+      repo: https://gitlab.com/copperheadsec/os-src
+      eyes: 5
+      text: >
+        Secure Android built for encrypted and secure phones by a privacy focused company. Paid product that
+        combines the best-in-class hardening and privacy protections from various projects.
     - name: GrapheneOS
       url: https://grapheneos.org/
       repo: https://github.com/GrapheneOS
