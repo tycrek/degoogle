@@ -75,6 +75,11 @@ web based products:
       text: >
         "Runnaroo was built from the ground up to provide an all around better search experience."
         Thanks @codingepaduli
+    - name: Brave Search
+      url: https://search.brave.com/
+      eyes: null
+      text: >
+        Brave Search doesn’t track you, your searches, or your clicks.
   youtube:
     - title: YouTube
     - name: PeerTube
