@@ -19,3 +19,4 @@ Official mirrors are the main sources and are maintained by me (@tycrek). Commun
 ## Non-english mirrors
 
 - [Turkish/Türk](https://github.com/melikechan/degoogle-turkish) from [@melikechan](https://github.com/melikechan)
+- [Italian/Italiano](https://gitea.it/devol/degooglizzazione) from [@devol (Gitea)](https://gitea.it/devol)
