@@ -2148,6 +2148,11 @@ hardware:
       eyes: null
       text: >
         Mid-range Linux/FreeBSD alternative to Chromebook.
+    - name: Slimbook
+      url: https://slimbook.es/en/
+      eyes: null
+      text: >
+        A Spanish laptop manufacturer which makes Linux native laptops.
   chromecast:
     - title: Chromecast
     - name: Microsoft Wireless HDMI adapter
