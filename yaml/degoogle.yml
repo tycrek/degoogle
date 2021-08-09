@@ -270,11 +270,17 @@ web based products:
       eyes: null
       text: >
         Self-hosted and open-source content management system (CMS).
+    - name: WriteFreely
+      url: https://writefreely.org/
+      repo: https://github.com/writefreely/writefreely
+      eyes: null
+      text: >
+        An open-source platform for building a writing space on the web.
     - name: Write.as
       url: https://write.as/
       eyes: null
       text: >
-        Self-advertised as privacy-focused.
+        Free & paid hosting for WriteFreely, which is developed by the folks at Write.as.
     - name: WordPress self-hosted
       url: https://wordpress.org/
       repo: https://code.trac.wordpress.org/browser/wordpress-sources
