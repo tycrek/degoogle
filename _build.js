@@ -1,6 +1,6 @@
 // Build tool for generating README.md
 
-const os = require('os');
+const { EOL } = require('os');
 const path = require('path');
 const fs = require('fs-extra');
 const moment = require('moment');
@@ -30,38 +30,6 @@ const BUILD_SECTION = {
 const BACK_TO_TOP = '[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)';
 
 /**
- * Main method
- */
-function __main__() {
-    // dgSectionData will be join at the end and represents the full contents of README.md
-    const dgSectionData = [];
-
-    // Add all the sections
-    dgSectionData.push(BUILD_SECTION.header());
-    dgSectionData.push(BUILD_SECTION.index());
-    dgSectionData.push(BUILD_SECTION.contributing());
-    dgSectionData.push(BUILD_SECTION.browserExtensions());
-    dgSectionData.push(BUILD_SECTION.disclaimer());
-    dgSectionData.push(BUILD_SECTION.webBasedProducts());
-    dgSectionData.push(BUILD_SECTION.operatingSystems());
-    dgSectionData.push(BUILD_SECTION.desktopApps());
-    dgSectionData.push(BUILD_SECTION.mobileApps());
-    dgSectionData.push(BUILD_SECTION.hardware());
-    dgSectionData.push(BUILD_SECTION.useful());
-    dgSectionData.push(BUILD_SECTION.resources());
-    dgSectionData.push(BUILD_SECTION.books());
-    dgSectionData.push(BUILD_SECTION.blogs());
-    dgSectionData.push(BUILD_SECTION.news());
-    dgSectionData.push(BUILD_SECTION.lighterSide());
-    dgSectionData.push(BUILD_SECTION.closingRemarks());
-
-    // Write to the README file
-    fs.writeFileSync(path.join(__dirname, 'README.md'), dgSectionData.join(`${os.EOL}${os.EOL}`));
-
-    console.log('Done!');
-}
-
-/**
  * Synchronously reads a file using fs-extra and path.join()
  * @param {String} filename The file to read
  */
@@ -83,14 +51,7 @@ function readYaml() {
  */
 function generateCategorySection(header, data) {
     if (!data) return '';
-
-    // Set the header to HTML <h5>
-    let categorySection = `## ${header}${os.EOL}${BACK_TO_TOP}${os.EOL}${os.EOL}`;
-
-    // Generate service sections for this category
-    Object.keys(data).forEach((key) => categorySection = categorySection.concat(`${generateServiceSection(data[key])}${os.EOL}${os.EOL}`));
-
-    return categorySection;
+    return `## ${header}${EOL}${BACK_TO_TOP}${EOL}${EOL}`.concat(Object.values(data).map((value) => `${generateServiceSection(value)}${EOL}${EOL}`).join(''))
 }
 
 /**
@@ -99,14 +60,15 @@ function generateCategorySection(header, data) {
  */
 function generateServiceSection(data) {
     // Start the section with an <h4> header
-    let serviceSection = `#### ${data[0].title + os.EOL + os.EOL}`;
+    let serviceSection = `#### ${data[0].title + EOL + EOL}`;
 
     // Prep section notes
-    let notes = os.EOL + '';
+    let notes = EOL + '';
 
     // If there is data to be displayed, add the start of a Markdown table
-    let tableHeader = `| Name | Eyes | Description |${os.EOL}| ---- | ---- | ----------- |${os.EOL}`;
-    if (data.filter((d) => 'name' in d).length === 0) tableHeader = `No known alternatives.${os.EOL}`;
+    const tableHeader = (data.filter((d) => 'name' in d).length === 0)
+        ? `No known alternatives.${EOL}`
+        : `| Name | Eyes | Description |${EOL}| ---- | ---- | ----------- |${EOL}`;
 
     // Add the header to the section body
     serviceSection = serviceSection.concat(tableHeader);
@@ -117,7 +79,7 @@ function generateServiceSection(data) {
         // If the object has length one, it's either title or note
         if (Object.keys(item).length == 1) {
             if (!item.notes) return;
-            else item.notes.forEach((note) => notes = notes.concat(`- *${note.trim()}*${os.EOL}`));
+            else item.notes.forEach((note) => notes = notes.concat(`- *${note.trim()}*${EOL}`));
         } else {
 
             // Build the cells for the table
@@ -132,7 +94,7 @@ function generateServiceSection(data) {
             if (item.repo) name = name.concat('<br/>', repoLink(item.repo));
 
             // Build the row
-            let tableItem = `| ${name} | ${eyes} | ${text} |${os.EOL}`;
+            const tableItem = `| ${name} | ${eyes} | ${text} |${EOL}`;
 
             // Add the row to the table
             serviceSection = serviceSection.concat(tableItem);
@@ -154,7 +116,7 @@ function fdroidLink(appId) {
  * @param {String} repo The repository url
  */
 function repoLink(repo) {
-    let repoURL = new URL(repo);
+    const repoURL = new URL(repo);
     let repoHost = path.basename(repoURL.hostname, path.extname(repoURL.hostname));
     if (repoHost.includes(".")) repoHost = path.extname(repoHost).replace(".", "");
     return `[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=${repoHost})](${repo})`;
@@ -165,9 +127,7 @@ function repoLink(repo) {
  * @param {String} link URL to extension WITHOUT trailing slash
  */
 function addonLink(link) {
-    if (!link.includes('addons.mozilla.org')) return '';
-    let addonId = link.split('/')[link.split('/').length - 1];
-    return `![Mozilla Add-on](https://img.shields.io/amo/users/${addonId}?style=flat-square)`;
+    return (link.includes('addons.mozilla.org')) ? `![Mozilla Add-on](https://img.shields.io/amo/users/${link.split('/').pop()}?style=flat-square)` : '';
 }
 
 /**
@@ -182,33 +142,22 @@ function dateBadge(date) {
  * Generates a table with browser extensions and their descriptions
  */
 function generateBrowserExtensions() {
-    let extensions = `# Browser extensions${os.EOL + os.EOL}| Name | Description |${os.EOL}| ---- | ----------- |${os.EOL}`;
-    let data = YAML.parse(fs.readFileSync(path.join(__dirname, 'yaml/browserExtensions.yml')).toString());
-    data.forEach((item) => {
-        let name = `[${item.name}](${item.url})`;
-        let text = item.text.trim();
-        let badge = addonLink(item.url);
-        let tableItem = `| ${name + ' ' + badge} | ${text} |${os.EOL}`;
-        extensions = extensions.concat(tableItem);
-    });
-    return extensions;
+    return `# Browser extensions${EOL + EOL}| Name | Description |${EOL}| ---- | ----------- |${EOL}`
+        .concat(YAML.parse(fs.readFileSync(path.join(__dirname, 'yaml/browserExtensions.yml')).toString())
+            .map(({ name, text, url }) => `| [${name}](${url}) ${addonLink(url)} | ${text.trim()} |${EOL}`).join(''));
 }
 
 /**
  * Generates sections for Books, Blogs, and News
- * @param {String} title 
+ * @param {String} pubTitle 
  * @param {String} filename 
  */
-function generatePublications(title, filename) {
-    let publications = `## ${title} ${os.EOL + BACK_TO_TOP + os.EOL + os.EOL}| Title | Published | Author |${os.EOL}| ----- | --------- | ------ |${os.EOL}`;
-    let data = YAML.parse(fs.readFileSync(path.join(__dirname, `yaml/${filename}.yml`)).toString());
-    data.forEach((item) => {
-        let name = `[${item.title}](${item.url})`;
-        let author = item.author.trim();
-        let tableItem = `| ${name} | ${dateBadge(item.date)} | ${author} |${os.EOL}`;
-        publications = publications.concat(tableItem);
-    });
-    return publications;
+function generatePublications(pubTitle, filename) {
+    return `## ${pubTitle} ${EOL + BACK_TO_TOP + EOL + EOL}| Title | Published | Author |${EOL}| ----- | --------- | ------ |${EOL}`
+        .concat(YAML.parse(fs.readFileSync(path.join(__dirname, `yaml/${filename}.yml`)).toString())
+            .map(({ title, url, date, author }) => `| [${title}](${url}) | ${dateBadge(date)} | ${author.trim()} |${EOL}`).join(''));
 }
 
-__main__();
+// ! Generate README.md
+fs.writeFileSync(path.join(__dirname, 'README.md'), Object.values(BUILD_SECTION).map((section) => section()).join(`${EOL}${EOL}`));
+console.log('Done!');
