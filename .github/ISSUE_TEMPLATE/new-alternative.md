@@ -1,14 +1,15 @@
 ---
 name: New alternative
 about: Add a new alternative for a Google service
-title: "[NEW] New alternative"
+title: "[NEW] Title here"
 labels: 'new'
 assignees: ''
 
 ---
 
-[//]: # ( Fill out to the best of your ability. )
-[//]: # ( If an item is not applicable, feel free to remove the line. )
+<!-- Fill out to the best of your ability. -->
+<!-- If an item is not applicable, feel free to remove the line. -->
+
 
 | Checklist |   |
 | --------- | - |
@@ -16,33 +17,40 @@ assignees: ''
 | Include my name in [CONTRIBUTORS.md]                | yes/no |
 | I am affiliated with this alternative               | yes/no |
 
-### Details
 
-- **General**
-  - **Alternative name**: alternative name here. Required
-  - **Alternative URL**: alternative URL here. Required
-  - **5/9/14 eyes**: yes/no/unknown
-  - **Description**: detail why this alternative should be added
-- **FLOSS**
-  - Repository: link to source code repository
-  - Active: yes/no (any branch in source repo active within past four months, excluding translations)
-  - Download: F-Droid/Direct/Play Store (Direct is direct downloads, such as GitHub releases)
-  - Price: free/paid/freemium (free: no payments at all; paid: no free tier excluding trials; freemium: any mix of free tier and paid plans)
-  - Self-host: yes/no/only (use "only" if the only option is self hosting; for example, LibreOffice Online)
-- **Encryption**
-  - HTTPS: yes/no
-  - E2EE: yes/no/optional
-  - Modern encryption: yes/no
-- **Transparency**
-  - Public ownership: yes/no [Parent company name](https://parent.company.url)
-  - 3rd-party audits: yes/no [Link to audit history](https://audit.history.url)
-- **Privacy**
-  - Anonymous payments: yes/no (these types of payments can include cash, cryptocurrency, gift cards)
-  - Analytics: yes/no (type of analytics)
-  - Captcha: recaptcha/hcaptcha/other
-- **Extras**
-  - .onion address: .onion address
-  - Warrant canary: yes/no [Link to canary](https://warrant.canary.url)
+### Alternative name
+<!-- Name of the alternative you wish to add -->
+<!-- Please also include the section you feel it belongs best in -->
+
+
+### Alternative Links
+<!-- URL of the alternative you wish to add -->
+<!-- Please include any websites, source code repositories, F-Droid pages, or other relavant links -->
+
+
+### Reason for adding
+<!-- Why is this alternative necessary? -->
+<!-- Don't use opinions and try to be objective -->
+
+
+### Alternative details
+<!--
+
+These are optional, but will help accelrate the review process. Fill out to the best of your ability.
+
+- For more info on 5/9/14 eyes, please check here: https://restoreprivacy.com/5-eyes-9-eyes-14-eyes/
+- For pricing, please specify one of: free, paid, freemium
+- For self-hosting, please indicate if self-hosting is possible, not possible, or the only option
+
+-->
+
+- **5/9/14 eyes**: 
+- **Pricing**: 
+- **Self-hosting**: 
+
+#### Additional details
+<!-- Use this space to add any other relevant information about the alternative -->
+
 
 [CONTRIBUTING.md]: ../blob/master/CONTRIBUTING.md
 [CONTRIBUTORS.md]: ../blob/master/CONTRIBUTORS.md

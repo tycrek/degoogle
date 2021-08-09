@@ -1,14 +1,15 @@
 ---
 name: Fix/update alternative
 about: Fix or update an exsting alternative.
-title: "[FIX] Fix/update alternative"
+title: "[FIX] Title here"
 labels: 'fix'
 assignees: ''
 
 ---
 
-[//]: # ( Fill out to the best of your ability. )
-[//]: # ( If an item is not applicable, feel free to remove the line. )
+<!-- Fill out to the best of your ability. -->
+<!-- If an item is not applicable, feel free to remove the line. -->
+
 
 | Checklist |   |
 | --------- | - |
@@ -16,12 +17,22 @@ assignees: ''
 | Include my name in [CONTRIBUTORS.md]                | yes/no |
 | I am affiliated with this alternative               | yes/no |
 
-### Details
 
-- **Alternative name**: enter name here. Required
-- **Error**: enter what might be wrong or what should be updated
-- **Proposed changes**: enter what you suggest should be added
-- **Additional details**: any additional details
+### Alternative name
+<!-- Which alternative needs to be fixed or updated? -->
+
+
+### Error
+<!-- What might be wrong or what should be updated? -->
+
+
+### Proposed changes
+<!-- What do you suggest be changed? -->
+
+
+### Additional details
+<!-- Add any additional details here. -->
+
 
 [CONTRIBUTING.md]: ../blob/master/CONTRIBUTING.md
 [CONTRIBUTORS.md]: ../blob/master/CONTRIBUTORS.md
