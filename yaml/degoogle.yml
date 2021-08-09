@@ -1407,6 +1407,13 @@ mobile applications:
       eyes: null
       text: >
         Privacy-focused/open-source build of Chromium with built-in ad blocking. (thanks u/SupremeLisper)
+    - name: Privacy Browser
+      url: https://www.stoutner.com/privacy-browser/
+      repo: https://gitweb.stoutner.com/?p=PrivacyBrowser.git;a=summary
+      fdroid: com.stoutner.privacybrowser.standard
+      eyes: null
+      text: >
+        An open-source Android web browser focused on user privacy. It is released under the GPLv3+ license.
   calculator:
     - title: Calculator
     - name: Simple Calculator
