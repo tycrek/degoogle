@@ -1,6 +1,12 @@
 web based products:
   search and images:
     - title: Search (Web & Images)
+    - name: Search Engine Party
+      url: https://searchengine.party/
+      repo: https://gitlab.com/nitrohorse/search-engines-compare
+      eyes: null
+      text: >
+        An open-source comparison table of popular search engines. It was made by a former team member at PrivacyTools, though is not affiliated with the site.
     - name: DuckDuckGo
       url: https://duckduckgo.com/
       eyes: 5
