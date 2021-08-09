@@ -74,6 +74,7 @@ GitHub:
 - [@evrifaessa](https://github.com/evrifaessa)
 - [@MahbodHastam](https://github.com/MahbodHastam)
 - [@aa1874](https://github.com/aa1874)
+- [@bgrgndzz](https://github.com/bgrgndzz)
 
 Reddit:
 

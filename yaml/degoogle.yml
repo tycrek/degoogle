@@ -415,6 +415,11 @@ web based products:
       eyes: 14
       text: >
         Privacy-focused analytics + web performance monitoring.
+    - name: HockeyStack
+      url: https://www.hockeystack.com/
+      eyes: 5
+      text: >
+        Offers cookieless tracking and no PII collected.
   photos:
     - title: Photos
     - name: Photoprism
