@@ -487,12 +487,6 @@ web based products:
         Open-source calendar using "sabre/dav" (FOSS WebDAV, CardDAV, and CalDAV). They mention privacy
         quite a bit on their site. Very large number of features, and supports nearly every device:
         Windows, iOS, Linux, Android, BlackBerry, SailFish, and also a webapp for browsers.
-    - name: EteSync
-      url: https://www.etesync.com
-      repo: https://github.com/etesync
-      eyes: null
-      text: >
-        Secure, end-to-end encrypted, and open-source sync for your contacts, calendars, tasks and notes.
     - name: Baïkal
       url: https://sabre.io/baikal/
       eyes: null
@@ -914,12 +908,6 @@ web based products:
       eyes: null
       text: >
         Open-source file editor with Markdown support. (thanks u/maqp2)
-    - name: EteSync
-      url: https://www.etesync.com
-      repo: https://github.com/etesync
-      eyes: null
-      text: >
-        Secure, end-to-end encrypted, and open-source sync for your contacts, calendars, tasks and notes.
     - name: GitJournal
       url: https://gitjournal.io/
       eyes: null
@@ -1082,6 +1070,14 @@ web based products:
         blockchain. Users truly own their data with BlockSurvey. All your data is protected using your
         key and only you can access it. There are no trackers, cookies, or fingerprints on the forms
         of data providers. Thanks @compressstudio
+  bulk services:
+    - title: Bulk Services
+    - name: EteSync
+      url: https://www.etesync.com
+      repo: https://github.com/etesync
+      eyes: null
+      text: >
+        **For Calendar & Keep.** Secure, end-to-end encrypted, and open-source sync for your contacts, calendars, tasks and notes.
 operating systems:
   mobile:
     - title: Android/Fuchsia
@@ -1461,13 +1457,6 @@ mobile applications:
       eyes: null
       text: >
         Open-source. Part of the [Simple Mobile Tools](https://github.com/SimpleMobileTools) project.
-    - name: EteSync
-      url: https://www.etesync.com
-      repo: https://github.com/etesync
-      fdroid: com.etesync.syncadapter
-      eyes: null
-      text: >
-        Secure, end-to-end encrypted, and open-source sync for your contacts, calendars, tasks and notes.
   camera:
     - title: Camera
     - name: Open Camera
@@ -1530,13 +1519,6 @@ mobile applications:
       eyes: null
       text: >
         Open-source contacts. (thanks u/consentio)
-    - name: EteSync
-      url: https://www.etesync.com
-      repo: https://github.com/etesync
-      fdroid: com.etesync.syncadapter
-      eyes: null
-      text: >
-        Secure, end-to-end encrypted, and open-source sync for your contacts, calendars, tasks and notes.
   messages:
     - title: Android Messages (specifically SMS/MMS, not IM)
     - name: QKSMS
@@ -1759,13 +1741,6 @@ mobile applications:
       eyes: null
       text: >
         An android client for Nextcloud Notes App.
-    - name: EteSync
-      url: https://www.etesync.com
-      repo: https://github.com/etesync
-      fdroid: com.etesync.notes
-      eyes: null
-      text: >
-        Secure, end-to-end encrypted, and open-source sync for your contacts, calendars, tasks and notes.
   maps and waze:
     - title: Maps/Waze
     - name: Maps
@@ -2102,6 +2077,22 @@ mobile applications:
         data collection in mobile apps about user behaviour ("tracking"). To detect tracking,
         TrackerControl checks all network traffic against the Disconnect blocklist, used and trusted
         by the Mozilla Firefox browser. Thanks @E5dZEUpc3BKaJrHnQVZd5zE
+  bulk apps:
+    - title: Bulk apps
+    - name: EteSync
+      url: https://www.etesync.com
+      repo: https://github.com/etesync
+      fdroid: com.etesync.syncadapter
+      eyes: null
+      text: >
+        **For Calendar & Contacts.** Secure, end-to-end encrypted, and open-source sync for your contacts, calendars, tasks and notes.
+    - name: EteSync (Notes)
+      url: https://www.etesync.com
+      repo: https://github.com/etesync
+      fdroid: com.etesync.notes
+      eyes: null
+      text: >
+        **For Keep.** Secure, end-to-end encrypted, and open-source sync for your contacts, calendars, tasks and notes.
 hardware:
   nexus pixel:
     - title: Nexus/Pixel
