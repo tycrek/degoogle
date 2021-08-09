@@ -20,7 +20,7 @@
 
 ### *I don't have anything to hide, but I don't have anything to show you either.*
 
-![Updated](https://img.shields.io/static/v1?label=updated&message=August%208th%202021&color=388E3C&style=flat-square)
+![Updated](https://img.shields.io/static/v1?label=updated&message=August%209th%202021&color=388E3C&style=flat-square)
 
 ![GitHub](https://img.shields.io/github/license/tycrek/degoogle?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/tycrek/degoogle?style=flat-square)
@@ -383,7 +383,7 @@ When contributing, **please follow the rules outlined in [CONTRIBUTING.md](https
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [Joplin](https://joplinapp.org/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/laurent22/joplin) |  | Open-source notes/todo app. Available for Windows, macOS, Linux, Android, and iOS. Also offers a terminal version. It can import Evernote `.enex` files if you use that. It can also sync with Nextcloud (mentioned above). |
-| [Standard Notes](https://standardnotes.org/)<br/>[![F-Droid](https://img.shields.io/f-droid/v/com.standardnotes?style=flat-square&logo=f-droid)](https://f-droid.org/en/packages/com.standardnotes/) |  | Encrypted note storage with loads of features. Offers a web app as well as downloads for most operating systems. Has a paid plan, but the free tier has many useful features as well. |
+| [Standard Notes](https://standardnotes.com/)<br/>[![F-Droid](https://img.shields.io/f-droid/v/com.standardnotes?style=flat-square&logo=f-droid)](https://f-droid.org/en/packages/com.standardnotes/) |  | Encrypted note storage with loads of features. Offers a web app as well as downloads for most operating systems. Has a paid plan, but the free tier has many useful features as well. |
 | [Turtl](https://turtlapp.com/) |  | Encrypted collaborative notebook with possibility of running your own server. |
 | [QOwnNotes](https://www.qownnotes.org/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/pbek/QOwnNotes) |  | Open-source file editor with Markdown support. (thanks u/maqp2) |
 | [EteSync](https://www.etesync.com)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/etesync) |  | Secure, end-to-end encrypted, and open-source sync for your contacts, calendars, tasks and notes. |
