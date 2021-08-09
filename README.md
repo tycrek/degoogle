@@ -115,6 +115,7 @@ When contributing, **please follow the rules outlined in [CONTRIBUTING.md](https
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
+| [Search Engine Party](https://searchengine.party/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=gitlab)](https://gitlab.com/nitrohorse/search-engines-compare) |  | An open-source comparison table of popular search engines. It was made by a former team member at PrivacyTools, though is not affiliated with the site. |
 | [DuckDuckGo](https://duckduckgo.com/) | **5-eyes** | One of the best privacy-focused search engines. Domain is hosted in USA which could potentially be problematic for some. |
 | [Startpage](https://www.startpage.com/) | **9-eyes** | Another privacy search engine that claims to not track any of your data. They operate servers in both USA and Europe. Note: Startpage was recently acquired. See [Issue \#12](https://github.com/tycrek/degoogle/issues/12). Thanks @pydo, @ThijsRay, and @DatAres37. Also see [this comment in Issue \#99](https://github.com/tycrek/degoogle/issues/99#issuecomment-616224650) from @danarel on Startpage. |
 | [searx](https://searx.space/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/searx/searx) |  | Open-source (thanks for clarification u/Sheezdudeln) privacy search engine. Domain hosted in Germany. |
@@ -210,7 +211,8 @@ When contributing, **please follow the rules outlined in [CONTRIBUTING.md](https
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [Joomla](https://www.joomla.org/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/joomla) |  | Self-hosted and open-source content management system (CMS). |
-| [Write.as](https://write.as/) |  | Self-advertised as privacy-focused. |
+| [WriteFreely](https://writefreely.org/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/writefreely/writefreely) |  | An open-source platform for building a writing space on the web. |
+| [Write.as](https://write.as/) |  | Free & paid hosting for WriteFreely, which is developed by the folks at Write.as. |
 | [WordPress self-hosted](https://wordpress.org/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=wordpress)](https://code.trac.wordpress.org/browser/wordpress-sources) |  | The open-source version of WordPress. A very popular tool and a recognized name. |
 | [concrete5](https://www.concrete5.org/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/concrete5) | **5-eyes** | Open-source CMS. |
 | [Noblogs](https://noblogs.org/) | **9-eyes** | A privacy/security focused blogging platform. |
@@ -239,6 +241,7 @@ When contributing, **please follow the rules outlined in [CONTRIBUTING.md](https
 | [userTrack](https://www.usertrack.net/) |  | Self-hosted alternative to Google Analytics, similar to Matomo but cheaper for premium features. Includes user segments, heatmaps, session recordings and A/B testing. |
 | [Piwik PRO](https://piwik.pro/) | **5-eyes** | An analytics suite with a focus on user privacy and data security. |
 | [Panelbear](https://panelbear.com/) | **14-eyes** | Privacy-focused analytics + web performance monitoring. |
+| [HockeyStack](https://www.hockeystack.com/) | **5-eyes** | Offers cookieless tracking and no PII collected. |
 
 
 
@@ -253,6 +256,7 @@ When contributing, **please follow the rules outlined in [CONTRIBUTING.md](https
 | [Cryptee](https://crypt.ee/) |  | Encrypted photo storage in a simple solution similar to Google Photos. |
 | [PhotoStructure](https://photostructure.com/) |  | Self-hosted photo and video manager. Cross-platform (macOS, Windows, Linux, Docker). Scales to millions of assets, with automatic organization, auto-transcoding, and advanced de-duplication. |
 | [Lychee](https://lycheeorg.github.io/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/LycheeOrg/Lychee) |  | An open-source self-hosted photo-management tool that includes built-in support for videos. Thanks @m0yP |
+| [ente](https://ente.io/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/ente-io/) | **5-eyes** | A paid, cloud-based, open-source mobile and desktop photo storage app with a focus on security and privacy. Apps are available for iOS and Android. |
 
 
 
@@ -264,7 +268,6 @@ When contributing, **please follow the rules outlined in [CONTRIBUTING.md](https
 | [ProtonCalendar](https://calendar.protonmail.com/) |  | Developed by ProtonMail. Free plan only supports 1 calendar. Allows importing of other calendar files. Has an Android app. |
 | [Tutanota Calendar](https://tutanota.com/calendar/) | **14-eyes** | Developed by Tutanota. Free cross-platform encrypted calendar. Allows importing of other Calendar files. Can't be synced to other calendar software. |
 | [Fruux](https://fruux.com/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=fruux)](https://fruux.com/opensource) | **14-eyes** | Open-source calendar using "sabre/dav" (FOSS WebDAV, CardDAV, and CalDAV). They mention privacy quite a bit on their site. Very large number of features, and supports nearly every device: Windows, iOS, Linux, Android, BlackBerry, SailFish, and also a webapp for browsers. |
-| [EteSync](https://www.etesync.com)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/etesync) |  | Secure, end-to-end encrypted, and open-source sync for your contacts, calendars, tasks and notes. |
 | [Baïkal](https://sabre.io/baikal/) |  | a lightweight CalDAV+CardDAV server. It offers an extensive web interface with easy management of users, address books and calendars. It is fast and simple to install and only needs a basic php capable server. The data can be stored in a MySQL or a SQLite database. Thanks @mahdi1234 |
 | [Nextcloud](https://nextcloud.com/) |  | Nextcloud also offers a calendar solution using CalDAV and CardDAV. Thanks @mahdi1234 for pointing this out. |
 | [Radicale](https://radicale.org/) |  | Self-hosted calendar server written in Python. WebUI for desktop, CalDav/CardDav for mobile sync. Can use a reverse proxy with Nginx for HTTPS. |
@@ -386,7 +389,6 @@ When contributing, **please follow the rules outlined in [CONTRIBUTING.md](https
 | [Standard Notes](https://standardnotes.com/)<br/>[![F-Droid](https://img.shields.io/f-droid/v/com.standardnotes?style=flat-square&logo=f-droid)](https://f-droid.org/en/packages/com.standardnotes/) |  | Encrypted note storage with loads of features. Offers a web app as well as downloads for most operating systems. Has a paid plan, but the free tier has many useful features as well. |
 | [Turtl](https://turtlapp.com/) |  | Encrypted collaborative notebook with possibility of running your own server. |
 | [QOwnNotes](https://www.qownnotes.org/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/pbek/QOwnNotes) |  | Open-source file editor with Markdown support. (thanks u/maqp2) |
-| [EteSync](https://www.etesync.com)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/etesync) |  | Secure, end-to-end encrypted, and open-source sync for your contacts, calendars, tasks and notes. |
 | [GitJournal](https://gitjournal.io/) |  | Your Markdown notes stores in any Git Repo. Available for both Android (Play Store) and iOS. |
 | [Nextcloud Notes](https://apps.nextcloud.com/apps/notes) |  | A distraction free notes taking app for Nextcloud. It provides categories for better organization and supports formatting using Markdown syntax. Notes are saved as files in your Nextcloud, so you can view and edit them with every Nextcloud client. |
 | [TiddlyWiki](https://tiddlywiki.com/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/Jermolene/TiddlyWiki5) |  | An open-source personal note-taking system that can run in the browser as a single HTML file or as a NodeJS application. It can be stored locally on a hard drive or removable drive, self-hosted on one's own server, or use various web-based storage options. |
@@ -459,6 +461,14 @@ No known alternatives.
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [BlockSurvey](https://blocksurvey.io/) |  | BlockSurvey enables digital rights (identity and data ownership) to users using Blockstack's blockchain. Users truly own their data with BlockSurvey. All your data is protected using your key and only you can access it. There are no trackers, cookies, or fingerprints on the forms of data providers. Thanks @compressstudio |
+
+
+
+#### Bulk Services
+
+| Name | Eyes | Description |
+| ---- | ---- | ----------- |
+| [EteSync](https://www.etesync.com)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/etesync) |  | **For Calendar & Keep.** Secure, end-to-end encrypted, and open-source sync for your contacts, calendars, tasks and notes. |
 
 
 
@@ -586,6 +596,7 @@ No known alternatives.
 | ---- | ---- | ----------- |
 | [Fennec F-Droid](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/)<br/>[![F-Droid](https://img.shields.io/f-droid/v/org.mozilla.fennec_fdroid?style=flat-square&logo=f-droid)](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/) |  | A privacy-focused version of Firefox Android available on F-Droid. It's focused on removing any proprietary bits found in official Mozilla's builds. (thanks u/SupremeLisper) |
 | [Bromite](https://www.bromite.org/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/bromite/bromite) |  | Privacy-focused/open-source build of Chromium with built-in ad blocking. (thanks u/SupremeLisper) |
+| [Privacy Browser](https://www.stoutner.com/privacy-browser/)<br/>[![F-Droid](https://img.shields.io/f-droid/v/com.stoutner.privacybrowser.standard?style=flat-square&logo=f-droid)](https://f-droid.org/en/packages/com.stoutner.privacybrowser.standard/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=stoutner)](https://gitweb.stoutner.com/?p=PrivacyBrowser.git;a=summary) |  | An open-source Android web browser focused on user privacy. It is released under the GPLv3+ license. |
 
 
 
@@ -608,7 +619,6 @@ No known alternatives.
 | [Fruux (mobile app)](https://fruux.com/) |  | Same service from above provides an Android app. |
 | [Etar](https://github.com/xsoh/Etar-Calendar)<br/>[![F-Droid](https://img.shields.io/f-droid/v/ws.xsoh.etar?style=flat-square&logo=f-droid)](https://f-droid.org/en/packages/ws.xsoh.etar/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/xsoh/Etar-Calendar) |  | Open-source material design Calendar that integrates with the Android Calendar API. Can integrate with CalDAV/CardDAV servers. |
 | [Simple Calendar](https://github.com/SimpleMobileTools/Simple-Calendar)<br/>[![F-Droid](https://img.shields.io/f-droid/v/com.simplemobiletools.calendar.pro?style=flat-square&logo=f-droid)](https://f-droid.org/en/packages/com.simplemobiletools.calendar.pro/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/SimpleMobileTools/Simple-Calendar) |  | Open-source. Part of the [Simple Mobile Tools](https://github.com/SimpleMobileTools) project. |
-| [EteSync](https://www.etesync.com)<br/>[![F-Droid](https://img.shields.io/f-droid/v/com.etesync.syncadapter?style=flat-square&logo=f-droid)](https://f-droid.org/en/packages/com.etesync.syncadapter/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/etesync) |  | Secure, end-to-end encrypted, and open-source sync for your contacts, calendars, tasks and notes. |
 
 
 
@@ -638,7 +648,6 @@ No known alternatives.
 | [Fruux (mobile app)](https://fruux.com/) |  | Fruux *also* provides a contacts app. |
 | [Simple Contacts](https://github.com/SimpleMobileTools/Simple-Contacts)<br/>[![F-Droid](https://img.shields.io/f-droid/v/com.simplemobiletools.contacts.pro?style=flat-square&logo=f-droid)](https://f-droid.org/en/packages/com.simplemobiletools.contacts.pro/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/SimpleMobileTools/Simple-Contacts) |  | Open-source. Part of the [Simple Mobile Tools](https://github.com/SimpleMobileTools) project. |
 | [Open Contacts](https://gitlab.com/sultanahamer/OpenContacts/-/blob/HEAD/README.md)<br/>[![F-Droid](https://img.shields.io/f-droid/v/opencontacts.open.com.opencontacts?style=flat-square&logo=f-droid)](https://f-droid.org/en/packages/opencontacts.open.com.opencontacts/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=gitlab)](https://gitlab.com/sultanahamer/OpenContacts) |  | Open-source contacts. (thanks u/consentio) |
-| [EteSync](https://www.etesync.com)<br/>[![F-Droid](https://img.shields.io/f-droid/v/com.etesync.syncadapter?style=flat-square&logo=f-droid)](https://f-droid.org/en/packages/com.etesync.syncadapter/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/etesync) |  | Secure, end-to-end encrypted, and open-source sync for your contacts, calendars, tasks and notes. |
 
 
 
@@ -704,7 +713,6 @@ No known alternatives.
 | [Orgzly](http://orgzly.com/)<br/>[![F-Droid](https://img.shields.io/f-droid/v/com.orgzly?style=flat-square&logo=f-droid)](https://f-droid.org/en/packages/com.orgzly/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/orgzly) |  | Open-source. Notes are stored in the plain-text [Org mode](https://orgmode.org/) format. Supports searching, metadata, and manual sync with Dropbox or local directory, which can be synced using e.g. Syncthing. |
 | [Notally](https://github.com/OmGodse/Notally)<br/>[![F-Droid](https://img.shields.io/f-droid/v/com.omgodse.notally?style=flat-square&logo=f-droid)](https://f-droid.org/en/packages/com.omgodse.notally/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/OmGodse/Notally) |  | A beautiful, light and minimalistic notes app with no trackers, ads or analytics of any kind. |
 | [Nextcloud Notes for Android](https://github.com/stefan-niedermann/nextcloud-notes)<br/>[![F-Droid](https://img.shields.io/f-droid/v/it.niedermann.owncloud.notes?style=flat-square&logo=f-droid)](https://f-droid.org/en/packages/it.niedermann.owncloud.notes/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/stefan-niedermann/nextcloud-notes) |  | An android client for Nextcloud Notes App. |
-| [EteSync](https://www.etesync.com)<br/>[![F-Droid](https://img.shields.io/f-droid/v/com.etesync.notes?style=flat-square&logo=f-droid)](https://f-droid.org/en/packages/com.etesync.notes/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/etesync) |  | Secure, end-to-end encrypted, and open-source sync for your contacts, calendars, tasks and notes. |
 
 
 
@@ -839,6 +847,15 @@ No known alternatives.
 
 
 
+#### Bulk apps
+
+| Name | Eyes | Description |
+| ---- | ---- | ----------- |
+| [EteSync](https://www.etesync.com)<br/>[![F-Droid](https://img.shields.io/f-droid/v/com.etesync.syncadapter?style=flat-square&logo=f-droid)](https://f-droid.org/en/packages/com.etesync.syncadapter/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/etesync) |  | **For Calendar & Contacts.** Secure, end-to-end encrypted, and open-source sync for your contacts, calendars, tasks and notes. |
+| [EteSync (Notes)](https://www.etesync.com)<br/>[![F-Droid](https://img.shields.io/f-droid/v/com.etesync.notes?style=flat-square&logo=f-droid)](https://f-droid.org/en/packages/com.etesync.notes/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/etesync) |  | **For Keep.** Secure, end-to-end encrypted, and open-source sync for your contacts, calendars, tasks and notes. |
+
+
+
 
 
 ## Hardware
@@ -861,6 +878,7 @@ No known alternatives.
 | [TUXEDO](https://www.tuxedocomputers.com/) | **14-eyes** | Privacy-focused laptop maker out of Germany. Tech specs are very competent and can easily compete with other modern systems. Fully Linux compatible. They also offer desktops. (thanks u/itsec_ho) |
 | [Purism Laptops](https://puri.sm/) | **5-eyes** | Privacy-focused laptop running PureOS. Good designs and decent hardware. |
 | [Pinebook Pro](https://www.pine64.org/pinebook-pro) |  | Mid-range Linux/FreeBSD alternative to Chromebook. |
+| [Slimbook](https://slimbook.es/en/) |  | A Spanish laptop manufacturer which makes Linux native laptops. |
 
 
 
