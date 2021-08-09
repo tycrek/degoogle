@@ -891,7 +891,7 @@ web based products:
         a terminal version. It can import Evernote `.enex` files if you use that. It can also sync with
         Nextcloud (mentioned above).
     - name: Standard Notes
-      url: https://standardnotes.org/
+      url: https://standardnotes.com/
       fdroid: com.standardnotes
       eyes: null
       text: >
