@@ -470,6 +470,12 @@ web based products:
       text: >
         An open-source self-hosted photo-management tool that includes built-in support for videos.
         Thanks @m0yP
+    - name: ente
+      url: https://ente.io/
+      repo: https://github.com/ente-io/
+      eyes: 5
+      text: >
+        A paid, cloud-based, open-source mobile and desktop photo storage app with a focus on security and privacy. Apps are available for iOS and Android.
   calendar:
     - title: Calendar
     - name: Lightning Calendar (Thunderbird)
