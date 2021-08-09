@@ -1,6 +1,6 @@
 Thanks to everyone here for contributing in some way! (usernames are in no particular order).
 
-GitHub:
+### GitHub:
 
 - [Fabian Cook](https://github.com/fabiancook)
 - [Alexander Schaap](https://github.com/aschaap)
@@ -78,7 +78,7 @@ GitHub:
 - [@samcross021](https://github.com/samcross021)
 - [@Shahin-rmz](https://github.com/Shahin-rmz)
 
-Reddit:
+### Reddit:
 
 - u/SheepKid12
 - u/yieldingTemporarily
