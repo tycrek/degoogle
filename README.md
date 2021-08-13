@@ -977,6 +977,7 @@ Everything you need to become a privacy wizard. This section has two subsections
 | [The Age of Surveillance Capitalism](https://www.publicaffairsbooks.com/titles/shoshana-zuboff/the-age-of-surveillance-capitalism/9781610395694/) | ![Published](https://img.shields.io/badge/2019-informational?style=flat-square) | Shoshana Zuboff |
 | [The Attention Merchants](http://www.timwu.org/AttentionMerchants.html) | ![Published](https://img.shields.io/badge/2016-informational?style=flat-square) | Tim Wu |
 | [Zucked](https://www.zuckedbook.com/) | ![Published](https://img.shields.io/badge/2019-informational?style=flat-square) | Roger McNamee |
+| [Privacy Is Power](https://www.penguin.co.uk/books/1120394/privacy-is-power/9780552177719.html) | ![Published](https://img.shields.io/badge/2021-informational?style=flat-square) | Carissa Véliz |
 
 
 ## Blog posts 
