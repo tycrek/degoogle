@@ -1467,8 +1467,8 @@ mobile applications:
       text: >
         Same service from above provides an Android app.
     - name: Etar
-      url: https://github.com/xsoh/Etar-Calendar
-      repo: https://github.com/xsoh/Etar-Calendar
+      url: https://github.com/Etar-Group/Etar-Calendar
+      repo: https://github.com/Etar-Group/Etar-Calendar
       fdroid: ws.xsoh.etar
       eyes: null
       text: >
