@@ -1829,6 +1829,12 @@ mobile applications:
         your photos and videos which seamlessly provides strong security, privacy and encryption. All
         photos and videos are encrypted prior to being stored and backed up, so they are secure at rest,
         in transit and on cloud storage.
+    - name: ente
+      url: https://ente.io/
+      repo: https://github.com/ente-io/
+      eyes: 5
+      text: >
+        A simple, end-to-end encrypted, open-source photo storage service with a focus on security and privacy. Apps are available for iOS, Android, web and desktop.
   pay:
     - title: Pay
     - notes:
