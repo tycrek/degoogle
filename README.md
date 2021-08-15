@@ -742,6 +742,7 @@ No known alternatives.
 | ---- | ---- | ----------- |
 | [Piwigo Android](https://github.com/Piwigo/Piwigo-Android)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/Piwigo/Piwigo-Android) |  | You need to have Piwigo set up first. |
 | [Stingle Photos](https://stingle.org/) | **5-eyes** | A convenient, easy to use Gallery/Camera application with Backup and Sync functionality for your photos and videos which seamlessly provides strong security, privacy and encryption. All photos and videos are encrypted prior to being stored and backed up, so they are secure at rest, in transit and on cloud storage. |
+| [ente](https://ente.io/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/ente-io/) | **5-eyes** | A simple, end-to-end encrypted, open-source photo storage service with a focus on security and privacy. Apps are available for iOS, Android, web and desktop. |
 
 
 
