@@ -20,7 +20,7 @@
 
 ### *I don't have anything to hide, but I don't have anything to show you either.*
 
-![Updated](https://img.shields.io/static/v1?label=updated&message=August%2014th%202021&color=388E3C&style=flat-square)
+![Updated](https://img.shields.io/static/v1?label=updated&message=August%2015th%202021&color=388E3C&style=flat-square)
 
 ![GitHub](https://img.shields.io/github/license/tycrek/degoogle?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/tycrek/degoogle?style=flat-square)
@@ -617,7 +617,7 @@ No known alternatives.
 | [DAVx⁵](https://www.davx5.com/)<br/>[![F-Droid](https://img.shields.io/f-droid/v/at.bitfire.davdroid?style=flat-square&logo=f-droid)](https://f-droid.org/en/packages/at.bitfire.davdroid/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=gitlab)](https://gitlab.com/bitfireAT/davx5-ose) |  | DAVx⁵ is an open-source CalDAV/CardDAV suite and sync app for Android. |
 | [ICSx⁵](https://icsx5.bitfire.at/)<br/>[![F-Droid](https://img.shields.io/f-droid/v/at.bitfire.icsdroid?style=flat-square&logo=f-droid)](https://f-droid.org/en/packages/at.bitfire.icsdroid/) |  | ICSx⁵ is an Android app to subscribe to remote (“Webcal”) or local iCalendar files (like time tables of your school/university or event files of your sports team). Thanks @je-vv |
 | [Fruux (mobile app)](https://fruux.com/) |  | Same service from above provides an Android app. |
-| [Etar](https://github.com/xsoh/Etar-Calendar)<br/>[![F-Droid](https://img.shields.io/f-droid/v/ws.xsoh.etar?style=flat-square&logo=f-droid)](https://f-droid.org/en/packages/ws.xsoh.etar/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/xsoh/Etar-Calendar) |  | Open-source material design Calendar that integrates with the Android Calendar API. Can integrate with CalDAV/CardDAV servers. |
+| [Etar](https://github.com/Etar-Group/Etar-Calendar)<br/>[![F-Droid](https://img.shields.io/f-droid/v/ws.xsoh.etar?style=flat-square&logo=f-droid)](https://f-droid.org/en/packages/ws.xsoh.etar/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/Etar-Group/Etar-Calendar) |  | Open-source material design Calendar that integrates with the Android Calendar API. Can integrate with CalDAV/CardDAV servers. |
 | [Simple Calendar](https://github.com/SimpleMobileTools/Simple-Calendar)<br/>[![F-Droid](https://img.shields.io/f-droid/v/com.simplemobiletools.calendar.pro?style=flat-square&logo=f-droid)](https://f-droid.org/en/packages/com.simplemobiletools.calendar.pro/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/SimpleMobileTools/Simple-Calendar) |  | Open-source. Part of the [Simple Mobile Tools](https://github.com/SimpleMobileTools) project. |
 
 
