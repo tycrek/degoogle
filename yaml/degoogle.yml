@@ -475,7 +475,7 @@ web based products:
       repo: https://github.com/ente-io/
       eyes: 5
       text: >
-        A paid, cloud-based, open-source mobile and desktop photo storage app with a focus on security and privacy. Apps are available for iOS and Android.
+        A paid, cloud-based, open-source photo storage app with a focus on security and privacy. Apps are available for iOS, Android, web and desktop.
   calendar:
     - title: Calendar
     - name: Lightning Calendar (Thunderbird)

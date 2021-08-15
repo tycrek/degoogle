@@ -20,7 +20,7 @@
 
 ### *I don't have anything to hide, but I don't have anything to show you either.*
 
-![Updated](https://img.shields.io/static/v1?label=updated&message=August%209th%202021&color=388E3C&style=flat-square)
+![Updated](https://img.shields.io/static/v1?label=updated&message=August%2014th%202021&color=388E3C&style=flat-square)
 
 ![GitHub](https://img.shields.io/github/license/tycrek/degoogle?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/tycrek/degoogle?style=flat-square)
@@ -256,7 +256,7 @@ When contributing, **please follow the rules outlined in [CONTRIBUTING.md](https
 | [Cryptee](https://crypt.ee/) |  | Encrypted photo storage in a simple solution similar to Google Photos. |
 | [PhotoStructure](https://photostructure.com/) |  | Self-hosted photo and video manager. Cross-platform (macOS, Windows, Linux, Docker). Scales to millions of assets, with automatic organization, auto-transcoding, and advanced de-duplication. |
 | [Lychee](https://lycheeorg.github.io/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/LycheeOrg/Lychee) |  | An open-source self-hosted photo-management tool that includes built-in support for videos. Thanks @m0yP |
-| [ente](https://ente.io/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/ente-io/) | **5-eyes** | A paid, cloud-based, open-source mobile and desktop photo storage app with a focus on security and privacy. Apps are available for iOS and Android. |
+| [ente](https://ente.io/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/ente-io/) | **5-eyes** | A paid, cloud-based, open-source photo storage app with a focus on security and privacy. Apps are available for iOS, Android, web and desktop. |
 
 
 
