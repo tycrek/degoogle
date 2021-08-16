@@ -20,7 +20,7 @@
 
 ### *I don't have anything to hide, but I don't have anything to show you either.*
 
-![Updated](https://img.shields.io/static/v1?label=updated&message=August%2015th%202021&color=388E3C&style=flat-square)
+![Updated](https://img.shields.io/static/v1?label=updated&message=August%2016th%202021&color=388E3C&style=flat-square)
 
 ![GitHub](https://img.shields.io/github/license/tycrek/degoogle?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/tycrek/degoogle?style=flat-square)
@@ -392,6 +392,7 @@ When contributing, **please follow the rules outlined in [CONTRIBUTING.md](https
 | [GitJournal](https://gitjournal.io/) |  | Your Markdown notes stores in any Git Repo. Available for both Android (Play Store) and iOS. |
 | [Nextcloud Notes](https://apps.nextcloud.com/apps/notes) |  | A distraction free notes taking app for Nextcloud. It provides categories for better organization and supports formatting using Markdown syntax. Notes are saved as files in your Nextcloud, so you can view and edit them with every Nextcloud client. |
 | [TiddlyWiki](https://tiddlywiki.com/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/Jermolene/TiddlyWiki5) |  | An open-source personal note-taking system that can run in the browser as a single HTML file or as a NodeJS application. It can be stored locally on a hard drive or removable drive, self-hosted on one's own server, or use various web-based storage options. |
+| [Notesnook](https://notesnook.com/) |  | A truly zero-knowledge note taking app, encrypted using XChaChaPoly1305-IETF & Argon2. It is available on Windows, macOS, Linux, Android, iOS, and has browser extensions too. It is not self-hostable and follows a freemium model. |
 
 
 
@@ -713,6 +714,7 @@ No known alternatives.
 | [Orgzly](http://orgzly.com/)<br/>[![F-Droid](https://img.shields.io/f-droid/v/com.orgzly?style=flat-square&logo=f-droid)](https://f-droid.org/en/packages/com.orgzly/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/orgzly) |  | Open-source. Notes are stored in the plain-text [Org mode](https://orgmode.org/) format. Supports searching, metadata, and manual sync with Dropbox or local directory, which can be synced using e.g. Syncthing. |
 | [Notally](https://github.com/OmGodse/Notally)<br/>[![F-Droid](https://img.shields.io/f-droid/v/com.omgodse.notally?style=flat-square&logo=f-droid)](https://f-droid.org/en/packages/com.omgodse.notally/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/OmGodse/Notally) |  | A beautiful, light and minimalistic notes app with no trackers, ads or analytics of any kind. |
 | [Nextcloud Notes for Android](https://github.com/stefan-niedermann/nextcloud-notes)<br/>[![F-Droid](https://img.shields.io/f-droid/v/it.niedermann.owncloud.notes?style=flat-square&logo=f-droid)](https://f-droid.org/en/packages/it.niedermann.owncloud.notes/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/stefan-niedermann/nextcloud-notes) |  | An android client for Nextcloud Notes App. |
+| [Notesnook (mobile)](https://notesnook.com/) |  | A truly zero-knowledge note taking app, encrypted using XChaChaPoly1305-IETF & Argon2. It is available on Windows, macOS, Linux, Android, iOS, and has browser extensions too. It is not self-hostable and follows a freemium model. Downloads are available on [Google Play](https://play.google.com/store/apps/details?id=com.streetwriters.notesnook) and the iOS [App Store](https://apps.apple.com/us/app/notesnook/id1544027013). |
 
 
 
