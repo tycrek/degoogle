@@ -945,6 +945,11 @@ web based products:
         An open-source personal note-taking system that can run in the browser as a single HTML file
         or as a NodeJS application. It can be stored locally on a hard drive or removable drive,
         self-hosted on one's own server, or use various web-based storage options.
+    - name: Notesnook
+      url: https://notesnook.com/
+      eyes: null
+      text: >
+        A truly zero-knowledge note taking app, encrypted using XChaChaPoly1305-IETF & Argon2. It is available on Windows, macOS, Linux, Android, iOS, and has browser extensions too. It is not self-hostable and follows a freemium model.
   music tv movies:
     - title: Play Music, Movies, & TV
     - notes:
@@ -1765,6 +1770,11 @@ mobile applications:
       eyes: null
       text: >
         An android client for Nextcloud Notes App.
+    - name: Notesnook (mobile)
+      url: https://notesnook.com/
+      eyes: null
+      text: >
+        A truly zero-knowledge note taking app, encrypted using XChaChaPoly1305-IETF & Argon2. It is available on Windows, macOS, Linux, Android, iOS, and has browser extensions too. It is not self-hostable and follows a freemium model. Downloads are available on [Google Play](https://play.google.com/store/apps/details?id=com.streetwriters.notesnook) and the iOS [App Store](https://apps.apple.com/us/app/notesnook/id1544027013).
   maps and waze:
     - title: Maps/Waze
     - name: Maps
