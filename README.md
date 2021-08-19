@@ -20,7 +20,7 @@
 
 ### *I don't have anything to hide, but I don't have anything to show you either.*
 
-![Updated](https://img.shields.io/static/v1?label=updated&message=August%2016th%202021&color=388E3C&style=flat-square)
+![Updated](https://img.shields.io/static/v1?label=updated&message=August%2019th%202021&color=388E3C&style=flat-square)
 
 ![GitHub](https://img.shields.io/github/license/tycrek/degoogle?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/tycrek/degoogle?style=flat-square)
@@ -980,6 +980,7 @@ Everything you need to become a privacy wizard. This section has two subsections
 | [The Age of Surveillance Capitalism](https://www.publicaffairsbooks.com/titles/shoshana-zuboff/the-age-of-surveillance-capitalism/9781610395694/) | ![Published](https://img.shields.io/badge/2019-informational?style=flat-square) | Shoshana Zuboff |
 | [The Attention Merchants](http://www.timwu.org/AttentionMerchants.html) | ![Published](https://img.shields.io/badge/2016-informational?style=flat-square) | Tim Wu |
 | [Zucked](https://www.zuckedbook.com/) | ![Published](https://img.shields.io/badge/2019-informational?style=flat-square) | Roger McNamee |
+| [Privacy Is Power](https://www.penguin.co.uk/books/1120394/privacy-is-power/9780552177719.html) | ![Published](https://img.shields.io/badge/2021-informational?style=flat-square) | Carissa Véliz |
 
 
 ## Blog posts 
