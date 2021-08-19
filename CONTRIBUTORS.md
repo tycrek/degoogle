@@ -78,6 +78,7 @@ Thanks to everyone here for contributing in some way! (usernames are in no parti
 - [@samcross021](https://github.com/samcross021)
 - [@Shahin-rmz](https://github.com/Shahin-rmz)
 - [@vishnukvmd](https://github.com/vishnukvmd)
+- [@Joshuasony](https://github.com/Joshuasony)
 
 ### Reddit:
 
