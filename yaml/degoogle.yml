@@ -1807,6 +1807,13 @@ mobile applications:
       text: >
         Öffi is a public transport Android app (also shows delays and replacement bus service for
         more and more transport authorities in Europe and beyond) - similar to Transportr
+    - name: Organic Maps
+      url: https://organicmaps.app/
+      repo: https://github.com/organicmaps/organicmaps
+      fdroid: app.organicmaps
+      eyes: null
+      text: >
+        An Android & iOS offline maps app for travelers, tourists, hikers, and cyclists based on top of crowd-sourced OpenStreetMap data.
   news:
     - title: News
     - name: Flym
