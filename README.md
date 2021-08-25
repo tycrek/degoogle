@@ -20,7 +20,7 @@
 
 ### *I don't have anything to hide, but I don't have anything to show you either.*
 
-![Updated](https://img.shields.io/static/v1?label=updated&message=August%2019th%202021&color=388E3C&style=flat-square)
+![Updated](https://img.shields.io/static/v1?label=updated&message=August%2025th%202021&color=388E3C&style=flat-square)
 
 ![GitHub](https://img.shields.io/github/license/tycrek/degoogle?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/tycrek/degoogle?style=flat-square)
@@ -726,6 +726,7 @@ No known alternatives.
 | [OsmAnd](https://osmand.net/)<br/>[![F-Droid](https://img.shields.io/f-droid/v/net.osmand.plus?style=flat-square&logo=f-droid)](https://f-droid.org/en/packages/net.osmand.plus/) |  | OpenStreetMap for Android. (thanks u/masao77). As OsmAnd is primarily crowdsourced, many regions may not be totally accurate. If you would like to help improve OpenStreetMap and OsmAnd, check out [StreetComplete](https://wiki.openstreetmap.org/wiki/StreetComplete) (available from [F-Droid](https://f-droid.org/en/packages/de.westnordost.streetcomplete/). |
 | [Transportr](https://transportr.app/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=transportr)](https://transportr.app/contribute) |  | Primarily European, this is an open-source public transport app. Thanks to @lgiard |
 | [Öffi (Offi)](https://oeffi.schildbach.de/)<br/>[![F-Droid](https://img.shields.io/f-droid/v/de.schildbach.oeffi?style=flat-square&logo=f-droid)](https://f-droid.org/en/packages/de.schildbach.oeffi/) |  | Öffi is a public transport Android app (also shows delays and replacement bus service for more and more transport authorities in Europe and beyond) - similar to Transportr |
+| [Organic Maps](https://organicmaps.app/)<br/>[![F-Droid](https://img.shields.io/f-droid/v/app.organicmaps?style=flat-square&logo=f-droid)](https://f-droid.org/en/packages/app.organicmaps/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/organicmaps/organicmaps) |  | An Android & iOS offline maps app for travelers, tourists, hikers, and cyclists based on top of crowd-sourced OpenStreetMap data. |
 
 
 
