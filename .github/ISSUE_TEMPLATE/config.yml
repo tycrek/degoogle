@@ -1,6 +1,6 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Other/Discussions
+  - name: Other
     url: https://github.com/tycrek/degoogle/discussions
     about: >
       Have a question or other topic of discussion that isn't adding/removing/modifying an alternative?
