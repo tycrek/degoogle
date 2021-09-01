@@ -1,0 +1,115 @@
+---
+name: New alternative
+description: Add a new alternative for a Google service
+title: "[NEW] Alternative name here"
+labels:
+  - new
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Adding a new alternative to the list
+
+        Fill out to the best of your ability.
+        If an optional item is not applicable, feel free to ignore it.
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Checklist
+      options:
+        - label: "**I have read the guidelines in [CONTRIBUTING.md](../blob/master/CONTRIBUTING.md)**"
+          required: true
+        - label: Include my name in [CONTRIBUTORS.md](../blob/master/CONTRIBUTORS.md)
+        - label: I am affiliated with this alternative
+  - type: input
+    id: name
+    attributes:
+      label: Alternative name
+      description: Name of the alternative you wish to add
+    validations:
+      required: true
+  - type: dropdown
+    id: section
+    attributes:
+      label: Section
+      description: Please also include the section you feel it belongs best in
+      multiple: true
+      options:
+       - Browser extensions
+       - Web-based products
+       - Operating systems
+       - Desktop applications
+       - Mobile applications
+       - Hardware
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: |
+        Please provide a brief description of the alternative,
+        one to 5 sentences which will be displayed along with the name.
+    validations:
+      required: true
+  - type: textarea
+    id: reasoning
+    attributes:
+      label: Reason for adding
+      description: |
+        Why is this alternative necessary? Don't use opinions and try to be objective.
+  - type: input
+    id: url
+    attributes:
+      label: URL
+      description: URL of the alternative you wish to add
+      placeholder: https://example-alternative.org
+    validations:
+      required: true
+  - type: input
+    id: repo
+    attributes:
+      label: Repository
+      description: Source Code repository for the alternative
+      placeholder: https://github.com/example/alternative
+  - type: input
+    id: fdroid
+    attributes:
+      label: F-Droid ID
+      description: If available on F-Droid, the ID of the app
+      placeholder: org.alternative.example
+  - type: textarea
+    id: other_links
+    attributes:
+      label: Other Links
+      description: If applicable or helpful, other links related to the alternative
+  - type: checkboxes
+    id: eyes
+    attributes:
+      label: Is this alternative hosted in a country that performs surveillance?
+      description: |
+        For more info on 5/9/14 eyes, please check here: https://restoreprivacy.com/5-eyes-9-eyes-14-eyes/
+        Usually only one applies, but you may select more than one.
+      options:
+        - label: 5 Eyes
+        - label: 9 Eyes
+        - label: 14 Eyes
+  - type: dropdown
+    id: pricing
+    attributes:
+      label: Is there a cost to use this alternative?
+      options:
+        - Free
+        - Paid
+        - Freemium (Free tier but paid upgrades)
+  - type: dropdown
+    id: self-hosting
+    attributes:
+      label: Please indicate if self-hosting is possible, not possible, or the only option
+      options:
+        - Possible
+        - Not possible
+        - Only self-hosted
+  - type: textarea
+    id: additional_details
+    attributes:
+      label: Additional Details
+      description: Use this space to add any other relevant information about the alternative

@@ -1,0 +1,43 @@
+---
+name: Fix/update alternative
+description: Fix or update an existing alternative.
+title: "[FIX] Alternative name here"
+labels: 
+  - fix
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Fixing details about an alternative in the list
+
+        Fill out to the best of your ability.
+        If an item is not applicable, feel free to ignore it.
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Checklist
+      options:
+        - label: "**I have read the guidelines in [CONTRIBUTING.md](../blob/master/CONTRIBUTING.md)**"
+          required: true
+        - label: Include my name in [CONTRIBUTORS.md](../blob/master/CONTRIBUTORS.md)
+        - label: I am affiliated with this alternative
+  - type: input
+    id: alternative_name
+    attributes:
+      label: Alternative name
+      description: Which alternative needs to be fixed or updated?
+  - type: textarea
+    id: error
+    attributes:
+      label: Error
+      description: What might be wrong or what should be updated?
+  - type: textarea
+    id: proposed_changes
+    attributes:
+      label: Proposed changes
+      description: What do you suggest be changed?
+  - type: textarea
+    id: additional_details
+    attributes:
+      label: Additional details
+      description: Add any additional details here.

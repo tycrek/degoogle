@@ -1,0 +1,27 @@
+---
+name: Other
+description: Anything else that does not fit the other templates. Blank issues are not permitted.
+title: "[DISCUSS] Title here"
+labels:
+  - other
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Have a question or other topic of discussion that isn't adding/removing/modifying an alternative?
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Checklist
+      options:
+        - label: "**I have read the guidelines in [CONTRIBUTING.md](../blob/master/CONTRIBUTING.md)**"
+          required: true
+        - label: Include my name in [CONTRIBUTORS.md](../blob/master/CONTRIBUTORS.md)
+        - label: I am affiliated with this alternative
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: Describe your issue
+    validations:
+      required: true
