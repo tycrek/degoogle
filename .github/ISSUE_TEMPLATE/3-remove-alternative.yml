@@ -1,0 +1,36 @@
+---
+name: Remove alternative
+description: Provide details on why an existing alternative should be removed.
+title: "[REMOVE] Alternative name here"
+labels: 
+  - remove
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Removing an existing alternative from the list
+
+        Fill out to the best of your ability.
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Checklist
+      options:
+        - label: "**I have read the guidelines in [CONTRIBUTING.md](../blob/master/CONTRIBUTING.md)**"
+          required: true
+        - label: Include my name in [CONTRIBUTORS.md](../blob/master/CONTRIBUTORS.md)
+        - label: I am affiliated with this alternative
+  - type: input
+    id: alternative_name
+    attributes:
+      label: Alternative name
+      description: Which alternative needs to be removed?
+    validations:
+      required: true
+  - type: textarea
+    id: reason
+    attributes:
+      label: Reason
+      description: Why should this alternative be removed?
+    validations:
+      required: true

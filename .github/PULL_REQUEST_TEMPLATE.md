@@ -1,4 +1,4 @@
-<!-- If your Pull Request is related to an alternative, make sure there is a corrosponding Issue for discussion. -->
+<!-- If your Pull Request is related to an alternative, make sure there is a corresponding Issue for discussion. -->
 
 | Checklist |   |
 | --------- | - |
