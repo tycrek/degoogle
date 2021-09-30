@@ -2086,6 +2086,13 @@ mobile applications:
       text: >
         Fast, open-source and small launcher. KISS mainly relies on an app-search-bar, which makes it
         very easy to open up apps quickly.
+    - name: Unlauncher
+      url: https://jkuester.github.io/unlauncher/
+      repo: https://github.com/jkuester/unlauncher
+      fdroid: com.jkuester.unlauncher
+      eyes: null
+      text: >
+        A clean, simple Android launcher with a very minimalist design. Forked from [Slim Launcher](https://github.com/sduduzog/slim-launcher).
   other:
     - title: "*Other*"
     - name: Blokada
