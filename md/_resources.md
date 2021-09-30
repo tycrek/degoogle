@@ -8,7 +8,7 @@ Everything you need to become a privacy wizard. This section has two subsections
 - [DuckDuckGo's privacy newsletter](https://duckduckgo.com/newsletter)
 - [EFF's Surveillance Self-Defense (eff.org)](https://ssd.eff.org/)
 - [Everything You Need to Know About Password Managers](https://outline.com/NC69FD)
-- [Firefox: Privacy Related "about:config" Tweaks](https://www.privacytools.io/browsers/#about_config)
+- [Firefox: Privacy Related "about:config" Tweaks](https://privacyguides.org/browsers/#about_config)
 - [Four Methods to Create a Secure Password You'll Actually Remember](https://outline.com/XuMTFA)
 - [How to create a strong password (and remember it)](https://outline.com/dqfuqL)
 - [How to delete remembered passwords (WikiHow)](http://www.wikihow.com/Delete-Remembered-Passwords)
@@ -48,7 +48,7 @@ Everything you need to become a privacy wizard. This section has two subsections
 - [Outline](https://outline.com/) is an awesome tool for getting all the junk out of news articles (I've used it a few times in this guide already). Sometimes it can get around paywalls for "premium" news sites.
 - [Plexus](https://plexus.techlore.tech/) Plexus is a website where you can check andriod app compatibility with microg or no google services. It is a crowdsourced project where people test an app's compatibility in those environments and then sumbit it to the database.
 - [PRISM Break](https://prism-break.org/en/) is a guide on how to opt out of global data surveillance programs like PRISM, XKeyscore and Tempora.
-- [PrivacyTools](https://www.privacytools.io/) provides services, tools and knowledge to protect your privacy against global mass surveillance.
+- [Privacy Guides](https://privacyguides.org/) provides services, tools and knowledge to protect your privacy against global mass surveillance.
 - [retiolus/privacysec](https://github.com/retiolus/privacysec) is a collective guide built off the data of other guides, including this one, whose aim is to be translated into as many languages as possible.
 - [r/Privacy wiki](https://old.reddit.com/r/privacy/wiki/index) has a lot of useful information. This guide also automatically mirrors itself to the wiki!
 - [r/VPN wiki](https://old.reddit.com/r/VPN/wiki/index) to learn more about why you should consider using a VPN.

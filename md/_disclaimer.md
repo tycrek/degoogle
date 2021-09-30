@@ -15,4 +15,4 @@
 | **14** | Germany, Belgium, Italy, Sweden, Spain |
 
 [wiki]: https://en.wikipedia.org/wiki/List_of_Google_products
-[eyes]: https://www.privacytools.io/providers/#ukusa
+[eyes]: https://restoreprivacy.com/5-eyes-9-eyes-14-eyes/#h-five-eyes
