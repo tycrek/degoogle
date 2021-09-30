@@ -37,7 +37,7 @@ web based products:
       url: https://www.qwant.com/
       eyes: 9
       text: >
-        Major improvements since 2018's guide. *would prefer better info other than an outdated reference*
+        A privacy-respecting search engine. **Note:** Qwant may not be available in all countries; see [Issue #408](https://github.com/tycrek/degoogle/issues/408) for more information.
     - name: Swisscows
       url: https://swisscows.ch
       eyes: null
