@@ -1108,6 +1108,7 @@ operating systems:
           You'll either need a rooted device with an unlocked bootloader, or a specific device
           depending on which OS you like.
         - Please see [Issue \#55](https://github.com/tycrek/degoogle/issues/55) for details on /e/.
+        - You can use [Plexus](https://plexus.techlore.tech/) to check android app compatibility on degoogled Android operating systems.
     - name: Ubuntu Touch
       url: https://ubuntu-touch.io/
       eyes: null

@@ -79,6 +79,7 @@ Thanks to everyone here for contributing in some way! (usernames are in no parti
 - [@Shahin-rmz](https://github.com/Shahin-rmz)
 - [@vishnukvmd](https://github.com/vishnukvmd)
 - [@Joshuasony](https://github.com/Joshuasony)
+- [@BobIsMyManager](https://github.com/BobIsMyManager)
 
 ### Reddit:
 
