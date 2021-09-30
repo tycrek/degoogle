@@ -230,6 +230,12 @@ web based products:
       eyes: null
       text: >
         A free and open-source machine-translation API which can be self-hosted.
+    - name: Lingva Translate
+      url: https://lingva.ml/
+      repo: https://github.com/TheDavidDelta/lingva-translate
+      eyes: 5
+      text: >
+        Alternative front-end for Google Translate. Operates similar to NewPipe or Invidious, Lingva "scrapes through GTranslate and retrieves the translation without using any Google-related service, preventing them from tracking".
   ads:
     - title: Google Ads/AdMob/AdSense
     - name: EthicalAds
