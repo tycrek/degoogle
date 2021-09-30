@@ -1157,6 +1157,12 @@ operating systems:
       text: >
         Open-source Android-based OS with an emphasis on security and privacy. Provides good combination
         of privacy and security together with usability. Optional support for MicroG.
+    - name: DivestOS
+      url: https://divestos.org/
+      repo: https://github.com/divested-mobile
+      eyes: null
+      text: >
+        DivestOS is an alternative Android ROM with enhanced privacy and security along with support for many older devices. It is an unofficial soft fork of LineageOS. Website also [available through Tor](http://divestoseb5nncsydt7zzf5hrfg44md4bxqjs5ifcv4t7gt7u6ohjyyd.onion/).
   chromeos:
     - title: Chrome OS
     - name: GalliumOS
