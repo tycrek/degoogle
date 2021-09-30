@@ -1428,6 +1428,13 @@ mobile applications:
       eyes: null
       text: >
         An open-source Android web browser focused on user privacy. It is released under the GPLv3+ license.
+    - name: Mull
+      url: https://divestos.org/index.php?page=our_apps#mull
+      repo: https://gitlab.com/divested-mobile/mull-fenix
+      fdroid: us.spotco.fennec_dos
+      eyes: null
+      text: >
+        A Firefox for Android fork compiled from source, with proprietary blobs removed, and many security/privacy changes made using an altered [arkenfox/user.js](https://github.com/arkenfox/user.js)
   calculator:
     - title: Calculator
     - name: Simple Calculator
