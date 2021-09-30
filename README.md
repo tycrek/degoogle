@@ -106,7 +106,7 @@ When contributing, **please follow the rules outlined in [CONTRIBUTING.md](https
 | **14** | Germany, Belgium, Italy, Sweden, Spain |
 
 [wiki]: https://en.wikipedia.org/wiki/List_of_Google_products
-[eyes]: https://www.privacytools.io/providers/#ukusa
+[eyes]: https://restoreprivacy.com/5-eyes-9-eyes-14-eyes/#h-five-eyes
 
 ## Web-based products
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
@@ -115,7 +115,7 @@ When contributing, **please follow the rules outlined in [CONTRIBUTING.md](https
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
-| [Search Engine Party](https://searchengine.party/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=gitlab)](https://gitlab.com/nitrohorse/search-engines-compare) |  | An open-source comparison table of popular search engines. It was made by a former team member at PrivacyTools, though is not affiliated with the site. |
+| [Search Engine Party](https://searchengine.party/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=gitlab)](https://gitlab.com/nitrohorse/search-engines-compare) |  | An open-source comparison table of popular search engines. It was made by a former team member at PrivacyGuides, though is not affiliated with the site. |
 | [DuckDuckGo](https://duckduckgo.com/) | **5-eyes** | One of the best privacy-focused search engines. Domain is hosted in USA which could potentially be problematic for some. |
 | [Startpage](https://www.startpage.com/) | **9-eyes** | Another privacy search engine that claims to not track any of your data. They operate servers in both USA and Europe. Note: Startpage was recently acquired. See [Issue \#12](https://github.com/tycrek/degoogle/issues/12). Thanks @pydo, @ThijsRay, and @DatAres37. Also see [this comment in Issue \#99](https://github.com/tycrek/degoogle/issues/99#issuecomment-616224650) from @danarel on Startpage. |
 | [searx](https://searx.space/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/searx/searx) |  | Open-source (thanks for clarification u/Sheezdudeln) privacy search engine. Domain hosted in Germany. |
@@ -489,6 +489,7 @@ No known alternatives.
 | [postmarketOS](https://postmarketos.org/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=gitlab)](https://gitlab.com/postmarketOS) |  | Open-source mobile Linux OS. Can install different user interfaces such as [Plasma Mobile](https://www.plasma-mobile.org/). Thanks @okias |
 | [Replicant](https://replicant.us/) | **5-eyes** | Free Android distribution. Puts the emphasis on "freedom and privacy/security". |
 | [CalyxOS](https://calyxos.org/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=gitlab)](https://gitlab.com/CalyxOS) |  | Open-source Android-based OS with an emphasis on security and privacy. Provides good combination of privacy and security together with usability. Optional support for MicroG. |
+| [DivestOS](https://divestos.org/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/divested-mobile) |  | DivestOS is an alternative Android ROM with enhanced privacy and security along with support for many older devices. It is an unofficial soft fork of LineageOS. Website also [available through Tor](http://divestoseb5nncsydt7zzf5hrfg44md4bxqjs5ifcv4t7gt7u6ohjyyd.onion/). |
 
 - *You'll either need a rooted device with an unlocked bootloader, or a specific device depending on which OS you like.*
 - *Please see [Issue \#55](https://github.com/tycrek/degoogle/issues/55) for details on /e/.*
@@ -598,6 +599,7 @@ No known alternatives.
 | [Fennec F-Droid](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/)<br/>[![F-Droid](https://img.shields.io/f-droid/v/org.mozilla.fennec_fdroid?style=flat-square&logo=f-droid)](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/) |  | A privacy-focused version of Firefox Android available on F-Droid. It's focused on removing any proprietary bits found in official Mozilla's builds. (thanks u/SupremeLisper) |
 | [Bromite](https://www.bromite.org/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/bromite/bromite) |  | Privacy-focused/open-source build of Chromium with built-in ad blocking. (thanks u/SupremeLisper) |
 | [Privacy Browser](https://www.stoutner.com/privacy-browser/)<br/>[![F-Droid](https://img.shields.io/f-droid/v/com.stoutner.privacybrowser.standard?style=flat-square&logo=f-droid)](https://f-droid.org/en/packages/com.stoutner.privacybrowser.standard/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=stoutner)](https://gitweb.stoutner.com/?p=PrivacyBrowser.git;a=summary) |  | An open-source Android web browser focused on user privacy. It is released under the GPLv3+ license. |
+| [Mull](https://divestos.org/index.php?page=our_apps#mull)<br/>[![F-Droid](https://img.shields.io/f-droid/v/us.spotco.fennec_dos?style=flat-square&logo=f-droid)](https://f-droid.org/en/packages/us.spotco.fennec_dos/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=gitlab)](https://gitlab.com/divested-mobile/mull-fenix) |  | A Firefox for Android fork compiled from source, with proprietary blobs removed, and many security/privacy changes made using an altered [arkenfox/user.js](https://github.com/arkenfox/user.js) |
 
 
 
@@ -925,7 +927,7 @@ Everything you need to become a privacy wizard. This section has two subsections
 - [DuckDuckGo's privacy newsletter](https://duckduckgo.com/newsletter)
 - [EFF's Surveillance Self-Defense (eff.org)](https://ssd.eff.org/)
 - [Everything You Need to Know About Password Managers](https://outline.com/NC69FD)
-- [Firefox: Privacy Related "about:config" Tweaks](https://www.privacytools.io/browsers/#about_config)
+- [Firefox: Privacy Related "about:config" Tweaks](https://privacyguides.org/browsers/#about_config)
 - [Four Methods to Create a Secure Password You'll Actually Remember](https://outline.com/XuMTFA)
 - [How to create a strong password (and remember it)](https://outline.com/dqfuqL)
 - [How to delete remembered passwords (WikiHow)](http://www.wikihow.com/Delete-Remembered-Passwords)
@@ -965,7 +967,7 @@ Everything you need to become a privacy wizard. This section has two subsections
 - [Outline](https://outline.com/) is an awesome tool for getting all the junk out of news articles (I've used it a few times in this guide already). Sometimes it can get around paywalls for "premium" news sites.
 - [Plexus](https://plexus.techlore.tech/) Plexus is a website where you can check andriod app compatibility with microg or no google services. It is a crowdsourced project where people test an app's compatibility in those environments and then sumbit it to the database.
 - [PRISM Break](https://prism-break.org/en/) is a guide on how to opt out of global data surveillance programs like PRISM, XKeyscore and Tempora.
-- [PrivacyTools](https://www.privacytools.io/) provides services, tools and knowledge to protect your privacy against global mass surveillance.
+- [Privacy Guides](https://privacyguides.org/) provides services, tools and knowledge to protect your privacy against global mass surveillance.
 - [retiolus/privacysec](https://github.com/retiolus/privacysec) is a collective guide built off the data of other guides, including this one, whose aim is to be translated into as many languages as possible.
 - [r/Privacy wiki](https://old.reddit.com/r/privacy/wiki/index) has a lot of useful information. This guide also automatically mirrors itself to the wiki!
 - [r/VPN wiki](https://old.reddit.com/r/VPN/wiki/index) to learn more about why you should consider using a VPN.
