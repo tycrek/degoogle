@@ -136,11 +136,6 @@ web based products:
         subscribing to channels, there is a mechanism to send "tips" to creators. Looks up videos based
         on a blockchain and is open-source and uncensored. It already has some "larger" creators like
         Minutephysics, Veritasium, Barnacules and Lunduke.
-    - name: US.TV
-      url: https://us.tv/
-      eyes: null
-      text: >
-        PeerTube instance hosted by Epik.com.
     - name: FreeTube
       url: https://freetubeapp.io/
       repo: https://github.com/FreeTubeApp/FreeTube
@@ -864,11 +859,6 @@ web based products:
       text: >
         Nextcloud provides a webmail interface that can be used to access email from various providers.
         Thanks @je-vv
-    - name: Anonymize.com Email
-      url: https://anonymize.com/
-      eyes: null
-      text: >
-        Paid secure email service provided by Epik.com.
     - name: Thexyz
       url: https://www.thexyz.com/
       eyes: 5
