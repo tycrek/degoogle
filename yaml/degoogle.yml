@@ -440,12 +440,12 @@ web based products:
       eyes: null
       text: >
         Self-hosted and open-source Personal Photo Management powered by Go and Google TensorFlow.
-    - name: ownPhotos
-      url: https://github.com/hooram/ownphotos
-      repo: https://github.com/hooram/ownphotos
+    - name: LibrePhotos
+      url: https://github.com/LibrePhotos/librephotos
+      repo: https://github.com/LibrePhotos/librephotos
       eyes: null
       text: >
-        Self-hosted and open-source Google Photos alternative.
+        A self-hosted open source photo management service. A fork of [Ownphotos](https://github.com/hooram/ownphotos) which has been discontinued in favor of LibrePhotos.
     - name: Piwigo
       url: https://piwigo.org/
       repo: https://github.com/Piwigo
