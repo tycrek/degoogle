@@ -20,7 +20,7 @@
 
 ### *I don't have anything to hide, but I don't have anything to show you either.*
 
-![Updated](https://img.shields.io/static/v1?label=updated&message=August%2025th%202021&color=388E3C&style=flat-square)
+![Updated](https://img.shields.io/static/v1?label=updated&message=September%2030th%202021&color=388E3C&style=flat-square)
 
 ![GitHub](https://img.shields.io/github/license/tycrek/degoogle?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/tycrek/degoogle?style=flat-square)
@@ -67,7 +67,7 @@ When contributing, **please follow the rules outlined in [CONTRIBUTING.md](https
 | ---- | ----------- |
 | [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin) ![Mozilla Add-on](https://img.shields.io/amo/users/ublock-origin?style=flat-square) | uBlock Origin is not an "ad blocker", it's a wide-spectrum content blocker with CPU and memory efficiency as a primary feature. |
 | [Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17) ![Mozilla Add-on](https://img.shields.io/amo/users/privacy-badger17?style=flat-square) | Privacy Badger automatically learns to block invisible trackers. Instead of keeping lists of what to block, Privacy Badger learns by watching which domains appear to be tracking you as you browse the Web. |
-| [HTTPS Everywhere](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere) ![Mozilla Add-on](https://img.shields.io/amo/users/https-everywhere?style=flat-square) | Many sites on the web offer some limited support for encryption over HTTPS, but make it difficult to use. For instance, they may default to unencrypted HTTP, or fill encrypted pages with links that go back to the unencrypted site. The HTTPS Everywhere extension fixes these problems by rewriting all requests to these sites to HTTPS. |
+| [HTTPS Everywhere](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere) ![Mozilla Add-on](https://img.shields.io/amo/users/https-everywhere?style=flat-square) | Many sites on the web offer some limited support for encryption over HTTPS, but make it difficult to use. For instance, they may default to unencrypted HTTP, or fill encrypted pages with links that go back to the unencrypted site. The HTTPS Everywhere extension fixes these problems by rewriting all requests to these sites to HTTPS. Note: EFF is preparing to deprecate the HTTPS Everywhere, check out this [blog post](https://www.eff.org/deeplinks/2021/09/https-actually-everywhere). |
 | [Cookie AutoDelete](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete) ![Mozilla Add-on](https://img.shields.io/amo/users/cookie-autodelete?style=flat-square) | Control your cookies! This WebExtension is inspired by Self Destructing Cookies. When a tab closes, any cookies not being used are automatically deleted. Whitelist the ones you trust while deleting the rest. Support for Container Tabs. |
 | [DDG Privacy Essentials](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox) ![Mozilla Add-on](https://img.shields.io/amo/users/duckduckgo-for-firefox?style=flat-square) | Privacy, simplified. Our add-on provides the privacy essentials you need to seamlessly take control of your personal information, no matter where the internet takes you: tracker blocking, smarter encryption, DuckDuckGo private search, and more. |
 | [I don't care about cookies](https://addons.mozilla.org/en-US/firefox/addon/i-dont-care-about-cookies) ![Mozilla Add-on](https://img.shields.io/amo/users/i-dont-care-about-cookies?style=flat-square) | This add-on will remove cookie warnings from almost all websites! You can report any website which still warns you about cookies: make a right click and choose 'Report a cookie warning' from the menu. |
@@ -493,6 +493,7 @@ No known alternatives.
 
 - *You'll either need a rooted device with an unlocked bootloader, or a specific device depending on which OS you like.*
 - *Please see [Issue \#55](https://github.com/tycrek/degoogle/issues/55) for details on /e/.*
+- *You can use [Plexus](https://plexus.techlore.tech/) to check android app compatibility on degoogled Android operating systems.*
 
 
 #### Chrome OS
@@ -958,9 +959,11 @@ Everything you need to become a privacy wizard. This section has two subsections
 - [Firefox Profilemaker](https://ffprofile.com/) is a tool to help you create a Firefox profile with the defaults you like. 
 - [Fix Windows Privacy](https://modzero.github.io/fix-windows-privacy/) is a tool to disable privacy breaches on Windows 10.
 - [Framasoft](https://framasoft.org/en/) is a collection of alternative software. Too many to fit elsewhere in the list.
+- [Go Incognito](https://techlore.tech/goincognito.html) A guide to security, privacy, and anominity.
 - [Go FOSS](https://www.gofoss.today/) is a guide on ditching big-tech, with a focus on seven core areas.
 - [Hybrid Analysis](https://www.hybrid-analysis.com/) a free malware analysis service for the community that detects and analyzes unknown threats using a unique Hybrid Analysis technology. Powered by [Falcon Sandbox](https://www.crowdstrike.com/endpoint-security-products/falcon-sandbox-malware-analysis/), which is developed by [CrowdStrike](https://www.crowdstrike.com/).
 - [Outline](https://outline.com/) is an awesome tool for getting all the junk out of news articles (I've used it a few times in this guide already). Sometimes it can get around paywalls for "premium" news sites.
+- [Plexus](https://plexus.techlore.tech/) Plexus is a website where you can check andriod app compatibility with microg or no google services. It is a crowdsourced project where people test an app's compatibility in those environments and then sumbit it to the database.
 - [PRISM Break](https://prism-break.org/en/) is a guide on how to opt out of global data surveillance programs like PRISM, XKeyscore and Tempora.
 - [PrivacyTools](https://www.privacytools.io/) provides services, tools and knowledge to protect your privacy against global mass surveillance.
 - [retiolus/privacysec](https://github.com/retiolus/privacysec) is a collective guide built off the data of other guides, including this one, whose aim is to be translated into as many languages as possible.
@@ -968,6 +971,7 @@ Everything you need to become a privacy wizard. This section has two subsections
 - [r/VPN wiki](https://old.reddit.com/r/VPN/wiki/index) to learn more about why you should consider using a VPN.
 - [Switching.software](https://switching.software/) is a collection of ethical, easy-to-use and privacy-conscious alternatives to well-known software.
 - [VirusTotal](https://www.virustotal.com/) lets you upload files and scans them against multiple antivirus programs at once. Very helpful for checking false negatives. Be aware that Alphabet Inc owns VirusTotal.
+- [VPN Toolkit](https://techlore.tech/vpn.html) Community driven tools for VPNs. Includes a VPN finder, chart, and other useful imformation.
 - [WindowsSpyBlocker (GitHub)](https://github.com/crazy-max/WindowsSpyBlocker) is a tool to block spying and tracking on Windows.
 
 
@@ -1032,9 +1036,10 @@ Everything you need to become a privacy wizard. This section has two subsections
   - *Shoshana Zuboff on surveillance capitalism | VPRO Documentary* - [Invidious instance](https://yewtu.be/watch?v=hIXhnWUmMvw) and [Hooktube](https://hooktube.com/watch?v=hIXhnWUmMvw)
 - Podcasts:
   - [Darknet Diaries](https://darknetdiaries.com/) (by Jack Rhysider) - Highlights real-life hackers and their stories. Covers privacy topics a fair bit.
-  - [The WAN Show](https://linustechtips.libsyn.com/) (Linus Tech Tips) - Not specifically privacy, but they cover all sorts of tech news.
+  - [The WAN Show](https://youtube.com/playlist?list=PL8mG-RkN2uTw7PhlnAr4pZZz2QubIbujH) (Linus Tech Tips) - Not specifically privacy, but they cover all sorts of tech news.
   - [The Privacy, Security, & OSINT Show](https://inteltechniques.com/podcast.html) - "This weekly podcast presents ideas to help you become digitally invisible, stay secure from cyber threats, and make you a better online investigator."
   - [Security Now!](https://www.grc.com/SecurityNow.htm) - "TechTV's Leo Laporte and I spend somewhat shy of two hours each week to discuss important issues of personal computer security." (Thanks u/Abaddon182)
+  - [Surveillance Report](https://surveillancereport.tech/) - "Weekly security and privacy news - Presented by Techlore & The New Oil "
 - Other:
   - [xkcd](https://xkcd.com/) - They have comics for *everything*.
   - System32 Comics [Instagram](https://www.instagram.com/system32comics/) and [Reddit](https://www.reddit.com/r/System32Comics/) - Comedic computer comics.
