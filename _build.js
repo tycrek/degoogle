@@ -93,6 +93,9 @@ function generateServiceSection(data) {
             // Append the Repo badge to the name
             if (item.repo) name = name.concat('<br/>', repoLink(item.repo));
 
+            // Append the Star badge to the name
+            if (item.repo) name = name.concat('<br/>', starBadge(item.repo));
+
             // Build the row
             const tableItem = `| ${name} | ${eyes} | ${text} |${EOL}`;
 
@@ -120,6 +123,18 @@ function repoLink(repo) {
     let repoHost = path.basename(repoURL.hostname, path.extname(repoURL.hostname));
     if (repoHost.includes(".")) repoHost = path.extname(repoHost).replace(".", "");
     return `[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=${repoHost})](${repo})`;
+}
+
+/**
+ * Returns a badge displaying the number of GitHub Stars for a repository.
+ * @param {String} repo The repository url
+ */
+function starBadge(repo) {
+    if (repo.startsWith('https://github.com/')) {
+        const [user, repoName] = repo.split('github.com/')[1].split('/');
+        if (!repoName || repoName === '') return '';
+        return `![GitHub Repo stars](https://img.shields.io/github/stars/${user}/${repoName}?logo=github&style=flat-square)`;
+    } else return '';
 }
 
 /**
