@@ -1676,13 +1676,13 @@ mobile applications:
       url: https://protonmail.com/support/knowledge-base/android/
       eyes: null
       text: >
-        Can be downloaded from the Play Store, but may work with one of the store replacements above (such as Yalp).
+        Can be downloaded from the Play Store, and work with other stores based on the google play store (such as Yalp, Aurora).
     - name: Tutanota
       url: https://www.tutanota.com/
       fdroid: de.tutao.tutanota
       eyes: 14
       text: >
-        Client available from F-Droid.
+        Android notifications fully independant of Google Cloud Messaging / Services. Can be downloaded from the Play Store and F-Droid, and work with other stores based on the google play store (such as Yalp, Aurora).
     - name: Disroot
       url: https://disroot.org/
       fdroid: org.disroot.disrootapp
