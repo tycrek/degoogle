@@ -151,6 +151,12 @@ web based products:
         Non-video requests can be routed through Tor. Optionally the videos can be routed through Tor as well.
         Can be used without Javascript. No server software installation required. Uses self-hosted
         subscriptions and playlists.
+    - name: Piped
+      url: https://piped.kavin.rocks/
+      repo: https://github.com/TeamPiped/Piped
+      eyes: null
+      text: >
+        An open-source front-end alternative to YouTube. Uses NewPipeExtractor behind the scenes.
   news:
     - title: News
     - name: Local newspaper
