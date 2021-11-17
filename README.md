@@ -20,7 +20,7 @@
 
 ### *I don't have anything to hide, but I don't have anything to show you either.*
 
-![Updated](https://img.shields.io/static/v1?label=updated&message=October%2021st%202021&color=388E3C&style=flat-square)
+![Updated](https://img.shields.io/static/v1?label=updated&message=November%2017th%202021&color=388E3C&style=flat-square)
 
 ![GitHub](https://img.shields.io/github/license/tycrek/degoogle?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/tycrek/degoogle?style=flat-square)
@@ -144,6 +144,7 @@ When contributing, **please follow the rules outlined in [CONTRIBUTING.md](https
 | [LBRY](https://lbry.com/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/lbryio)<br/> |  | A decentralized platform for distributing and supporting creators's work. It aims to be Open, Community driven "digital marketplace". It can be used in a similar way to YouTube: browsing, subscribing to channels, there is a mechanism to send "tips" to creators. Looks up videos based on a blockchain and is open-source and uncensored. It already has some "larger" creators like Minutephysics, Veritasium, Barnacules and Lunduke. |
 | [FreeTube](https://freetubeapp.io/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/FreeTubeApp/FreeTube)<br/>![GitHub Repo stars](https://img.shields.io/github/stars/FreeTubeApp/FreeTube?logo=github&style=flat-square) |  | Open-source desktop YouTube client that uses the Invidio.us API to serve content. |
 | [youtube-local](https://github.com/user234683/youtube-local)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/user234683/youtube-local)<br/>![GitHub Repo stars](https://img.shields.io/github/stars/user234683/youtube-local?logo=github&style=flat-square) |  | Open-source browser-based client for watching Youtube anonymously and with greater page performance. Non-video requests can be routed through Tor. Optionally the videos can be routed through Tor as well. Can be used without Javascript. No server software installation required. Uses self-hosted subscriptions and playlists. |
+| [Piped](https://piped.kavin.rocks/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/TeamPiped/Piped)<br/>![GitHub Repo stars](https://img.shields.io/github/stars/TeamPiped/Piped?logo=github&style=flat-square) |  | An open-source front-end alternative to YouTube. Uses NewPipeExtractor behind the scenes. |
 
 
 
