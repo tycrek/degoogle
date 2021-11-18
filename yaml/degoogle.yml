@@ -436,7 +436,7 @@ web based products:
   photos:
     - title: Photos
     - name: Photoprism
-      url: https://photoprism.pro/
+      url: https://photoprism.app/
       repo: https://github.com/photoprism/photoprism
       eyes: null
       text: >
