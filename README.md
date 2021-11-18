@@ -20,7 +20,7 @@
 
 ### *I don't have anything to hide, but I don't have anything to show you either.*
 
-![Updated](https://img.shields.io/static/v1?label=updated&message=November%2017th%202021&color=388E3C&style=flat-square)
+![Updated](https://img.shields.io/static/v1?label=updated&message=November%2018th%202021&color=388E3C&style=flat-square)
 
 ![GitHub](https://img.shields.io/github/license/tycrek/degoogle?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/tycrek/degoogle?style=flat-square)
@@ -250,7 +250,7 @@ When contributing, **please follow the rules outlined in [CONTRIBUTING.md](https
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
-| [Photoprism](https://photoprism.pro/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/photoprism/photoprism)<br/>![GitHub Repo stars](https://img.shields.io/github/stars/photoprism/photoprism?logo=github&style=flat-square) |  | Self-hosted and open-source Personal Photo Management powered by Go and Google TensorFlow. |
+| [Photoprism](https://photoprism.app/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/photoprism/photoprism)<br/>![GitHub Repo stars](https://img.shields.io/github/stars/photoprism/photoprism?logo=github&style=flat-square) |  | Self-hosted and open-source Personal Photo Management powered by Go and Google TensorFlow. |
 | [LibrePhotos](https://github.com/LibrePhotos/librephotos)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/LibrePhotos/librephotos)<br/>![GitHub Repo stars](https://img.shields.io/github/stars/LibrePhotos/librephotos?logo=github&style=flat-square) |  | A self-hosted open source photo management service. A fork of [Ownphotos](https://github.com/hooram/ownphotos) which has been discontinued in favor of LibrePhotos. |
 | [Piwigo](https://piwigo.org/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/Piwigo)<br/> | **9-eyes** | Self-hosted and open-source cloud photo manager. You can also sign up for an ["as a service" account](https://piwigo.com). |
 | [JottaCloud](https://jottacloud.com/) | **9-eyes** | Norway based cloud storage provider with free and paid plans. Thanks @mynamesleon |
