@@ -26,10 +26,6 @@
   url: https://addons.mozilla.org/en-US/firefox/addon/minerblock-origin
   text: |
     MinerBlock is an efficient browser extension that focuses on blocking browser-based cryptocurrency miners all over the web. This extension uses two different approaches to block miners. The first one is based on blocking requests/scripts loaded from a blacklist, this is the traditional approach adopted by most ad-blockers and other mining blockers. The other approach which makes MinerBlock more efficient against cryptojacking is detecting potential mining behavior inside loaded scripts and kills them immediately. This makes the extension able to block inline scripts as well as miners running through proxies. Source code available on [GitHub](https://github.com/xd4rker/MinerBlock).
-- name: ClearURLS
-  url: https://addons.mozilla.org/en-US/firefox/addon/clearurls
-  text: |
-    This extension will automatically remove tracking elements from URLs to help protect your privacy when browse through the Internet.
 - name: Cloud Firewall
   url: https://addons.mozilla.org/en-US/firefox/addon/cloud-firewall
   text: |
@@ -58,10 +54,6 @@
   url: https://addons.mozilla.org/en-US/firefox/addon/httpz
   text: |
     HTTPZ is meant to be unobtrusive and lightweight, it respects your privacy, and is free of trans fats. Additionally, it is very configurable, and should be slightly more secure than some of the alternatives out there, since it has a couple of built-in defenses against SSL-stripping attacks.
-- name: Link Cleaner
-  url: https://addons.mozilla.org/en-US/firefox/addon/link-cleaner
-  text: |
-    Clean URLs that are about to be visited: removes utm_* parameters; on item pages of aliexpress and amazon, removes tracking parameters; skip redirect pages of facebook, steam and reddit
 - name: Privacy-Oriented Origin Policy
   url: https://addons.mozilla.org/en-US/firefox/addon/privacy-oriented-origin-policy
   text: |
