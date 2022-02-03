@@ -83,6 +83,7 @@ Thanks to everyone here for contributing in some way! (usernames are in no parti
 - [@itforweb666](https://github.com/itforweb666)
 - [@seanking2919](https://github.com/seanking2919)
 - [@FireMasterK](https://github.com/FireMasterK)
+- [@julianfairfax](https://github.com/julianfairfax)
 
 ### Reddit:
 

@@ -2166,11 +2166,6 @@ mobile applications:
 hardware:
   nexus pixel:
     - title: Nexus/Pixel
-    - name: This list
-      url: https://www.oneclickroot.com/rootable/
-      eyes: null
-      text: >
-        Shows compatibility for rooting Android devices.
     - name: Purism Librem 5
       url: https://puri.sm/products/librem-5/
       eyes: 5
