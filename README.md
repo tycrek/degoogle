@@ -20,7 +20,7 @@
 
 ### *I don't have anything to hide, but I don't have anything to show you either.*
 
-![Updated](https://img.shields.io/static/v1?label=updated&message=November%2018th%202021&color=388E3C&style=flat-square)
+![Updated](https://img.shields.io/static/v1?label=updated&message=February%203rd%202022&color=388E3C&style=flat-square)
 
 ![GitHub](https://img.shields.io/github/license/tycrek/degoogle?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/tycrek/degoogle?style=flat-square)
@@ -76,7 +76,6 @@ When contributing, **please follow the rules outlined in [CONTRIBUTING.md](https
 | [Cloud Firewall](https://addons.mozilla.org/en-US/firefox/addon/cloud-firewall) ![Mozilla Add-on](https://img.shields.io/amo/users/cloud-firewall?style=flat-square) | Block connections to pages and web resources hosted in major cloud services if the user wishes to do so. Supports blocking Google, Amazon, Facebook, Apple, Microsoft and Cloudflare. |
 | [CSS Exfil Protection](https://addons.mozilla.org/en-US/firefox/addon/css-exfil-protection) ![Mozilla Add-on](https://img.shields.io/amo/users/css-exfil-protection?style=flat-square) | CSS Exfil is a method attackers can use to steal data from web pages using Cascading Style Sheets (CSS). This plugin sanitizes and blocks any CSS rules which may be designed to steal data. |
 | [Disconnect](https://addons.mozilla.org/en-US/firefox/addon/disconnect) ![Mozilla Add-on](https://img.shields.io/amo/users/disconnect?style=flat-square) | Visualize and block the otherwise invisible websites that track your search and browsing history. |
-| [Don't touch my tabs! (rel=noopener](https://addons.mozilla.org/en-US/firefox/addon/dont-touch-my-tabs) ![Mozilla Add-on](https://img.shields.io/amo/users/dont-touch-my-tabs?style=flat-square) | Prevent tabs opened by a hyperlink from hijacking the previous tab by adding the rel=noopener attribute to all hyperlinks (excluding same-domain hyperlinks). |
 | [Firefox Multi-Account Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers) ![Mozilla Add-on](https://img.shields.io/amo/users/multi-account-containers?style=flat-square) | Firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs that preserve your privacy. Cookies are separated by container, allowing you to use the web with multiple identities or accounts simultaneously. |
 | [Google search link fix (also Yandex)](https://addons.mozilla.org/en-US/firefox/addon/google-search-link-fix) ![Mozilla Add-on](https://img.shields.io/amo/users/google-search-link-fix?style=flat-square) | This extension prevents Google and Yandex search pages from modifying search result links when you click them. This is useful when copying links but it also helps privacy by preventing the search engines from recording your clicks. |
 | [HTTPZ](https://addons.mozilla.org/en-US/firefox/addon/httpz) ![Mozilla Add-on](https://img.shields.io/amo/users/httpz?style=flat-square) | HTTPZ is meant to be unobtrusive and lightweight, it respects your privacy, and is free of trans fats. Additionally, it is very configurable, and should be slightly more secure than some of the alternatives out there, since it has a couple of built-in defenses against SSL-stripping attacks. |
@@ -87,6 +86,7 @@ When contributing, **please follow the rules outlined in [CONTRIBUTING.md](https
 | [TrackMeNot](https://addons.mozilla.org/en-US/firefox/addon/trackmenot) ![Mozilla Add-on](https://img.shields.io/amo/users/trackmenot?style=flat-square) | An artware browser add-on to protect privacy in web-search. By issuing randomized queries to common search-engines, TrackMeNot obfuscates your search profile and registers your discontent with surreptitious tracking. |
 | [Redirect AMP to HTML](https://addons.mozilla.org/en-US/firefox/addon/amp2html) ![Mozilla Add-on](https://img.shields.io/amo/users/amp2html?style=flat-square) | This web extension enables users to choose to opt-out of using Accelerated Mobile Pages (AMP) and choose to use the standard web instead. |
 | [user.js](https://github.com/arkenfox/user.js)  | This is not an extension, instead it is a Firefox `user.js` config file. This file is a template which aims to provide as much privacy and enhanced security as possible, and to reduce tracking and fingerprinting as much as possible - while minimizing any loss of functionality and breakage (but it will happen). |
+| [Port Authority](https://addons.mozilla.org/en-US/firefox/addon/port-authority/) ![Mozilla Add-on](https://img.shields.io/amo/users/?style=flat-square) | Blocks websites from using javascript to port scan your computer/network and dynamically blocks all LexisNexis endpoints from running their invasive data collection scripts. [Website](https://www.g666gle.me/Port-Authority/), [Source Code](https://github.com/ACK-J/Port_Authority) |
 
 
 # Replacements/alternatives
@@ -127,7 +127,6 @@ When contributing, **please follow the rules outlined in [CONTRIBUTING.md](https
 | [Cyberd](https://cyber.page/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/cybercongress/cyb)<br/>![GitHub Repo stars](https://img.shields.io/github/stars/cybercongress/cyb?logo=github&style=flat-square) |  | Decentralized Google. A web 3 alternative for the Google search engine. In Beta testing mode. Uses IPFS and Tendermint consensus for security and economic incentives. Please see their [ELI-5 FAQ](https://github.com/cybercongress/congress/blob/master/ecosystem/ELI-5%20FAQ.md) for more info. |
 | [Infinity Search](https://infinitysearch.co/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=gitlab)](https://gitlab.com/infinitysearch/infinity-search)<br/> | **5-eyes** | Infinity Search is a privacy metasearch engine that does not log any information about its users. In terms of privacy, it works the same way as DuckDuckGo. It is free to use and is funded by non-tracking advertisements and affiliate links. It is also completely open-source. |
 | [Runnaroo](https://www.runnaroo.com/) | **5-eyes** | "Runnaroo was built from the ground up to provide an all around better search experience." Thanks @codingepaduli |
-| [Brave Search](https://search.brave.com/) |  | Brave Search doesn’t track you, your searches, or your clicks. |
 
 
 
@@ -232,7 +231,7 @@ When contributing, **please follow the rules outlined in [CONTRIBUTING.md](https
 | [Plausible](https://plausible.io/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/plausible/analytics)<br/>![GitHub Repo stars](https://img.shields.io/github/stars/plausible/analytics?logo=github&style=flat-square) | **5-eyes** | Open-source, privacy-focused web analytics. |
 | [GoatCounter](https://www.goatcounter.com/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/zgoat/goatcounter)<br/>![GitHub Repo stars](https://img.shields.io/github/stars/zgoat/goatcounter?logo=github&style=flat-square) | **14-eyes** | Simple web statistics. No tracking of personal data. open-source and may be self-hosted. Free for non-commercial use; paid plans available. |
 | [Simple Analytics](https://simpleanalytics.com/) | **9-eyes** | Great analytics with privacy and simplicity in mind. Paid plans only (with free trials). |
-| [Alpina Web Analytics](https://alpina.io) | **5-eyes** | Simple, privacy-friendly analytics with event tracking, real-time dashboard and filters. No cookie or localstorage usage. Servers in EU. Paid only (with free trial) |
+| [Alpina Web Analytics](https://alpina.io) | **5-eyes** | Simple, privacy-focused analytics with event tracking, real-time dashboard and filters. No cookie or localstorage usage. Servers in EU. Free and paid plans available. |
 | [Shynet](https://github.com/milesmcc/shynet)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/milesmcc/shynet)<br/>![GitHub Repo stars](https://img.shields.io/github/stars/milesmcc/shynet?logo=github&style=flat-square) |  | Shynet is a self-hosted analytics tool that doesn't make use of cookies. It is privacy focused and fully open-source. Thanks @woutfeys |
 | [Supabase](https://supabase.io/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/supabase/supabase)<br/>![GitHub Repo stars](https://img.shields.io/github/stars/supabase/supabase?logo=github&style=flat-square) |  | Supabase is an opensource alternative to Firebase. As of right now you can use their hosting plan for free as it's in alpha, or you can self host ([note on self hosting](https://github.com/supabase/supabase/issues/85#issuecomment-636010946)). Thanks @woutfeys |
 | [GoAccess](https://goaccess.io/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/allinurl/goaccess)<br/>![GitHub Repo stars](https://img.shields.io/github/stars/allinurl/goaccess?logo=github&style=flat-square) |  | An open-source web server analysis tool. Installs on your web server (ideally), but works just as well if you download your logs someplace else. Interactive; cursor around in the report and see what's going on. Can generate HTML reports. Can also generate realtime interactive HTML reports if you run it in server mode. Lightweight, only requires UTF-8 support and ncurses (ncursesw, if you want a UTF-8 enabled console). Available in the default package repositories of multiple Linux distros. Thanks @virtadpt |
@@ -465,6 +464,14 @@ No known alternatives.
 
 
 
+#### AppSheet
+
+| Name | Eyes | Description |
+| ---- | ---- | ----------- |
+| [Budibase](https://budibase.com/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/Budibase/budibase)<br/>![GitHub Repo stars](https://img.shields.io/github/stars/Budibase/budibase?logo=github&style=flat-square) | **9-eyes** | Budibase is an open-source low-code platform that helps IT professionals create internal apps in minutes. Users can deploy Budibase on their existing infrastructure, using Docker, Kubernetes, and Digital Ocean. |
+
+
+
 #### Bulk Services
 
 | Name | Eyes | Description |
@@ -547,9 +554,10 @@ No known alternatives.
 | ---- | ---- | ----------- |
 | [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/Eloston/ungoogled-chromium)<br/>![GitHub Repo stars](https://img.shields.io/github/stars/Eloston/ungoogled-chromium?logo=github&style=flat-square) |  | Chromium (which Chrome and countless other browsers are built on top of) is one of the cleanest and light-weight browsers available. This version cuts out all the Google crap. |
 | [Firefox](https://firefox.com/) |  | Built by Mozilla, "The Privacy Company". Huge extension library; great for privacy. |
-| [Waterfox](https://www.waterfox.net/) | **5-eyes** | Based on Firefox, but **64-bit only** with an emphasis on speed and privacy. Has a "classic" version built off older Firefox for legacy extension support and also an "alpha" version built off Quantum. It doesn't collect any telemetry and also removes Pocket from the alpha release. Project is run by [Alex Kontos](https://github.com/MrAlex94/) and is constantly in active development. Looks very clean and fast. Android versions are in the works too. **UPDATE:** @Nudin pointed out in [Issue \#85](https://github.com/tycrek/degoogle/issues/85) that Waterfox is now [a part of System1](https://www.waterfox.net/blog/waterfox-has-joined-system1/). |
 | [Vivaldi](https://vivaldi.com/) |  | Privacy-focused browser. Appears to be very customizable and feature-rich. |
 | [Tor Browser](https://www.torproject.org/download/) |  | Firefox-based browser routed through the [Tor network](https://en.wikipedia.org/wiki/Tor_%28anonymity_network%29). Automatically has a few privacy extensions installed (such as HTTPS Everywhere). [Read this article](https://write.privacytools.io/my-thoughts-on-security/slicing-onions-part-1-myth-busting-tor) for more info on how it works and the benefits of using Tor. Available for Windows, Linux, macOS, and Android. |
+| [Librewolf](https://librewolf.net/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=gitlab)](https://gitlab.com/librewolf-community/browser)<br/> |  | Librewolf is a fork of Firefox, with improved privacy defaults. Similarly to Waterfox, Librewolf is based on Firefox and intends to improve privacy by default. Many privacy enthusiasts have recommended it as a more effective privacy browser than other Firefox forks. |
+| [Waterfox](https://www.waterfox.net/) | **5-eyes** | Based on Firefox, but **64-bit only** with an emphasis on speed and privacy. Has a "classic" version built off older Firefox for legacy extension support and also an "alpha" version built off Quantum. It doesn't collect any telemetry and also removes Pocket from the alpha release. Project is run by [Alex Kontos](https://github.com/MrAlex94/) and is constantly in active development. Looks very clean and fast. Android versions are in the works too. **UPDATE:** @Nudin pointed out in [Issue \#85](https://github.com/tycrek/degoogle/issues/85) that Waterfox is now [a part of System1](https://www.waterfox.net/blog/waterfox-has-joined-system1/). |
 
 
 
@@ -788,6 +796,7 @@ No known alternatives.
 | [Audinaut](https://github.com/nvllsvm/Audinaut)<br/>[![F-Droid](https://img.shields.io/f-droid/v/net.nullsum.audinaut?style=flat-square&logo=f-droid)](https://f-droid.org/en/packages/net.nullsum.audinaut/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/nvllsvm/Audinaut)<br/>![GitHub Repo stars](https://img.shields.io/github/stars/nvllsvm/Audinaut?logo=github&style=flat-square) |  | An open-source Airsonic client for Android. |
 | [MALP](https://gitlab.com/gateship-one/malp/-/blob/master/README.md)<br/>[![F-Droid](https://img.shields.io/f-droid/v/org.gateshipone.malp?style=flat-square&logo=f-droid)](https://f-droid.org/en/packages/org.gateshipone.malp/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=gitlab)](https://gitlab.com/gateship-one/malp)<br/> |  | An open-source Android client for MPD. Available on F-Droid. |
 | [Shuttle+](https://github.com/timusus/Shuttle)<br/>[![F-Droid](https://img.shields.io/f-droid/v/com.simplecity.amp_pro?style=flat-square&logo=f-droid)](https://f-droid.org/en/packages/com.simplecity.amp_pro/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/timusus/Shuttle)<br/>![GitHub Repo stars](https://img.shields.io/github/stars/timusus/Shuttle?logo=github&style=flat-square) |  | Open-source local music player for Android. Available on F-Droid or by direct download. |
+| [Pulse Music](https://github.com/HardcodeCoder/PulseMusic)<br/>[![F-Droid](https://img.shields.io/f-droid/v/com.hardcodecoder.pulsemusic?style=flat-square&logo=f-droid)](https://f-droid.org/en/packages/com.hardcodecoder.pulsemusic/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/HardcodeCoder/PulseMusic)<br/>![GitHub Repo stars](https://img.shields.io/github/stars/HardcodeCoder/PulseMusic?logo=github&style=flat-square) |  | A music player app to complement your offline music collection with playlist support, theme options, multiple now playing screen, quick play shortcuts, QS tiles, sleep timer and lot of useful customisations. |
 
 
 
@@ -873,7 +882,6 @@ No known alternatives.
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
-| [This list](https://www.oneclickroot.com/rootable/) |  | Shows compatibility for rooting Android devices. |
 | [Purism Librem 5](https://puri.sm/products/librem-5/) | **5-eyes** | From the company that makes Purism laptops. Runs PureOS. Thanks @brandonnodnarb |
 | [PinePhone](https://www.pine64.org/pinephone/) | **5-eyes** | From the company that makes the Pine A64 Single Board Computer. Runs a variety of mainline Linux OSs with UIs adapted for mobile. |
 
