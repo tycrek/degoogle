@@ -1089,6 +1089,14 @@ web based products:
         blockchain. Users truly own their data with BlockSurvey. All your data is protected using your
         key and only you can access it. There are no trackers, cookies, or fingerprints on the forms
         of data providers. Thanks @compressstudio
+  appsheet:
+    - title: AppSheet
+    - name: Budibase
+      url: https://budibase.com/
+      repo: https://github.com/Budibase/budibase
+      eyes: 9
+      text: >
+        Budibase is an open-source low-code platform that helps IT professionals create internal apps in minutes. Users can deploy Budibase on their existing infrastructure, using Docker, Kubernetes, and Digital Ocean.
   bulk services:
     - title: Bulk Services
     - name: EteSync
