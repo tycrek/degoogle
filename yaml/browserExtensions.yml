@@ -42,10 +42,6 @@
   url: https://addons.mozilla.org/en-US/firefox/addon/disconnect
   text: |
     Visualize and block the otherwise invisible websites that track your search and browsing history.
-- name: Don't touch my tabs! (rel=noopener
-  url: https://addons.mozilla.org/en-US/firefox/addon/dont-touch-my-tabs
-  text: |
-    Prevent tabs opened by a hyperlink from hijacking the previous tab by adding the rel=noopener attribute to all hyperlinks (excluding same-domain hyperlinks).
 - name: Firefox Multi-Account Containers
   url: https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers
   text: |
