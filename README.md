@@ -86,6 +86,7 @@ When contributing, **please follow the rules outlined in [CONTRIBUTING.md](https
 | [TrackMeNot](https://addons.mozilla.org/en-US/firefox/addon/trackmenot) ![Mozilla Add-on](https://img.shields.io/amo/users/trackmenot?style=flat-square) | An artware browser add-on to protect privacy in web-search. By issuing randomized queries to common search-engines, TrackMeNot obfuscates your search profile and registers your discontent with surreptitious tracking. |
 | [Redirect AMP to HTML](https://addons.mozilla.org/en-US/firefox/addon/amp2html) ![Mozilla Add-on](https://img.shields.io/amo/users/amp2html?style=flat-square) | This web extension enables users to choose to opt-out of using Accelerated Mobile Pages (AMP) and choose to use the standard web instead. |
 | [user.js](https://github.com/arkenfox/user.js)  | This is not an extension, instead it is a Firefox `user.js` config file. This file is a template which aims to provide as much privacy and enhanced security as possible, and to reduce tracking and fingerprinting as much as possible - while minimizing any loss of functionality and breakage (but it will happen). |
+| [Port Authority](https://addons.mozilla.org/en-US/firefox/addon/port-authority/) ![Mozilla Add-on](https://img.shields.io/amo/users/?style=flat-square) | Blocks websites from using javascript to port scan your computer/network and dynamically blocks all LexisNexis endpoints from running their invasive data collection scripts. [Website](https://www.g666gle.me/Port-Authority/), [Source Code](https://github.com/ACK-J/Port_Authority) |
 
 
 # Replacements/alternatives
@@ -126,7 +127,6 @@ When contributing, **please follow the rules outlined in [CONTRIBUTING.md](https
 | [Cyberd](https://cyber.page/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/cybercongress/cyb)<br/>![GitHub Repo stars](https://img.shields.io/github/stars/cybercongress/cyb?logo=github&style=flat-square) |  | Decentralized Google. A web 3 alternative for the Google search engine. In Beta testing mode. Uses IPFS and Tendermint consensus for security and economic incentives. Please see their [ELI-5 FAQ](https://github.com/cybercongress/congress/blob/master/ecosystem/ELI-5%20FAQ.md) for more info. |
 | [Infinity Search](https://infinitysearch.co/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=gitlab)](https://gitlab.com/infinitysearch/infinity-search)<br/> | **5-eyes** | Infinity Search is a privacy metasearch engine that does not log any information about its users. In terms of privacy, it works the same way as DuckDuckGo. It is free to use and is funded by non-tracking advertisements and affiliate links. It is also completely open-source. |
 | [Runnaroo](https://www.runnaroo.com/) | **5-eyes** | "Runnaroo was built from the ground up to provide an all around better search experience." Thanks @codingepaduli |
-| [Brave Search](https://search.brave.com/) |  | Brave Search doesn’t track you, your searches, or your clicks. |
 
 
 
@@ -464,6 +464,14 @@ No known alternatives.
 
 
 
+#### AppSheet
+
+| Name | Eyes | Description |
+| ---- | ---- | ----------- |
+| [Budibase](https://budibase.com/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/Budibase/budibase)<br/>![GitHub Repo stars](https://img.shields.io/github/stars/Budibase/budibase?logo=github&style=flat-square) | **9-eyes** | Budibase is an open-source low-code platform that helps IT professionals create internal apps in minutes. Users can deploy Budibase on their existing infrastructure, using Docker, Kubernetes, and Digital Ocean. |
+
+
+
 #### Bulk Services
 
 | Name | Eyes | Description |
@@ -546,9 +554,10 @@ No known alternatives.
 | ---- | ---- | ----------- |
 | [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/Eloston/ungoogled-chromium)<br/>![GitHub Repo stars](https://img.shields.io/github/stars/Eloston/ungoogled-chromium?logo=github&style=flat-square) |  | Chromium (which Chrome and countless other browsers are built on top of) is one of the cleanest and light-weight browsers available. This version cuts out all the Google crap. |
 | [Firefox](https://firefox.com/) |  | Built by Mozilla, "The Privacy Company". Huge extension library; great for privacy. |
-| [Waterfox](https://www.waterfox.net/) | **5-eyes** | Based on Firefox, but **64-bit only** with an emphasis on speed and privacy. Has a "classic" version built off older Firefox for legacy extension support and also an "alpha" version built off Quantum. It doesn't collect any telemetry and also removes Pocket from the alpha release. Project is run by [Alex Kontos](https://github.com/MrAlex94/) and is constantly in active development. Looks very clean and fast. Android versions are in the works too. **UPDATE:** @Nudin pointed out in [Issue \#85](https://github.com/tycrek/degoogle/issues/85) that Waterfox is now [a part of System1](https://www.waterfox.net/blog/waterfox-has-joined-system1/). |
 | [Vivaldi](https://vivaldi.com/) |  | Privacy-focused browser. Appears to be very customizable and feature-rich. |
 | [Tor Browser](https://www.torproject.org/download/) |  | Firefox-based browser routed through the [Tor network](https://en.wikipedia.org/wiki/Tor_%28anonymity_network%29). Automatically has a few privacy extensions installed (such as HTTPS Everywhere). [Read this article](https://write.privacytools.io/my-thoughts-on-security/slicing-onions-part-1-myth-busting-tor) for more info on how it works and the benefits of using Tor. Available for Windows, Linux, macOS, and Android. |
+| [Librewolf](https://librewolf.net/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=gitlab)](https://gitlab.com/librewolf-community/browser)<br/> |  | Librewolf is a fork of Firefox, with improved privacy defaults. Similarly to Waterfox, Librewolf is based on Firefox and intends to improve privacy by default. Many privacy enthusiasts have recommended it as a more effective privacy browser than other Firefox forks. |
+| [Waterfox](https://www.waterfox.net/) | **5-eyes** | Based on Firefox, but **64-bit only** with an emphasis on speed and privacy. Has a "classic" version built off older Firefox for legacy extension support and also an "alpha" version built off Quantum. It doesn't collect any telemetry and also removes Pocket from the alpha release. Project is run by [Alex Kontos](https://github.com/MrAlex94/) and is constantly in active development. Looks very clean and fast. Android versions are in the works too. **UPDATE:** @Nudin pointed out in [Issue \#85](https://github.com/tycrek/degoogle/issues/85) that Waterfox is now [a part of System1](https://www.waterfox.net/blog/waterfox-has-joined-system1/). |
 
 
 
@@ -787,6 +796,7 @@ No known alternatives.
 | [Audinaut](https://github.com/nvllsvm/Audinaut)<br/>[![F-Droid](https://img.shields.io/f-droid/v/net.nullsum.audinaut?style=flat-square&logo=f-droid)](https://f-droid.org/en/packages/net.nullsum.audinaut/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/nvllsvm/Audinaut)<br/>![GitHub Repo stars](https://img.shields.io/github/stars/nvllsvm/Audinaut?logo=github&style=flat-square) |  | An open-source Airsonic client for Android. |
 | [MALP](https://gitlab.com/gateship-one/malp/-/blob/master/README.md)<br/>[![F-Droid](https://img.shields.io/f-droid/v/org.gateshipone.malp?style=flat-square&logo=f-droid)](https://f-droid.org/en/packages/org.gateshipone.malp/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=gitlab)](https://gitlab.com/gateship-one/malp)<br/> |  | An open-source Android client for MPD. Available on F-Droid. |
 | [Shuttle+](https://github.com/timusus/Shuttle)<br/>[![F-Droid](https://img.shields.io/f-droid/v/com.simplecity.amp_pro?style=flat-square&logo=f-droid)](https://f-droid.org/en/packages/com.simplecity.amp_pro/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/timusus/Shuttle)<br/>![GitHub Repo stars](https://img.shields.io/github/stars/timusus/Shuttle?logo=github&style=flat-square) |  | Open-source local music player for Android. Available on F-Droid or by direct download. |
+| [Pulse Music](https://github.com/HardcodeCoder/PulseMusic)<br/>[![F-Droid](https://img.shields.io/f-droid/v/com.hardcodecoder.pulsemusic?style=flat-square&logo=f-droid)](https://f-droid.org/en/packages/com.hardcodecoder.pulsemusic/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/HardcodeCoder/PulseMusic)<br/>![GitHub Repo stars](https://img.shields.io/github/stars/HardcodeCoder/PulseMusic?logo=github&style=flat-square) |  | A music player app to complement your offline music collection with playlist support, theme options, multiple now playing screen, quick play shortcuts, QS tiles, sleep timer and lot of useful customisations. |
 
 
 
@@ -872,7 +882,6 @@ No known alternatives.
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
-| [This list](https://www.oneclickroot.com/rootable/) |  | Shows compatibility for rooting Android devices. |
 | [Purism Librem 5](https://puri.sm/products/librem-5/) | **5-eyes** | From the company that makes Purism laptops. Runs PureOS. Thanks @brandonnodnarb |
 | [PinePhone](https://www.pine64.org/pinephone/) | **5-eyes** | From the company that makes the Pine A64 Single Board Computer. Runs a variety of mainline Linux OSs with UIs adapted for mobile. |
 
