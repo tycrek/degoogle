@@ -14,6 +14,7 @@ Official mirrors are the main sources and are maintained by me (@tycrek). Commun
 
 - [GitLab mirror](https://gitlab.com/SheepKid12/degoogle) from u/SheepKid12
 - [Gitea mirror](https://git.xerbo.net/Xerbo/degoogle) from [@Xerbo](https://github.com/Xerbo)
+- [Gitea mirror](https://git.mirkodi.tech/mirk0dex/degoogle) from [@mirk0dex (Gitea)](https://git.mirkodi.tech/mirk0dex)
 
 ## Non-english mirrors
 
