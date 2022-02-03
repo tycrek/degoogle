@@ -20,7 +20,7 @@
 
 ### *I don't have anything to hide, but I don't have anything to show you either.*
 
-![Updated](https://img.shields.io/static/v1?label=updated&message=November%2018th%202021&color=388E3C&style=flat-square)
+![Updated](https://img.shields.io/static/v1?label=updated&message=February%203rd%202022&color=388E3C&style=flat-square)
 
 ![GitHub](https://img.shields.io/github/license/tycrek/degoogle?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/tycrek/degoogle?style=flat-square)
@@ -76,7 +76,6 @@ When contributing, **please follow the rules outlined in [CONTRIBUTING.md](https
 | [Cloud Firewall](https://addons.mozilla.org/en-US/firefox/addon/cloud-firewall) ![Mozilla Add-on](https://img.shields.io/amo/users/cloud-firewall?style=flat-square) | Block connections to pages and web resources hosted in major cloud services if the user wishes to do so. Supports blocking Google, Amazon, Facebook, Apple, Microsoft and Cloudflare. |
 | [CSS Exfil Protection](https://addons.mozilla.org/en-US/firefox/addon/css-exfil-protection) ![Mozilla Add-on](https://img.shields.io/amo/users/css-exfil-protection?style=flat-square) | CSS Exfil is a method attackers can use to steal data from web pages using Cascading Style Sheets (CSS). This plugin sanitizes and blocks any CSS rules which may be designed to steal data. |
 | [Disconnect](https://addons.mozilla.org/en-US/firefox/addon/disconnect) ![Mozilla Add-on](https://img.shields.io/amo/users/disconnect?style=flat-square) | Visualize and block the otherwise invisible websites that track your search and browsing history. |
-| [Don't touch my tabs! (rel=noopener](https://addons.mozilla.org/en-US/firefox/addon/dont-touch-my-tabs) ![Mozilla Add-on](https://img.shields.io/amo/users/dont-touch-my-tabs?style=flat-square) | Prevent tabs opened by a hyperlink from hijacking the previous tab by adding the rel=noopener attribute to all hyperlinks (excluding same-domain hyperlinks). |
 | [Firefox Multi-Account Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers) ![Mozilla Add-on](https://img.shields.io/amo/users/multi-account-containers?style=flat-square) | Firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs that preserve your privacy. Cookies are separated by container, allowing you to use the web with multiple identities or accounts simultaneously. |
 | [Google search link fix (also Yandex)](https://addons.mozilla.org/en-US/firefox/addon/google-search-link-fix) ![Mozilla Add-on](https://img.shields.io/amo/users/google-search-link-fix?style=flat-square) | This extension prevents Google and Yandex search pages from modifying search result links when you click them. This is useful when copying links but it also helps privacy by preventing the search engines from recording your clicks. |
 | [HTTPZ](https://addons.mozilla.org/en-US/firefox/addon/httpz) ![Mozilla Add-on](https://img.shields.io/amo/users/httpz?style=flat-square) | HTTPZ is meant to be unobtrusive and lightweight, it respects your privacy, and is free of trans fats. Additionally, it is very configurable, and should be slightly more secure than some of the alternatives out there, since it has a couple of built-in defenses against SSL-stripping attacks. |
