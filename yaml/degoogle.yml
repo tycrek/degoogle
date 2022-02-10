@@ -319,6 +319,7 @@ web based products:
         Free, no-nonsense, super-fast blogging. No javascript, no stylesheets, no trackers. Just your words.
     - name: Haven
       url: https://havenweb.org/
+      repo: https://github.com/havenweb/haven
       eyes: null
       text: >
         FLOSS private blogging platform. Easy to self-host (standard rails app, ships with AWS and Raspberry
