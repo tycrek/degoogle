@@ -428,6 +428,13 @@ web based products:
       eyes: 5
       text: >
         Offers cookieless tracking and no PII collected.
+    - name: Pirsch Analytics
+      url: https://pirsch.io/
+      repo: https://github.com/pirsch-analytics/pirsch
+      eyes: 14
+      text: >
+        Pirsch is a simple, privacy-friendly, and open-source web analytics solution
+        that can easily be integrated into any website or directly into your backend.
   photos:
     - title: Photos
     - name: Photoprism

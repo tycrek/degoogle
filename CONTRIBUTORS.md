@@ -86,6 +86,7 @@ Thanks to everyone here for contributing in some way! (usernames are in no parti
 - [@julianfairfax](https://github.com/julianfairfax)
 - [@ACK-J](https://github.com/ACK-J)
 - [@joebudi](https://github.com/joebudi)
+- [@Kugelschieber](https://github.com/Kugelschieber)
 
 ### Reddit:
 
