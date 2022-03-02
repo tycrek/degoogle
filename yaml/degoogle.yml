@@ -407,8 +407,8 @@ web based products:
       text: >
         An open-source analytics tool. Landing page and company is based in Sweden, CDN in EU, Servers
         on Digitalocean (USA) datacenter in Germany.
-    - name: userTrack
-      url: https://www.usertrack.net/
+    - name: UXWizz
+      url: https://www.uxwizz.com
       eyes: null
       text: >
         Self-hosted alternative to Google Analytics, similar to Matomo but cheaper for premium features.
