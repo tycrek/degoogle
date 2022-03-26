@@ -364,6 +364,7 @@ When contributing, **please follow the rules outlined in [CONTRIBUTING.md](https
 | [Tutanota](https://tutanota.com/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/tutao/tutanota)<br/>![GitHub Repo stars](https://img.shields.io/github/stars/tutao/tutanota?logo=github&style=flat-square) | **14-eyes** | Open-source and one one of the top rated privacy-focused email providers. Located in Germany. |
 | [Posteo](https://posteo.de/en) | **14-eyes** | Completely anonymous mail provider located in Germany. |
 | [mailbox.org](https://mailbox.org/en/) | **14-eyes** | Paid email provider, also located in Germany. |
+| [Mutant Mail](https://www.mutantmail.com/) |  | A free, encrypted and enhanced email forwarding service, to manage all your email ids from single mailbox |
 | [Disroot](https://disroot.org/) | **9-eyes** | Decentralized email service. |
 | [StartMail](https://www.startmail.com/en/) | **9-eyes** | Operated by the same people who run StartPage. |
 | [SimpleLogin](https://simplelogin.io/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/simple-login)<br/> |  | Open-source, self-hosted, and privacy focused email forwarding service. |
