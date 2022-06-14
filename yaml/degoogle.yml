@@ -430,6 +430,7 @@ web based products:
         Offers cookieless tracking and no PII collected.
     - name: Swetrix
       url: https://swetrix.com/
+      repo: https://github.com/swetrix/swetrix-js
       eyes: 14
       text: >
         Privacy-focused, cookieless and selfhostable alternative to Google Analytics.
