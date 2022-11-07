@@ -876,11 +876,6 @@ web based products:
         with editing space. Offers free, paid, and freemium plans. Can pay with cryptocurrency and
         has a [warrant canary](https://blog.mailfence.com/transparency-report-and-warrant-canary/).
         Thanks @resto1231
-    - name: CTemplar
-      url: https://ctemplar.com/
-      eyes: null
-      text: >
-        Privacy-focused email provider located in Iceland.
     - name: Anonaddy
       url: https://anonaddy.com/
       repo: https://github.com/anonaddy/anonaddy
