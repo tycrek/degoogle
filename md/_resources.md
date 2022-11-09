@@ -8,7 +8,6 @@ Everything you need to become a privacy wizard. This section has two subsections
 - [DuckDuckGo's privacy newsletter](https://duckduckgo.com/newsletter)
 - [EFF's Surveillance Self-Defense (eff.org)](https://ssd.eff.org/)
 - [Everything You Need to Know About Password Managers](https://outline.com/NC69FD)
-- [Firefox: Privacy Related "about:config" Tweaks](https://privacyguides.org/browsers/#about_config)
 - [Four Methods to Create a Secure Password You'll Actually Remember](https://outline.com/XuMTFA)
 - [How to create a strong password (and remember it)](https://outline.com/dqfuqL)
 - [How to delete remembered passwords (WikiHow)](http://www.wikihow.com/Delete-Remembered-Passwords)
@@ -30,6 +29,7 @@ Everything you need to become a privacy wizard. This section has two subsections
 - [What is Tor and should I use it?](https://outline.com/JRCscH)
 - [Why You Really Should Put Tape Over Your Webcam](https://outline.com/fYCu98)
 - [Windows 10 Privacy Guide (fdossena.com)](https://fdossena.com/?p=w10debotnet/index_1903.frag)
+- [Privacy Settings for major softwares](https://github.com/the-weird-aquarian/privacy-settings)
 - [7 Reasons to Use a Third-Party DNS Service](https://outline.com/8jsWXw)
    - Use [DNSPerf](https://www.dnsperf.com/#!dns-resolvers) to see which one is fastest for you.
 

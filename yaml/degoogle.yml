@@ -28,16 +28,6 @@ web based products:
       eyes: null
       text: >
         Open-source (thanks for clarification u/Sheezdudeln) privacy search engine. Domain hosted in Germany.
-    - name: MetaGer
-      url: https://metager.org/about
-      eyes: 14
-      text: >
-        MetaGer is the search engine project from the registered nonprofit organization SUMA E.V. in Germany.
-    - name: Qwant
-      url: https://www.qwant.com/
-      eyes: 9
-      text: >
-        A privacy-respecting search engine. **Note:** Qwant may not be available in all countries; see [Issue #408](https://github.com/tycrek/degoogle/issues/408) for more information.
     - name: Swisscows
       url: https://swisscows.ch
       eyes: null
@@ -1105,8 +1095,8 @@ operating systems:
     - title: Android/Fuchsia
     - notes:
         - >
-          You'll either need a rooted device with an unlocked bootloader, or a specific device
-          depending on which OS you like.
+          You'll need a device with an unlocked bootloader.
+        - Some OS only support specific devices.
         - Please see [Issue \#55](https://github.com/tycrek/degoogle/issues/55) for details on /e/.
         - You can use [Plexus](https://plexus.techlore.tech/) to check android app compatibility on degoogled Android operating systems.
     - name: Ubuntu Touch
@@ -1515,6 +1505,13 @@ mobile applications:
       eyes: null
       text: >
         Open-source camera for Android. Thanks @je-vv
+    - name: Simple Camera
+      url: https://github.com/SimpleMobileTools/Simple-Camera
+      repo: https://github.com/SimpleMobileTools/Simple-Camera
+      fdroid: https://f-droid.org/packages/com.simplemobiletools.camera/
+      eyes: null
+      text: > 
+        Quick photo and video camera with a flash, customizable resolution and no ads. 
   clock:
     - title: Clock
     - name: Clock +
@@ -1547,6 +1544,28 @@ mobile applications:
       text: >
         An open-source simple alarm clock that implements many useful features while following regular
         design standards to ensure that it is quick and intuitive to use.
+  files:
+    - title: Files
+    - name: Material Files
+      url: https://github.com/zhanghai/MaterialFiles
+      repo: https://github.com/zhanghai/MaterialFiles
+      fdroid: https://f-droid.org/packages/me.zhanghai.android.files/
+      eyes: null
+      text: >
+        An open source Material Design file manager, for Android 5.0+.
+    - name: Amaze File Manager
+      url: https://github.com/TeamAmaze/AmazeFileManager
+      repo: https://github.com/TeamAmaze/AmazeFileManager
+      eyes: null
+      text: >
+        Material design file manager for Android 
+    - name: Simple File Manager
+      url: https://github.com/SimpleMobileTools/Simple-File-Manager
+      repo: https://github.com/SimpleMobileTools/Simple-File-Manager
+      fdroid: https://f-droid.org/packages/com.simplemobiletools.filemanager.pro/
+      eyes: null
+      text: >
+        A simple file manager for browsing and editing files and directories. 
   contacts:
     - title: Contacts
     - name: Fruux (mobile app)
@@ -1568,6 +1587,21 @@ mobile applications:
       eyes: null
       text: >
         Open-source contacts. (thanks u/consentio)
+  dialer:
+    - title: Dialer
+    - name: Koler
+      url: https://github.com/Chooloo/koler
+      repo: https://github.com/Chooloo/koler
+      eyes: null
+      text: >
+        Koler is a uniquely stylized phone app for Android, designed with the user in mind
+    - name: Simple Dialer
+      url: https://github.com/SimpleMobileTools/Simple-Dialer
+      repo: https://github.com/SimpleMobileTools/Simple-Dialer
+      fdroid: https://f-droid.org/packages/com.simplemobiletools.dialer/
+      eyes: null
+      text: >
+        A handy phone call manager with phonebook, number blocking and multi-SIM support 
   messages:
     - title: Android Messages (specifically SMS/MMS, not IM)
     - name: QKSMS
@@ -1795,7 +1829,14 @@ mobile applications:
       eyes: null
       text: >
         A truly zero-knowledge note taking app, encrypted using XChaChaPoly1305-IETF & Argon2. It is available on Windows, macOS, Linux, Android, iOS, and has browser extensions too. It is not self-hostable and follows a freemium model. Downloads are available on [Google Play](https://play.google.com/store/apps/details?id=com.streetwriters.notesnook) and the iOS [App Store](https://apps.apple.com/us/app/notesnook/id1544027013).
-  maps and waze:
+    - name: Quillnote
+      url: https://qosp.org/#/
+      repo: https://github.com/msoultanidis/quillnote
+      fdroid: https://f-droid.org/packages/org.qosp.notes/
+      eyes: null
+      text: >
+        Take beautiful markdown notes and stay organized with task lists.
+  maps and waze: 
     - title: Maps/Waze
     - name: Maps
       url: https://gitlab.com/axet/omim/-/blob/HEAD/README.md
@@ -1964,6 +2005,19 @@ mobile applications:
       eyes: null
       text: >
         A music player app to complement your offline music collection with playlist support, theme options, multiple now playing screen, quick play shortcuts, QS tiles, sleep timer and lot of useful customisations.
+    - name: Metro
+      url: https://github.com/MuntashirAkon/Metro
+      repo: https://github.com/MuntashirAkon/Metro
+      fdroid: https://f-droid.org/en/packages/io.github.muntashirakon.Music/
+      eyes: null
+      text: >
+        Metro is a fork of Retro Music with Google Play API removed and all pro features unlocked.
+    - name: Vinyl Music Player
+      url: https://adrien.poupa.fr/introducing-vinyl-music-player/
+      repo: https://github.com/AdrienPoupa/VinylMusicPlayer
+      eyes: null
+      text: >
+        A material designed local music player for Android. Forked from Phonograph; makes all Pro features free.
   hangouts:
     - title: Hangouts
     - name: Keybase
@@ -2119,6 +2173,27 @@ mobile applications:
       eyes: null
       text: >
         A clean, simple Android launcher with a very minimalist design. Forked from [Slim Launcher](https://github.com/sduduzog/slim-launcher).
+    - name: Posidon Launcher
+      url: https://posidon.io/launcher
+      repo: https://github.com/lposidon/posidonLauncher
+      fdroid: https://www.f-droid.org/packages/posidon.launcher/
+      eyes: null
+      text: >
+        Posidon launcher is a minimal, one page homescreen with a vertical scrolling feed.
+    - name: Pie Launcher
+      url: https://github.com/markusfisch/PieLauncher
+      repo: https://github.com/markusfisch/PieLauncher
+      fdroid: https://f-droid.org/de/packages/de.markusfisch.android.pielauncher/
+      eyes: null
+      text: >
+        Android home screen launcher that uses a dynamic pie menu instead of fixed positioned icons.
+    - name: Olauncher
+      url: https://github.com/tanujnotes/Olauncher
+      repo: https://github.com/tanujnotes/Olauncher
+      fdroid: https://f-droid.org/packages/app.olauncher
+      eyes: null
+      text: >
+        Olauncher is a minimal ad-free launcher app for Android with daily new wallpaper.
   other:
     - title: "*Other*"
     - name: Blokada
@@ -2148,6 +2223,17 @@ mobile applications:
       text: >
         From the website: "Rethink DNS + Firewall is the easiest way to monitor app activity, circumvent
         Internet censorship, block ads and trackers on your Android device."
+    - name: NetGuard
+      url: https://netguard.me/
+      repo: https://github.com/M66B/NetGuard
+      eyes: null
+      text: >
+        A simple way to block access to the internet per app without root.
+    - name: Orbot
+      url: https://guardianproject.info/apps/org.torproject.android/
+      repo: https://github.com/guardianproject/orbot
+      text: >
+        Orbot is a free proxy app that empowers other apps to use the internet more securely. Orbot uses Tor to encrypt your Internet traffic and then hides it by bouncing through a series of computers around the world.
     - name: TrackerControl
       url: https://github.com/OxfordHCC/tracker-control-android
       repo: https://github.com/OxfordHCC/tracker-control-android

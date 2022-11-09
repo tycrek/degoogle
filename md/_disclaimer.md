@@ -11,8 +11,8 @@
 | Eyes | Countries |
 | :--: | :---------: |
 | **5** | Australia, Canada, New Zealand, UK, USA |
-| **9** | Denmark, France, Netherlands, Norway |
-| **14** | Germany, Belgium, Italy, Sweden, Spain |
+| **9** | 5 eyes + Denmark, France, Netherlands, Norway |
+| **14** | 9 eyes + Germany, Belgium, Italy, Sweden, Spain |
 
 [wiki]: https://en.wikipedia.org/wiki/List_of_Google_products
 [eyes]: https://restoreprivacy.com/5-eyes-9-eyes-14-eyes/#h-five-eyes
