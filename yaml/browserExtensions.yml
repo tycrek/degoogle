@@ -18,10 +18,10 @@
   url: https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox
   text: |
     Privacy, simplified. Our add-on provides the privacy essentials you need to seamlessly take control of your personal information, no matter where the internet takes you: tracker blocking, smarter encryption, DuckDuckGo private search, and more.
-- name: I don't care about cookies
+- name: I still don't care about cookies
   url: https://addons.mozilla.org/en-US/firefox/addon/i-dont-care-about-cookies
   text: |
-    This add-on will remove cookie warnings from almost all websites! You can report any website which still warns you about cookies: make a right click and choose 'Report a cookie warning' from the menu.
+    This add-on will remove cookie warnings from almost all websites! You can report any website which still warns you about cookies: make a right click and choose 'Report a cookie warning' from the menu. Fork of the popular I don't care about cookies extension, which was recently acquired by Avast. Thanks 
 - name: minerBlock
   url: https://addons.mozilla.org/en-US/firefox/addon/minerblock-origin
   text: |
