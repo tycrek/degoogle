@@ -1916,6 +1916,12 @@ mobile applications:
       eyes: null
       text: >
         Open-source 2FA for Android. Available on F-Droid.
+    - name: ente Auth
+      url: https://ente.io/auth/
+      repo: https://github.com/ente-io/auth
+      eyes: 5
+      text: >
+        A simple, end-to-end encrypted, open-source authenticator with cloud backups. Apps are available for iOS and Android. From the makers of ente Photos.        
     - name: Authenticator
       url: https://mattrubin.me/authenticator/
       repo: https://github.com/mattrubin/Authenticator
