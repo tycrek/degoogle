@@ -86,3 +86,7 @@
   url: https://addons.mozilla.org/en-US/firefox/addon/port-authority/
   text: |
     Blocks websites from using javascript to port scan your computer/network and dynamically blocks all LexisNexis endpoints from running their invasive data collection scripts. [Website](https://www.g666gle.me/Port-Authority/), [Source Code](https://github.com/ACK-J/Port_Authority)
+- name: CanvasBlocker
+  url: https://github.com/kkapsner/CanvasBlocker
+  text: |
+    Removes fingerprint tracking from JavaScript APIs and WebGL.
