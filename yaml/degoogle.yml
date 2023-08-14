@@ -839,10 +839,10 @@ web based products:
       text: >
         Open-source, self-hosted, and privacy focused email forwarding service.
     - name: Migadu
-      url: https://www.migadu.com/en/index.html
+      url: https://www.migadu.com
       eyes: 9
       text: >
-        Paid email provider, located in Switzerland. Focus on privacy.
+        Paid email provider, run from Switzerland with servers in France. Focus on privacy.
     - name: Fastmail
       url: https://fastmail.com/
       eyes: 5
