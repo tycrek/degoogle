@@ -2,7 +2,7 @@ const fs = require('fs-extra'); // Reading README.md
 const path = require('path'); // Get the correct path for README.md
 const fetch = require('node-fetch'); // Make calls to Reddit from Node.js
 const qs = require('qs'); // Properly build a query for node-fetch POST
-const moment = require('moment'); // Time-related functions
+const { DateTime } = require('luxon'); // Time-related functions
 
 //#region constants
 
@@ -96,7 +96,7 @@ function putWiki(lastId, token) {
  */
 function fixContent(content) {
     // Fix updated timestamp
-    content = content.replace(/\!\[Updated\](.*?)square\)/g, `#### Updated: ${moment().format('MMMM Do YYYY')}`);
+    content = content.replace(/\!\[Updated\](.*?)square\)/g, `#### Updated: ${DateTime.now().toFormat('MMMM dd, yyyy')}`);
 
     // Fix published timestamps
     content = content.replace(/\!\[Published\]\(https\:\/\/img\.shields\.io\/badge\//g, '**');
