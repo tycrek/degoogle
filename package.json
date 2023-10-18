@@ -8,7 +8,7 @@
   },
   "repository": "github:tycrek/degoogle",
   "author": "tycrek <t@tycrek.com> (https://tycrek.com/)",
-  "license": "ISC",
+  "license": "CC-BY-SA-4.0",
   "bugs": "https://github.com/tycrek/degoogle/issues",
   "homepage": "https://github.com/tycrek/degoogle#readme",
   "dependencies": {

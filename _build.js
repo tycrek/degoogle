@@ -23,7 +23,8 @@ const BUILD_SECTION = {
     blogs: () => generatePublications('Blog posts', 'blogs'),
     news: () => generatePublications('News articles', 'news'),
     lighterSide: () => readFile('md/_lighterSide.md'),
-    closingRemarks: () => readFile('md/_closingRemarks.md')
+    closingRemarks: () => readFile('md/_closingRemarks.md'),
+    license: () => readFile('md/_license.md')
 };
 
 // Button that brings the user to the top of the page
