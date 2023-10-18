@@ -3,11 +3,11 @@
 const { EOL } = require('os');
 const path = require('path');
 const fs = require('fs-extra');
-const moment = require('moment');
+const { DateTime } = require('luxon');
 const YAML = require('yaml');
 
 const BUILD_SECTION = {
-    header: () => readFile('md/_header.md').replace('{{DATE}}', moment().format('MMMM Do YYYY').replace(/ /g, '%20')),
+    header: () => readFile('md/_header.md').replace('{{DATE}}', DateTime.now().toFormat('MMMM dd, yyyy').replace(/ /g, '%20')),
     index: () => readFile('md/_index.md'),
     contributing: () => readFile('md/_contributing.md'),
     browserExtensions: () => generateBrowserExtensions(),
