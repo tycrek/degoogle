@@ -1,10 +1,8 @@
-const fs = require('fs-extra'); // Reading README.md
-const path = require('path'); // Get the correct path for README.md
-const fetch = require('node-fetch'); // Make calls to Reddit from Node.js
-const qs = require('qs'); // Properly build a query for node-fetch POST
-const moment = require('moment'); // Time-related functions
-
-//#region constants
+const fs = require('fs-extra');
+const path = require('path');
+const fetch = require('node-fetch');
+const qs = require('qs');
+const { DateTime } = require('luxon');
 
 // REDDIT_: For authentication with Reddit API. Oauth MUST be used. ID and Secret come from a "script" app type.
 const REDDIT_USER = process.env.REDDIT_USER || 'username';
@@ -29,14 +27,11 @@ const ENDPOINTS = {
 
 // Helps POST data be submitted properly
 const CONTENT_TYPE = 'application/x-www-form-urlencoded';
-//#endregion
 
 // Update the wiki
 Promise.all([getLastRevision(), getToken()])
     .then(([lastId, token]) => putWiki(lastId, token))
     .catch((err) => (console.error(err), process.exit(1)));
-
-//#region functions
 
 /**
  * Get the last revision ID on the Wiki. Required otherwise editing the wiki fails
@@ -96,7 +91,7 @@ function putWiki(lastId, token) {
  */
 function fixContent(content) {
     // Fix updated timestamp
-    content = content.replace(/\!\[Updated\](.*?)square\)/g, `#### Updated: ${moment().format('MMMM Do YYYY')}`);
+    content = content.replace(/\!\[Updated\](.*?)square\)/g, `#### Updated: ${DateTime.now().toFormat('MMMM dd, yyyy')}`);
 
     // Fix published timestamps
     content = content.replace(/\!\[Published\]\(https\:\/\/img\.shields\.io\/badge\//g, '**');
@@ -104,4 +99,3 @@ function fixContent(content) {
 
     return content;
 } // * If this is highlighted weirdly, it's because of the 'updated timestamp' regex, don't worry about it
-//#endregion
