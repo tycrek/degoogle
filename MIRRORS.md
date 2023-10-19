@@ -7,14 +7,11 @@ Official mirrors are the main sources and are maintained by me (@tycrek). Commun
 ## Official mirrors
 
 - [GitHub repo](https://github.com/tycrek/degoogle)
-- [GitHub Pages](https://degoogle.jmoore.dev) (I am using my personal domain as some firewalls block GitHub)
 - [r/Privacy wiki](https://old.reddit.com/r/privacy/wiki/de-google) (automatically updated using GitHub Actions)
 
 ## Community mirrors
 
-- [GitLab mirror](https://gitlab.com/SheepKid12/degoogle) from u/SheepKid12
-- [Gitea mirror](https://git.xerbo.net/Xerbo/degoogle) from [@Xerbo](https://github.com/Xerbo)
-- [Gitea mirror](https://git.mirkodi.tech/mirk0dex/degoogle) from [@mirk0dex (Gitea)](https://git.mirkodi.tech/mirk0dex)
+- [Gitea mirror](https://git.mirkodi.eu/mirk0dex/degoogle) from [@mirk0dex (Gitea)](https://git.mirkodi.eu/mirk0dex)
 
 ## Non-english mirrors
 

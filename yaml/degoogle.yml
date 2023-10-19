@@ -317,13 +317,14 @@ web based products:
       eyes: 5
       text: >
         Free, no-nonsense, super-fast blogging. No javascript, no stylesheets, no trackers. Just your words.
-    - name: Simpleblogs
-      url: https://simpleblogs.org/
+    - name: Haven
+      url: https://havenweb.org/
+      repo: https://github.com/havenweb/haven
       eyes: null
       text: >
-        FLOSS blogging platform with a focus on privacy. Easy to self-host (standard rails app, ships
-        with AWS deployment scripts. AWS is not required). Access restricted to accounts which you
-        create and hand out. Good for private blogs but not for commercial/public blogging.
+        FLOSS private blogging platform. Easy to self-host (standard rails app, ships with AWS and Raspberry
+        Pi deployment scripts. AWS is not required). Access restricted to accounts which you create and
+        hand out. Good for private blogs but not for commercial/public blogging. Built-in feed reader.
   analytics:
     - title: Analytics
     - name: Matomo
@@ -882,11 +883,6 @@ web based products:
         with editing space. Offers free, paid, and freemium plans. Can pay with cryptocurrency and
         has a [warrant canary](https://blog.mailfence.com/transparency-report-and-warrant-canary/).
         Thanks @resto1231
-    - name: CTemplar
-      url: https://ctemplar.com/
-      eyes: null
-      text: >
-        Privacy-focused email provider located in Iceland.
     - name: Anonaddy
       url: https://anonaddy.com/
       repo: https://github.com/anonaddy/anonaddy
@@ -1118,6 +1114,7 @@ operating systems:
         - >
           You'll either need a rooted device with an unlocked bootloader, or a specific device
           depending on which OS you like.
+        - You can use [Anarchy-Droid](https://anarchy-droid.com) to install a new operating system on many Android devices.
         - Please see [Issue \#55](https://github.com/tycrek/degoogle/issues/55) for details on /e/.
         - You can use [Plexus](https://plexus.techlore.tech/) to check android app compatibility on degoogled Android operating systems.
     - name: Ubuntu Touch

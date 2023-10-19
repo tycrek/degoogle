@@ -12,10 +12,10 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-    - uses: actions/setup-node@v1
+    - uses: actions/checkout@v4
+    - uses: actions/setup-node@v3
       with:
-        node-version: 13.x
+        node-version: 20.x
     - name: Install dependencies
       run: npm i
     - name: Build
@@ -31,6 +31,7 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         branch: master
+        force_with_lease: true
     - name: Wiki
       run: node _wiki.js
       env:

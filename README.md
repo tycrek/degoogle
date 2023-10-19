@@ -20,9 +20,9 @@
 
 ### *I don't have anything to hide, but I don't have anything to show you either.*
 
-![Updated](https://img.shields.io/static/v1?label=updated&message=February%203rd%202022&color=388E3C&style=flat-square)
+![Updated](https://img.shields.io/static/v1?label=updated&message=October%2018th%202023&color=388E3C&style=flat-square)
+![License](https://img.shields.io/badge/License-CC--BY--SA%204.0-green.svg?style=flat-square)
 
-![GitHub](https://img.shields.io/github/license/tycrek/degoogle?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/tycrek/degoogle?style=flat-square)
 ![GitHub issues](https://img.shields.io/github/issues/tycrek/degoogle?style=flat-square)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/tycrek/degoogle?style=flat-square)
@@ -373,7 +373,6 @@ When contributing, **please follow the rules outlined in [CONTRIBUTING.md](https
 | [NextCloud](https://help.nextcloud.com/t/nextcloud-mail-server/157)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/nextcloud/mail)<br/>![GitHub Repo stars](https://img.shields.io/github/stars/nextcloud/mail?logo=github&style=flat-square) |  | Nextcloud provides a webmail interface that can be used to access email from various providers. Thanks @je-vv |
 | [Thexyz](https://www.thexyz.com/) | **5-eyes** | Thexyz is a Canadian company offering privacy-conscious business email. Premium webmail costs USD $2.95 per month. |
 | [Mailfence](https://www.mailfence.com) | **14-eyes** | A secure and private email provider much like Protonmail and Tutanota. There are no google analytics nor hidden cookies. There are options to pay anonymously via cryptocurrency. It features a wide array of collaboration tools, such as groups, calendar, contacts, documents with editing space. Offers free, paid, and freemium plans. Can pay with cryptocurrency and has a [warrant canary](https://blog.mailfence.com/transparency-report-and-warrant-canary/). Thanks @resto1231 |
-| [CTemplar](https://ctemplar.com/) |  | Privacy-focused email provider located in Iceland. |
 | [Anonaddy](https://anonaddy.com/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/anonaddy/anonaddy)<br/>![GitHub Repo stars](https://img.shields.io/github/stars/anonaddy/anonaddy?logo=github&style=flat-square) | **9-eyes** | Open-source Anonymous forwarding email service. Forwarded email can be encrypted (OpenPGP) to prevent Google from reading it. Accepts cryptocurrencies (including Monero). |
 | [Mail-in-a-Box](https://mailinabox.email/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/mail-in-a-box/mailinabox)<br/>![GitHub Repo stars](https://img.shields.io/github/stars/mail-in-a-box/mailinabox?logo=github&style=flat-square) |  | Open-source self-hosted easy-to-deploy mail server in a box. |
 
@@ -1067,3 +1066,22 @@ Good luck and stay safe!
 ## Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/tycrek/degoogle.svg)](https://starchart.cc/tycrek/degoogle)
+
+
+# License
+
+This project is licensed under the **Creative Commons Attribution-ShareAlike 4.0 International License** ([CC-BY-SA 4.0]).
+
+#### Summary
+
+- **Attribution:** You are free to:
+  - **Share:** Copy and redistribute the material in any medium or format.
+  - **Adapt:** Remix, transform, and build upon the material for any purpose, even commercially.
+  
+- **Under the following terms:**
+  - **Attribution:** You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+  - **ShareAlike:** If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+  
+For a full legal text of the license, please visit [Creative Commons Attribution-ShareAlike 4.0 International License][CC-BY-SA 4.0].
+
+[CC-BY-SA 4.0]: https://creativecommons.org/licenses/by-sa/4.0/
