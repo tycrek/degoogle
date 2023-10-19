@@ -81,11 +81,6 @@ web based products:
       text: >
         "Runnaroo was built from the ground up to provide an all around better search experience."
         Thanks @codingepaduli
-    - name: Brave Search
-      url: https://search.brave.com/
-      eyes: null
-      text: >
-        Brave Search doesn’t track you, your searches, or your clicks.
   youtube:
     - title: YouTube
     - name: PeerTube
@@ -364,7 +359,7 @@ web based products:
       url: https://alpina.io
       eyes: 5
       text: >
-        Simple, privacy-friendly analytics with event tracking, real-time dashboard and filters. No cookie or localstorage usage. Servers in EU. Paid only (with free trial)
+        Simple, privacy-focused analytics with event tracking, real-time dashboard and filters. No cookie or localstorage usage. Servers in EU. Free and paid plans available.
     - name: Shynet
       url: https://github.com/milesmcc/shynet
       repo: https://github.com/milesmcc/shynet
@@ -881,11 +876,6 @@ web based products:
         with editing space. Offers free, paid, and freemium plans. Can pay with cryptocurrency and
         has a [warrant canary](https://blog.mailfence.com/transparency-report-and-warrant-canary/).
         Thanks @resto1231
-    - name: CTemplar
-      url: https://ctemplar.com/
-      eyes: null
-      text: >
-        Privacy-focused email provider located in Iceland.
     - name: Anonaddy
       url: https://anonaddy.com/
       repo: https://github.com/anonaddy/anonaddy
@@ -1094,6 +1084,14 @@ web based products:
         blockchain. Users truly own their data with BlockSurvey. All your data is protected using your
         key and only you can access it. There are no trackers, cookies, or fingerprints on the forms
         of data providers. Thanks @compressstudio
+  appsheet:
+    - title: AppSheet
+    - name: Budibase
+      url: https://budibase.com/
+      repo: https://github.com/Budibase/budibase
+      eyes: 9
+      text: >
+        Budibase is an open-source low-code platform that helps IT professionals create internal apps in minutes. Users can deploy Budibase on their existing infrastructure, using Docker, Kubernetes, and Digital Ocean.
   bulk services:
     - title: Bulk Services
     - name: EteSync
@@ -1268,17 +1266,6 @@ desktop applications:
       eyes: null
       text: >
         Built by Mozilla, "The Privacy Company". Huge extension library; great for privacy.
-    - name: Waterfox
-      url: https://www.waterfox.net/
-      eyes: 5
-      text: >
-        Based on Firefox, but **64-bit only** with an emphasis on speed and privacy. Has a "classic"
-        version built off older Firefox for legacy extension support and also an "alpha" version built
-        off Quantum. It doesn't collect any telemetry and also removes Pocket from the alpha release.
-        Project is run by [Alex Kontos](https://github.com/MrAlex94/) and is constantly in active
-        development. Looks very clean and fast. Android versions are in the works too.
-        **UPDATE:** @Nudin pointed out in [Issue \#85](https://github.com/tycrek/degoogle/issues/85) that Waterfox is now
-        [a part of System1](https://www.waterfox.net/blog/waterfox-has-joined-system1/).
     - name: Vivaldi
       url: https://vivaldi.com/
       eyes: null
@@ -1292,6 +1279,23 @@ desktop applications:
         Automatically has a few privacy extensions installed (such as HTTPS Everywhere).
         [Read this article](https://write.privacytools.io/my-thoughts-on-security/slicing-onions-part-1-myth-busting-tor)
         for more info on how it works and the benefits of using Tor. Available for Windows, Linux, macOS, and Android.
+    - name: Librewolf
+      url: https://librewolf.net/
+      repo: https://gitlab.com/librewolf-community/browser
+      eyes: null
+      text: >
+        Librewolf is a fork of Firefox, with improved privacy defaults. Similarly to Waterfox, Librewolf is based on Firefox and intends to improve privacy by default. Many privacy enthusiasts have recommended it as a more effective privacy browser than other Firefox forks.
+    - name: Waterfox
+      url: https://www.waterfox.net/
+      eyes: 5
+      text: >
+        Based on Firefox, but **64-bit only** with an emphasis on speed and privacy. Has a "classic"
+        version built off older Firefox for legacy extension support and also an "alpha" version built
+        off Quantum. It doesn't collect any telemetry and also removes Pocket from the alpha release.
+        Project is run by [Alex Kontos](https://github.com/MrAlex94/) and is constantly in active
+        development. Looks very clean and fast. Android versions are in the works too.
+        **UPDATE:** @Nudin pointed out in [Issue \#85](https://github.com/tycrek/degoogle/issues/85) that Waterfox is now
+        [a part of System1](https://www.waterfox.net/blog/waterfox-has-joined-system1/).
   earth:
     - title: Earth
     - name: KDE Marble
@@ -1954,6 +1958,13 @@ mobile applications:
       eyes: null
       text: >
         Open-source local music player for Android. Available on F-Droid or by direct download.
+    - name: Pulse Music
+      url: https://github.com/HardcodeCoder/PulseMusic
+      repo: https://github.com/HardcodeCoder/PulseMusic
+      fdroid: com.hardcodecoder.pulsemusic
+      eyes: null
+      text: >
+        A music player app to complement your offline music collection with playlist support, theme options, multiple now playing screen, quick play shortcuts, QS tiles, sleep timer and lot of useful customisations.
   hangouts:
     - title: Hangouts
     - name: Keybase
@@ -2167,11 +2178,6 @@ mobile applications:
 hardware:
   nexus pixel:
     - title: Nexus/Pixel
-    - name: This list
-      url: https://www.oneclickroot.com/rootable/
-      eyes: null
-      text: >
-        Shows compatibility for rooting Android devices.
     - name: Purism Librem 5
       url: https://puri.sm/products/librem-5/
       eyes: 5

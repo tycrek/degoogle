@@ -1,0 +1,25 @@
+name: README Edit Protection
+
+on:
+  pull_request_target:
+
+jobs:
+  check:
+    name: 'File check'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+      - name: Get changed files
+        id: changed-files
+        uses: tj-actions/changed-files@v39
+      - name: Check if README included
+        run: |
+           for file in ${{ steps.changed-files.outputs. modified_files }}; do
+              if [[ $file == 'README.md' ]]; then
+                 echo "[!] README.md was edited, blocking!"
+                 exit 1
+              fi
+           done
