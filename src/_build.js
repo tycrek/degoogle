@@ -175,5 +175,5 @@ function generatePublications(pubTitle, filename) {
 }
 
 // ! Generate README.md
-fs.writeFileSync(path.join(__dirname, 'README.md'), Object.values(BUILD_SECTION).map((section) => section()).join(`${EOL}${EOL}`));
+fs.writeFileSync(path.join(process.cwd(), 'README.md'), Object.values(BUILD_SECTION).map((section) => section()).join(`${EOL}${EOL}`));
 console.log('Done!');

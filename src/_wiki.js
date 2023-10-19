@@ -71,7 +71,7 @@ function putWiki(lastId, token) {
             method: 'POST',
             headers: { 'Authorization': `bearer ${token}`, 'Content-Type': CONTENT_TYPE },
             body: qs.stringify({
-                content: fixContent(fs.readFileSync(path.join(__dirname, 'README.md')).toString()),
+                content: fixContent(fs.readFileSync(path.join(process.cwd(), 'README.md')).toString()),
                 page: WIKI_PAGE,
                 reason: WIKI_REASON,
                 previous: lastId
