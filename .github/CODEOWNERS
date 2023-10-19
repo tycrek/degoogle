@@ -1,0 +1,12 @@
+# Protect build scripts
+*.js	@tycrek
+
+# Protect NPM files
+*.json	@tycrek
+
+# Protect MIRRORS.md
+/MIRRORS.md	@tycrek
+
+# Protect .github & others
+/.github/	@tycrek
+/.gitattributes @tycrek
