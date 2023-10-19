@@ -12,23 +12,12 @@ const REDDIT_PASS = process.env.REDDIT_PASS || 'password';
 const REDDIT_CLIENT_ID = process.env.REDDIT_CLIENT_ID || 'clientid';
 const REDDIT_CLIENT_SECRET = process.env.REDDIT_CLIENT_SECRET || 'clientsecret';
 
-// Initial basic authorization for getting the Oauth token
-const BASIC_AUTH = `Basic ${Buffer.from(REDDIT_CLIENT_ID + ':' + REDDIT_CLIENT_SECRET).toString('base64')}`;
-
-// WIKI_: For the Reddit Wiki
-const WIKI_SUBREDDIT = 'privacy';
-const WIKI_PAGE = 'de-google';
-const WIKI_REASON = 'Automated edit from GitHub repo: https://github.com/tycrek/degoogle';
-
 // Endpoints for each of our fetches to Reddit
 const ENDPOINTS = {
-    revisions: `https://old.reddit.com/r/${WIKI_SUBREDDIT}/wiki/revisions/${WIKI_PAGE}.json`,
+    revisions: `https://old.reddit.com/r/privacy/wiki/revisions/de-google.json`,
     token: 'https://www.reddit.com/api/v1/access_token',
-    edit: `https://oauth.reddit.com/r/${WIKI_SUBREDDIT}/api/wiki/edit`
+    edit: `https://oauth.reddit.com/r/privacy/api/wiki/edit`
 };
-
-// Helps POST data be submitted properly
-const CONTENT_TYPE = 'application/x-www-form-urlencoded';
 
 // Update the wiki
 Promise.all([getLastRevision(), getToken()])
@@ -54,8 +43,15 @@ function getToken() {
     return new Promise((resolve, reject) =>
         fetch(ENDPOINTS.token, {
             method: 'POST',
-            headers: { 'Authorization': BASIC_AUTH, 'Content-Type': CONTENT_TYPE },
-            body: qs.stringify({ grant_type: 'password', username: REDDIT_USER, password: REDDIT_PASS })
+            headers: {
+                'Authorization': `Basic ${Buffer.from(`${REDDIT_CLIENT_ID}:${REDDIT_CLIENT_SECRET}`).toString('base64')}`,
+                'Content-Type': 'application/x-www-form-urlencoded'
+            },
+            body: qs.stringify({
+                grant_type: 'password',
+                username: REDDIT_USER,
+                password: REDDIT_PASS
+            })
         })
             .then((response) => response.json())
             .then(({ access_token }) => resolve(access_token))
@@ -71,11 +67,14 @@ function putWiki(lastId, token) {
     return new Promise((resolve, reject) =>
         fetch(ENDPOINTS.edit, {
             method: 'POST',
-            headers: { 'Authorization': `bearer ${token}`, 'Content-Type': CONTENT_TYPE },
+            headers: {
+                'Authorization': `bearer ${token}`,
+                'Content-Type': 'application/x-www-form-urlencoded'
+            },
             body: qs.stringify({
                 content: fixContent(fs.readFileSync(path.join(process.cwd(), 'README.md')).toString()),
-                page: WIKI_PAGE,
-                reason: WIKI_REASON,
+                page: 'de-google',
+                reason: 'Automated edit from GitHub repo: https://github.com/tycrek/degoogle',
                 previous: lastId
             })
         })
@@ -92,12 +91,12 @@ function putWiki(lastId, token) {
  * @param {String} content The content in README.md
  */
 function fixContent(content) {
-    // Fix updated timestamp
-    content = content.replace(/\!\[Updated\](.*?)square\)/g, `#### Updated: ${DateTime.now().toFormat('MMMM dd, yyyy')}`);
+    return content
 
-    // Fix published timestamps
-    content = content.replace(/\!\[Published\]\(https\:\/\/img\.shields\.io\/badge\//g, '**');
-    content = content.replace(/-informational\?style=flat-square\)/g, '**');
+        // Fix updated timestamp
+        .replace(/\!\[Updated\](.*?)square\)/g, `#### Updated: ${DateTime.now().toFormat('MMMM dd, yyyy')}`)
 
-    return content;
-} // * If this is highlighted weirdly, it's because of the 'updated timestamp' regex, don't worry about it
+        // Fix published timestamps
+        .replace(/\!\[Published\]\(https\:\/\/img\.shields\.io\/badge\//g, '**')
+        .replace(/-informational\?style=flat-square\)/g, '**');
+}
