@@ -46,10 +46,6 @@
   url: https://addons.mozilla.org/en-US/firefox/addon/google-search-link-fix
   text: |
     This extension prevents Google and Yandex search pages from modifying search result links when you click them. This is useful when copying links but it also helps privacy by preventing the search engines from recording your clicks.
-- name: HTTPZ
-  url: https://addons.mozilla.org/en-US/firefox/addon/httpz
-  text: |
-    HTTPZ is meant to be unobtrusive and lightweight, it respects your privacy, and is free of trans fats. Additionally, it is very configurable, and should be slightly more secure than some of the alternatives out there, since it has a couple of built-in defenses against SSL-stripping attacks.
 - name: Skip Redirect
   url: https://addons.mozilla.org/en-US/firefox/addon/skip-redirect
   text: |
