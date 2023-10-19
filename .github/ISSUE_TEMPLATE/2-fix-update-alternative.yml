@@ -19,7 +19,6 @@ body:
       options:
         - label: "**I have read the guidelines in [CONTRIBUTING.md](../blob/master/CONTRIBUTING.md)**"
           required: true
-        - label: Include my name in [CONTRIBUTORS.md](../blob/master/CONTRIBUTORS.md)
         - label: I am affiliated with this alternative
   - type: input
     id: alternative_name
