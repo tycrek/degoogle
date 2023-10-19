@@ -50,10 +50,6 @@
   url: https://addons.mozilla.org/en-US/firefox/addon/temporary-containers
   text: |
     Open tabs, websites, and links in automatically managed disposable containers. Containers isolate data websites store (cookies, storage, and more) from each other, enhancing your privacy and security while you browse.
-- name: TrackMeNot
-  url: https://addons.mozilla.org/en-US/firefox/addon/trackmenot
-  text: |
-    An artware browser add-on to protect privacy in web-search. By issuing randomized queries to common search-engines, TrackMeNot obfuscates your search profile and registers your discontent with surreptitious tracking.
 - name: Redirect AMP to HTML
   url: https://addons.mozilla.org/en-US/firefox/addon/amp2html
   text: |
