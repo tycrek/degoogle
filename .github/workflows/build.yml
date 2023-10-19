@@ -31,7 +31,8 @@ jobs:
       uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.GH_PAT }}
-        force: true
+        repository: tycrek/Degoogle
+        force_with_lease: true
     - name: Wiki
       run: node _wiki.js
       env:
