@@ -18,18 +18,6 @@
   url: https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox
   text: |
     Privacy, simplified. Our add-on provides the privacy essentials you need to seamlessly take control of your personal information, no matter where the internet takes you: tracker blocking, smarter encryption, DuckDuckGo private search, and more.
-- name: I don't care about cookies
-  url: https://addons.mozilla.org/en-US/firefox/addon/i-dont-care-about-cookies
-  text: |
-    This add-on will remove cookie warnings from almost all websites! You can report any website which still warns you about cookies: make a right click and choose 'Report a cookie warning' from the menu.
-- name: minerBlock
-  url: https://addons.mozilla.org/en-US/firefox/addon/minerblock-origin
-  text: |
-    MinerBlock is an efficient browser extension that focuses on blocking browser-based cryptocurrency miners all over the web. This extension uses two different approaches to block miners. The first one is based on blocking requests/scripts loaded from a blacklist, this is the traditional approach adopted by most ad-blockers and other mining blockers. The other approach which makes MinerBlock more efficient against cryptojacking is detecting potential mining behavior inside loaded scripts and kills them immediately. This makes the extension able to block inline scripts as well as miners running through proxies. Source code available on [GitHub](https://github.com/xd4rker/MinerBlock).
-- name: ClearURLS
-  url: https://addons.mozilla.org/en-US/firefox/addon/clearurls
-  text: |
-    This extension will automatically remove tracking elements from URLs to help protect your privacy when browse through the Internet.
 - name: Cloud Firewall
   url: https://addons.mozilla.org/en-US/firefox/addon/cloud-firewall
   text: |
@@ -38,30 +26,10 @@
   url: https://addons.mozilla.org/en-US/firefox/addon/css-exfil-protection
   text: |
     CSS Exfil is a method attackers can use to steal data from web pages using Cascading Style Sheets (CSS). This plugin sanitizes and blocks any CSS rules which may be designed to steal data.
-- name: Disconnect
-  url: https://addons.mozilla.org/en-US/firefox/addon/disconnect
-  text: |
-    Visualize and block the otherwise invisible websites that track your search and browsing history.
 - name: Firefox Multi-Account Containers
   url: https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers
   text: |
     Firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs that preserve your privacy. Cookies are separated by container, allowing you to use the web with multiple identities or accounts simultaneously.
-- name: Google search link fix (also Yandex)
-  url: https://addons.mozilla.org/en-US/firefox/addon/google-search-link-fix
-  text: |
-    This extension prevents Google and Yandex search pages from modifying search result links when you click them. This is useful when copying links but it also helps privacy by preventing the search engines from recording your clicks.
-- name: HTTPZ
-  url: https://addons.mozilla.org/en-US/firefox/addon/httpz
-  text: |
-    HTTPZ is meant to be unobtrusive and lightweight, it respects your privacy, and is free of trans fats. Additionally, it is very configurable, and should be slightly more secure than some of the alternatives out there, since it has a couple of built-in defenses against SSL-stripping attacks.
-- name: Link Cleaner
-  url: https://addons.mozilla.org/en-US/firefox/addon/link-cleaner
-  text: |
-    Clean URLs that are about to be visited: removes utm_* parameters; on item pages of aliexpress and amazon, removes tracking parameters; skip redirect pages of facebook, steam and reddit
-- name: Privacy-Oriented Origin Policy
-  url: https://addons.mozilla.org/en-US/firefox/addon/privacy-oriented-origin-policy
-  text: |
-    Prevent Firefox from sending Origin headers when they are least likely to be necessary, to protect your privacy.
 - name: Skip Redirect
   url: https://addons.mozilla.org/en-US/firefox/addon/skip-redirect
   text: |
@@ -70,10 +38,6 @@
   url: https://addons.mozilla.org/en-US/firefox/addon/temporary-containers
   text: |
     Open tabs, websites, and links in automatically managed disposable containers. Containers isolate data websites store (cookies, storage, and more) from each other, enhancing your privacy and security while you browse.
-- name: TrackMeNot
-  url: https://addons.mozilla.org/en-US/firefox/addon/trackmenot
-  text: |
-    An artware browser add-on to protect privacy in web-search. By issuing randomized queries to common search-engines, TrackMeNot obfuscates your search profile and registers your discontent with surreptitious tracking.
 - name: Redirect AMP to HTML
   url: https://addons.mozilla.org/en-US/firefox/addon/amp2html
   text: |
