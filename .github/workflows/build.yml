@@ -20,19 +20,19 @@ jobs:
       run: npm i
     - name: Build
       run: node _build.js
-    - name: Commit
+    - name: Commit & Push
       run: |
-        echo "email: ${{ vars.GH_EMAIL }}"
         git add README.md
         git config --local user.email "${{ vars.GH_EMAIL }}"
         git config --local user.name "Degoogle Bot"
         git commit --allow-empty -m "Generated README.md"
-    - name: Push
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.GH_PAT }}
-        repository: tycrek/Degoogle
-        force_with_lease: true
+        git push --force-with-lease
+#    - name: Push
+#      uses: ad-m/github-push-action@master
+#      with:
+#        github_token: ${{ secrets.GH_PAT }}
+#        repository: tycrek/Degoogle
+#        force_with_lease: true
     - name: Wiki
       run: node _wiki.js
       env:
