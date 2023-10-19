@@ -1,8 +1,6 @@
 # Degoogle Mirrors
 
-If you host a mirror, let me know through an Issue or PR so it can be added to the community mirrors list. It would be prefered if your mirror is auto-updating.
-
-Official mirrors are the main sources and are maintained by me (@tycrek). Community mirrors are other Git instances run by other users that I can't control.
+Official mirrors are managed by me ([@tycrek](https://github.com/tycrek)). Community mirrors are Git instances run by other users that I can't control (they may be out of date as well).
 
 ## Official mirrors
 
@@ -13,7 +11,7 @@ Official mirrors are the main sources and are maintained by me (@tycrek). Commun
 
 - [Gitea mirror](https://git.mirkodi.eu/mirk0dex/degoogle) from [@mirk0dex (Gitea)](https://git.mirkodi.eu/mirk0dex)
 
-## Non-english mirrors
+### Non-english mirrors
 
 - [Turkish/Türk](https://github.com/melikechan/degoogle-turkish) from [@melikechan](https://github.com/melikechan)
 - [Italian/Italiano](https://gitea.it/devol/degooglizzazione) from [@devol (Gitea)](https://gitea.it/devol)
