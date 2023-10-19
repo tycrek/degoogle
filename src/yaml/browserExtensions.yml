@@ -18,10 +18,6 @@
   url: https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox
   text: |
     Privacy, simplified. Our add-on provides the privacy essentials you need to seamlessly take control of your personal information, no matter where the internet takes you: tracker blocking, smarter encryption, DuckDuckGo private search, and more.
-- name: minerBlock
-  url: https://addons.mozilla.org/en-US/firefox/addon/minerblock-origin
-  text: |
-    MinerBlock is an efficient browser extension that focuses on blocking browser-based cryptocurrency miners all over the web. This extension uses two different approaches to block miners. The first one is based on blocking requests/scripts loaded from a blacklist, this is the traditional approach adopted by most ad-blockers and other mining blockers. The other approach which makes MinerBlock more efficient against cryptojacking is detecting potential mining behavior inside loaded scripts and kills them immediately. This makes the extension able to block inline scripts as well as miners running through proxies. Source code available on [GitHub](https://github.com/xd4rker/MinerBlock).
 - name: Cloud Firewall
   url: https://addons.mozilla.org/en-US/firefox/addon/cloud-firewall
   text: |
