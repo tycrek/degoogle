@@ -6,11 +6,13 @@ const path = require('path');
 const fetch = require('node-fetch');
 const { DateTime } = require('luxon');
 
-// REDDIT_: For authentication with Reddit API. Oauth MUST be used. ID and Secret come from a "script" app type.
-const REDDIT_USER = process.env.REDDIT_USER || 'username';
-const REDDIT_PASS = process.env.REDDIT_PASS || 'password';
-const REDDIT_CLIENT_ID = process.env.REDDIT_CLIENT_ID || 'clientid';
-const REDDIT_CLIENT_SECRET = process.env.REDDIT_CLIENT_SECRET || 'clientsecret';
+// REDDIT.: For authentication with Reddit API. Oauth MUST be used. ID and Secret come from a "script" app type.
+const REDDIT = {
+    USER: process.env.REDDIT_USER || 'username',
+    PASS: process.env.REDDIT_PASS || 'password',
+    CLIENT_ID: process.env.REDDIT_CLIENT_ID || 'clientid',
+    CLIENT_SECRET: process.env.REDDIT_CLIENT_SECRET || 'clientsecret',
+};
 
 // Endpoints for each of our fetches to Reddit
 const ENDPOINTS = {
@@ -44,13 +46,13 @@ function getToken() {
         fetch(ENDPOINTS.token, {
             method: 'POST',
             headers: {
-                'Authorization': `Basic ${Buffer.from(`${REDDIT_CLIENT_ID}:${REDDIT_CLIENT_SECRET}`).toString('base64')}`,
+                'Authorization': `Basic ${Buffer.from(`${REDDIT.CLIENT_ID}:${REDDIT.CLIENT_SECRET}`).toString('base64')}`,
                 'Content-Type': 'application/x-www-form-urlencoded'
             },
             body: qs.stringify({
                 grant_type: 'password',
-                username: REDDIT_USER,
-                password: REDDIT_PASS
+                username: REDDIT.USER,
+                password: REDDIT.PASS
             })
         })
             .then((response) => response.json())
