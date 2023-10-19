@@ -86,3 +86,20 @@
   url: https://addons.mozilla.org/en-US/firefox/addon/port-authority/
   text: |
     Blocks websites from using javascript to port scan your computer/network and dynamically blocks all LexisNexis endpoints from running their invasive data collection scripts. [Website](https://www.g666gle.me/Port-Authority/), [Source Code](https://github.com/ACK-J/Port_Authority)
+- name: LocalCDN
+  url: https://addons.mozilla.org/en-US/firefox/addon/localcdn-fork-of-decentraleyes/
+  text: |
+    This is an extension that emulates Content Delivery Networks to improve your online privacy. It intercepts traffic, finds supported resources locally, and injects them into the environment. All of this happens automatically, so no prior configuration is required.
+- name: CanvasBlocker
+  url: https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/
+  text: |
+    This extension allows users to prevent websites from using some Javascript APIs to fingerprint them.
+- name: xBrowserSync
+  url: https://addons.mozilla.org/en-US/firefox/addon/xbs/
+  text: |
+    xBrowserSync is a completely free and open source tool for syncing your bookmarks and browser data between your desktop browsers.
+- name: Privacy Settings
+  url: https://addons.mozilla.org/en-US/firefox/addon/privacy-settings/
+  text: |
+    Alter Firefox's built-in privacy settings easily with a toolbar panel.
+    
