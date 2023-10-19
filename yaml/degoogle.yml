@@ -324,7 +324,7 @@ web based products:
       text: >
         FLOSS private blogging platform. Easy to self-host (standard rails app, ships with AWS and Raspberry
         Pi deployment scripts. AWS is not required). Access restricted to accounts which you create and
-        hand out. Good for private blogs but not for commercial/public blogging.  Built-in feed reader.
+        hand out. Good for private blogs but not for commercial/public blogging. Built-in feed reader.
   analytics:
     - title: Analytics
     - name: Matomo
