@@ -3,36 +3,34 @@ on:
   push:
     branches:
       - master
-    paths:
-      - yaml/*.yml
-      - md/*.md
-      - _build.js
-      - _wiki.js
+    paths: # Only build if these files were modified
+      - src/yaml/*.yml
+      - src/md/*.md
+      - src/_build.js
+      - src/_wiki.js
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-    - uses: actions/setup-node@v1
+    - uses: actions/checkout@v4
       with:
-        node-version: 13.x
-    - name: Install dependencies
-      run: npm i
-    - name: Build
-      run: node _build.js
-    - name: Commit
+        # GH_PAT must be a PAT for repo owner
+        token: ${{ secrets.GH_PAT }}
+    - uses: actions/setup-node@v3
+      with:
+        node-version: 20.x
+    - name: Build README
+      run: npm i && node src/_build.js
+    - name: Commit & Push
+      # GH_NAME/GH_EMAIL can be any collaborator account with Force Push access
       run: |
         git add README.md
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
+        git config --local user.name "${{ vars.GH_NAME }}"
+        git config --local user.email "${{ vars.GH_EMAIL }}"
         git commit --allow-empty -m "Generated README.md"
-    - name: Push
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: master
-    - name: Wiki
-      run: node _wiki.js
+        git push --force-with-lease
+    - name: Publish Reddit Wiki
+      run: node src/_wiki.js
       env:
         REDDIT_USER: ${{ secrets.REDDIT_USER}}
         REDDIT_PASS: ${{ secrets.REDDIT_PASS}}

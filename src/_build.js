@@ -1,10 +1,10 @@
 // Build tool for generating README.md
 
-const { EOL } = require('os');
-const path = require('path');
 const fs = require('fs-extra');
-const { DateTime } = require('luxon');
+const path = require('path');
 const YAML = require('yaml');
+const { EOL } = require('os');
+const { DateTime } = require('luxon');
 
 const BUILD_SECTION = {
     header: () => readFile('md/_header.md').replace('{{DATE}}', DateTime.now().toFormat('MMMM dd, yyyy').replace(/ /g, '%20')),
@@ -175,5 +175,5 @@ function generatePublications(pubTitle, filename) {
 }
 
 // ! Generate README.md
-fs.writeFileSync(path.join(__dirname, 'README.md'), Object.values(BUILD_SECTION).map((section) => section()).join(`${EOL}${EOL}`));
+fs.writeFileSync(path.join(process.cwd(), 'README.md'), Object.values(BUILD_SECTION).map((section) => section()).join(`${EOL}${EOL}`));
 console.log('Done!');
