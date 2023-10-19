@@ -1,10 +1,10 @@
 // Build tool for generating README.md
 
-const { EOL } = require('os');
-const path = require('path');
 const fs = require('fs-extra');
-const { DateTime } = require('luxon');
+const path = require('path');
 const YAML = require('yaml');
+const { EOL } = require('os');
+const { DateTime } = require('luxon');
 
 const BUILD_SECTION = {
     header: () => readFile('md/_header.md').replace('{{DATE}}', DateTime.now().toFormat('MMMM dd, yyyy').replace(/ /g, '%20')),

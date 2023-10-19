@@ -1,7 +1,9 @@
+// Build tool for uploading generated README.md to Reddit Wiki
+
+const qs = require('qs');
 const fs = require('fs-extra');
 const path = require('path');
 const fetch = require('node-fetch');
-const qs = require('qs');
 const { DateTime } = require('luxon');
 
 // REDDIT_: For authentication with Reddit API. Oauth MUST be used. ID and Secret come from a "script" app type.
