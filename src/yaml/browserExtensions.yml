@@ -42,10 +42,6 @@
   url: https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers
   text: |
     Firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs that preserve your privacy. Cookies are separated by container, allowing you to use the web with multiple identities or accounts simultaneously.
-- name: Google search link fix (also Yandex)
-  url: https://addons.mozilla.org/en-US/firefox/addon/google-search-link-fix
-  text: |
-    This extension prevents Google and Yandex search pages from modifying search result links when you click them. This is useful when copying links but it also helps privacy by preventing the search engines from recording your clicks.
 - name: Skip Redirect
   url: https://addons.mozilla.org/en-US/firefox/addon/skip-redirect
   text: |
