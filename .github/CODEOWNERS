@@ -10,3 +10,6 @@
 # Protect .github & others
 /.github/	@tycrek
 /.gitattributes @tycrek
+
+# Protect README.md (restricted to degoogle-bot)
+/README.md	@degoogle-bot
