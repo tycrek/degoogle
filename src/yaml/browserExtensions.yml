@@ -30,10 +30,6 @@
   url: https://addons.mozilla.org/en-US/firefox/addon/css-exfil-protection
   text: |
     CSS Exfil is a method attackers can use to steal data from web pages using Cascading Style Sheets (CSS). This plugin sanitizes and blocks any CSS rules which may be designed to steal data.
-- name: Disconnect
-  url: https://addons.mozilla.org/en-US/firefox/addon/disconnect
-  text: |
-    Visualize and block the otherwise invisible websites that track your search and browsing history.
 - name: Firefox Multi-Account Containers
   url: https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers
   text: |
