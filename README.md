@@ -20,7 +20,7 @@
 
 ### *I don't have anything to hide, but I don't have anything to show you either.*
 
-![Updated](https://img.shields.io/static/v1?label=updated&message=October%2018th%202023&color=388E3C&style=flat-square)
+![Updated](https://img.shields.io/static/v1?label=updated&message=October%2019,%202023&color=388E3C&style=flat-square)
 ![License](https://img.shields.io/badge/License-CC--BY--SA%204.0-green.svg?style=flat-square)
 
 ![GitHub stars](https://img.shields.io/github/stars/tycrek/degoogle?style=flat-square)
@@ -218,7 +218,7 @@ When contributing, **please follow the rules outlined in [CONTRIBUTING.md](https
 | [Noblogs](https://noblogs.org/) | **9-eyes** | A privacy/security focused blogging platform. |
 | [Ghost](https://ghost.org/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/TryGhost/Ghost)<br/>![GitHub Repo stars](https://img.shields.io/github/stars/TryGhost/Ghost?logo=github&style=flat-square) |  | Open-source modern CMS. Boasts "over 19x faster than WordPress". Thanks @peterge1998 |
 | [Bear](https://bearblog.dev/) | **5-eyes** | Free, no-nonsense, super-fast blogging. No javascript, no stylesheets, no trackers. Just your words. |
-| [Simpleblogs](https://simpleblogs.org/) |  | FLOSS blogging platform with a focus on privacy. Easy to self-host (standard rails app, ships with AWS deployment scripts. AWS is not required). Access restricted to accounts which you create and hand out. Good for private blogs but not for commercial/public blogging. |
+| [Haven](https://havenweb.org/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/havenweb/haven)<br/>![GitHub Repo stars](https://img.shields.io/github/stars/havenweb/haven?logo=github&style=flat-square) |  | FLOSS private blogging platform. Easy to self-host (standard rails app, ships with AWS and Raspberry Pi deployment scripts. AWS is not required). Access restricted to accounts which you create and hand out. Good for private blogs but not for commercial/public blogging. Built-in feed reader. |
 
 
 
@@ -257,6 +257,7 @@ When contributing, **please follow the rules outlined in [CONTRIBUTING.md](https
 | [PhotoStructure](https://photostructure.com/) |  | Self-hosted photo and video manager. Cross-platform (macOS, Windows, Linux, Docker). Scales to millions of assets, with automatic organization, auto-transcoding, and advanced de-duplication. |
 | [Lychee](https://lycheeorg.github.io/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/LycheeOrg/Lychee)<br/>![GitHub Repo stars](https://img.shields.io/github/stars/LycheeOrg/Lychee?logo=github&style=flat-square) |  | An open-source self-hosted photo-management tool that includes built-in support for videos. Thanks @m0yP |
 | [ente](https://ente.io/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/ente-io/)<br/> | **5-eyes** | A paid, cloud-based, open-source photo storage app with a focus on security and privacy. Apps are available for iOS, Android, web and desktop. |
+| [Photoview](https://photoview.github.io/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/photoview/photoview)<br/>![GitHub Repo stars](https://img.shields.io/github/stars/photoview/photoview?logo=github&style=flat-square) |  | Self-hosted and open-source Personal Photo Management with options for face grouping, albums, sharing, automatic thumbnail generation, and map pins. |
 
 
 
@@ -499,6 +500,7 @@ No known alternatives.
 | [DivestOS](https://divestos.org/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/divested-mobile)<br/> |  | DivestOS is an alternative Android ROM with enhanced privacy and security along with support for many older devices. It is an unofficial soft fork of LineageOS. Website also [available through Tor](http://divestoseb5nncsydt7zzf5hrfg44md4bxqjs5ifcv4t7gt7u6ohjyyd.onion/). |
 
 - *You'll either need a rooted device with an unlocked bootloader, or a specific device depending on which OS you like.*
+- *You can use [Anarchy-Droid](https://anarchy-droid.com) to install a new operating system on many Android devices.*
 - *Please see [Issue \#55](https://github.com/tycrek/degoogle/issues/55) for details on /e/.*
 - *You can use [Plexus](https://plexus.techlore.tech/) to check android app compatibility on degoogled Android operating systems.*
 

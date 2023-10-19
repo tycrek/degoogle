@@ -479,6 +479,12 @@ web based products:
       eyes: 5
       text: >
         A paid, cloud-based, open-source photo storage app with a focus on security and privacy. Apps are available for iOS, Android, web and desktop.
+    - name: Photoview
+      url: https://photoview.github.io/
+      repo: https://github.com/photoview/photoview
+      eyes: null
+      text: >
+        Self-hosted and open-source Personal Photo Management with options for face grouping, albums, sharing, automatic thumbnail generation, and map pins.
   calendar:
     - title: Calendar
     - name: Lightning Calendar (Thunderbird)
