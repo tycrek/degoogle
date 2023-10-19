@@ -30,7 +30,7 @@ jobs:
         git commit --allow-empty -m "Generated README.md"
         git push --force-with-lease
     - name: Publish Reddit Wiki
-      run: node _wiki.js
+      run: node src/_wiki.js
       env:
         REDDIT_USER: ${{ secrets.REDDIT_USER}}
         REDDIT_PASS: ${{ secrets.REDDIT_PASS}}
