@@ -39,7 +39,7 @@
     4. [Desktop applications](#desktop-apps)
     5. [Mobile applications](#mobile-apps)
     6. [Hardware](#hardware)
-4. [Useful links, tools, and advice](#useful-links-tools-and-advice)
+4. **[Useful links, tools, and advice](#useful-links-tools-and-advice)**
     1. [Resources](#resources)
     1. [Books](#books)
     1. [Blog posts](#blog-posts)
