@@ -20,7 +20,7 @@ jobs:
       with:
         node-version: 20.x
     - name: Build README
-      run: npm i && node _build.js
+      run: npm i && node src/_build.js
     - name: Commit & Push
       # GH_NAME/GH_EMAIL can be any collaborator account with Force Push access
       run: |
