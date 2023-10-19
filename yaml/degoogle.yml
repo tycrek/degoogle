@@ -317,13 +317,14 @@ web based products:
       eyes: 5
       text: >
         Free, no-nonsense, super-fast blogging. No javascript, no stylesheets, no trackers. Just your words.
-    - name: Simpleblogs
-      url: https://simpleblogs.org/
+    - name: Haven
+      url: https://havenweb.org/
+      repo: https://github.com/havenweb/haven
       eyes: null
       text: >
-        FLOSS blogging platform with a focus on privacy. Easy to self-host (standard rails app, ships
-        with AWS deployment scripts. AWS is not required). Access restricted to accounts which you
-        create and hand out. Good for private blogs but not for commercial/public blogging.
+        FLOSS private blogging platform. Easy to self-host (standard rails app, ships with AWS and Raspberry
+        Pi deployment scripts. AWS is not required). Access restricted to accounts which you create and
+        hand out. Good for private blogs but not for commercial/public blogging. Built-in feed reader.
   analytics:
     - title: Analytics
     - name: Matomo
