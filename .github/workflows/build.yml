@@ -12,18 +12,12 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout
-      uses: actions/checkout@v4
-      with:
-        token: ${{ secrets.GH_PAT }}
-    - name: Setup Node
-      uses: actions/setup-node@v3
+    - uses: actions/checkout@v4
+    - uses: actions/setup-node@v3
       with:
         node-version: 20.x
-    - name: Install dependencies
-      run: npm i
-    - name: Build
-      run: node _build.js
+    - name: Build README
+      run: npm i && node _build.js
     - name: Commit & Push
       run: |
         git add README.md
@@ -37,7 +31,7 @@ jobs:
 #        github_token: ${{ secrets.GH_PAT }}
 #        repository: tycrek/Degoogle
 #        force_with_lease: true
-    - name: Wiki
+    - name: Publish Reddit Wiki
       run: node _wiki.js
       env:
         REDDIT_USER: ${{ secrets.REDDIT_USER}}
