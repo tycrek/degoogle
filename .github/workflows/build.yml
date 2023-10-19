@@ -3,7 +3,7 @@ on:
   push:
     branches:
       - master
-    paths:
+    paths: # Only build if these files were modified
       - yaml/*.yml
       - md/*.md
       - _build.js
@@ -14,6 +14,7 @@ jobs:
     steps:
     - uses: actions/checkout@v4
       with:
+        # GH_PAT must be a PAT for repo owner
         token: ${{ secrets.GH_PAT }}
     - uses: actions/setup-node@v3
       with:
@@ -21,6 +22,7 @@ jobs:
     - name: Build README
       run: npm i && node _build.js
     - name: Commit & Push
+      # GH_NAME/GH_EMAIL can be any collaborator account with Force Push access
       run: |
         git add README.md
         git config --local user.name "${{ vars.GH_NAME }}"
