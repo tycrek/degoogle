@@ -54,10 +54,6 @@
   url: https://addons.mozilla.org/en-US/firefox/addon/link-cleaner
   text: |
     Clean URLs that are about to be visited: removes utm_* parameters; on item pages of aliexpress and amazon, removes tracking parameters; skip redirect pages of facebook, steam and reddit
-- name: Privacy-Oriented Origin Policy
-  url: https://addons.mozilla.org/en-US/firefox/addon/privacy-oriented-origin-policy
-  text: |
-    Prevent Firefox from sending Origin headers when they are least likely to be necessary, to protect your privacy.
 - name: Skip Redirect
   url: https://addons.mozilla.org/en-US/firefox/addon/skip-redirect
   text: |
