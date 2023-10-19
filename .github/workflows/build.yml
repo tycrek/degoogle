@@ -4,10 +4,10 @@ on:
     branches:
       - master
     paths: # Only build if these files were modified
-      - yaml/*.yml
-      - md/*.md
-      - _build.js
-      - _wiki.js
+      - src/yaml/*.yml
+      - src/md/*.md
+      - src/_build.js
+      - src/_wiki.js
 jobs:
   build:
     runs-on: ubuntu-latest
