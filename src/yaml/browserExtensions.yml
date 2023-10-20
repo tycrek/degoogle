@@ -42,6 +42,10 @@
   url: https://addons.mozilla.org/en-US/firefox/addon/port-authority/
   text: |
     Blocks websites from using javascript to port scan your computer/network and dynamically blocks all LexisNexis endpoints from running their invasive data collection scripts. [Website](https://www.g666gle.me/Port-Authority/), [Source Code](https://github.com/ACK-J/Port_Authority)
+- name: I Still Don't Care About Cookies
+  url: https://addons.mozilla.org/firefox/addon/istilldontcareaboutcookies/
+  text: |
+    A fork of "I Don't Care About Cookies" created after the original was [acquired by Avast](https://www.androidpolice.com/i-dont-care-about-cookies-acquired-by-avast/). [Source code](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies/)
 - name: user.js
   url: https://github.com/arkenfox/user.js
   text: |
