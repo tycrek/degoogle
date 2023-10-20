@@ -1578,13 +1578,6 @@ mobile applications:
         Open-source contacts. (thanks u/consentio)
   messages:
     - title: Android Messages (specifically SMS/MMS, not IM)
-    - name: QKSMS
-      url: https://github.com/moezbhatti/qksms
-      repo: https://github.com/moezbhatti/qksms
-      fdroid: com.moez.QKSMS
-      eyes: null
-      text: >
-        Open-source. Very clean and feature rich SMS app. Available on F-Droid.
     - name: Signal
       url: https://signal.org/
       repo: https://github.com/signalapp
