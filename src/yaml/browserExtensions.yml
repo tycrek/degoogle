@@ -38,11 +38,11 @@
   url: https://addons.mozilla.org/en-US/firefox/addon/amp2html
   text: |
     This web extension enables users to choose to opt-out of using Accelerated Mobile Pages (AMP) and choose to use the standard web instead.
-- name: user.js
-  url: https://github.com/arkenfox/user.js
-  text: |
-    This is not an extension, instead it is a Firefox `user.js` config file. This file is a template which aims to provide as much privacy and enhanced security as possible, and to reduce tracking and fingerprinting as much as possible - while minimizing any loss of functionality and breakage (but it will happen).
 - name: Port Authority
   url: https://addons.mozilla.org/en-US/firefox/addon/port-authority/
   text: |
     Blocks websites from using javascript to port scan your computer/network and dynamically blocks all LexisNexis endpoints from running their invasive data collection scripts. [Website](https://www.g666gle.me/Port-Authority/), [Source Code](https://github.com/ACK-J/Port_Authority)
+- name: user.js
+  url: https://github.com/arkenfox/user.js
+  text: |
+    This is not an extension, instead it is a Firefox `user.js` config file. This file is a template which aims to provide as much privacy and enhanced security as possible, and to reduce tracking and fingerprinting as much as possible - while minimizing any loss of functionality and breakage (but it will happen).
