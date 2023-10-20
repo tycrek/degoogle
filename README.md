@@ -81,6 +81,8 @@ When contributing, **follow the rules outlined in [CONTRIBUTING.md](https://gith
 
 # Browser extensions
 
+Make sure to enable **[HTTPS-Only mode](https://www.eff.org/https-everywhere/set-https-default-your-browser#main-content)** for your browser.
+
 | Name | Description |
 | ---- | ----------- |
 | [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin) ![Mozilla Add-on](https://img.shields.io/amo/users/ublock-origin?style=flat-square) | uBlock Origin is not an "ad blocker", it's a wide-spectrum content blocker with CPU and memory efficiency as a primary feature. |
