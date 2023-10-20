@@ -6,10 +6,6 @@
   url: https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17
   text: |
     Privacy Badger automatically learns to block invisible trackers. Instead of keeping lists of what to block, Privacy Badger learns by watching which domains appear to be tracking you as you browse the Web.
-- name: HTTPS Everywhere
-  url: https://addons.mozilla.org/en-US/firefox/addon/https-everywhere
-  text: |
-    Many sites on the web offer some limited support for encryption over HTTPS, but make it difficult to use. For instance, they may default to unencrypted HTTP, or fill encrypted pages with links that go back to the unencrypted site. The HTTPS Everywhere extension fixes these problems by rewriting all requests to these sites to HTTPS. Note: EFF is preparing to deprecate the HTTPS Everywhere, check out this [blog post](https://www.eff.org/deeplinks/2021/09/https-actually-everywhere).
 - name: Cookie AutoDelete
   url: https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete
   text: |
