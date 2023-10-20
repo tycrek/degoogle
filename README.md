@@ -583,7 +583,6 @@ No known alternatives.
 | [VSCodium](https://vscodium.com/) |  | VSCodium is Visual Studio Code but without all the Microsoft telemetry and branding. |
 | [Vim](https://www.vim.org/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/vim/vim)<br/>![GitHub Repo stars](https://img.shields.io/github/stars/vim/vim?logo=github&style=flat-square) |  | Open-source text editor. Thanks @moon-chilled |
 | [Emacs](https://www.gnu.org/software/emacs/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/emacs-mirror/emacs)<br/>![GitHub Repo stars](https://img.shields.io/github/stars/emacs-mirror/emacs?logo=github&style=flat-square) |  | Another open-source text editor. Thanks @moon-chilled |
-| [Atom](https://atom.io/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/atom/atom)<br/>![GitHub Repo stars](https://img.shields.io/github/stars/atom/atom?logo=github&style=flat-square) |  | Atom is a free and open-source text and source code editor for macOS, Linux, and Microsoft Windows with support for plug-ins written in Node.js, and embedded Git Control, developed by GitHub. Atom is a desktop application built using web technologies. (From [Wikipedia](https://en.wikipedia.org/wiki/Atom_(text_editor))) Thanks @woutfeys |
 
 
 
