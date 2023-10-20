@@ -158,7 +158,7 @@ function dateBadge(date) {
  * Generates a table with browser extensions and their descriptions
  */
 function generateBrowserExtensions() {
-    return `# Browser extensions${EOL + EOL}| Name | Description |${EOL}| ---- | ----------- |${EOL}`
+    return `# Browser extensions${EOL + EOL}Make sure to enable **[HTTPS-Only mode](https://www.eff.org/https-everywhere/set-https-default-your-browser#main-content)** for your browser.${EOL + EOL}| Name | Description |${EOL}| ---- | ----------- |${EOL}`
         .concat(YAML.parse(fs.readFileSync(path.join(__dirname, 'yaml/browserExtensions.yml')).toString())
             .map(({ name, text, url }) => `| [${name}](${url}) ${addonLink(url)} | ${text.trim()} |${EOL}`).join(''));
 }
