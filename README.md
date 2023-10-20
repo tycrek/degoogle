@@ -779,7 +779,7 @@ No known alternatives.
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [NewPipe](https://newpipe.schabi.org/)<br/>[![F-Droid](https://img.shields.io/f-droid/v/org.schabi.newpipe?style=flat-square&logo=f-droid)](https://f-droid.org/en/packages/org.schabi.newpipe/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/TeamNewPipe/NewPipe)<br/>![GitHub Repo stars](https://img.shields.io/github/stars/TeamNewPipe/NewPipe?logo=github&style=flat-square) |  | Powerful open-source YouTube alternative. Supports audio only; background playback; picture-in-picture; no ads. |
-| [YouTube Vanced](https://forum.xda-developers.com/android/apps-games/app-youtube-vanced-edition-t3758757) |  | Please read the XDA post before deciding to use this. |
+| [ReVanced](https://revanced.app/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/revanced/revanced-manager)<br/>![GitHub Repo stars](https://img.shields.io/github/stars/revanced/revanced-manager?logo=github&style=flat-square) |  | ReVanced started when [Vanced was forced to shut down](https://www.androidauthority.com/youtube-vanced-discontinued-3132147). Their Patcher tool is able to create patches for many apps with very little maintenance. |
 
 
 
