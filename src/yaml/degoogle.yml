@@ -1320,16 +1320,6 @@ desktop applications:
       eyes: null
       text: >
         Another open-source text editor. Thanks @moon-chilled
-    - name: Atom
-      url: https://atom.io/
-      repo: https://github.com/atom/atom
-      eyes: null
-      text: >
-        Atom is a free and open-source text and source code editor for macOS, Linux, and Microsoft
-        Windows with support for plug-ins written in Node.js, and embedded Git Control, developed by
-        GitHub. Atom is a desktop application built using web technologies.
-        (From [Wikipedia](https://en.wikipedia.org/wiki/Atom_(text_editor)))
-        Thanks @woutfeys
 flutter:
   - title: flutter cross platform development tool for iOS/Android etc. based on Dart
   - name: Apache Cordova
