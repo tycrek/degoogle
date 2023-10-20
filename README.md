@@ -924,7 +924,7 @@ No known alternatives.
 
 No known alternatives.
 
-- *Due to Google's [recent acquisition of FitBit](https://outline.com/tsJCYN), it is recommended to avoid using FitBit. Instead, check out this [list of smart watches](https://asteroidos.org/install/) supported by Asteroid OS (See Wear OS in [Operating systems](#operating-systems)). Thanks @ribtoks*
+- *Due to Google's [recent acquisition of FitBit](https://blog.google/products/devices-services/fitbit-acquisition/), it is recommended to avoid using FitBit. Instead, check out this [list of smart watches](https://asteroidos.org/install/) supported by Asteroid OS (See Wear OS in [Operating systems](#operating-systems)). Thanks @ribtoks*
 
 
 
