@@ -1861,11 +1861,13 @@ mobile applications:
       text: >
         Powerful open-source YouTube alternative. Supports audio only; background playback;
         picture-in-picture; no ads.
-    - name: YouTube Vanced
-      url: https://forum.xda-developers.com/android/apps-games/app-youtube-vanced-edition-t3758757
+    - name: ReVanced
+      url: https://revanced.app/
+      repo: https://github.com/revanced/revanced-manager
       eyes: null
       text: >
-        Please read the XDA post before deciding to use this.
+        ReVanced started when [Vanced was forced to shut down](https://www.androidauthority.com/youtube-vanced-discontinued-3132147).
+        Their Patcher tool is able to create patches for many apps with very little maintenance.
   authenticator:
     - title: Authenticator
     - name: andOTP
