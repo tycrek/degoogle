@@ -103,11 +103,6 @@ web based products:
       text: >
         Looks very similar to YouTube. Advertised as "first crypt-decentralized video-platform". Built
         on Steemit and IPFS.
-    - name: Bit.tube
-      url: https://bit.tube/
-      eyes: null
-      text: >
-        Appears to be a crypto-powered decentralized video sharing service. (thanks u/rudolf323)
     - name: Invidious
       url: https://invidio.us/
       repo: https://github.com/omarroth/invidious
@@ -116,11 +111,6 @@ web based products:
         An open-source front-end alternative to YouTube. Seems to work pretty well from my experience
         so far, and it hasn't triggered *anything* on my adblocker/privacy extensions. Also offers
         downloads in many formats for videos (including `.vtt` subtitles).
-    - name: Hooktube
-      url: https://hooktube.com/
-      eyes: null
-      text: >
-        A slightly better way to use actual YouTube. (Use as a "last resort")
     - name: LBRY
       url: https://lbry.com/
       repo: https://github.com/lbryio
