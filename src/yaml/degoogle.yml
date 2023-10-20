@@ -1578,21 +1578,6 @@ mobile applications:
         Open-source contacts. (thanks u/consentio)
   messages:
     - title: Android Messages (specifically SMS/MMS, not IM)
-    - name: QKSMS
-      url: https://github.com/moezbhatti/qksms
-      repo: https://github.com/moezbhatti/qksms
-      fdroid: com.moez.QKSMS
-      eyes: null
-      text: >
-        Open-source. Very clean and feature rich SMS app. Available on F-Droid.
-    - name: Silence.im
-      url: https://silence.im/
-      repo: https://silence.im/contribute
-      fdroid: org.smssecure.smssecure
-      eyes: null
-      text: >
-        Open-source and utilizes Signal's encryption protocol. Seamlessly works with SMS. End-to-end
-        encryption with other Silence users. Available on F-Droid.
     - name: Signal
       url: https://signal.org/
       repo: https://github.com/signalapp
