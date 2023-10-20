@@ -38,7 +38,7 @@
 
 ### *I don't have anything to hide, but I don't have anything to show you either.*
 
-![Updated](https://img.shields.io/static/v1?label=updated&message=October%2019,%202023&color=388E3C&style=flat-square)
+![Updated](https://img.shields.io/static/v1?label=updated&message=October%2020,%202023&color=388E3C&style=flat-square)
 ![License](https://img.shields.io/badge/License-CC--BY--SA%204.0-green.svg?style=flat-square)
 
 ![GitHub stars](https://img.shields.io/github/stars/tycrek/degoogle?style=flat-square)
@@ -677,8 +677,6 @@ No known alternatives.
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
-| [QKSMS](https://github.com/moezbhatti/qksms)<br/>[![F-Droid](https://img.shields.io/f-droid/v/com.moez.QKSMS?style=flat-square&logo=f-droid)](https://f-droid.org/en/packages/com.moez.QKSMS/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/moezbhatti/qksms)<br/>![GitHub Repo stars](https://img.shields.io/github/stars/moezbhatti/qksms?logo=github&style=flat-square) |  | Open-source. Very clean and feature rich SMS app. Available on F-Droid. |
-| [Silence.im](https://silence.im/)<br/>[![F-Droid](https://img.shields.io/f-droid/v/org.smssecure.smssecure?style=flat-square&logo=f-droid)](https://f-droid.org/en/packages/org.smssecure.smssecure/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=silence)](https://silence.im/contribute)<br/> |  | Open-source and utilizes Signal's encryption protocol. Seamlessly works with SMS. End-to-end encryption with other Silence users. Available on F-Droid. |
 | [Signal](https://signal.org/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/signalapp)<br/> |  | Open-source. Signal possesses SMS/MMS capabilities on Android. Using it as your default SMS app has the advantage of having your SMS and your online-messaging-service integrated within one app. Doing so will also show stats within the app of how many messages you send are encrypted, and offers to send invites to your contacts.<br/><br/>Thanks @Glitchy-Tozier for suggesting it be listing as SMS/MMS alternative. |
 
 
