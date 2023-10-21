@@ -1023,6 +1023,12 @@ web based products:
       text: >
         Open-source fonts that work in a very similar way to Google fonts. Most of the fonts render
         nicer than Google Fonts.
+    - name: Fontsource
+      url: https://fontsource.org
+      repo: https://github.com/fontsource/fontsource
+      eyes: 5
+      text: >
+        Self-host Open Source fonts in neatly bundled NPM packages.
   classroom:
     - title: Classroom
     - name: Moodle

@@ -89,6 +89,7 @@ Thanks to everyone here for contributing in some way! (usernames are in no parti
 - [@mniehe](https://github.com/mniehe)
 - [@dwebfan](https://github.com/dwebfan)
 - [@namelessperson0](https://github.com/namelessperson0)
+- [@jwr12135](https://github.com/jwr12135)
 
 ### Reddit:
 
