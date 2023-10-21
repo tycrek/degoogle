@@ -419,6 +419,12 @@ web based products:
       eyes: 5
       text: >
         Offers cookieless tracking and no PII collected.
+    - name: Swetrix
+      url: https://swetrix.com/
+      repo: https://github.com/swetrix/swetrix-js
+      eyes: 14
+      text: >
+        Privacy-focused, cookieless and selfhostable alternative to Google Analytics.
   photos:
     - title: Photos
     - name: Photoprism
