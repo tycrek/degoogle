@@ -260,7 +260,7 @@ web based products:
       text: >
         An open-source self-hosted web hosting platform for a wide set of web applications, including
         Etherpad (collaborative text editing), Radicale (calendar), Lychee (image hosting), Wekan (Kanban)
-   google workflow:
+  google workflow:
     - title: Google Workflow
     - name: Activepieces
       url: https://www.activepieces.com/
