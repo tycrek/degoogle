@@ -1004,6 +1004,7 @@ Everything you need to become a privacy wizard. This section has two subsections
 | [The Attention Merchants](http://www.timwu.org/AttentionMerchants.html) | ![Published](https://img.shields.io/badge/2016-informational?style=flat-square) | Tim Wu |
 | [Zucked](https://www.zuckedbook.com/) | ![Published](https://img.shields.io/badge/2019-informational?style=flat-square) | Roger McNamee |
 | [Privacy Is Power](https://www.penguin.co.uk/books/1120394/privacy-is-power/9780552177719.html) | ![Published](https://img.shields.io/badge/2021-informational?style=flat-square) | Carissa Véliz |
+| [Life After Google: The Fall of Big Data and the Rise of the Blockchain Economy](https://www.worldcat.org/title/1286794949) | ![Published](https://img.shields.io/badge/2018-informational?style=flat-square) | George Gilder |
 
 
 ## Blog posts 
