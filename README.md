@@ -38,7 +38,7 @@
 
 ### *I don't have anything to hide, but I don't have anything to show you either.*
 
-![Updated](https://img.shields.io/static/v1?label=updated&message=October%2020,%202023&color=388E3C&style=flat-square)
+![Updated](https://img.shields.io/static/v1?label=updated&message=October%2021,%202023&color=388E3C&style=flat-square)
 ![License](https://img.shields.io/badge/License-CC--BY--SA%204.0-green.svg?style=flat-square)
 
 ![GitHub stars](https://img.shields.io/github/stars/tycrek/degoogle?style=flat-square)
@@ -267,6 +267,7 @@ Make sure to enable **[HTTPS-Only mode](https://www.eff.org/https-everywhere/set
 | [Lychee](https://lycheeorg.github.io/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/LycheeOrg/Lychee)<br/>![GitHub Repo stars](https://img.shields.io/github/stars/LycheeOrg/Lychee?logo=github&style=flat-square) |  | An open-source self-hosted photo-management tool that includes built-in support for videos. Thanks @m0yP |
 | [ente](https://ente.io/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/ente-io/)<br/> | **5-eyes** | A paid, cloud-based, open-source photo storage app with a focus on security and privacy. Apps are available for iOS, Android, web and desktop. |
 | [Photoview](https://photoview.github.io/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/photoview/photoview)<br/>![GitHub Repo stars](https://img.shields.io/github/stars/photoview/photoview?logo=github&style=flat-square) |  | Self-hosted and open-source Personal Photo Management with options for face grouping, albums, sharing, automatic thumbnail generation, and map pins. |
+| [Lomorage](https://lomorage.com/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/lomorage/homepage)<br/>![GitHub Repo stars](https://img.shields.io/github/stars/lomorage/homepage?logo=github&style=flat-square) |  | Enables people to backup photos / videos from any devices to their own self-hosted server, and intelligently manages these personal assets via AI. Run the Lomorage server at your home, download mobile client to save the memories, and enjoy the moments. |
 
 
 
