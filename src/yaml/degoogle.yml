@@ -475,6 +475,12 @@ web based products:
       eyes: null
       text: >
         Self-hosted and open-source Personal Photo Management with options for face grouping, albums, sharing, automatic thumbnail generation, and map pins.
+    - name: Lomorage
+      url: https://lomorage.com/
+      repo: https://github.com/lomorage/homepage
+      eyes: null
+      text: >
+        Enables people to backup photos / videos from any devices to their own self-hosted server, and intelligently manages these personal assets via AI. Run the Lomorage server at your home, download mobile client to save the memories, and enjoy the moments.
   calendar:
     - title: Calendar
     - name: Lightning Calendar (Thunderbird)

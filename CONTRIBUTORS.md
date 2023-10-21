@@ -87,6 +87,7 @@ Thanks to everyone here for contributing in some way! (usernames are in no parti
 - [@ACK-J](https://github.com/ACK-J)
 - [@joebudi](https://github.com/joebudi)
 - [@mniehe](https://github.com/mniehe)
+- [@dwebfan](https://github.com/dwebfan)
 
 ### Reddit:
 
