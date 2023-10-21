@@ -251,6 +251,7 @@ Make sure to enable **[HTTPS-Only mode](https://www.eff.org/https-everywhere/set
 | [Piwik PRO](https://piwik.pro/) | **5-eyes** | An analytics suite with a focus on user privacy and data security. |
 | [Panelbear](https://panelbear.com/) | **14-eyes** | Privacy-focused analytics + web performance monitoring. |
 | [HockeyStack](https://www.hockeystack.com/) | **5-eyes** | Offers cookieless tracking and no PII collected. |
+| [Swetrix](https://swetrix.com/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/swetrix/swetrix-js)<br/>![GitHub Repo stars](https://img.shields.io/github/stars/swetrix/swetrix-js?logo=github&style=flat-square) | **14-eyes** | Privacy-focused, cookieless and selfhostable alternative to Google Analytics. |
 
 
 
