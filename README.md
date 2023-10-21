@@ -429,6 +429,7 @@ Make sure to enable **[HTTPS-Only mode](https://www.eff.org/https-everywhere/set
 | [Open Font Library](https://fontlibrary.org/) | **5-eyes** | Lots of Serif and Sans-Serif fonts that can be directly embedded into a website. |
 | [google webfonts helper](https://google-webfonts-helper.herokuapp.com/fonts)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/majodev/google-webfonts-helper)<br/>![GitHub Repo stars](https://img.shields.io/github/stars/majodev/google-webfonts-helper?logo=github&style=flat-square) | **5-eyes** | Hassle-free way for webmasters to self-host open-source fonts from Google Fonts |
 | [Brick](https://brick.im)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/alfredxing/brick)<br/>![GitHub Repo stars](https://img.shields.io/github/stars/alfredxing/brick?logo=github&style=flat-square) | **9-eyes** | Open-source fonts that work in a very similar way to Google fonts. Most of the fonts render nicer than Google Fonts. |
+| [Fontsource](https://fontsource.org)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/fontsource/fontsource)<br/>![GitHub Repo stars](https://img.shields.io/github/stars/fontsource/fontsource?logo=github&style=flat-square) | **5-eyes** | Self-host Open Source fonts in neatly bundled NPM packages. |
 
 
 
