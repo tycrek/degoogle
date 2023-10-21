@@ -388,7 +388,7 @@ Make sure to enable **[HTTPS-Only mode](https://www.eff.org/https-everywhere/set
 | [Disroot](https://disroot.org/) | **9-eyes** | Decentralized email service. |
 | [StartMail](https://www.startmail.com/en/) | **9-eyes** | Operated by the same people who run StartPage. |
 | [SimpleLogin](https://simplelogin.io/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/simple-login)<br/> |  | Open-source, self-hosted, and privacy focused email forwarding service. |
-| [Migadu](https://www.migadu.com/en/index.html) | **9-eyes** | Paid email provider, located in Switzerland. Focus on privacy. |
+| [Migadu](https://www.migadu.com) | **9-eyes** | Paid email provider, run from Switzerland with servers in France. Focus on privacy. |
 | [Fastmail](https://fastmail.com/) | **5-eyes** | Paid email provider, located in Australia and US. |
 | [Runbox](https://runbox.com/why-runbox/privacy-protection/) | **9-eyes** | Privacy focusued email provider. Thanks @petertorelli |
 | [NextCloud](https://help.nextcloud.com/t/nextcloud-mail-server/157)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/nextcloud/mail)<br/>![GitHub Repo stars](https://img.shields.io/github/stars/nextcloud/mail?logo=github&style=flat-square) |  | Nextcloud provides a webmail interface that can be used to access email from various providers. Thanks @je-vv |
