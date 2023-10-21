@@ -260,6 +260,15 @@ web based products:
       text: >
         An open-source self-hosted web hosting platform for a wide set of web applications, including
         Etherpad (collaborative text editing), Radicale (calendar), Lychee (image hosting), Wekan (Kanban)
+   google workflow:
+    - title: Google Workflow
+    - name: Activepieces
+      url: https://www.activepieces.com/
+      repo: https://github.com/activepieces/activepieces
+      eyes: null
+      text: >
+        Open source no-code business and process automation tool. For example, you can set up a flow to
+        receive Slack messages whenever a new Trello card is added.
   blogger and sites:
     - title: Blogger/Sites
     - name: Joomla
