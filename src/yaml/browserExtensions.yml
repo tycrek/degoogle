@@ -46,6 +46,10 @@
   url: https://addons.mozilla.org/en-US/firefox/addon/istilldontcareaboutcookies
   text: |
     A fork of "I Don't Care About Cookies" created after the original was [acquired by Avast](https://www.androidpolice.com/i-dont-care-about-cookies-acquired-by-avast/). [Source code](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies/)
+- name: CanvasBlocker
+  url: https://addons.mozilla.org/en-US/firefox/addon/canvasblocker
+  text: |
+    Removes fingerprint tracking from JavaScript APIs and WebGL. It is [open-source](https://github.com/kkapsner/CanvasBlocker).
 - name: user.js
   url: https://github.com/arkenfox/user.js
   text: |

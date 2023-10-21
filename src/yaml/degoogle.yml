@@ -1320,6 +1320,12 @@ desktop applications:
         development. Looks very clean and fast. Android versions are in the works too.
         **UPDATE:** @Nudin pointed out in [Issue \#85](https://github.com/tycrek/degoogle/issues/85) that Waterfox is now
         [a part of System1](https://www.waterfox.net/blog/waterfox-has-joined-system1/).
+    - name: Mullvad Browser
+      url: https://mullvad.net/en/browser/
+      repo: https://gitlab.torproject.org/tpo/applications/mullvad-browser/
+      eyes: null
+      text: >
+        Firefox-based, a collaboration between Mullvad and The Tor Project. Similar to Tor Browser in privacy and security, without the use of the Tor network.
   earth:
     - title: Earth
     - name: KDE Marble
@@ -1380,22 +1386,6 @@ mobile applications:
       text: >
         Catalogue of FOSS apps for Android. Easy to install and keeps track of updates. Also has a
         browser version if you don't want to install the app.
-    - name: Yalp Store (fork)
-      url: https://github.com/kiliakin/YalpStore
-      repo: https://github.com/kiliakin/YalpStore
-      fdroid: com.github.kiliakin.yalpstore
-      eyes: null
-      text: >
-        Yalp downloads Play Store apps as APK files. Helpful if you want to stay away from the Play
-        Store, but require an app that is only available there. This version is a fork of the original
-        project that is no longer active.
-        Thank @onlyjob
-    - name: APKMirror
-      url: https://www.apkmirror.com/
-      eyes: null
-      text: >
-        An online library of user-uploaded APK files. Helpful if you need a specific older version
-        of an app or don't want to download it through Google Play.
     - name: Aurora Store
       url: https://gitlab.com/AuroraOSS/AuroraStore
       repo: https://gitlab.com/AuroraOSS/AuroraStore
@@ -1407,6 +1397,12 @@ mobile applications:
         **Update:** Removed note on using microG as Aurora Store
         [does not use it](https://gitlab.com/AuroraOSS/AuroraStore/-/blob/master/README.md#L77).
         Thanks @notpushkin
+    - name: APKMirror
+      url: https://www.apkmirror.com/
+      eyes: null
+      text: >
+        An online library of user-uploaded APK files. Helpful if you need a specific older version
+        of an app or don't want to download it through Google Play.
     - name: Fossdroid
       url: https://fossdroid.com/
       eyes: null
