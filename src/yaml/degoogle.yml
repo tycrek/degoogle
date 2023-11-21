@@ -372,9 +372,8 @@ web based products:
       repo: https://github.com/supabase/supabase
       eyes: null
       text: >
-        Supabase is an opensource alternative to Firebase. You can host for free on [their platform](https://app.supabase.com), or you can [self host]
-        (https://supabase.com/docs/guides/self-hosting).
-        Thanks @woutfeys
+        Supabase is an opensource alternative to Firebase. You can host for free on [their platform](https://app.supabase.com), or
+        you can [self host](https://supabase.com/docs/guides/self-hosting). Thanks @woutfeys
     - name: GoAccess
       url: https://goaccess.io/
       repo: https://github.com/allinurl/goaccess
