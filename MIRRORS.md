@@ -9,7 +9,7 @@ Official mirrors are managed by me ([@tycrek](https://github.com/tycrek)). Commu
 
 ## Community mirrors
 
-- [Cgit mirror](https://git.mirkodi.eu/mirk0dex/degoogle) from [@mirk0dex (Cgit)](https://git.mirkodi.eu/mirk0dex)
+- [Gitea mirror](https://git.mirkodi.eu/mirk0dex/degoogle) from [@mirk0dex (Gitea)](https://git.mirkodi.eu/mirk0dex)
 
 ### Non-english mirrors
 
