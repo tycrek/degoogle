@@ -1099,6 +1099,11 @@ web based products:
         blockchain. Users truly own their data with BlockSurvey. All your data is protected using your
         key and only you can access it. There are no trackers, cookies, or fingerprints on the forms
         of data providers. Thanks @compressstudio
+    - name: Cryptpad Forms
+      url: https://cryptpad.org/
+      eyes: null
+      text: >
+        Using Cryptpad's public instances you can create forms which are customizable and get all the data on Excel sheet.
   appsheet:
     - title: AppSheet
     - name: Budibase
