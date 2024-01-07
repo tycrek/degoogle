@@ -260,6 +260,12 @@ web based products:
       text: >
         An open-source self-hosted web hosting platform for a wide set of web applications, including
         Etherpad (collaborative text editing), Radicale (calendar), Lychee (image hosting), Wekan (Kanban)
+    - name: Aamu.app
+      url: https://aamu.app/
+      eyes: null
+      text: >
+        Aamu.app has a suite of productivity tools integrated into one app – tasks, helpdesk, email, 
+        documents, graphic design, video meetings, database, form builder and more.
   google workflow:
     - title: Google Workflow
     - name: Activepieces
