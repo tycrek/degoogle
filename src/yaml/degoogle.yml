@@ -434,7 +434,7 @@ web based products:
         Privacy-focused, cookieless and selfhostable alternative to Google Analytics.
     - name: VoidAnalytics
       url: https://www.voidanalytics.com/
-      eyes: null
+      eyes: 14
       text: >
         Effortless and GDPR friendly Google Analytics alternative.
   photos:
