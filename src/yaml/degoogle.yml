@@ -432,6 +432,11 @@ web based products:
       eyes: 14
       text: >
         Privacy-focused, cookieless and selfhostable alternative to Google Analytics.
+    - name: VoidAnalytics
+      url: https://www.voidanalytics.com/
+      eyes: 14
+      text: >
+        Effortless and GDPR friendly Google Analytics alternative.
   photos:
     - title: Photos
     - name: Photoprism
